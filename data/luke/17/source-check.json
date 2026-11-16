@@ -1,0 +1,37 @@
+{
+ "source:sefaria-negaim-3-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Negaim.3.1"
+ },
+ "source:wikipedia-ficus-sycomorus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ficus_sycomorus"
+ },
+ "source:wikipedia-omitted-luke-17-36": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_omitted_Bible_verses"
+ },
+ "source:wikipedia-variants-luke-17-36": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikisource-ant1-flood": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_I"
+ },
+ "source:wikisource-ant1-flood-writers": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_I"
+ },
+ "source:wikisource-ant1-sodom": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_I"
+ }
+}

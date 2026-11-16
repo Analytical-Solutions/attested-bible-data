@@ -1,0 +1,111 @@
+anchor,label,category,status,findings,note
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,inscription,none-found,,No inscription attests the Jerusalem community's charity; searched Wikipedia (Second Temple period).
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,coin,n/a,,
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,structure-or-site,n/a,,
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,burial-or-ossuary,n/a,,
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,documentary-papyrus,none-found,,"No papyrus preserves Jerusalem charity rolls; searched Wikipedia (Second Temple period, Judea (Roman province))."
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,jewish-literary,found,text:mishnah-peah-8-7,"Mishnah Peah 8:7 regulates organized food charity (the daily charity dish and the communal fund) - the institution-type, redacted c. 200 CE (C, caveat)."
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,greco-roman-literary,none-found,,No classical author describes Jerusalem community charity; searched Wikipedia (Second Temple period).
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,material-culture,n/a,,
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,geography-or-nature,n/a,,
+claim:ac-06-01-daily-distribution-widows,A daily distribution of food was made to widows,astronomy-or-calendar,n/a,,
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,inscription,found,artifact:theodotos-inscription,A Koine Greek dedicatory inscription from Herodian/early Roman Jerusalem attests Greek in use in a Jerusalem synagogue (C); it does not name the Hellenists as a group.
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,coin,n/a,,
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,structure-or-site,none-found,,"Searched Wikipedia (Synagogue of the Libertines, Theodotos inscription); no excavated synagogue is identified as the Libertines'."
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,burial-or-ossuary,found,artifact:cyrene-ossuary-alexander,Greek-inscribed ossuaries from a Jerusalem cave of Cyrenian Jews (before 70 CE) show Greek in funerary use among Jerusalem Jews (C).
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,documentary-papyrus,none-found,,"No documentary papyrus names Jerusalem Hellenists; searched Wikipedia (Second Temple period, Hellenistic Judaism)."
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,jewish-literary,none-found,,Josephus never names a Hellenist faction in Jerusalem; searched Wikipedia (Hellenistic Judaism) and the Theodotos article.
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,greco-roman-literary,none-found,,No classical author describes the Jerusalem Hellenists; searched Wikipedia (Second Temple period).
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,material-culture,n/a,,
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,geography-or-nature,n/a,,
+claim:ac-06-01-hellenists-greek-jews,Hellenist (Greek-speaking) Jews lived in Jerusalem,astronomy-or-calendar,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",inscription,none-found,,"No inscription names any of the Seven; searched Wikipedia (Stephen, Philip the Evangelist, Seven Deacons)."
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",coin,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",structure-or-site,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",burial-or-ossuary,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",documentary-papyrus,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",jewish-literary,none-found,,Josephus and rabbinic literature know laying on of hands generally but not this appointment; searched Wikipedia.
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",greco-roman-literary,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",material-culture,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",geography-or-nature,n/a,,
+claim:ac-06-05-seven-appointed,"The Twelve appointed seven men, among them Stephen and Philip",astronomy-or-calendar,n/a,,
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",inscription,none-found,,"Priestly families are epigraphically attested (e.g. the Caiaphas ossuary), but no inscription attests priests joining the movement; searched Wikipedia (Caiaphas, Second Temple period)."
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",coin,n/a,,
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",structure-or-site,n/a,,
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",burial-or-ossuary,none-found,,"Priestly ossuaries (Caiaphas family) attest the priestly class in Jerusalem, not this defection; no ossuary is tied to the claim."
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",documentary-papyrus,none-found,,No papyrus attests priestly adherence; searched Wikipedia (Second Temple period).
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",jewish-literary,none-found,,Josephus reports large numbers of priests in Jerusalem (e.g. Ant. 20) but not this defection; searched Wikipedia (Josephus on the priests).
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",greco-roman-literary,none-found,,No classical author records the movement's growth; searched Wikipedia.
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",material-culture,n/a,,
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",geography-or-nature,n/a,,
+claim:ac-06-07-priests-obedient,"A great company of priests became obedient, and the disciples multiplied in Jerusalem",astronomy-or-calendar,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,inscription,none-found,,No inscription bears on the induced accusation; searched Wikipedia (Synagogue of the Libertines).
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,coin,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,structure-or-site,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,burial-or-ossuary,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,documentary-papyrus,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,jewish-literary,none-found,,"Mishnah Makkot condemns suborned witnesses in general, but nothing attests this inducement; searched Sefaria (Makkot) via Wikipedia."
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,greco-roman-literary,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,material-culture,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,geography-or-nature,n/a,,
+claim:ac-06-11-secret-induced,Men were induced to accuse Stephen of blasphemy against Moses and God,astronomy-or-calendar,n/a,,
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,inscription,none-found,,"No inscription attests this session or arrest; searched Wikipedia (Sanhedrin, Stephen)."
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,coin,n/a,,
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,structure-or-site,none-found,,"The council chamber (the rabbinic Gazith) has not been identified archaeologically; searched Wikipedia (Sanhedrin, Temple Mount)."
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,burial-or-ossuary,n/a,,
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,documentary-papyrus,n/a,,
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,jewish-literary,found,text:josephus-ant-20-199-sanhedrin,Josephus: in 62 CE Ananus 'assembled the sanhedrim of judges' in Jerusalem - the council institution (C).
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,greco-roman-literary,none-found,,No classical author describes the Sanhedrin's criminal sessions; searched Wikipedia (Sanhedrin).
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,material-culture,n/a,,
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,geography-or-nature,n/a,,
+claim:ac-06-12-seized-council,Stephen was seized and brought before the council,astronomy-or-calendar,n/a,,
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,inscription,none-found,,"No inscription bears on the charge; searched Wikipedia (Temple Warning inscription - it concerns Gentile access, not this accusation)."
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,coin,n/a,,
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,structure-or-site,none-found,,"The Temple itself is archaeologically attested on the Temple Mount, but no excavated evidence bears on this charge; searched Wikipedia (Temple Mount excavations)."
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,burial-or-ossuary,n/a,,
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,documentary-papyrus,n/a,,
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,jewish-literary,none-found,,Josephus reports Jesus' execution under Pilate but nothing of this charge against Stephen's hearers; searched Wikipedia (Josephus on Jesus).
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,greco-roman-literary,n/a,,
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,material-culture,n/a,,
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,geography-or-nature,n/a,,
+claim:ac-06-14-destroy-place-customs,Witnesses charged that Jesus would destroy this place and change the customs of Moses,astronomy-or-calendar,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,inscription,none-found,,No inscription could attest the councilors' impression; searched Wikipedia (Stephen).
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,coin,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,structure-or-site,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,burial-or-ossuary,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,documentary-papyrus,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,jewish-literary,none-found,,"Searched Wikipedia (Stephen, Sanhedrin); rabbinic literature knows shining faces of judges (e.g. 'faces like angels' imagery) but nothing attesting this report."
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,greco-roman-literary,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,material-culture,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,geography-or-nature,n/a,,
+claim:ac-06-15-face-angel,The council saw Stephen's face like an angel's face,astronomy-or-calendar,n/a,,
+person:philip-the-evangelist,Philip (the evangelist),inscription,none-found,,No inscription names Philip the evangelist; searched Wikipedia (Philip the Evangelist).
+person:philip-the-evangelist,Philip (the evangelist),coin,n/a,,
+person:philip-the-evangelist,Philip (the evangelist),structure-or-site,none-found,,His house at Caesarea (Acts 21:8) is not identified; searched Wikipedia (Caesarea Maritima excavations).
+person:philip-the-evangelist,Philip (the evangelist),burial-or-ossuary,none-found,,"The Hierapolis tomb traditions concern Philip the apostle and are later; searched Wikipedia (Philip the Apostle, Hierapolis)."
+person:philip-the-evangelist,Philip (the evangelist),manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+person:philip-the-evangelist,Philip (the evangelist),documentary-papyrus,n/a,,
+person:philip-the-evangelist,Philip (the evangelist),jewish-literary,none-found,,"Josephus never mentions him; searched Wikipedia (Philip the Evangelist, Josephus on Christianity)."
+person:philip-the-evangelist,Philip (the evangelist),greco-roman-literary,n/a,,
+person:philip-the-evangelist,Philip (the evangelist),material-culture,n/a,,
+person:philip-the-evangelist,Philip (the evangelist),geography-or-nature,n/a,,
+person:philip-the-evangelist,Philip (the evangelist),astronomy-or-calendar,n/a,,
+person:stephen,Stephen,inscription,none-found,,"No inscription names Stephen; searched Wikipedia (Stephen, List of inscriptions in biblical archaeology)."
+person:stephen,Stephen,coin,n/a,,
+person:stephen,Stephen,structure-or-site,none-found,,"The churches of St Stephen (Jerusalem, Damascus) are Byzantine and later tradition, not 1st-century evidence; searched Wikipedia (St Stephen's Basilica, San Stefano)."
+person:stephen,Stephen,burial-or-ossuary,none-found,,"Relic traditions (the 415 CE reported discovery of his relics) are reception, not evidence; searched Wikipedia (Stephen)."
+person:stephen,Stephen,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+person:stephen,Stephen,documentary-papyrus,n/a,,
+person:stephen,Stephen,jewish-literary,none-found,,Josephus never mentions Stephen; searched Wikipedia (Josephus on Christianity).
+person:stephen,Stephen,greco-roman-literary,none-found,,"Tacitus, Suetonius and Pliny name none of the Hellenist leaders; searched Wikipedia (Persecution of Christians in the New Testament)."
+person:stephen,Stephen,material-culture,n/a,,
+person:stephen,Stephen,geography-or-nature,n/a,,
+person:stephen,Stephen,astronomy-or-calendar,n/a,,

@@ -1,0 +1,73 @@
+{"from": "passage:ac-06-01", "type": "asserts", "to": "claim:ac-06-01-hellenists-greek-jews"}
+{"from": "passage:ac-06-01", "type": "asserts", "to": "claim:ac-06-01-daily-distribution-widows"}
+{"from": "passage:ac-06-05", "type": "asserts", "to": "claim:ac-06-05-seven-appointed"}
+{"from": "passage:ac-06-06", "type": "asserts", "to": "claim:ac-06-05-seven-appointed"}
+{"from": "passage:ac-06-07", "type": "asserts", "to": "claim:ac-06-07-priests-obedient"}
+{"from": "passage:ac-06-09", "type": "asserts", "to": "claim:ac-06-09-libertines-synagogue"}
+{"from": "passage:ac-06-11", "type": "asserts", "to": "claim:ac-06-11-secret-induced"}
+{"from": "passage:ac-06-12", "type": "asserts", "to": "claim:ac-06-12-seized-council"}
+{"from": "passage:ac-06-13", "type": "asserts", "to": "claim:ac-06-14-destroy-place-customs"}
+{"from": "passage:ac-06-14", "type": "asserts", "to": "claim:ac-06-14-destroy-place-customs"}
+{"from": "passage:ac-06-15", "type": "asserts", "to": "claim:ac-06-15-face-angel"}
+{"from": "claim:ac-06-01-hellenists-greek-jews", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-06-05-seven-appointed", "type": "mentions", "to": "person:stephen"}
+{"from": "claim:ac-06-05-seven-appointed", "type": "mentions", "to": "person:philip-the-evangelist"}
+{"from": "claim:ac-06-07-priests-obedient", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-06-09-libertines-synagogue", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-06-11-secret-induced", "type": "mentions", "to": "person:stephen"}
+{"from": "claim:ac-06-12-seized-council", "type": "mentions", "to": "person:stephen"}
+{"from": "claim:ac-06-14-destroy-place-customs", "type": "mentions", "to": "person:stephen"}
+{"from": "claim:ac-06-14-destroy-place-customs", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-06-14-destroy-place-customs", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:ac-06-15-face-angel", "type": "mentions", "to": "person:stephen"}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:ac-06-09-libertines-synagogue", "grade": "B", "note": "A Koine Greek dedicatory inscription from Herodian/early Roman Jerusalem records a synagogue complex built by Theodotos son of Vettenus, 'a priest and a synagogue leader (archisynagogos)', with a hostel for visitors - a Greek-speaking diaspora-style synagogue institution in Jerusalem. It does not name the Libertines' synagogue."}
+{"from": "artifact:cyrene-ossuary-alexander", "type": "attests", "to": "claim:ac-06-09-libertines-synagogue", "grade": "C", "note": "A Kidron Valley burial cave of Cyrenian Jews (before 70 CE) attests a Cyrenian Jewish community in Jerusalem; it does not attest the synagogue of 6:9 itself."}
+{"from": "artifact:cyrene-ossuary-alexander", "type": "attests", "to": "claim:ac-06-01-hellenists-greek-jews", "grade": "C", "note": "The ossuary in the Cyrenian cave is inscribed twice in Greek, and Wikipedia (Second Temple period) notes that inscriptions 'in Hebrew or Greek' are commonly found on Jerusalem ossuaries - Greek in funerary use among Jerusalem Jews; it does not identify a Hellenist faction."}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "attests", "to": "claim:ac-06-12-seized-council", "grade": "C", "note": "Josephus: in 62 CE the high priest Ananus 'assembled the sanhedrim of judges' in Jerusalem - the council institution a generation later; it attests the institution, not this session."}
+{"from": "text:mishnah-peah-8-7", "type": "attests", "to": "claim:ac-06-01-daily-distribution-widows", "grade": "C", "note": "Mishnah Peah 8:7 regulates organized food charity for the poor (the daily charity dish and the communal fund, collected by two and distributed by three). Redacted c. 200 CE, it may not describe the 30s CE practice exactly, and it covers general charity, not a distribution to widows."}
+{"from": "text:mishnah-peah-8-7", "type": "documented_by", "to": "source:sefaria-peah-8-7"}
+{"from": "claim:ac-06-09-libertines-synagogue", "type": "documented_by", "to": "source:wikipedia-synagogue-libertines"}
+{"from": "claim:ac-06-09-libertines-synagogue", "type": "documented_by", "to": "source:wikipedia-simon-cyrene-synagogue", "note": "Wikipedia (Simon of Cyrene): 'The Cyrenian Jews had a synagogue in Jerusalem.'"}
+{"from": "claim:ac-06-01-hellenists-greek-jews", "type": "documented_by", "to": "source:wikipedia-second-temple-period-ossuary-greek"}
+{"from": "claim:ac-06-14-destroy-place-customs", "type": "related_to", "to": "claim:mk-14-58-destroy-temple-saying", "note": "Acts 6:14 transfers to Stephen's preaching the same reported saying-type Mark 14:58 puts in Jesus' mouth at his hearing ('destroy this temple made with hands'); the charge here adds 'change the customs which Moses delivered'. A cross-gospel echo recorded with related_to, never evidence."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-06-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-06-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-07"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-08"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-09"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-10"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-11"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-12"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-06-15"}
+{"from": "artifact:papyrus-45", "type": "documented_by", "to": "source:wikipedia-papyrus-45-acts"}
+{"from": "artifact:theodotos-inscription", "type": "documented_by", "to": "source:wikipedia-theodotos-translation"}

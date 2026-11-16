@@ -1,0 +1,42 @@
+{
+ "book": "luke",
+ "chapter": 7,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    10
+   ],
+   "setting": "place:capernaum",
+   "confidence": "stated",
+   "basis": "7:1 \"he entered into Capernaum\""
+  },
+  {
+   "verses": [
+    11,
+    17
+   ],
+   "setting": "place:nain",
+   "confidence": "stated",
+   "basis": "7:11 \"he went to a city called Nain\""
+  },
+  {
+   "verses": [
+    18,
+    35
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "7:18 \"The disciples of John told him about all these things\" - no place is named for the Baptist's question"
+  },
+  {
+   "verses": [
+    36,
+    50
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "7:36 \"One of the Pharisees invited him to eat with him. He entered into the Pharisee's house\" - the city is not named"
+  }
+ ]
+}

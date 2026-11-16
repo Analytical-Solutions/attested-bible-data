@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 5,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        48
+      ],
+      "setting": null,
+      "basis": "5:1 \"he went up onto the mountain\" - the mountain of the Sermon is not named",
+      "confidence": "stated"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+ "book": "acts",
+ "chapter": 2,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    4
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "2:2 \"it filled all the house where they were sitting\" - the house names no place; it follows the Jerusalem upper room of 1:13"
+  },
+  {
+   "verses": [
+    5,
+    47
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "2:5-6 \"there were dwelling in Jerusalem Jews, devout men... the multitude came together\" - the Pentecost crowd is in Jerusalem"
+  }
+ ]
+}

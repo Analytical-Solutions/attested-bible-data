@@ -1,0 +1,78 @@
+anchor,label,category,status,findings,note
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,inscription,n/a,,
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,coin,n/a,,
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,structure-or-site,n/a,,
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,burial-or-ossuary,n/a,,
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,manuscript,found,artifact:qumran-tefillin;artifact:nash-papyrus,"Qumran tefillin of the 1st century CE carry 'Hear, O Israel...' (Deuteronomy 6:4-9) - B. The Nash Papyrus (c. 150-100 BCE) contains the first part of the Shema - D, of unknown provenance (antiquities market, 1902), per the binding rule."
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,documentary-papyrus,n/a,,
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,jewish-literary,none-found,,No fetched Josephus or Qumran composition quotes the Shema; Deuteronomy 6:4-5 is a biblical cross-reference only.
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,greco-roman-literary,none-found,,Nothing fetched.
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,material-culture,none-found,,The tefillin cases are entered under manuscript (they carry the quoted text); no other artifact fetched.
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,geography-or-nature,n/a,,
+claim:mk-12-29-shema-quoted-in-full,The Shema quoted in full,astronomy-or-calendar,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,inscription,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,coin,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,structure-or-site,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,burial-or-ossuary,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,manuscript,none-found,,No manuscript attests a claim of its own text; codex sinaiticus and codex vaticanus preserve the Mark 12 passages only (12:32-34 included).
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,documentary-papyrus,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,jewish-literary,none-found,,"The priority of love over burnt offerings and sacrifices is a biblical theme (Hosea 6:6, entered as a related_to cross-reference only); no rabbinic or Qumran text fetched attests the scribe's answer or Jesus' reply."
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,greco-roman-literary,none-found,,Nothing fetched.
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,material-culture,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,geography-or-nature,n/a,,
+claim:mk-12-32-34-scribe-wise-answer,The scribe agrees; love exceeds sacrifices,astronomy-or-calendar,n/a,,
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",inscription,found,artifact:theodotos-inscription,"A first-century Jerusalem inscription for a synagogue built 'for the reading of the law and teaching of the commandments' attests the synagogue institution whose 'best seats' are at issue; it says nothing about seating rank or robes (C, as the Matthew 23 runner graded it)."
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",coin,n/a,,
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",structure-or-site,none-found,,No excavated 1st-century synagogue seating fetched; the Chorazin seat is 3rd-6th century (entered under material-culture).
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",burial-or-ossuary,n/a,,
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",manuscript,none-found,,"No manuscript attests a claim of its own text; codex sinaiticus and codex vaticanus preserve the Mark 12 passages only; Papyrus 45 preserves 12:13-19 only (preserves, not attests)."
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",documentary-papyrus,n/a,,
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",jewish-literary,none-found,,"No fetched Josephus or rabbinic passage describes scribes' robes, greetings or feast seating; searched the fetched Josephus corpus."
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",greco-roman-literary,none-found,,No classical text fetched on scholarly dress in Judea.
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",material-culture,found,artifact:seat-of-moses-chorazin,"A carved honorary 'Seat of Moses' in the Chorazin synagogue shows the custom of honor seating in synagogues; the synagogue's phases are late 3rd-6th century, so C. No fetched textile evidence for the long robes."
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",geography-or-nature,n/a,,
+claim:mk-12-38-39-scribes-honor-garments,"Scribes seek long robes, greetings and best seats",astronomy-or-calendar,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,inscription,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,coin,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,structure-or-site,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,burial-or-ossuary,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,manuscript,none-found,,No manuscript attests a claim of its own text; codex sinaiticus and codex vaticanus preserve the Mark 12 passages only (12:38-40 included).
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,documentary-papyrus,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,jewish-literary,none-found,,No fetched rabbinic or Josephus text on teachers exploiting widows; searched the fetched corpus.
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,greco-roman-literary,none-found,,Nothing fetched.
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,material-culture,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,geography-or-nature,n/a,,
+claim:mk-12-40-devour-widows-houses,Scribes who devour widows' houses,astronomy-or-calendar,n/a,,
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,inscription,n/a,,
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,coin,found,artifact:tyrian-shekel,"Tyrian shekels were specifically required for the Temple tax, and the thirteen chests received the collected shekels - the coin-casting Mark 12:41 describes. C: it attests the coin economy, not the treasury's furniture or the widow's lepta."
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,structure-or-site,none-found,,The fetched Second Temple pages do not locate the gazophylakion or describe its chests; only the Mishnah text does.
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,burial-or-ossuary,n/a,,
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,manuscript,none-found,,"No manuscript attests a claim of its own text; codex sinaiticus and codex vaticanus preserve the Mark 12 passages only; Papyrus 45 additionally preserves 12:1 only (preserves, not attests)."
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,documentary-papyrus,n/a,,
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,jewish-literary,found,text:mishnah-shekalim-6-1,Shekalim 6:1's thirteen trumpet-shaped chests 'into which were placed the shekels that were collected' in the Temple court - the treasury Mark 12:41 presupposes (B with the c. 200 CE redaction caveat).
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,greco-roman-literary,none-found,,Nothing fetched.
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,material-culture,none-found,,No excavated collection chest fetched; the chests are known from the Mishnah text alone.
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,geography-or-nature,n/a,,
+claim:mk-12-41-treasury-chests,The Temple treasury with collection chests,astronomy-or-calendar,n/a,,
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",inscription,n/a,,
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",coin,found,artifact:widows-mite-coin;artifact:quadrans-coin,"The bronze lepton (prutah) of Alexander Jannaeus, 'still in circulation at the time of Jesus' and the smallest coin in Judea - B; the quadrans, the Roman coin the two lepta equal - C (precedent grade from Matthew 5:26)."
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",structure-or-site,n/a,,
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",burial-or-ossuary,n/a,,
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",manuscript,none-found,,No manuscript attests a claim of its own text; codex sinaiticus and codex vaticanus preserve the Mark 12 passages only (12:42 included).
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",documentary-papyrus,none-found,,No fetched documentary papyrus prices lepta; searched the Murabbaat documents' fetched pages.
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",jewish-literary,none-found,,No fetched rabbinic text states the lepton/prutah value or the lepta-quadrans equivalence.
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",greco-roman-literary,none-found,,No classical text fetched states the equivalence.
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",material-culture,n/a,,
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",geography-or-nature,n/a,,
+claim:mk-12-42-two-lepta-quadrans,"Two lepta, which make a quadrans",astronomy-or-calendar,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,inscription,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,coin,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,structure-or-site,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,burial-or-ossuary,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,manuscript,none-found,,No manuscript attests a claim of its own text; codex sinaiticus and codex vaticanus preserve the Mark 12 passages only (12:43-44 included).
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,documentary-papyrus,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,jewish-literary,none-found,,No fetched text parallels the widow's total giving; searched the fetched corpus.
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,greco-roman-literary,none-found,,Nothing fetched.
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,material-culture,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,geography-or-nature,n/a,,
+claim:mk-12-44-widow-gave-all,The widow gave all she had to live on,astronomy-or-calendar,n/a,,

@@ -1,0 +1,227 @@
+{
+ "source:bible-api-daniel-7-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+7:13?translation=web"
+ },
+ "source:bible-api-isaiah-22-22": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+22:22?translation=web"
+ },
+ "source:bible-api-malachi-4-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/malachi+4:5?translation=web"
+ },
+ "source:jvl-banias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.jewishvirtuallibrary.org/banias"
+ },
+ "source:lachish-reliefs-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lachish_relief"
+ },
+ "source:sefaria-eduyot-8-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Eduyot.8.7"
+ },
+ "source:wikipedia-banias-augusteum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Banias"
+ },
+ "source:wikipedia-banias-cave": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Banias"
+ },
+ "source:wikipedia-banias-echo": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Banias"
+ },
+ "source:wikipedia-banias-excavators": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Banias"
+ },
+ "source:wikipedia-banias-omrit": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Banias"
+ },
+ "source:wikipedia-banias-philip": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Banias"
+ },
+ "source:wikipedia-banias-sanctuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Banias"
+ },
+ "source:wikipedia-binding-loosing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Binding_and_loosing"
+ },
+ "source:wikipedia-church-of-multiplication-mosaic": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Church_of_the_Multiplication"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-confession-peter": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Confession_of_Peter"
+ },
+ "source:wikipedia-confession-peter-rock": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Confession_of_Peter"
+ },
+ "source:wikipedia-crucifixion-heel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion"
+ },
+ "source:wikipedia-herod-antipas-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Antipas"
+ },
+ "source:wikipedia-herodian-coinage-philip": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodian_coinage"
+ },
+ "source:wikipedia-nineveh": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nineveh"
+ },
+ "source:wikipedia-nineveh-mounds": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nineveh"
+ },
+ "source:wikipedia-philip-tetrarch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Philip_the_Tetrarch"
+ },
+ "source:wikipedia-philip-tetrarch-coins-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Philip_the_Tetrarch"
+ },
+ "source:wikipedia-red-sky": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Red_sky_at_morning"
+ },
+ "source:wikipedia-tabun-oven": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tabun_oven"
+ },
+ "source:wikipedia-tv-matthew-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikipedia-tv-matthew-16-keys": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikipedia-units-ephah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Biblical_and_Talmudic_units_of_measurement"
+ },
+ "source:wikipedia-units-seah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Biblical_and_Talmudic_units_of_measurement"
+ },
+ "source:wikisource-ant-15-panion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ },
+ "source:wikisource-ant-15-panion-dedication": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ },
+ "source:wikisource-ant-18-sects-three": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant17-herod-death": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant18-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-paneas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-enoch-62": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_62"
+ },
+ "source:wikisource-jonah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(American_Standard)/Jonah"
+ },
+ "source:wikisource-jw-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war1-bind-loose": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ },
+ "source:wikisource-war1-cave": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ },
+ "source:wikisource-war1-panion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ }
+}

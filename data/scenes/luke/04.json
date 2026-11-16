@@ -1,0 +1,78 @@
+{
+ "book": "luke",
+ "chapter": 4,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    4
+   ],
+   "setting": "place:judaean-desert",
+   "confidence": "stated",
+   "basis": "4:1 \"was led by the Spirit into the wilderness\"; 4:2 \"He ate nothing in those days\""
+  },
+  {
+   "verses": [
+    5,
+    8
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "4:5 \"The devil, leading him up on a high mountain\" - the mountain of the kingdoms is not named"
+  },
+  {
+   "verses": [
+    9,
+    13
+   ],
+   "setting": "place:temple-mount",
+   "confidence": "stated",
+   "basis": "4:9 \"He led him to Jerusalem, and set him on the pinnacle of the temple\""
+  },
+  {
+   "verses": [
+    14,
+    15
+   ],
+   "setting": "place:galilee",
+   "confidence": "stated",
+   "basis": "4:14 \"Jesus returned in the power of the Spirit into Galilee\""
+  },
+  {
+   "verses": [
+    16,
+    30
+   ],
+   "setting": "place:nazareth",
+   "confidence": "stated",
+   "basis": "4:16 \"He came to Nazareth, where he had been brought up\""
+  },
+  {
+   "verses": [
+    31,
+    37
+   ],
+   "setting": "place:capernaum",
+   "confidence": "stated",
+   "basis": "4:31 \"He came down to Capernaum, a city of Galilee\""
+  },
+  {
+   "verses": [
+    38,
+    41
+   ],
+   "setting": "place:capernaum",
+   "confidence": "inferred",
+   "basis": "4:38 \"He rose up from the synagogue, and entered into Simon's house\" - the house is in Capernaum (4:31-37), which Luke does not repeat"
+  },
+  {
+   "verses": [
+    42,
+    44
+   ],
+   "setting": "place:galilee",
+   "confidence": "stated",
+   "basis": "4:44 \"He was preaching in the synagogues of Galilee\""
+  }
+ ]
+}

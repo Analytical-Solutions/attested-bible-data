@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "The Attested Bible: a verse-level evidence graph"
+version: "0.1.0"
+date-released: "2026-11-16"
+authors:
+  - name: "Analytical Solutions"
+license: CC-BY-4.0
+repository-code: "https://github.com/Analytical-Solutions/attested-bible-data"
+url: "https://github.com/Analytical-Solutions/attested-bible-data"
+abstract: >-
+  A verse-level evidence graph for Matthew, Mark, Luke, John and Acts. Each
+  historical claim is linked to archaeological finds, inscriptions, coins,
+  manuscripts and ancient writings, with an A-D strength grade, a note and a
+  verified verbatim source excerpt. Evidence in tension and searches that found
+  nothing are recorded alongside confirmations. AI-assisted research; see
+  METHODS.md.
+keywords:
+  - bible
+  - archaeology
+  - epigraphy
+  - new testament
+  - knowledge graph
+  - historical evidence

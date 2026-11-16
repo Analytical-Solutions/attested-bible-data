@@ -1,0 +1,17 @@
+{
+ "source:bible-api-isaiah-40-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+40:3?translation=web"
+ },
+ "source:wikipedia-capernaum-mark-only": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-judean-desert": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judean_Desert"
+ }
+}

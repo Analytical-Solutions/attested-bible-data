@@ -1,0 +1,148 @@
+{"from": "passage:mt-06-01", "type": "asserts", "to": "claim:mt-06-01-almsgiving"}
+{"from": "passage:mt-06-02", "type": "asserts", "to": "claim:mt-06-02-shofarot"}
+{"from": "passage:mt-06-02", "type": "asserts", "to": "claim:mt-06-02-hypocrites-actors"}
+{"from": "passage:mt-06-02", "type": "asserts", "to": "claim:mt-06-02-05-synagogues-streets"}
+{"from": "passage:mt-06-06", "type": "asserts", "to": "claim:mt-06-06-inner-room"}
+{"from": "passage:mt-06-07", "type": "asserts", "to": "claim:mt-06-07-pagan-repetition"}
+{"from": "passage:mt-06-09", "type": "asserts", "to": "claim:mt-06-09-lords-prayer"}
+{"from": "passage:mt-06-13", "type": "asserts", "to": "claim:mt-06-13-doxology"}
+{"from": "passage:mt-06-16", "type": "asserts", "to": "claim:mt-06-16-fasting"}
+{"from": "passage:mt-06-17", "type": "asserts", "to": "claim:mt-06-17-anointing"}
+{"from": "passage:mt-06-19", "type": "asserts", "to": "claim:mt-06-19-laying-up-treasure"}
+{"from": "passage:mt-06-19", "type": "asserts", "to": "claim:mt-06-19-moth-rust"}
+{"from": "passage:mt-06-19", "type": "asserts", "to": "claim:mt-06-19-dig-through"}
+{"from": "passage:mt-06-22", "type": "asserts", "to": "claim:mt-06-22-eye-lamp"}
+{"from": "passage:mt-06-24", "type": "asserts", "to": "claim:mt-06-24-two-masters"}
+{"from": "passage:mt-06-24", "type": "asserts", "to": "claim:mt-06-24-mammon"}
+{"from": "passage:mt-06-25", "type": "asserts", "to": "claim:mt-06-25-daily-provisions"}
+{"from": "passage:mt-06-26", "type": "asserts", "to": "claim:mt-06-26-sowing-reaping-barns"}
+{"from": "passage:mt-06-28", "type": "asserts", "to": "claim:mt-06-28-lilies"}
+{"from": "passage:mt-06-29", "type": "asserts", "to": "claim:mt-06-29-solomon-glory"}
+{"from": "passage:mt-06-30", "type": "asserts", "to": "claim:mt-06-30-oven"}
+{"from": "passage:mt-06-10", "type": "asserts", "to": "claim:mt-06-09-lords-prayer"}
+{"from": "passage:mt-06-11", "type": "asserts", "to": "claim:mt-06-09-lords-prayer"}
+{"from": "passage:mt-06-12", "type": "asserts", "to": "claim:mt-06-09-lords-prayer"}
+{"from": "passage:mt-06-13", "type": "asserts", "to": "claim:mt-06-09-lords-prayer"}
+{"from": "claim:mt-06-02-shofarot", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:mt-06-29-solomon-glory", "type": "mentions", "to": "person:solomon"}
+{"from": "text:mishnah-peah-1-1", "type": "attests", "to": "claim:mt-06-01-almsgiving", "grade": "C", "note": "Mishnah Peah 1:1 lists 'the performance of righteous deeds' (gemilut chasadim, the charity duty behind almsgiving) among the things without fixed measure; a later rabbinic redaction describing earlier practice. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:mishnah-shekalim-6-1", "type": "attests", "to": "claim:mt-06-02-shofarot", "grade": "C", "note": "Mishnah Shekalim 6:1 records thirteen trumpet-shaped collection chests (shofarot), 'narrow at the top and wide at the bottom', into which shekels were placed; a later rabbinic redaction describing Second Temple practice. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-06-02-shofarot", "grade": "B", "note": "The Temple in Jerusalem was the venue where pilgrims' shekel contributions were gathered; the Mishnah places the thirteen collection horns in its courts."}
+{"from": "artifact:tyrian-shekel", "type": "attests", "to": "claim:mt-06-02-shofarot", "grade": "C", "note": "Tyrian tetradrachms (issued 126 BC-AD 56) were the coins the Jerusalem Temple priests required for the half-shekel Temple tax - the shekels the Mishnah's collection horns received."}
+{"from": "site:sepphoris", "type": "attests", "to": "claim:mt-06-02-hypocrites-actors", "grade": "D", "note": "Sepphoris, about 6 km from Nazareth, has an excavated Roman theatre (45 m diameter, 4,500 seats), confirming a theatre in Roman Galilee; grade D because the fetched sources give no construction date, so its standing in the early first century cannot be secured."}
+{"from": "site:gamla-synagogue", "type": "attests", "to": "claim:mt-06-02-05-synagogues-streets", "grade": "B", "note": "A synagogue believed to date to the late 1st century BCE was excavated at Gamla, confirming synagogues as real venues in first-century Jewish life."}
+{"from": "site:migdal-synagogue", "type": "attests", "to": "claim:mt-06-02-05-synagogues-streets", "grade": "B", "note": "A Second Temple period synagogue excavated at Migdal (Magdala) on the Sea of Galilee confirms first-century synagogue buildings in the region."}
+{"from": "site:capernaum-synagogue", "type": "attests", "to": "claim:mt-06-02-05-synagogues-streets", "grade": "C", "note": "The standing limestone synagogue at Capernaum is 4th-5th century but rests on a basalt foundation suggested to be 1st century, so the 1st-century dating is not secured."}
+{"from": "text:amidah", "type": "attests", "to": "claim:mt-06-02-05-synagogues-streets", "grade": "C", "note": "The Amidah is literally 'the Standing Prayer', the central Jewish prayer - standing was the posture of formal prayer; a later rabbinic witness."}
+{"from": "text:mishnah-taanit-2-1", "type": "attests", "to": "claim:mt-06-16-fasting", "grade": "B", "note": "Mishnah Taanit 2:1: on public fast days ashes are placed on the ark and on the head of the Nasi, the deputy Nasi and every member of the community - fasting visibly marked on the head and face; a later redaction describing earlier practice. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "text:pliny-nh-13-unguents", "type": "attests", "to": "claim:mt-06-17-anointing", "grade": "C", "note": "Pliny's book on unguents shows oil-based perfumes for the body were a major Roman industry; the grooming use of anointment with oil after bathing is documented by Wikipedia (Anointing) via documented_by on the claim."}
+{"from": "artifact:babatha-archive", "type": "attests", "to": "claim:mt-06-19-laying-up-treasure", "grade": "C", "note": "The Babatha archive (96-134 CE) preserves a Judean woman's legal contracts - property transfers, ketubah, guardianship - showing ordinary households held and managed wealth in goods and documents."}
+{"from": "text:pliny-nh-11-moths", "type": "attests", "to": "claim:mt-06-19-moth-rust", "grade": "C", "note": "Pliny records that 'dust in woollens and in clothes breeds moths' - moths consuming stored clothing is an ancient observation, not a biblical peculiarity."}
+{"from": "text:pliny-nh-34-rust", "type": "attests", "to": "claim:mt-06-19-moth-rust", "grade": "C", "note": "Pliny writes that nature 'limited the power of iron itself by inflicting on it the penalty of rust' - corrosion of stored metal is an ancient commonplace."}
+{"from": "artifact:judean-desert-textiles", "type": "attests", "to": "claim:mt-06-19-moth-rust", "grade": "C", "note": "Woollen textiles from the Cave of Letters (c. 135 CE) show wool garments were kept in Judean households - the garments that moths consume."}
+{"from": "text:euclid-optics", "type": "attests", "to": "claim:mt-06-22-eye-lamp", "grade": "C", "note": "Euclid postulated that the visual ray emitted from the eye travelled in straight lines - ancient optics conceived the eye in terms of light and rays, the world of ideas behind 'the lamp of the body'."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "claim:mt-06-24-mammon", "grade": "C", "note": "Antipas's bronze coins circulated in Galilee in this period; coined money was part of the everyday economy that 'mammon' (wealth) names."}
+{"from": "text:pliny-nh-21-anemone", "type": "attests", "to": "claim:mt-06-28-lilies", "grade": "C", "note": "Pliny lists the anemone among the wild spring flowers ('a flower of the wild bulbs'); the poppy anemone, a common candidate for 'lilies of the field', is native to the Mediterranean region."}
+{"from": "text:josephus-ant-8-solomon", "type": "related_to", "to": "person:solomon", "note": "Josephus retells 1 Kings here, so this is not independent of the biblical account: Josephus gives Solomon's yearly gold as 666 talents (Ant. 8.7.2), but he retells and expands 1 Kings 10, so it is not independent evidence for Solomon's glory."}
+{"from": "artifact:tabun-oven", "type": "attests", "to": "claim:mt-06-30-oven", "grade": "C", "note": "The clay tabun/tannur oven, used since antiquity in the Near East, is heated with dried dung, dried tree leaves and other dried plant fuel - the picture of the oven into which field grass is thrown."}
+{"from": "site:solomonic-gates", "type": "complicates", "to": "person:solomon", "note": "The six-chambered gates at Hazor, Megiddo, Beit She'an and Gezer that Yadin attributed to Solomon's reign are dated by Finkelstein and Silberman to the Omride period, more than a century after Solomon - the scale of Solomon's wealth and building cannot be taken for granted."}
+{"from": "text:didache-8", "type": "related_to", "to": "passage:mt-06-09", "note": "Early Christian witness of the text, not the events: Didache 8.2-3 preserves a version of the Lord's Prayer with the doxology and directs Christians to pray it three times a day; it is linked related_to and never attests a claim."}
+{"from": "text:1-kings-10-solomon-wealth", "type": "related_to", "to": "person:solomon", "note": "Biblical cross-reference, not independent evidence: 1 Kings 10 gives Solomon's yearly gold as 666 talents - the 'Solomon in all his glory' proverb of Matt 6:29."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-06-34"}
+{"from": "text:mishnah-shekalim-6-1", "type": "documented_by", "to": "source:sefaria-shekalim-6-1"}
+{"from": "text:mishnah-peah-1-1", "type": "documented_by", "to": "source:sefaria-peah-1-1"}
+{"from": "text:mishnah-taanit-2-1", "type": "documented_by", "to": "source:sefaria-taanit-2-1"}
+{"from": "text:didache-8", "type": "documented_by", "to": "source:wikipedia-didache"}
+{"from": "text:amidah", "type": "documented_by", "to": "source:wikipedia-amidah"}
+{"from": "text:pliny-nh-11-moths", "type": "documented_by", "to": "source:wikisource-pliny-nh-11"}
+{"from": "text:pliny-nh-34-rust", "type": "documented_by", "to": "source:wikisource-pliny-nh-34"}
+{"from": "text:pliny-nh-21-anemone", "type": "documented_by", "to": "source:wikisource-pliny-nh-21"}
+{"from": "text:pliny-nh-13-unguents", "type": "documented_by", "to": "source:wikisource-pliny-nh-13"}
+{"from": "text:euclid-optics", "type": "documented_by", "to": "source:wikipedia-emission-theory"}
+{"from": "text:josephus-ant-8-solomon", "type": "documented_by", "to": "source:wikisource-ant-8"}
+{"from": "text:1-kings-10-solomon-wealth", "type": "documented_by", "to": "source:wikipedia-solomon-account"}
+{"from": "site:gamla-synagogue", "type": "documented_by", "to": "source:wikipedia-gamla"}
+{"from": "site:solomonic-gates", "type": "documented_by", "to": "source:wikipedia-solomon-dispute"}
+{"from": "site:sepphoris", "type": "documented_by", "to": "source:wikipedia-sepphoris-theatre"}
+{"from": "artifact:tabun-oven", "type": "documented_by", "to": "source:wikipedia-tabun-oven"}
+{"from": "artifact:tabun-oven", "type": "documented_by", "to": "source:wikipedia-tandoor"}
+{"from": "artifact:tyrian-shekel", "type": "documented_by", "to": "source:wikipedia-tyrian-shekel"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "claim:mt-06-01-almsgiving", "type": "documented_by", "to": "source:wikipedia-tzedakah"}
+{"from": "claim:mt-06-02-hypocrites-actors", "type": "documented_by", "to": "source:wikipedia-hypocrite"}
+{"from": "claim:mt-06-13-doxology", "type": "documented_by", "to": "source:wikipedia-lords-prayer-doxology"}
+{"from": "claim:mt-06-16-fasting", "type": "documented_by", "to": "source:wikipedia-taanit"}
+{"from": "claim:mt-06-17-anointing", "type": "documented_by", "to": "source:wikipedia-anointing"}
+{"from": "claim:mt-06-19-dig-through", "type": "documented_by", "to": "source:wikipedia-mudbrick"}
+{"from": "claim:mt-06-24-two-masters", "type": "documented_by", "to": "source:wikipedia-slavery-rome"}
+{"from": "claim:mt-06-24-mammon", "type": "documented_by", "to": "source:wikipedia-mammon"}
+{"from": "claim:mt-06-26-sowing-reaping-barns", "type": "documented_by", "to": "source:wikipedia-house-sparrow"}
+{"from": "claim:mt-06-28-lilies", "type": "documented_by", "to": "source:wikipedia-anemone"}
+{"from": "claim:mt-06-13-doxology", "type": "documented_by", "to": "source:wikipedia-tv-matt-6-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-06-34"}

@@ -1,0 +1,52 @@
+{
+ "source:bible-api-deuteronomy-18-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+18:15?translation=web"
+ },
+ "source:bible-api-exodus-16-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/exodus+16:15?translation=web"
+ },
+ "source:bible-api-isaiah-54-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+54:13?translation=web"
+ },
+ "source:bible-api-psalm-78-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalms+78:24?translation=web"
+ },
+ "source:sefaria-sotah-2-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Sotah.2.1?context=0"
+ },
+ "source:wikipedia-israelite-cuisine-barley": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ancient_Israelite_cuisine"
+ },
+ "source:wikipedia-judas-iscariot": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judas_Iscariot"
+ },
+ "source:wikipedia-sea-of-galilee-dimensions": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sea_of_Galilee"
+ },
+ "source:wikipedia-sea-of-galilee-name": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sea_of_Galilee"
+ },
+ "source:wikipedia-stadion-length": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Stadion_(unit)"
+ }
+}

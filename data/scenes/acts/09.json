@@ -1,0 +1,87 @@
+{
+ "book": "acts",
+ "chapter": 9,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    9
+   ],
+   "setting": "place:damascus",
+   "confidence": "stated",
+   "basis": "9:3 \"he got close to Damascus\"; 9:8 \"They led him by the hand, and brought him into Damascus\" - the journey's following action is at Damascus"
+  },
+  {
+   "verses": [
+    10,
+    16
+   ],
+   "setting": "place:damascus",
+   "confidence": "stated",
+   "basis": "9:10 \"there was a certain disciple at Damascus named Ananias\""
+  },
+  {
+   "verses": [
+    17,
+    19
+   ],
+   "setting": "site:street-called-straight",
+   "confidence": "stated",
+   "basis": "9:11 \"go to the street which is called Straight, and inquire in the house of Judah for one named Saul\"; 9:17 \"Ananias departed, and entered into the house\""
+  },
+  {
+   "verses": [
+    20,
+    25
+   ],
+   "setting": "place:damascus",
+   "confidence": "stated",
+   "basis": "9:19 \"Saul stayed several days with the disciples who were at Damascus\"; 9:20 \"in the synagogues he proclaimed the Christ\""
+  },
+  {
+   "verses": [
+    26,
+    29
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "9:26 \"When Saul had come to Jerusalem, he tried to join himself to the disciples\""
+  },
+  {
+   "verses": [
+    30,
+    30
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "9:30 \"they brought him down to Caesarea, and sent him off to Tarsus\" - the send-off is from Caesarea"
+  },
+  {
+   "verses": [
+    31,
+    31
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "9:31 \"So the assemblies throughout all Judea and Galilee and Samaria had peace\" - a summary over three regions with no single setting"
+  },
+  {
+   "verses": [
+    32,
+    35
+   ],
+   "setting": "place:lydda",
+   "confidence": "stated",
+   "basis": "9:32 \"he came down also to the saints who lived at Lydda\""
+  },
+  {
+   "verses": [
+    36,
+    43
+   ],
+   "setting": "place:joppa",
+   "confidence": "stated",
+   "basis": "9:36 \"there was at Joppa a certain disciple named Tabitha\"; 9:39 \"Peter got up and went with them\""
+  }
+ ]
+}

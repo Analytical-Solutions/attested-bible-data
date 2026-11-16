@@ -1,0 +1,15 @@
+{
+ "book": "john",
+ "chapter": 17,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    26
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "17:1 \"Jesus said these things, and lifting up his eyes to heaven\" - the prayer closes the supper discourse"
+  }
+ ]
+}

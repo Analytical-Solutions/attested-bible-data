@@ -1,0 +1,15 @@
+{
+ "book": "john",
+ "chapter": 13,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    38
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "13:1 \"before the feast of the Passover\" - the supper in the unnamed city; the upper room is not named in John"
+  }
+ ]
+}

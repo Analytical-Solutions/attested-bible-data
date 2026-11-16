@@ -1,0 +1,276 @@
+{"from": "passage:ac-21-01", "type": "asserts", "to": "claim:ac-21-01-aegean-voyage"}
+{"from": "passage:ac-21-02", "type": "asserts", "to": "claim:ac-21-02-phoenicia-crossing"}
+{"from": "passage:ac-21-03", "type": "asserts", "to": "claim:ac-21-03-landed-tyre"}
+{"from": "passage:ac-21-04", "type": "asserts", "to": "claim:ac-21-04-tyre-disciples"}
+{"from": "passage:ac-21-05", "type": "asserts", "to": "claim:ac-21-05-06-beach-farewell"}
+{"from": "passage:ac-21-06", "type": "asserts", "to": "claim:ac-21-05-06-beach-farewell"}
+{"from": "passage:ac-21-07", "type": "asserts", "to": "claim:ac-21-07-ptolemais-visit"}
+{"from": "passage:ac-21-08", "type": "asserts", "to": "claim:ac-21-08-philip-caesarea"}
+{"from": "passage:ac-21-09", "type": "asserts", "to": "claim:ac-21-09-four-daughters"}
+{"from": "passage:ac-21-10", "type": "asserts", "to": "claim:ac-21-10-agabus-from-judea"}
+{"from": "passage:ac-21-11", "type": "asserts", "to": "claim:ac-21-11-belt-prophecy"}
+{"from": "passage:ac-21-12", "type": "asserts", "to": "claim:ac-21-12-14-pleadings"}
+{"from": "passage:ac-21-13", "type": "asserts", "to": "claim:ac-21-12-14-pleadings"}
+{"from": "passage:ac-21-14", "type": "asserts", "to": "claim:ac-21-12-14-pleadings"}
+{"from": "passage:ac-21-15", "type": "asserts", "to": "claim:ac-21-15-16-jerusalem-mnason"}
+{"from": "passage:ac-21-16", "type": "asserts", "to": "claim:ac-21-15-16-jerusalem-mnason"}
+{"from": "passage:ac-21-17", "type": "asserts", "to": "claim:ac-21-17-received-gladly"}
+{"from": "passage:ac-21-18", "type": "asserts", "to": "claim:ac-21-18-james-elders"}
+{"from": "passage:ac-21-19", "type": "asserts", "to": "claim:ac-21-19-reported-one-by-one"}
+{"from": "passage:ac-21-20", "type": "asserts", "to": "claim:ac-21-20-thousands-zealous"}
+{"from": "passage:ac-21-21", "type": "asserts", "to": "claim:ac-21-21-rumor-forsake-moses"}
+{"from": "passage:ac-21-22", "type": "asserts", "to": "claim:ac-21-20-thousands-zealous"}
+{"from": "passage:ac-21-23", "type": "asserts", "to": "claim:ac-21-23-24-four-men-vow"}
+{"from": "passage:ac-21-24", "type": "asserts", "to": "claim:ac-21-23-24-four-men-vow"}
+{"from": "passage:ac-21-25", "type": "asserts", "to": "claim:ac-21-25-decree-gentiles"}
+{"from": "passage:ac-21-26", "type": "asserts", "to": "claim:ac-21-26-purification-temple"}
+{"from": "passage:ac-21-27", "type": "asserts", "to": "claim:ac-21-27-asian-jews-riot"}
+{"from": "passage:ac-21-28", "type": "asserts", "to": "claim:ac-21-28-accusation"}
+{"from": "passage:ac-21-28", "type": "asserts", "to": "claim:ac-21-28-gentile-exclusion"}
+{"from": "passage:ac-21-29", "type": "asserts", "to": "claim:ac-21-29-trophimus-seen"}
+{"from": "passage:ac-21-30", "type": "asserts", "to": "claim:ac-21-30-city-uproar"}
+{"from": "passage:ac-21-31", "type": "asserts", "to": "claim:ac-21-31-chiliarch-garrison"}
+{"from": "passage:ac-21-32", "type": "asserts", "to": "claim:ac-21-32-soldiers-ran-down"}
+{"from": "passage:ac-21-33", "type": "asserts", "to": "claim:ac-21-33-two-chains"}
+{"from": "passage:ac-21-34", "type": "asserts", "to": "claim:ac-21-34-36-barracks-stairs"}
+{"from": "passage:ac-21-35", "type": "asserts", "to": "claim:ac-21-34-36-barracks-stairs"}
+{"from": "passage:ac-21-36", "type": "asserts", "to": "claim:ac-21-34-36-barracks-stairs"}
+{"from": "passage:ac-21-37", "type": "asserts", "to": "claim:ac-21-37-greek"}
+{"from": "passage:ac-21-38", "type": "asserts", "to": "claim:ac-21-38-egyptian-4000"}
+{"from": "passage:ac-21-38", "type": "asserts", "to": "claim:ac-21-38-sicarii"}
+{"from": "passage:ac-21-39", "type": "asserts", "to": "claim:ac-21-39-tarsus-standing"}
+{"from": "passage:ac-21-40", "type": "asserts", "to": "claim:ac-21-40-hebrew-speech"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-01"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-02"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-03"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-04"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-05"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-06"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-07"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-08"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-09"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-10"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-11"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-12"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-13"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-14"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-15"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-16"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-17"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-18"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-19"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-20"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-21"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-22"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-23"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-24"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-25"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-26"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-27"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-28"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-29"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-30"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-31"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-32"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-33"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-34"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-35"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-36"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-37"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-38"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-39"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-21-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-21-40"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-21-40"}
+{"from": "claim:ac-21-01-aegean-voyage", "type": "mentions", "to": "place:cos"}
+{"from": "claim:ac-21-01-aegean-voyage", "type": "mentions", "to": "place:rhodes"}
+{"from": "claim:ac-21-01-aegean-voyage", "type": "mentions", "to": "place:patara"}
+{"from": "claim:ac-21-01-aegean-voyage", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-02-phoenicia-crossing", "type": "mentions", "to": "place:phoenicia"}
+{"from": "claim:ac-21-03-landed-tyre", "type": "mentions", "to": "place:cyprus"}
+{"from": "claim:ac-21-03-landed-tyre", "type": "mentions", "to": "place:tyre"}
+{"from": "claim:ac-21-03-landed-tyre", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-04-tyre-disciples", "type": "mentions", "to": "place:tyre"}
+{"from": "claim:ac-21-04-tyre-disciples", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-05-06-beach-farewell", "type": "mentions", "to": "place:tyre"}
+{"from": "claim:ac-21-05-06-beach-farewell", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-07-ptolemais-visit", "type": "mentions", "to": "place:ptolemais"}
+{"from": "claim:ac-21-07-ptolemais-visit", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-08-philip-caesarea", "type": "mentions", "to": "person:philip-the-evangelist"}
+{"from": "claim:ac-21-08-philip-caesarea", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-21-08-philip-caesarea", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-09-four-daughters", "type": "mentions", "to": "person:philip-the-evangelist"}
+{"from": "claim:ac-21-10-agabus-from-judea", "type": "mentions", "to": "person:agabus"}
+{"from": "claim:ac-21-10-agabus-from-judea", "type": "mentions", "to": "place:judea"}
+{"from": "claim:ac-21-11-belt-prophecy", "type": "mentions", "to": "person:agabus"}
+{"from": "claim:ac-21-11-belt-prophecy", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-12-14-pleadings", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-15-16-jerusalem-mnason", "type": "mentions", "to": "person:mnason"}
+{"from": "claim:ac-21-15-16-jerusalem-mnason", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-15-16-jerusalem-mnason", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-21-15-16-jerusalem-mnason", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-17-received-gladly", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-17-received-gladly", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-18-james-elders", "type": "mentions", "to": "person:james-brother-of-jesus"}
+{"from": "claim:ac-21-18-james-elders", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-18-james-elders", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-19-reported-one-by-one", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-20-thousands-zealous", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-20-thousands-zealous", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-21-rumor-forsake-moses", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-23-24-four-men-vow", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-23-24-four-men-vow", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-25-decree-gentiles", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-26-purification-temple", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-27-asian-jews-riot", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-28-accusation", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-28-gentile-exclusion", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-29-trophimus-seen", "type": "mentions", "to": "person:trophimus"}
+{"from": "claim:ac-21-29-trophimus-seen", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-30-city-uproar", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-31-chiliarch-garrison", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-31-chiliarch-garrison", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-32-soldiers-ran-down", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-33-two-chains", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-34-36-barracks-stairs", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-21-34-36-barracks-stairs", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-37-greek", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-38-egyptian-4000", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-38-sicarii", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-39-tarsus-standing", "type": "mentions", "to": "place:tarsus"}
+{"from": "claim:ac-21-39-tarsus-standing", "type": "mentions", "to": "place:cilicia"}
+{"from": "claim:ac-21-39-tarsus-standing", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-21-40-hebrew-speech", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "artifact:temple-warning-inscription", "type": "attests", "to": "claim:ac-21-28-gentile-exclusion", "grade": "A", "note": "The inscription reads: 'No stranger is to enter within the balustrade round the temple and enclosure. Whoever is caught will be himself responsible for his ensuing death' - the Gentile-exclusion rule on pain of death that the Acts 21:28 charge presupposes. It attests the rule, not the charge against Paul."}
+{"from": "text:josephus-war-5-238-247", "type": "attests", "to": "claim:ac-21-31-chiliarch-garrison", "grade": "B", "note": "Josephus: 'the temple was a fortress that guarded the city, as was the tower of Antonia a guard to the temple; and in that tower were the guards' - a permanent Roman guard posted in the fortress adjoining the temple, the station a chiliarch's regiment kept."}
+{"from": "site:antonia-fortress", "type": "attests", "to": "claim:ac-21-31-chiliarch-garrison", "grade": "B", "note": "The Antonia Fortress at the Temple Mount's northwest corner, 'connected to the Temple by porticoes', housed the Roman garrison overlooking the temple courts - the specific installation from which the tribune of Acts 21:31-32 responded."}
+{"from": "text:josephus-war-5-238-247", "type": "attests", "to": "claim:ac-21-34-36-barracks-stairs", "grade": "B", "note": "Josephus: the Antonia sat 'on the corner where it joined to the two cloisters of the temple', with 'broad spaces for camps' inside, and 'on the corner where it joined to the two cloisters of the temple, it had passages down to them' - a military post adjoining the temple with direct access to the courts, matching the barracks and stairs of Acts 21:34-35."}
+{"from": "site:antonia-fortress", "type": "attests", "to": "claim:ac-21-34-36-barracks-stairs", "grade": "B", "note": "The excavated Herodian citadel at the temple's northwest corner, connected to the temple courts, is the specific structure in which the barracks (parembole) and the stairs of Acts 21:34-36 are placed."}
+{"from": "text:mishnah-nazir-1-1", "type": "attests", "to": "claim:ac-21-23-24-four-men-vow", "grade": "C", "note": "Mishnah Nazir 1:1: 'One becomes a nazirite by taking a nazirite vow, in which he simply declares himself a nazirite' - the same vow practice. Redacted c. 200 CE: it may not describe the practice of the 30s CE exactly. Regraded B to C (reviewer 11, the logged Nazirite ruling): Mishnah Nazir, c. 200 CE, postdates this c. 57 event by over a century; a later source cannot confirm the specific event, so C for the event claim (the custom itself is graded B on claim:ac-18-18-vow-shaving)."}
+{"from": "text:mishnah-nazir-3-6", "type": "attests", "to": "claim:ac-21-23-24-four-men-vow", "grade": "C", "note": "Mishnah Nazir 3:6: an unspecified nazirite 'shaves his hair on the thirty-first day after the start of his naziriteship' - head-shaving closes the vow, the act Paul funds at 21:24. Redacted c. 200 CE: may not describe 30s-CE practice exactly. Regraded B to C (reviewer 11, the logged Nazirite ruling): Mishnah Nazir, c. 200 CE, postdates this c. 57 event by over a century; a later source cannot confirm the specific event, so C for the event claim (the custom itself is graded B on claim:ac-18-18-vow-shaving)."}
+{"from": "text:josephus-ant-19-294", "type": "attests", "to": "claim:ac-21-23-24-four-men-vow", "grade": "B", "note": "Josephus, Ant. 19.294: Agrippa I, coming to Jerusalem, 'omitted nothing which the law required' ... 'on which account he ordained that many of the Nazarites should have their heads shorn' - a Herodian-era precedent for a patron covering nazirite completion, the same custom Paul performs at 21:24."}
+{"from": "text:mishnah-nazir-3-6", "type": "attests", "to": "claim:ac-21-26-purification-temple", "grade": "B", "note": "Mishnah Nazir 3:6 has the nazirite's shaving close his term - the 'days of purification until the offering was offered for every one of them' (21:26) matches the vow-completion procedure. Redacted c. 200 CE: may not describe 30s-CE practice exactly."}
+{"from": "text:josephus-war-2-261-263", "type": "attests", "to": "claim:ac-21-38-egyptian-4000", "grade": "B", "note": "Josephus: 'there was an Egyptian false prophet'... 'got together thirty thousand men that were deluded by him; these he led round about from the wilderness to the mount which was called the Mount of Olives' - independent attestation of the same Egyptian sedition-leader the tribune names. It does not support the number four thousand. Regraded A to B by the architect: Josephus names the Egyptian and his rising under Felix (A for the man), but the claim carries the tribune's 4,000 and the wilderness, which Josephus contradicts (30,000; the Mount of Olives), so A cannot cover the whole claim. Split per the architect's Acts 21 ruling: the A for the rising now anchors claim:ac-21-38-egyptian-prophet-rising; this edge keeps B for the Acts 21:38 rumour."}
+{"from": "text:josephus-ant-20-169-172", "type": "attests", "to": "claim:ac-21-38-egyptian-4000", "grade": "B", "note": "Josephus, Ant. 20.169-172: 'one that said he was a prophet' led the multitude of the common people toward the Mount of Olives 'at the distance of five furlongs' from Jerusalem - the same Egyptian and revolt under Felix that Acts 21:38 recalls. Regraded A to B by the architect: Josephus names the Egyptian and his rising under Felix (A for the man), but the claim carries the tribune's 4,000 and the wilderness, which Josephus contradicts (30,000; the Mount of Olives), so A cannot cover the whole claim. Split per the architect's Acts 21 ruling: the A for the rising now anchors claim:ac-21-38-egyptian-prophet-rising; this edge keeps B for the Acts 21:38 rumour."}
+{"from": "text:josephus-war-2-254-257", "type": "attests", "to": "claim:ac-21-38-sicarii", "grade": "A", "note": "Josephus: 'there sprang up another sort of robbers in Jerusalem, which were called Sicarii, who slew men in the day time, and in the midst of the city... concealed daggers under their garments' - the group the tribune's 'men of the Assassins' (sikarioi) names."}
+{"from": "text:strabo-14-5-13", "type": "attests", "to": "claim:ac-21-39-tarsus-standing", "grade": "A", "note": "Strabo, Geography 14.5.13, names Tarsus as the capital of Cilicia and a celebrated seat of learning - the standing behind Paul's 'citizen of no insignificant city'. It attests the city's standing, not Paul's citizenship."}
+{"from": "text:pliny-nh-5-ptolemais", "type": "attests", "to": "place:ptolemais", "grade": "A", "note": "Pliny, NH 5.17: 'Close to this river is Ptolemais, formerly called Ace' ... 'a colony of Claudius Cæsar' - a classical author names the same Phoenician coastal city Paul's party reached from Tyre."}
+{"from": "text:pliny-nh-5-cos", "type": "attests", "to": "place:cos", "grade": "A", "note": "Pliny, NH 5.36: 'The most noted island, however, in this gulf is that of Cos' ... 'fifteen miles distant from Halicarnassus' - a classical author names the same Aegean island, the first stop of Acts 21:1."}
+{"from": "text:pliny-nh-5-cos", "type": "attests", "to": "place:rhodes", "grade": "A", "note": "Pliny, NH 5.36: 'the free island of Rhodes' ... the cities 'Lindos, Camirus, and Ialysus, now called Rhodos' - a classical author names the same island city, the second stop of Acts 21:1. Merged node: the acts/21 Pliny NH 5.36 Cos and Rhodes copies were duplicates (same author/work/locator) and now share text:pliny-nh-5-cos."}
+{"from": "text:pliny-nh-5-patara", "type": "attests", "to": "place:patara", "grade": "A", "note": "Pliny, NH 5.28 (Lycia): 'We then come to Patara' ... 'formerly Pataros' - a classical author names the same Lycian port city, the third stop of Acts 21:1."}
+{"from": "text:pliny-nh-5-cyprus", "type": "attests", "to": "place:cyprus", "grade": "A", "note": "Pliny, NH 5.35: 'has Cyprus' ... 'which lies opposite to the shores of Cilicia and Syria' - a classical author names the same island, which Acts 21:3 says they left on the left hand sailing to Syria."}
+{"from": "text:pliny-nh-5-caesarea", "type": "attests", "to": "place:caesarea", "grade": "A", "note": "Pliny, NH 5.14: 'the Tower of Strato' ... 'otherwise Cæsarea, built by King Herod' - a classical author names the same Herodian city where Philip the evangelist lived (21:8)."}
+{"from": "text:strabo-14-5-13", "type": "attests", "to": "place:tarsus", "grade": "A", "note": "Strabo, Geography 14.5.13, names Tarsus as the capital of Cilicia and a city of learning - the same city Paul names in 21:39."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:james-brother-of-jesus", "grade": "A", "note": "Josephus, Antiquities 20.9.1 (the passage commonly cited as 20.200): Ananus the high priest condemned to death 'the brother of Jesus, who was called Christ, whose name was James' (c. 62 CE) - independent naming of the same man the Acts 21:18 elders meet. It says nothing of this meeting."}
+{"from": "text:eusebius-hist-eccl-3-39-9", "type": "attests", "to": "person:philip-the-evangelist", "grade": "D", "note": "Reception: Eusebius 3.39.9 cites Papias' tradition that Luke 'mentions the daughters of Philip... at Cæsarea in Judea with their father, and were honored with the gift of prophecy'. Papias depends on the Gospel/Acts tradition; it reports a reception, not independent evidence."}
+{"from": "text:josephus-war-2-261-263", "type": "complicates", "to": "claim:ac-21-38-egyptian-4000", "note": "Josephus says the Egyptian 'got together thirty thousand men that were deluded by him'; Acts 21:38 has the tribune say four thousand 'men of the Assassins' - the follower counts differ by nearly an order of magnitude."}
+{"from": "text:josephus-ant-20-169-172", "type": "complicates", "to": "claim:ac-21-38-egyptian-4000", "note": "Josephus, Ant. 20.169-172, reports the Egyptian leading the 'multitude of the common people' with no number, and the War version gives thirty thousand - against Acts' four thousand sicarii."}
+{"from": "text:josephus-war-2-254-257", "type": "documented_by", "to": "source:wikisource-war-2-sicarii"}
+{"from": "text:josephus-ant-19-294", "type": "documented_by", "to": "source:wikisource-ant-19-nazarites"}
+{"from": "text:mishnah-nazir-1-1", "type": "documented_by", "to": "source:sefaria-mishnah-nazir-1-1"}
+{"from": "text:mishnah-nazir-3-6", "type": "documented_by", "to": "source:sefaria-mishnah-nazir-3-6"}
+{"from": "text:eusebius-hist-eccl-3-39-9", "type": "documented_by", "to": "source:newadvent-eusebius-3-39"}
+{"from": "text:pliny-nh-5-ptolemais", "type": "documented_by", "to": "source:perseus-pliny-5-ptolemais"}
+{"from": "text:pliny-nh-5-cos", "type": "documented_by", "to": "source:perseus-pliny-5-cos"}
+{"from": "text:pliny-nh-5-cos", "type": "documented_by", "to": "source:perseus-pliny-5-rhodes"}
+{"from": "text:pliny-nh-5-patara", "type": "documented_by", "to": "source:perseus-pliny-5-patara"}
+{"from": "text:pliny-nh-5-cyprus", "type": "documented_by", "to": "source:perseus-pliny-5-cyprus"}
+{"from": "text:josephus-war-5-238-247", "type": "documented_by", "to": "source:wikisource-war5-antonia-passages"}
+{"from": "place:ptolemais", "type": "documented_by", "to": "source:perseus-pliny-5-ptolemais"}
+{"from": "place:cos", "type": "documented_by", "to": "source:perseus-pliny-5-cos"}
+{"from": "place:rhodes", "type": "documented_by", "to": "source:perseus-pliny-5-rhodes"}
+{"from": "place:patara", "type": "documented_by", "to": "source:perseus-pliny-5-patara"}
+{"from": "place:cyprus", "type": "documented_by", "to": "source:perseus-pliny-5-cyprus"}
+{"from": "place:tyre", "type": "documented_by", "to": "source:perseus-pliny-5-tyre"}
+{"from": "place:caesarea", "type": "documented_by", "to": "source:perseus-pliny-5-caesarea"}
+{"from": "place:tarsus", "type": "documented_by", "to": "source:perseus-strabo-14-5-13"}
+{"from": "person:james-brother-of-jesus", "type": "documented_by", "to": "source:wikipedia-james-the-just"}
+{"from": "claim:ac-21-25-decree-gentiles", "type": "related_to", "to": "claim:ac-15-20-decree-abstentions", "note": "Acts 21:25 restates the same four abstentions decided at the Jerusalem council (Acts 15:20); the two narrative statements are related, not independent evidence for each other."}
+{"from": "claim:ac-21-39-tarsus-standing", "type": "related_to", "to": "claim:ac-09-11-saul-of-tarsus", "note": "Acts 21:39 names Paul's home city Tarsus, already claimed from Acts 9:11; the 21:39 detail is the 'citizen of no insignificant city' praise."}
+{"from": "claim:ac-21-18-james-elders", "type": "related_to", "to": "claim:ac-15-13-james-answers", "note": "The same James, brother of Jesus, presides over the Jerusalem elders in Acts 15:13 and receives Paul in 21:18."}
+{"from": "claim:ac-21-10-agabus-from-judea", "type": "related_to", "to": "claim:ac-11-28-agabus-prediction", "note": "The same prophet Agabus predicted the famine in Acts 11:28 and binds Paul's belt in 21:11."}
+{"from": "claim:ac-21-26-purification-temple", "type": "related_to", "to": "text:numbers-6-3", "note": "Numbers 6 (the nazirite law) prescribes the vow's completion offerings; a biblical cross-reference, not evidence."}
+{"from": "text:josephus-war-5-238-247", "type": "documented_by", "to": "source:wikisource-war5-camps"}
+{"from": "text:josephus-ant-19-294", "type": "documented_by", "to": "source:wikisource-ant-19-law-required"}
+{"from": "text:josephus-war-2-261-263", "type": "documented_by", "to": "source:wikisource-war-2-egyptian-false"}
+{"from": "text:josephus-war-2-261-263", "type": "attests", "to": "claim:ac-21-38-egyptian-prophet-rising", "grade": "A", "note": "War 2.261-263: 'there was an Egyptian false prophet' who 'got together thirty thousand men' and led them from the wilderness to the Mount of Olives; Felix attacked with horsemen and footmen, and the Egyptian fled."}
+{"from": "text:josephus-ant-20-169-172", "type": "attests", "to": "claim:ac-21-38-egyptian-prophet-rising", "grade": "A", "note": "Ant. 20.169-172: an Egyptian false prophet led the multitude 'to the Mount of Olives'; Felix attacked with cavalry, and the Egyptian fled - grade A for the rising (split from claim:ac-21-38-egyptian-4000 per the architect's Acts 21 ruling)."}
+{"from": "passage:ac-21-38", "type": "asserts", "to": "claim:ac-21-38-egyptian-prophet-rising", "note": "Acts 21:38 records the tribune's question about the Egyptian who stirred up sedition and led four thousand into the wilderness; the rumour claim is claim:ac-21-38-egyptian-4000, the rising as Josephus describes it is this claim."}

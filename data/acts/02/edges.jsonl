@@ -1,0 +1,185 @@
+{"from": "passage:ac-02-01", "type": "asserts", "to": "claim:ac-02-01-pentecost-feast"}
+{"from": "passage:ac-02-01", "type": "asserts", "to": "claim:ac-02-01-05-pilgrims-jerusalem"}
+{"from": "passage:ac-02-05", "type": "asserts", "to": "claim:ac-02-01-05-pilgrims-jerusalem"}
+{"from": "passage:ac-02-02", "type": "asserts", "to": "claim:ac-02-02-03-sound-and-fire"}
+{"from": "passage:ac-02-03", "type": "asserts", "to": "claim:ac-02-02-03-sound-and-fire"}
+{"from": "passage:ac-02-04", "type": "asserts", "to": "claim:ac-02-04-speaking-other-languages"}
+{"from": "passage:ac-02-06", "type": "asserts", "to": "claim:ac-02-04-speaking-other-languages"}
+{"from": "passage:ac-02-05", "type": "asserts", "to": "claim:ac-02-05-devout-jews-every-nation"}
+{"from": "passage:ac-02-09", "type": "asserts", "to": "claim:ac-02-09-11-nations-list"}
+{"from": "passage:ac-02-10", "type": "asserts", "to": "claim:ac-02-09-11-nations-list"}
+{"from": "passage:ac-02-11", "type": "asserts", "to": "claim:ac-02-09-11-nations-list"}
+{"from": "passage:ac-02-15", "type": "asserts", "to": "claim:ac-02-15-third-hour"}
+{"from": "passage:ac-02-16", "type": "asserts", "to": "claim:ac-02-16-joel-quoted"}
+{"from": "passage:ac-02-17", "type": "asserts", "to": "claim:ac-02-16-joel-quoted"}
+{"from": "passage:ac-02-18", "type": "asserts", "to": "claim:ac-02-16-joel-quoted"}
+{"from": "passage:ac-02-19", "type": "asserts", "to": "claim:ac-02-16-joel-quoted"}
+{"from": "passage:ac-02-20", "type": "asserts", "to": "claim:ac-02-16-joel-quoted"}
+{"from": "passage:ac-02-21", "type": "asserts", "to": "claim:ac-02-16-joel-quoted"}
+{"from": "passage:ac-02-22", "type": "asserts", "to": "claim:ac-02-22-23-crucified-killed"}
+{"from": "passage:ac-02-23", "type": "asserts", "to": "claim:ac-02-22-23-crucified-killed"}
+{"from": "passage:ac-02-36", "type": "asserts", "to": "claim:ac-02-22-23-crucified-killed"}
+{"from": "passage:ac-02-25", "type": "asserts", "to": "claim:ac-02-25-31-psalm-16-quoted"}
+{"from": "passage:ac-02-26", "type": "asserts", "to": "claim:ac-02-25-31-psalm-16-quoted"}
+{"from": "passage:ac-02-27", "type": "asserts", "to": "claim:ac-02-25-31-psalm-16-quoted"}
+{"from": "passage:ac-02-28", "type": "asserts", "to": "claim:ac-02-25-31-psalm-16-quoted"}
+{"from": "passage:ac-02-29", "type": "asserts", "to": "claim:ac-02-25-31-psalm-16-quoted"}
+{"from": "passage:ac-02-30", "type": "asserts", "to": "claim:ac-02-25-31-psalm-16-quoted"}
+{"from": "passage:ac-02-31", "type": "asserts", "to": "claim:ac-02-25-31-psalm-16-quoted"}
+{"from": "passage:ac-02-29", "type": "asserts", "to": "claim:ac-02-29-davids-tomb"}
+{"from": "passage:ac-02-34", "type": "asserts", "to": "claim:mt-22-43-44-psalm-110-quoted"}
+{"from": "passage:ac-02-35", "type": "asserts", "to": "claim:mt-22-43-44-psalm-110-quoted"}
+{"from": "passage:ac-02-41", "type": "asserts", "to": "claim:ac-02-37-41-three-thousand-baptized"}
+{"from": "passage:ac-02-44", "type": "asserts", "to": "claim:ac-02-44-45-all-things-common"}
+{"from": "passage:ac-02-45", "type": "asserts", "to": "claim:ac-02-44-45-all-things-common"}
+{"from": "claim:ac-02-01-pentecost-feast", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-02-01-05-pilgrims-jerusalem", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-02-05-devout-jews-every-nation", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-02-09-11-nations-list", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-02-09-11-nations-list", "type": "mentions", "to": "place:egypt"}
+{"from": "claim:ac-02-09-11-nations-list", "type": "mentions", "to": "place:cyrene"}
+{"from": "claim:ac-02-15-third-hour", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-02-16-joel-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-02-25-31-psalm-16-quoted", "type": "mentions", "to": "person:david"}
+{"from": "claim:ac-02-25-31-psalm-16-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-02-29-davids-tomb", "type": "mentions", "to": "person:david"}
+{"from": "claim:ac-02-29-davids-tomb", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-02-22-23-crucified-killed", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-02-37-41-three-thousand-baptized", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-02-37-41-three-thousand-baptized", "type": "mentions", "to": "person:simon-peter"}
+{"from": "text:josephus-war-2-42-44", "type": "attests", "to": "claim:ac-02-01-pentecost-feast", "grade": "B", "note": "War 2.42: 'that feast, which was observed after seven weeks, and which the Jews called Pentecost, (i.e. the 50th day)' - the same feast, named and dated, in the same period."}
+{"from": "text:josephus-war-2-42-44", "type": "attests", "to": "claim:ac-02-01-05-pilgrims-jerusalem", "grade": "B", "note": "War 2.43: at that Pentecost 'an immense multitude ran together, out of Galilee, and Idumea, and Jericho, and Perea' - Pentecost drawing crowds to Jerusalem in the same period (the gathering there was also a protest against Sabinus)."}
+{"from": "text:josephus-ant-17-254", "type": "attests", "to": "claim:ac-02-01-05-pilgrims-jerusalem", "grade": "B", "note": "Ant. 17.254: 'on the approach of pentecost, which is a festival of ours... a great many ten thousands of men got together' in Jerusalem - the pilgrimage crowd, same place and period."}
+{"from": "text:philo-embassy-281-283", "type": "attests", "to": "claim:ac-02-05-devout-jews-every-nation", "grade": "B", "note": "Philo (c. 41 CE) calls Jerusalem the metropolis of Jewish colonies 'in Egypt, Phoenicia, Syria... Pamphylia, Cilicia, the greater part of Asia Minor as far as Bithynia, and the furthermost corners of Pontus... in Europe... and all the most celebrated islands... Euboea, and Cyprus, and Crete... beyond the Euphrates... and Babylon' - the diaspora behind 2:5, from a near-contemporary."}
+{"from": "text:josephus-ant-14-strabo", "type": "attests", "to": "claim:ac-02-05-devout-jews-every-nation", "grade": "B", "note": "Strabo (via Josephus, Ant. 14.115): 'these Jews are already gotten into all cities; and it is hard to find a place in the habitable earth that hath not admitted this tribe of men' - the dispersion behind 2:5, in the late republic."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:ac-02-05-devout-jews-every-nation", "grade": "B", "note": "A first-century Jerusalem synagogue whose inscription records, with the reading room, 'the guest-house and the (other) rooms and water installations(?) for the lodging of those who are in need of it from abroad' - physical evidence of diaspora Jews lodging in Jerusalem. (Quote corrected by reviewer 10 to the fetched translation, which reads 'water installations(?)'.)"}
+{"from": "text:philo-embassy-281-283", "type": "attests", "to": "claim:ac-02-09-11-nations-list", "grade": "B", "note": "Philo §281-283 names Jewish colonies in Egypt, Syria, Pamphylia, Cilicia, Asia Minor as far as Bithynia, Pontus, Greece and Macedonia, Crete, and 'beyond the Euphrates... and Babylon' - most of the regions in 2:9-11, though not every name (no Parthia, Media, Elam, Cappadocia, Phrygia, Libya, Rome or Arabia by name)."}
+{"from": "claim:ac-02-09-11-nations-list", "type": "related_to", "to": "claim:jn-07-35-diaspora", "note": "John 7:35's 'the Dispersion' names the same diaspora Jewish communities whose members stand behind Luke's Pentecost list of nations; John's Gospel-era usage presupposes them."}
+{"from": "claim:ac-02-09-11-nations-list", "type": "related_to", "to": "claim:mt-23-15-proselytes", "note": "Acts 2:10's 'visitors from Rome, both Jews and proselytes' presupposes the same proselyte-making activity Matthew 23:15 attributes to the scribes and Pharisees."}
+{"from": "text:josephus-ant-14-strabo", "type": "attests", "to": "claim:ac-02-09-11-nations-list", "grade": "B", "note": "Strabo via Josephus: Jews 'already gotten into all cities... hard to find a place in the habitable earth that hath not admitted this tribe'; the same passage describes the Jews of Cyrene as one of four classes there - Cyrene and the general dispersion of the list."}
+{"from": "text:josephus-ant-18-81-84-rome-jews", "type": "attests", "to": "claim:ac-02-09-11-nations-list", "grade": "B", "note": "Ant. 18.81-84: Tiberius banished the Jews from Rome in 19 CE, enlisting four thousand men for Sardinia - a large Jewish community in Rome, the 'visitors from Rome, both Jews and proselytes' of 2:10, in the same period."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:ac-02-09-11-nations-list", "grade": "B", "note": "The Theodotos inscription's guest-house and rooms 'for the lodging of those who are in need of it from abroad' show diaspora Jews lodging in Jerusalem - the mechanism behind the list. (Quote corrected by reviewer 10 to the fetched translation, which reads 'water installations(?)'.)"}
+{"from": "text:josephus-ant-14-pompey-prayer-hours", "type": "attests", "to": "claim:ac-02-15-third-hour", "grade": "C", "note": "Ant. 14.65-66: even under Pompey's siege the priests 'did still twice a-day, in the morning and about the ninth hour, offer their sacrifices' - fixed hours governing the day; the morning service sits around the third hour, but Josephus does not name the third hour itself."}
+{"from": "text:mishnah-berakhot-4-1", "type": "attests", "to": "claim:ac-02-15-third-hour", "grade": "C", "note": "Berakhot 4:1 fixes prayer times in daylight hours (morning prayer until noon, or four hours after sunrise); redacted c. 200 CE, so it may not describe the 30s CE practice exactly, and it does not name the third hour."}
+{"from": "site:davids-tomb", "type": "attests", "to": "claim:ac-02-29-davids-tomb", "grade": "D", "note": "The Mount Zion site venerated as David's Tomb marks the tradition Peter's words may reflect, but the identification is attested only from the 12th century (Benjamin of Tudela) and 'historians, archaeologists and Jewish religious authorities do not consider the site to be the actual resting place of King David', so D."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:ac-02-22-23-crucified-killed", "grade": "A", "note": "Annals 15.44: Christus 'suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus' - the crucifixion of Jesus of Nazareth, named, from a hostile Roman source."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:ac-02-22-23-crucified-killed", "grade": "D", "note": "The Testimonium has Pilate condemn Jesus 'to the cross', but the passage's authenticity is disputed (parts likely Christian interpolation), so D."}
+{"from": "text:josephus-ant-18-18-22-essenes-goods", "type": "attests", "to": "claim:ac-02-44-45-all-things-common", "grade": "C", "note": "Ant. 18.20-22: among the Essenes 'all things in common; so that a rich man enjoys no more of his own wealth than he who hath nothing at all. There are about four thousand men that live in this way' - a parallel Jewish community of goods in the same period; it attests the custom, not the Jerusalem church's practice."}
+{"from": "passage:ac-02-16", "type": "related_to", "to": "text:joel-2-28-32", "note": "Acts 2:17-21 quotes Joel 2:28-32 (WEB: 'I will pour out my Spirit on all flesh... whoever will call on the name of the Lord will be saved.'). Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "passage:ac-02-25", "type": "related_to", "to": "text:psalm-16-8-11", "note": "Acts 2:25-28 quotes Psalm 16:8-11 (WEB: 'you will not leave my soul in Sheol, neither will you allow your holy one to see corruption'). Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "claim:ac-02-22-23-crucified-killed", "type": "related_to", "to": "claim:mt-27-26-crucified-under-pilate", "note": "The same event: Matthew 27:26-35 narrates the crucifixion under Pilate; Acts 2:23, 36 addresses the crowd as his killers."}
+{"from": "claim:ac-02-01-pentecost-feast", "type": "related_to", "to": "claim:jn-05-01-feast-jerusalem", "note": "Both concern Jewish pilgrimage feasts that bring crowds to Jerusalem; John 5:1 names an unnamed feast, Acts 2:1 names Pentecost."}
+{"from": "claim:ac-02-44-45-all-things-common", "type": "related_to", "to": "claim:ac-01-15-one-hundred-twenty", "note": "Acts 1 and 2 describe the same community in Jerusalem at successive moments; the community-of-goods custom belongs to the group of about 120 that grew by about 3,000 (2:41)."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-02-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-02-47"}
+{"from": "text:josephus-war-2-42-44", "type": "documented_by", "to": "source:wikisource-war-2"}
+{"from": "text:josephus-war-2-42-44", "type": "documented_by", "to": "source:wikisource-war-2-multitude"}
+{"from": "text:josephus-ant-17-254", "type": "documented_by", "to": "source:wikisource-ant-17-pentecost"}
+{"from": "text:josephus-ant-17-254", "type": "documented_by", "to": "source:wikisource-ant-17"}
+{"from": "text:josephus-ant-14-strabo", "type": "documented_by", "to": "source:wikisource-ant-14-strabo"}
+{"from": "text:philo-embassy-281-283", "type": "documented_by", "to": "source:wikisource-philo-embassy-diaspora"}
+{"from": "text:philo-embassy-281-283", "type": "documented_by", "to": "source:wikisource-philo-embassy-asia"}
+{"from": "text:philo-embassy-281-283", "type": "documented_by", "to": "source:wikisource-philo-embassy-islands"}
+{"from": "text:josephus-ant-14-pompey-prayer-hours", "type": "documented_by", "to": "source:wikisource-ant-14-prayer"}
+{"from": "text:mishnah-berakhot-4-1", "type": "documented_by", "to": "source:sefaria-mishnah-berakhot-4-1"}
+{"from": "text:joel-2-28-32", "type": "documented_by", "to": "source:bible-api-joel-2-28-32"}
+{"from": "text:psalm-16-8-11", "type": "documented_by", "to": "source:bible-api-psalm-16-8-11"}
+{"from": "text:josephus-ant-18-18-22-essenes-goods", "type": "documented_by", "to": "source:wikisource-ant-18-essenes"}
+{"from": "text:josephus-ant-18-81-84-rome-jews", "type": "documented_by", "to": "source:wikisource-ant-18-rome-jews"}
+{"from": "site:davids-tomb", "type": "documented_by", "to": "source:wikipedia-davids-tomb"}
+{"from": "claim:ac-02-01-pentecost-feast", "type": "documented_by", "to": "source:wikipedia-shavuot"}
+{"from": "claim:ac-02-05-devout-jews-every-nation", "type": "documented_by", "to": "source:wikipedia-theodotos-hostel"}
+{"from": "claim:ac-02-09-11-nations-list", "type": "documented_by", "to": "source:wikipedia-theodotos-hostel"}
+{"from": "artifact:theodotos-inscription", "type": "documented_by", "to": "source:wikipedia-theodotos-translation"}

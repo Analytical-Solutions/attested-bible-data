@@ -1,0 +1,137 @@
+{
+ "source:archive-ryle-james-psolomon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia800803.us.archive.org/35/items/psalmoisolomnto00jamegoog/psalmoisolomnto00jamegoog_djvu.txt"
+ },
+ "source:bible-api-isaiah-29-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+29:13?translation=web"
+ },
+ "source:josephus-jesus-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Josephus_on_Jesus"
+ },
+ "source:perseus-pliny-5-julias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D15"
+ },
+ "source:perseus-pliny-5-tyre": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D17"
+ },
+ "source:sefaria-yadayim-2-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Yadayim.2.1"
+ },
+ "source:wikipedia-ashkelon-dog-cemetery": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ashkelon_dog_cemetery"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-great-isaiah-scroll": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-magdala-fishing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-magdala-magadan": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-magdala-stone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala_Stone"
+ },
+ "source:wikipedia-magdala-tarichaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-migdal-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Migdal_Synagogue"
+ },
+ "source:wikipedia-migdal-synagogue-seven": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Migdal_Synagogue"
+ },
+ "source:wikipedia-punic-chanani": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Punic_language"
+ },
+ "source:wikipedia-sea-of-galilee-boat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikipedia-sea-of-galilee-fish": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sea_of_Galilee"
+ },
+ "source:wikipedia-second-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple"
+ },
+ "source:wikipedia-stone-vessels-judaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Stone_vessels_in_ancient_Judaea"
+ },
+ "source:wikipedia-stone-vessels-purity": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Stone_vessels_in_ancient_Judaea"
+ },
+ "source:wikipedia-tabun-oven": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tabun_oven"
+ },
+ "source:wikisource-ant13-traditions": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIII"
+ },
+ "source:wikisource-ant4-corban": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_IV"
+ },
+ "source:wikisource-apion-corban": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Against_Apion/Book_I"
+ },
+ "source:wikisource-war3-gennesaret": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_III"
+ },
+ "source:wol-corban": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://wol.jw.org/en/wol/d/r1/lp-e/1200011017"
+ }
+}

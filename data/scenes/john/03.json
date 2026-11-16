@@ -1,0 +1,24 @@
+{
+ "book": "john",
+ "chapter": 3,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    21
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "3:2 \"The same came to him by night\" - follows the Passover in Jerusalem (2:23)"
+  },
+  {
+   "verses": [
+    22,
+    36
+   ],
+   "setting": "place:judea",
+   "confidence": "stated",
+   "basis": "3:22 \"Jesus came with his disciples into the land of Judea. He stayed there with them\""
+  }
+ ]
+}

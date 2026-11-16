@@ -1,0 +1,27 @@
+{
+ "source:wikipedia-p45-luke-6-48": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-p45-luke-content": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-tv-luke-5-26": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikipedia-tv-luke-5-39": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikipedia-tv-luke-6-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ }
+}

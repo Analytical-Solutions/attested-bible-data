@@ -1,0 +1,180 @@
+{"from": "passage:mt-08-01", "type": "asserts", "to": "claim:mt-08-01-crowds-followed"}
+{"from": "passage:mt-08-02", "type": "asserts", "to": "claim:mt-08-02-leper-came"}
+{"from": "passage:mt-08-03", "type": "asserts", "to": "claim:mt-08-03-jesus-touched-leper"}
+{"from": "passage:mt-08-04", "type": "asserts", "to": "claim:mt-08-04-offering-moses-commanded"}
+{"from": "passage:mt-08-05", "type": "asserts", "to": "claim:mt-08-05-centurion-capernaum"}
+{"from": "passage:mt-08-09", "type": "asserts", "to": "claim:mt-08-09-command-of-soldiers"}
+{"from": "passage:mt-08-11", "type": "asserts", "to": "claim:mt-08-11-east-west-banquet"}
+{"from": "passage:mt-08-14", "type": "asserts", "to": "claim:mt-08-14-mother-in-law-fever"}
+{"from": "passage:mt-08-15", "type": "asserts", "to": "claim:mt-08-14-mother-in-law-fever"}
+{"from": "passage:mt-08-16", "type": "asserts", "to": "claim:mt-08-16-evening-exorcisms"}
+{"from": "passage:mt-08-17", "type": "asserts", "to": "claim:mt-08-17-isaiah-53-4-quoted"}
+{"from": "passage:mt-08-20", "type": "asserts", "to": "claim:mt-08-20-foxes-holes"}
+{"from": "passage:mt-08-21", "type": "asserts", "to": "claim:mt-08-21-22-bury-their-dead"}
+{"from": "passage:mt-08-22", "type": "asserts", "to": "claim:mt-08-21-22-bury-their-dead"}
+{"from": "passage:mt-08-23", "type": "asserts", "to": "claim:mt-08-23-boat-crossing"}
+{"from": "passage:mt-08-24", "type": "asserts", "to": "claim:mt-08-24-sudden-storm"}
+{"from": "passage:mt-08-28", "type": "asserts", "to": "claim:mt-08-28-country-of-gergesenes"}
+{"from": "passage:mt-08-28", "type": "asserts", "to": "claim:mt-08-28-demoniacs-tombs"}
+{"from": "passage:mt-08-30", "type": "asserts", "to": "claim:mt-08-30-herd-of-swine"}
+{"from": "passage:mt-08-32", "type": "asserts", "to": "claim:mt-08-32-swine-drowned"}
+{"from": "passage:mt-08-34", "type": "asserts", "to": "claim:mt-08-34-city-begged-departure"}
+{"from": "claim:mt-08-01-crowds-followed", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-02-leper-came", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-03-jesus-touched-leper", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-04-offering-moses-commanded", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-05-centurion-capernaum", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-05-centurion-capernaum", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-08-09-command-of-soldiers", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-14-mother-in-law-fever", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-14-mother-in-law-fever", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-08-14-mother-in-law-fever", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-08-16-evening-exorcisms", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-17-isaiah-53-4-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-20-foxes-holes", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-21-22-bury-their-dead", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-23-boat-crossing", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-23-boat-crossing", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-08-24-sudden-storm", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "mentions", "to": "place:gadara"}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "mentions", "to": "place:decapolis"}
+{"from": "claim:mt-08-28-demoniacs-tombs", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-28-demoniacs-tombs", "type": "mentions", "to": "place:gadara"}
+{"from": "claim:mt-08-30-herd-of-swine", "type": "mentions", "to": "place:gadara"}
+{"from": "claim:mt-08-32-swine-drowned", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-08-32-swine-drowned", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-34-city-begged-departure", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-08-34-city-begged-departure", "type": "mentions", "to": "place:gadara"}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "attests", "to": "claim:mt-08-02-leper-came", "grade": "C", "note": "The Tomb of the Shroud in Akeldama (first-century Jerusalem) yielded Mycobacterium leprae DNA - the earliest confirmed case of leprosy; the disease the leper suffered was present in Judea in the period."}
+{"from": "site:akeldama-tombs", "type": "attests", "to": "claim:mt-08-02-leper-came", "grade": "C", "note": "The Akeldama tombs include the first-century Tomb of the Shroud, 'one of very few examples of a preserved shrouded human burial' - real burials of real sufferers in the period; Akeldama is in Jerusalem, not Galilee."}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "attests", "to": "place:jerusalem", "grade": "C", "note": "First-century shrouded burial in the Hinnom Valley near Jerusalem yielded M. tuberculosis and M. leprae DNA - the city's 1st-century population and disease environment."}
+{"from": "site:akeldama-tombs", "type": "attests", "to": "claim:mt-08-28-demoniacs-tombs", "grade": "C", "note": "Rock-cut Second Temple period burial caves near Jerusalem: inhabited-region tombs were cut burial caves in the period (Akeldama is in Judea, not the Gadara region)."}
+{"from": "site:gadara-ancient-tombs", "type": "attests", "to": "claim:mt-08-28-demoniacs-tombs", "grade": "C", "note": "Early visitors to Umm Qais (Gadara) recorded 'the tombs and other monuments still visible on the surface' - tombs around the city of the demoniacs' country, though their date and form are not stated on the fetched page."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-08-04-offering-moses-commanded", "grade": "C", "note": "The Second Temple was the 'chief place of worship, ritual sacrifice (korban)' - the living institution to which a cleansed leper would be sent with the offering Moses commanded."}
+{"from": "claim:mt-08-05-centurion-capernaum", "type": "documented_by", "to": "source:wikipedia-matthew-8-5"}
+{"from": "claim:mt-08-05-centurion-capernaum", "type": "documented_by", "to": "source:wikipedia-matthew-8-5-gundry"}
+{"from": "claim:mt-08-09-command-of-soldiers", "type": "documented_by", "to": "source:wikipedia-matthew-8-5"}
+{"from": "claim:mt-08-09-command-of-soldiers", "type": "documented_by", "to": "source:wikipedia-matthew-8-5-gundry"}
+{"from": "site:capernaum", "type": "attests", "to": "claim:mt-08-05-centurion-capernaum", "grade": "B", "note": "Capernaum is excavated and was established in the 2nd century BC as a Hasmonean fishing village - a real lakeside town at the right place and time for the meeting."}
+{"from": "site:capernaum-peter-house", "type": "attests", "to": "claim:mt-08-14-mother-in-law-fever", "grade": "C", "note": "A first-century domestic dwelling under the octagonal church in Capernaum - ordinary family housing of the kind where a mother-in-law lay sick. Regraded B to C by review 2, matching the architect's regrade of the identical dwelling edge for the paralytic in ch 09 (context, not the specific house); the disputed identification as Peter's house is recorded separately as complicates."}
+{"from": "text:josephus-ant-8-eleazar", "type": "attests", "to": "claim:mt-08-16-evening-exorcisms", "grade": "C", "note": "Josephus saw Eleazar 'releasing people that were demoniacal in the presence of Vespasian' - exorcism was a practiced craft among 1st-century Jews, the practice the crowds expected."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-08-17-isaiah-53-4-quoted", "grade": "B", "note": "The Great Isaiah Scroll (ca. 125 BCE) contains the entire Book of Isaiah including chapter 53 - the prophecy Matthew quotes existed in Hebrew over a century before. Graded B by architect decision: the scroll shows the quoted Isaiah text existed before Jesus, which is the specific point of a quotation claim."}
+{"from": "observation:red-fox-range-levant", "type": "attests", "to": "claim:mt-08-20-foxes-holes", "grade": "C", "note": "The red fox is the most widely distributed carnivore (entire Northern Hemisphere, incl. the Levant) and 'their burrows are often dug on hill or mountain slopes, in ravines' - foxes with holes are part of the region's fauna; no first-century Galilee-specific find was fetched."}
+{"from": "artifact:second-temple-ossuaries", "type": "attests", "to": "claim:mt-08-21-22-bury-their-dead", "grade": "C", "note": "In the Second Temple period primary burials in caves were followed by secondary burials in ossuaries - burying a father was a real multi-stage process that could delay a disciple for months."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:mt-08-23-boat-crossing", "grade": "C", "note": "An ancient fishing boat from the 1st century AD, discovered on the north-west shore of the Sea of Galilee - boats of the kind used for crossings existed on the lake in the period (no evidence connects the boat to Jesus or his disciples). Regraded B to C by review 2, matching the architect's regrade of the boat for the return crossing in ch 09 (context, not the event)."}
+{"from": "observation:sea-of-galilee-sudden-storms", "type": "attests", "to": "claim:mt-08-24-sudden-storm", "grade": "C", "note": "Commentary records that the Sea of Galilee 'was known for its sudden and fierce storms', attributed by the Pulpit Commentary to winds arising on Mount Hermon - the storm the passage describes is a real, characteristic hazard (modern commentary, not ancient testimony)."}
+{"from": "site:hippos", "type": "attests", "to": "claim:mt-08-28-country-of-gergesenes", "grade": "C", "note": "Hippos, a Decapolis city on a ridge by the east shore of the lake - the 'other side' really was the Gentile Decapolis region; some modern scholars speculate Hippos itself as the location of the exorcism."}
+{"from": "site:kursi", "type": "attests", "to": "claim:mt-08-28-country-of-gergesenes", "grade": "D", "note": "Kursi's Byzantine monastery is traditionally identified as the location of the Miracle of the Swine, but the identification is disputed: Gergasa is not known before late antiquity and does not appear in early manuscripts."}
+{"from": "site:kursi", "type": "attests", "to": "claim:mt-08-30-herd-of-swine", "grade": "D", "note": "The same traditional identification makes Kursi the swine-miracle site; the monastery is Byzantine (excavated 1971-1974) and attests the commemorative tradition, not a first-century pig herd."}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac"}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-dispute"}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-gadara"}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-decapolis"}
+{"from": "claim:mt-08-30-herd-of-swine", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac"}
+{"from": "claim:mt-08-30-herd-of-swine", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-dispute"}
+{"from": "claim:mt-08-30-herd-of-swine", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-gadara"}
+{"from": "claim:mt-08-30-herd-of-swine", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-decapolis"}
+{"from": "claim:mt-08-30-herd-of-swine", "type": "documented_by", "to": "source:wikipedia-pork"}
+{"from": "claim:mt-08-30-herd-of-swine", "type": "documented_by", "to": "source:wikipedia-pork-bones"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-08-34"}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "documented_by", "to": "source:wikipedia-akeldama"}
+{"from": "site:akeldama-tombs", "type": "documented_by", "to": "source:wikipedia-akeldama"}
+{"from": "site:gadara-ancient-tombs", "type": "documented_by", "to": "source:wikipedia-ummqais-tombs"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "site:capernaum", "type": "documented_by", "to": "source:wikipedia-capernaum"}
+{"from": "site:capernaum-peter-house", "type": "documented_by", "to": "source:wikipedia-capernaum-peter-house"}
+{"from": "site:capernaum-peter-house", "type": "documented_by", "to": "source:wikipedia-capernaum-peter-house-doubts"}
+{"from": "text:josephus-ant-8-eleazar", "type": "documented_by", "to": "source:wikisource-ant-8-eleazar"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:wikipedia-great-isaiah-scroll"}
+{"from": "observation:red-fox-range-levant", "type": "documented_by", "to": "source:wikipedia-red-fox"}
+{"from": "observation:red-fox-range-levant", "type": "documented_by", "to": "source:wikipedia-red-fox-range"}
+{"from": "artifact:second-temple-ossuaries", "type": "documented_by", "to": "source:wikipedia-ossuary"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "observation:sea-of-galilee-sudden-storms", "type": "documented_by", "to": "source:wikipedia-calming-storm"}
+{"from": "site:hippos", "type": "documented_by", "to": "source:wikipedia-hippos-sussita"}
+{"from": "site:hippos", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-hippos"}
+{"from": "site:kursi", "type": "documented_by", "to": "source:wikipedia-kursi"}
+{"from": "site:kursi", "type": "documented_by", "to": "source:wikipedia-kursi-excavation"}
+{"from": "site:kursi", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac"}
+{"from": "text:leviticus-14", "type": "documented_by", "to": "source:wikisource-leviticus"}
+{"from": "text:isaiah-53-4", "type": "documented_by", "to": "source:wikisource-isaiah"}
+{"from": "place:gadara", "type": "documented_by", "to": "source:wikipedia-ummqais"}
+{"from": "place:gadara", "type": "documented_by", "to": "source:wikipedia-gerasene-demoniac-gadara"}
+{"from": "text:leviticus-14", "type": "related_to", "to": "claim:mt-08-04-offering-moses-commanded", "note": "Leviticus 14 is the law of the cleansed leper: brought to the priest, examined, and offering two clean birds, cedar wood, scarlet and hyssop - 'the gift that Moses commanded'. Cross-reference only; it does not attest."}
+{"from": "text:isaiah-53-4", "type": "related_to", "to": "claim:mt-08-17-isaiah-53-4-quoted", "note": "Isaiah 53:4 (WEB): 'Surely he has borne our sickness, and carried our suffering' - the text Matthew alludes to ('He took our infirmities, and bore our diseases'). Cross-reference only; it does not attest."}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "related_to", "to": "site:akeldama-tombs", "note": "The DNA observation comes from the Tomb of the Shroud within the Akeldama tombs site."}
+{"from": "site:kursi", "type": "related_to", "to": "place:gadara", "note": "Kursi and Gadara (Umm Qais) are the two rival candidate sites for the Gadarene/Gergesene country of Matthew 8:28."}
+{"from": "text:josephus-ant-18-113-115", "type": "documented_by", "to": "source:wikisource-ant18-aretas"}
+{"from": "text:josephus-ant-18-113-115", "type": "attests", "to": "claim:mt-08-05-centurion-capernaum", "grade": "C", "note": "Josephus (Ant. 18.113-115) records that in the war with Aretas IV 'they raised armies on both sides' and 'all Herod's army was destroyed' - ancient evidence that Antipas maintained his own army, the military milieu of a centurion in his realm. Josephus names no centurion and no Capernaum garrison, so this is context only (lead attached by review 2)."}
+{"from": "text:josephus-ant-18-113-115", "type": "attests", "to": "claim:mt-08-09-command-of-soldiers", "grade": "C", "note": "The same passage: Antipas commanded 'armies' with 'generals' against Aretas IV - a tetrarch's standing chain of command, the world of the centurion's 'I say to one Go and he goes'. The passage names no centurion, so it evidences the setting, not the officer (lead attached by review 2)."}
+{"from": "site:capernaum-peter-house", "type": "complicates", "to": "claim:mt-08-14-mother-in-law-fever", "note": "The excavators identified the house as Peter's, venerated from the mid-1st century, but other scholars question the identification (very little legible graffiti; whether the space is a room is disputed) - the claim's 'Peter's house' is not archaeologically secured (review 2 retargeted the former site-to-person attestation to this claim as its tension)."}
+{"from": "claim:mt-08-28-country-of-gergesenes", "type": "documented_by", "to": "source:wikipedia-tv-matt-8-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-08-34"}

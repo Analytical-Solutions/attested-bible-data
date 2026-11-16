@@ -1,0 +1,375 @@
+anchor,label,category,status,findings,note
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,inscription,none-found,,No inscription names the Twelve or their commission; searched the chapter corpus.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,coin,none-found,,Nothing fetched this run bears on this anchor in this category; searched the chapter corpus.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,structure-or-site,none-found,,No site bears on the commissioning; searched the chapter corpus (Capernaum synagogue pages fetched).
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,jewish-literary,none-found,,"No fetched Josephus or Mishnah passage bears on a commission of Twelve exorcists; searched the chapter corpus (Eleazar the exorcist, data/matthew/07, is the exorcism milieu but names no Twelve)."
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,greco-roman-literary,n/a,,No classical author would report an inner Jewish commissioning; category cannot add evidence here.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-01-twelve-apostles,The Twelve sent out with authority,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,inscription,none-found,,No inscription lists the Twelve; searched the chapter corpus and the ossuary name material.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,coin,none-found,,Nothing fetched this run bears on this anchor in this category; searched the chapter corpus.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,structure-or-site,none-found,,No site bears on the name list; searched the chapter corpus.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,burial-or-ossuary,found,observation:ossuary-name-frequency,"Grade C: ossuary inscriptions and Tal Ilan's lexicon (compiled by Bauckham from Rahmani's catalogue and the Lexicon) show Simon/Simeon (243 occurrences, 9.3%), Judah (164, 6.2%) and Matthew (62, 2.4%) among the ten most popular male names of Palestinian Jews: the Jewish names in the list are exactly the common names of the period. The list itself is not confirmed, only its onomastic plausibility; Andrew, Philip, Bartholomew and Thomas are Greek names outside the top ten."
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,jewish-literary,none-found,,No Jewish-literary list of the Twelve was fetched; searched the chapter corpus.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,greco-roman-literary,none-found,,Nothing fetched this run bears on this anchor in this category; searched the chapter corpus.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,material-culture,none-found,,Nothing fetched this run bears on this anchor in this category; searched the chapter corpus.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,geography-or-nature,none-found,,Nothing fetched this run bears on this anchor in this category; searched the chapter corpus.
+claim:mt-10-02-04-names-of-the-twelve,The names of the Twelve,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,inscription,none-found,,No inscription naming Matthew or a tax office was fetched; searched the chapter corpus. The Capernaum customs-post lead belongs to Matt 9:9 and is queued for that chapter.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,coin,none-found,,No coin or toll receipt tied to the Capernaum customs office was fetched this run; searched the chapter corpus.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,structure-or-site,none-found,,The tax booth at Capernaum is a Matt 9 lead; nothing fetched this run ties a structure to Matthew's office.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,jewish-literary,none-found,,No fetched Mishnah or Josephus passage on toll collectors was fetched this run; searched the chapter corpus.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,greco-roman-literary,n/a,,Category cannot add evidence for a minor toll office here.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-03-matthew-tax-collector,Matthew the tax collector,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',inscription,none-found,,"No inscription explains the epithet; the dispute (man of Kerioth / sicarius / 'the liar') is modern scholarship, recorded on the claim with its source (fetched Judas Iscariot article)."
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',coin,none-found,,Nothing fetched bears on the epithet's etymology in this category.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',structure-or-site,none-found,,Kerioth (the 'man of Kerioth' etymology) was not fetched or identified this run; the dispute stands as recorded on the claim.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',burial-or-ossuary,none-found,,Nothing fetched this run bears on this anchor in this category; searched the chapter corpus.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',jewish-literary,none-found,,"Josephus does not explain 'Iscariot'; his Sicarii (Ant. 20) are later than Judas, which is itself part of the dispute recorded on the claim."
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-iscariot-meaning,The epithet 'Iscariot',astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,inscription,none-found,,No inscription uses the Zealot epithet; searched the chapter corpus.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,coin,none-found,,No Zealot coinage was fetched this run (Bar Kokhba coins are 2nd century and were not fetched).
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,structure-or-site,none-found,,No site bears on the epithet; searched the chapter corpus.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,jewish-literary,found,text:josephus-ant-18-zealots,"Grade C: Josephus (Ant. 18.1.6) describes the 'fourth sect of Jewish philosophy' founded by Judas the Galilean, attached to liberty and acknowledging God alone as Ruler: the Zealot movement existed in first-century Judea. Josephus never connects Simon to it; the link rests on the epithet."
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,greco-roman-literary,none-found,,No fetched classical author describes the fourth philosophy; searched the chapter corpus.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-04-simon-zealot-epithet,Simon the Zealot and the Zealot movement,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,inscription,none-found,,No boundary inscription fetched; searched the chapter corpus.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,coin,none-found,,Nothing fetched bears on the mission boundary in this category.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,structure-or-site,found,site:mount-gerizim-temple,Grade B: the Samaritan sacred precinct on Gerizim shows the Samaritan cultic centre the saying avoids was real and distinct.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,jewish-literary,found,text:josephus-ant-11-gerizim,"Grade C: Josephus distinguishes the Samaritans as a separate people ('apostates of the Jewish nation') with their own metropolis: 'cities of the Samaritans' were a real, distinguishable set of places."
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,greco-roman-literary,none-found,,No fetched classical author bears on the mission boundary.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,geography-or-nature,none-found,,No fetched source maps the mission's regional boundary; searched the chapter corpus.
+claim:mt-10-05-not-gentiles-samaritans,Mission limited to Israel,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,inscription,found,site:mount-gerizim-temple,Grade B: stones inscribed with the Tetragrammaton found in the excavated precinct (fetched Mount Gerizim article).
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,coin,none-found,,No Samaritan coinage fetched; searched the chapter corpus.
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,structure-or-site,found,site:mount-gerizim-temple,Grade B: excavations identified a Samaritan temple on Mount Gerizim by the mid-5th century BCE (destroyed 111-110 BCE): the people's cultic centre.
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,burial-or-ossuary,none-found,,No Samaritan burial material fetched this run.
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,jewish-literary,found,text:josephus-ant-11-gerizim,"Grade B: Josephus (Ant. 11.8.6) treats the Samaritans as a distinct people - Shechem their metropolis at Mount Gerizzim, 'apostates of the Jewish nation'."
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,greco-roman-literary,none-found,,No fetched classical author on the Samaritans (Strabo/Pliny not fetched).
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,material-culture,found,site:mount-gerizim-temple,"Grade C: thousands of pottery vessels and burned bones of sheep, goats, cattle and doves from the precinct - the temple's sacrificial worship."
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,geography-or-nature,none-found,,No geographic observation beyond the site itself; searched the chapter corpus.
+claim:mt-10-05-samaritan-people,The Samaritans and their Gerizim temple,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-09-money-belt,Coinage in the money belt,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-09-money-belt,Coinage in the money belt,coin,found,artifact:tyrian-shekel;artifact:assarion-coin,"Grade C: silver Tyrian shekels circulated for the temple tax and the bronze/copper as (assarion) was the lowest regularly issued Roman coin: gold, silver and copper money as the verse assumes was in everyday use."
+claim:mt-10-09-money-belt,Coinage in the money belt,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-09-money-belt,Coinage in the money belt,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-09-money-belt,Coinage in the money belt,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-09-money-belt,Coinage in the money belt,documentary-papyrus,none-found,,No papyrus recording personal coin hoards or purse contents was fetched; searched the chapter corpus.
+claim:mt-10-09-money-belt,Coinage in the money belt,jewish-literary,none-found,,No fetched rabbinic or Josephus passage on carrying money in the belt; searched the chapter corpus.
+claim:mt-10-09-money-belt,Coinage in the money belt,greco-roman-literary,none-found,,No fetched classical passage on money belts; searched the chapter corpus.
+claim:mt-10-09-money-belt,Coinage in the money belt,material-culture,none-found,,"No belt, purse or money-container artifact was fetched; searched the chapter corpus."
+claim:mt-10-09-money-belt,Coinage in the money belt,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-09-money-belt,Coinage in the money belt,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor (the textiles enter via material culture).
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",jewish-literary,none-found,,"No fetched rabbinic rule on travel kit (staff, sandals) this run; searched the chapter corpus."
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",greco-roman-literary,none-found,,No fetched classical passage on traveler's gear; searched the chapter corpus.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",material-culture,found,artifact:judean-desert-textiles,"Grade C: textiles and clothing, including a tunic, from the Cave of Letters: tunics (the 'two coats') were standard Judean dress. Bag, sandals and staff have no separate fetched evidence."
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-10-travel-gear,"Travel gear (bag, tunics, sandals, staff)",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-14-shake-dust,Shaking off the dust,inscription,none-found,,Nothing to search in this category; no inscription of the gesture exists to fetch.
+claim:mt-10-14-shake-dust,Shaking off the dust,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-14-shake-dust,Shaking off the dust,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-14-shake-dust,Shaking off the dust,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-14-shake-dust,Shaking off the dust,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-14-shake-dust,Shaking off the dust,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-14-shake-dust,Shaking off the dust,jewish-literary,none-found,,Searched for a rabbinic parallel to the dust-shaking gesture (dust of a heathen land); none was fetched or found in the chapter corpus.
+claim:mt-10-14-shake-dust,Shaking off the dust,greco-roman-literary,none-found,,No fetched classical parallel to the gesture; searched the chapter corpus.
+claim:mt-10-14-shake-dust,Shaking off the dust,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-14-shake-dust,Shaking off the dust,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-14-shake-dust,Shaking off the dust,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,inscription,none-found,,No inscription of the cities or their destruction was fetched; searched the chapter corpus.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,structure-or-site,none-found,,No site node created: candidate identifications are disputed and the fetched article calls the archaeological evidence inconclusive.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,burial-or-ossuary,none-found,,No burial evidence from a Sodom candidate fetched; searched the chapter corpus.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,jewish-literary,none-found,,"Only the biblical cross-reference (Genesis 19:24, WEB) was fetched; a biblical text cannot attest. Josephus on the Dead Sea region was not fetched this run."
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,greco-roman-literary,none-found,,Classical references to the Dead Sea region were not fetched this run.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,geography-or-nature,none-found,,"Searched the Sodom and Gomorrah article: the destruction memory is attached to the Dead Sea, but candidate identifications (Bab edh-Dhra, Numeira, Tall el-Hammam) are inconclusive and the Tall el-Hammam airburst paper was retracted in 2025 - recorded as a dispute on the claim, no find graded."
+claim:mt-10-15-sodom-gomorrah-judgment,Sodom and Gomorrah,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-serpents,Serpents of the region,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-serpents,Serpents of the region,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-serpents,Serpents of the region,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-serpents,Serpents of the region,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-serpents,Serpents of the region,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-16-serpents,Serpents of the region,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-serpents,Serpents of the region,jewish-literary,none-found,,No fetched Jewish-literary serpent passage beyond the chapter corpus.
+claim:mt-10-16-serpents,Serpents of the region,greco-roman-literary,none-found,,No fetched classical serpent passage; searched the chapter corpus.
+claim:mt-10-16-serpents,Serpents of the region,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-serpents,Serpents of the region,geography-or-nature,found,observation:palestine-viper-range,"Grade C: the Palestine viper 'is found in northern and central Israel, Palestine, western Syria, northwestern Jordan, and Lebanon' (reused from Matt 7:10): a venomous snake familiar in exactly the region."
+claim:mt-10-16-serpents,Serpents of the region,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,jewish-literary,none-found,,No fetched Jewish-literary wolf passage beyond the chapter corpus.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,greco-roman-literary,none-found,,No fetched classical wolf passage; searched the chapter corpus.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-16-sheep-wolves,Sheep among wolves,geography-or-nature,found,observation:arabian-wolf-range,"Grade C: the Arabian wolf 'is found in Israel's Negev and Arava Deserts, Jordan, Palestine, and Egypt's Sinai Peninsula' (reused from Matt 7:15): wolves were part of the region's fauna. The fetched source is the desert subspecies, so the note does not extend it to the hills of Galilee and Judea."
+claim:mt-10-16-sheep-wolves,Sheep among wolves,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",inscription,none-found,,No inscription of a flogging court or synagogue tribunal fetched; searched the chapter corpus.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",structure-or-site,found,site:capernaum-synagogue,"Grade C: the excavated Capernaum synagogue shows synagogues as standing institutions of Galilean towns; the 1st-century basalt foundation is suggested, not proven."
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",jewish-literary,found,text:josephus-antiquities-20;text:mishnah-makkot-3-10,"Josephus (Ant. 20.200), grade A: the sanhedrim assembled as a court that judged and condemned James - the same 'councils' (synedria). Mishnah Makkot 3:10, grade C: court flogging fixed at forty lashes less one, with the strap and post described; compiled c. 200 CE and describing the court's flogging, not specifically the synagogue venue."
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",greco-roman-literary,none-found,,No fetched classical author on synagogue discipline; searched the chapter corpus.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",material-culture,none-found,,The Mishnah's flogging strap and post have no excavated counterpart fetched; searched the chapter corpus.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-17-councils-synagogues,"Councils, synagogues and flogging",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-18-governors-kings,Governors and kings,inscription,found,artifact:pilate-stone,"Grade B: the Caesarea inscription (found 1961) names Pontius Pilate as prefect of the Roman province of Judaea in the 1st century: Roman governors of exactly the kind the prediction names ruled Judaea. It does not name the specific governors of the prediction, hence not grade A."
+claim:mt-10-18-governors-kings,Governors and kings,coin,none-found,,Pilate's prutah coins are a known lead (queued for Matt 26-27) but were not fetched this run.
+claim:mt-10-18-governors-kings,Governors and kings,structure-or-site,none-found,,Praetorium/governor's residence sites belong to Matt 27; nothing fetched this run.
+claim:mt-10-18-governors-kings,Governors and kings,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-18-governors-kings,Governors and kings,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-18-governors-kings,Governors and kings,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-18-governors-kings,Governors and kings,jewish-literary,found,text:josephus-war-2-varus,"Grade B: Josephus (War 2.5.2) shows a Roman commander (Varus, president of Syria) operating with full power in Judaea in 4 BCE - Roman provincial rule of the kind the verse assumes."
+claim:mt-10-18-governors-kings,Governors and kings,greco-roman-literary,none-found,,Tacitus on Roman governors of Judaea was not fetched this run; searched the chapter corpus.
+claim:mt-10-18-governors-kings,Governors and kings,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-18-governors-kings,Governors and kings,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-18-governors-kings,Governors and kings,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-25-beelzebul,Beelzebul,inscription,none-found,,"No inscription of Baal-zebub or Beelzebul was fetched; the deity is named in 2 Kings 1:2 (biblical cross-reference, linked with related_to)."
+claim:mt-10-25-beelzebul,Beelzebul,coin,none-found,,No Ekron/Baal-zebub artifact fetched; searched the chapter corpus.
+claim:mt-10-25-beelzebul,Beelzebul,structure-or-site,none-found,,Ekron (the Philistine city of the god) was not fetched this run; a possible follow-up.
+claim:mt-10-25-beelzebul,Beelzebul,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-25-beelzebul,Beelzebul,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-25-beelzebul,Beelzebul,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-25-beelzebul,Beelzebul,jewish-literary,none-found,,Josephus on Baal-zebub of Ekron was not fetched; the Eleazar exorcism passage (data/matthew/07) is the exorcism milieu but does not bear on the name.
+claim:mt-10-25-beelzebul,Beelzebul,greco-roman-literary,none-found,,No fetched classical author on Beelzebul; searched the chapter corpus.
+claim:mt-10-25-beelzebul,Beelzebul,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-25-beelzebul,Beelzebul,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-25-beelzebul,Beelzebul,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,coin,found,artifact:assarion-coin,"Grade C: the as (Greek assarion) was 'a bronze, and later copper, coin' and 'the lowest valued coin regularly issued during the Roman Empire': the small coin of the verse is real and of the smallest denomination. The two-sparrows price itself has no independent ancient source this run."
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,structure-or-site,none-found,,No market excavation fetched this run; searched the chapter corpus.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,jewish-literary,none-found,,No fetched rabbinic price list or market rule for birds this run; searched the chapter corpus.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,greco-roman-literary,none-found,,No fetched classical passage on bird prices in markets; searched the chapter corpus.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,geography-or-nature,none-found,,The fetched house sparrow article calls it 'a food item' but states nothing about market sale or prices; the two-for-an-assarion price has no fetched source.
+claim:mt-10-29-assarion-sparrows,Two sparrows for an assarion,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-34-sword,The sword,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-34-sword,The sword,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-34-sword,The sword,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-34-sword,The sword,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-34-sword,The sword,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-34-sword,The sword,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-34-sword,The sword,jewish-literary,none-found,,Josephus on weapons in Judean hands (War) was not fetched this run beyond the Varus passage; searched the chapter corpus.
+claim:mt-10-34-sword,The sword,greco-roman-literary,none-found,,No fetched classical passage on Judean weaponry; searched the chapter corpus.
+claim:mt-10-34-sword,The sword,material-culture,found,artifact:roman-swords-cave-of-swords,"Grade C: four iron Roman swords (Pompeii-type spathae) and a pilum head hidden in the Cave of the Swords near Ein Gedi, 2nd-century CE context: the sword was a real, common weapon in Judaea. Dated a century after Matt 10's setting, so it shows the weapon's currency, not a 1st-century find."
+claim:mt-10-34-sword,The sword,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-34-sword,The sword,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,inscription,none-found,,No crucifixion inscription (titulus or similar) fetched this run; searched the chapter corpus.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,burial-or-ossuary,found,artifact:yehohanan-heel-bone,"Grade B: the excavated (1968, Giv'at ha-Mivtar) heel bone of Yehohanan, crucified in the 1st century CE, with a nail driven through it: crucifixion was physically practiced in Judaea in the exact period."
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,jewish-literary,found,text:josephus-war-2-varus,Grade B: Josephus (War 2.5.2) records Varus crucifying 'about two thousand' of the most guilty after the 4 BCE disturbances: mass Roman crucifixion in Judaea a generation before Matt 10.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,greco-roman-literary,none-found,,Tacitus on crucifixion was not fetched this run; searched the chapter corpus.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,material-culture,none-found,,Nails and cross timber enter via the Yehohanan find (burial cell); no separate crucifixion object fetched.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-38-crucifixion,Crucifixion in Judaea,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-42-cup-cold-water,A cup of cold water,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-42-cup-cold-water,A cup of cold water,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-42-cup-cold-water,A cup of cold water,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-42-cup-cold-water,A cup of cold water,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-42-cup-cold-water,A cup of cold water,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-10-42-cup-cold-water,A cup of cold water,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-42-cup-cold-water,A cup of cold water,jewish-literary,none-found,,No fetched rabbinic hospitality rule covering a cup of water; searched the chapter corpus.
+claim:mt-10-42-cup-cold-water,A cup of cold water,greco-roman-literary,none-found,,No fetched classical hospitality parallel; searched the chapter corpus.
+claim:mt-10-42-cup-cold-water,A cup of cold water,material-culture,none-found,,"No cup or vessel tied to hospitality was fetched this run; searched the chapter corpus (herodian lamps, ovens from earlier chapters are the domestic context)."
+claim:mt-10-42-cup-cold-water,A cup of cold water,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-10-42-cup-cold-water,A cup of cold water,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:bartholomew-the-apostle,Bartholomew (apostle),inscription,none-found,,No inscription naming bartholomew the apostle was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:bartholomew-the-apostle,Bartholomew (apostle),coin,n/a,,Category cannot bear evidence for this anchor.
+person:bartholomew-the-apostle,Bartholomew (apostle),structure-or-site,none-found,,No site fetched this run ties bartholomew the apostle to a building or town; searched the chapter corpus.
+person:bartholomew-the-apostle,Bartholomew (apostle),burial-or-ossuary,none-found,,Ossuary material naming bartholomew the apostle was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:bartholomew-the-apostle,Bartholomew (apostle),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:bartholomew-the-apostle,Bartholomew (apostle),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:bartholomew-the-apostle,Bartholomew (apostle),jewish-literary,none-found,,The fetched Josephus and Mishnah passages do not name bartholomew the apostle; searched the chapter corpus.
+person:bartholomew-the-apostle,Bartholomew (apostle),greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:bartholomew-the-apostle,Bartholomew (apostle),material-culture,none-found,,No object tied to bartholomew the apostle was fetched; searched the chapter corpus.
+person:bartholomew-the-apostle,Bartholomew (apostle),geography-or-nature,none-found,,No geographic observation ties bartholomew the apostle to a place this run.
+person:bartholomew-the-apostle,Bartholomew (apostle),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:james-son-of-alphaeus,James (son of Alphaeus),inscription,none-found,,No inscription naming james son of alphaeus was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:james-son-of-alphaeus,James (son of Alphaeus),coin,n/a,,Category cannot bear evidence for this anchor.
+person:james-son-of-alphaeus,James (son of Alphaeus),structure-or-site,none-found,,No site fetched this run ties james son of alphaeus to a building or town; searched the chapter corpus.
+person:james-son-of-alphaeus,James (son of Alphaeus),burial-or-ossuary,none-found,,Ossuary material naming james son of alphaeus was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:james-son-of-alphaeus,James (son of Alphaeus),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:james-son-of-alphaeus,James (son of Alphaeus),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:james-son-of-alphaeus,James (son of Alphaeus),jewish-literary,none-found,,The fetched Josephus and Mishnah passages do not name james son of alphaeus; searched the chapter corpus.
+person:james-son-of-alphaeus,James (son of Alphaeus),greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:james-son-of-alphaeus,James (son of Alphaeus),material-culture,none-found,,No object tied to james son of alphaeus was fetched; searched the chapter corpus.
+person:james-son-of-alphaeus,James (son of Alphaeus),geography-or-nature,none-found,,No geographic observation ties james son of alphaeus to a place this run.
+person:james-son-of-alphaeus,James (son of Alphaeus),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),inscription,none-found,,No first-century inscription naming Jesus was fetched this run; searched the chapter corpus.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),coin,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),structure-or-site,found,site:capernaum-synagogue,Grade B: the excavated Capernaum synagogue (basalt foundation suggested to be 1st century) fixes the Galilean town setting of his ministry and of Matt 10's mission charge.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),burial-or-ossuary,none-found,,Ossuary material naming jesus of nazareth was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),jewish-literary,found,text:josephus-antiquities-20,"Grade A: Josephus (Ant. 20.200) names 'the brother of Jesus, who was called Christ, whose name was James' - an independent first-century mention of Jesus and his movement (same evidence as Matt 5)."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),greco-roman-literary,none-found,,Tacitus (Annals 15.44) was not fetched this run; searched the chapter corpus.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),material-culture,none-found,,No object tied to jesus of nazareth was fetched; searched the chapter corpus.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),geography-or-nature,none-found,,"Geographic observations fetched this chapter (wolves, vipers) bear on his imagery, not his person."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:judas-iscariot,Judas Iscariot,inscription,none-found,,No inscription naming judas iscariot was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:judas-iscariot,Judas Iscariot,coin,n/a,,Category cannot bear evidence for this anchor.
+person:judas-iscariot,Judas Iscariot,structure-or-site,none-found,,No site fetched this run ties judas iscariot to a building or town; searched the chapter corpus.
+person:judas-iscariot,Judas Iscariot,burial-or-ossuary,none-found,,Ossuary material naming judas iscariot was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:judas-iscariot,Judas Iscariot,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:judas-iscariot,Judas Iscariot,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:judas-iscariot,Judas Iscariot,jewish-literary,none-found,,"Josephus does not name Judas Iscariot; the Sicarii he describes (Ant. 20) are a later movement, and the etymology dispute is recorded on claim:mt-10-04-iscariot-meaning with its source."
+person:judas-iscariot,Judas Iscariot,greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:judas-iscariot,Judas Iscariot,material-culture,none-found,,No object tied to judas iscariot was fetched; searched the chapter corpus.
+person:judas-iscariot,Judas Iscariot,geography-or-nature,none-found,,No geographic observation ties judas iscariot to a place this run.
+person:judas-iscariot,Judas Iscariot,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:matthew-the-apostle,Matthew (apostle),inscription,none-found,,No inscription naming matthew the apostle was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:matthew-the-apostle,Matthew (apostle),coin,n/a,,Category cannot bear evidence for this anchor.
+person:matthew-the-apostle,Matthew (apostle),structure-or-site,none-found,,No site fetched this run ties matthew the apostle to a building or town; searched the chapter corpus.
+person:matthew-the-apostle,Matthew (apostle),burial-or-ossuary,none-found,,Ossuary material naming matthew the apostle was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:matthew-the-apostle,Matthew (apostle),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:matthew-the-apostle,Matthew (apostle),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:matthew-the-apostle,Matthew (apostle),jewish-literary,none-found,,The fetched Josephus and Mishnah passages do not name matthew the apostle; searched the chapter corpus.
+person:matthew-the-apostle,Matthew (apostle),greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:matthew-the-apostle,Matthew (apostle),material-culture,none-found,,No object tied to matthew the apostle was fetched; searched the chapter corpus.
+person:matthew-the-apostle,Matthew (apostle),geography-or-nature,none-found,,No geographic observation ties matthew the apostle to a place this run.
+person:matthew-the-apostle,Matthew (apostle),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:philip-the-apostle,Philip (apostle),inscription,none-found,,No inscription naming philip the apostle was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:philip-the-apostle,Philip (apostle),coin,n/a,,Category cannot bear evidence for this anchor.
+person:philip-the-apostle,Philip (apostle),structure-or-site,none-found,,No site fetched this run ties philip the apostle to a building or town; searched the chapter corpus.
+person:philip-the-apostle,Philip (apostle),burial-or-ossuary,none-found,,Ossuary material naming philip the apostle was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:philip-the-apostle,Philip (apostle),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:philip-the-apostle,Philip (apostle),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:philip-the-apostle,Philip (apostle),jewish-literary,none-found,,The fetched Josephus and Mishnah passages do not name philip the apostle; searched the chapter corpus.
+person:philip-the-apostle,Philip (apostle),greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:philip-the-apostle,Philip (apostle),material-culture,none-found,,No object tied to philip the apostle was fetched; searched the chapter corpus.
+person:philip-the-apostle,Philip (apostle),geography-or-nature,none-found,,No geographic observation ties philip the apostle to a place this run.
+person:philip-the-apostle,Philip (apostle),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:simon-peter,Simon Peter,inscription,none-found,,No inscription naming simon peter was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:simon-peter,Simon Peter,coin,n/a,,Category cannot bear evidence for this anchor.
+person:simon-peter,Simon Peter,structure-or-site,none-found,,No site fetched this run ties simon peter to a building or town; searched the chapter corpus.
+person:simon-peter,Simon Peter,burial-or-ossuary,none-found,,Ossuary material naming simon peter was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:simon-peter,Simon Peter,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:simon-peter,Simon Peter,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:simon-peter,Simon Peter,jewish-literary,none-found,,The fetched Josephus and Mishnah passages do not name simon peter; searched the chapter corpus.
+person:simon-peter,Simon Peter,greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:simon-peter,Simon Peter,material-culture,none-found,,No object tied to simon peter was fetched; searched the chapter corpus.
+person:simon-peter,Simon Peter,geography-or-nature,none-found,,No geographic observation ties simon peter to a place this run.
+person:simon-peter,Simon Peter,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-zealot,Simon the Zealot,inscription,none-found,,No inscription naming simon the zealot was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:simon-the-zealot,Simon the Zealot,coin,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-zealot,Simon the Zealot,structure-or-site,none-found,,No site fetched this run ties simon the zealot to a building or town; searched the chapter corpus.
+person:simon-the-zealot,Simon the Zealot,burial-or-ossuary,none-found,,Ossuary material naming simon the zealot was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:simon-the-zealot,Simon the Zealot,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:simon-the-zealot,Simon the Zealot,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-zealot,Simon the Zealot,jewish-literary,none-found,,Josephus's fourth-philosophy passage (Ant. 18.1.6) describes the Zealot movement but never names Simon; the epithet link is carried on claim:mt-10-04-simon-zealot-epithet (grade C).
+person:simon-the-zealot,Simon the Zealot,greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:simon-the-zealot,Simon the Zealot,material-culture,none-found,,No object tied to simon the zealot was fetched; searched the chapter corpus.
+person:simon-the-zealot,Simon the Zealot,geography-or-nature,none-found,,No geographic observation ties simon the zealot to a place this run.
+person:simon-the-zealot,Simon the Zealot,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:thaddaeus,Thaddaeus (Lebbaeus),inscription,none-found,,No inscription naming thaddaeus was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:thaddaeus,Thaddaeus (Lebbaeus),coin,n/a,,Category cannot bear evidence for this anchor.
+person:thaddaeus,Thaddaeus (Lebbaeus),structure-or-site,none-found,,No site fetched this run ties thaddaeus to a building or town; searched the chapter corpus.
+person:thaddaeus,Thaddaeus (Lebbaeus),burial-or-ossuary,none-found,,"No ossuary naming Thaddaeus/Lebbaeus was encountered; the identity dispute (Judas son of James, Lebbaeus) is recorded on the person node with its source."
+person:thaddaeus,Thaddaeus (Lebbaeus),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:thaddaeus,Thaddaeus (Lebbaeus),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:thaddaeus,Thaddaeus (Lebbaeus),jewish-literary,none-found,,The fetched Josephus and Mishnah passages do not name thaddaeus; searched the chapter corpus.
+person:thaddaeus,Thaddaeus (Lebbaeus),greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:thaddaeus,Thaddaeus (Lebbaeus),material-culture,none-found,,No object tied to thaddaeus was fetched; searched the chapter corpus.
+person:thaddaeus,Thaddaeus (Lebbaeus),geography-or-nature,none-found,,No geographic observation ties thaddaeus to a place this run.
+person:thaddaeus,Thaddaeus (Lebbaeus),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:thomas-the-apostle,Thomas (apostle),inscription,none-found,,No inscription naming thomas the apostle was fetched this run; searched the chapter corpus (Wikipedia pages fetched for this chapter).
+person:thomas-the-apostle,Thomas (apostle),coin,n/a,,Category cannot bear evidence for this anchor.
+person:thomas-the-apostle,Thomas (apostle),structure-or-site,none-found,,No site fetched this run ties thomas the apostle to a building or town; searched the chapter corpus.
+person:thomas-the-apostle,Thomas (apostle),burial-or-ossuary,none-found,,Ossuary material naming thomas the apostle was not encountered; searched the ossuary/name-frequency material fetched for this chapter.
+person:thomas-the-apostle,Thomas (apostle),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:thomas-the-apostle,Thomas (apostle),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:thomas-the-apostle,Thomas (apostle),jewish-literary,none-found,,The fetched Josephus and Mishnah passages do not name thomas the apostle; searched the chapter corpus.
+person:thomas-the-apostle,Thomas (apostle),greco-roman-literary,n/a,,No classical author would be expected to name this disciple; category cannot add evidence here.
+person:thomas-the-apostle,Thomas (apostle),material-culture,none-found,,No object tied to thomas the apostle was fetched; searched the chapter corpus.
+person:thomas-the-apostle,Thomas (apostle),geography-or-nature,none-found,,No geographic observation ties thomas the apostle to a place this run.
+person:thomas-the-apostle,Thomas (apostle),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:gomorrah,Gomorrah,inscription,none-found,,No inscription naming this place was fetched this run; searched the chapter corpus.
+place:gomorrah,Gomorrah,coin,none-found,,Nothing to search beyond the chapter corpus.
+place:gomorrah,Gomorrah,structure-or-site,none-found,,No site node for a Gomorrah candidate was created: the identifications are disputed and the fetched article calls the evidence inconclusive.
+place:gomorrah,Gomorrah,burial-or-ossuary,none-found,,No burial evidence for this place was fetched this run.
+place:gomorrah,Gomorrah,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:gomorrah,Gomorrah,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:gomorrah,Gomorrah,jewish-literary,none-found,,Only the biblical cross-reference (Genesis 19:24) fetched; a biblical text cannot attest.
+place:gomorrah,Gomorrah,greco-roman-literary,none-found,,Classical references to the Dead Sea region were not fetched this run.
+place:gomorrah,Gomorrah,material-culture,none-found,,No object from a Gomorrah candidate site was fetched this run.
+place:gomorrah,Gomorrah,geography-or-nature,none-found,,Searched the Sodom and Gomorrah article with Sodom: identifications are inconclusive (Bab edh-Dhra and Numeira suggested); no find graded.
+place:gomorrah,Gomorrah,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:mount-gerizim,Mount Gerizim,inscription,found,site:mount-gerizim-temple,Grade B: the excavations found many stones with inscriptions containing the Tetragrammaton inside the temple precinct (fetched Mount Gerizim article; no separate inscription node created this run).
+place:mount-gerizim,Mount Gerizim,coin,none-found,,No coin naming or minted at this place was fetched this run.
+place:mount-gerizim,Mount Gerizim,structure-or-site,found,site:mount-gerizim-temple,"Grade B: excavations (1983-2006) identified a Samaritan temple atop Mount Gerizim by the mid-5th century BCE, destroyed and rebuilt in the early 2nd century BCE and destroyed again 111-110 BCE."
+place:mount-gerizim,Mount Gerizim,burial-or-ossuary,none-found,,No burial material from Gerizim was fetched this run.
+place:mount-gerizim,Mount Gerizim,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:mount-gerizim,Mount Gerizim,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:mount-gerizim,Mount Gerizim,jewish-literary,found,text:josephus-ant-11-gerizim,"Grade B: Josephus names Shechem as situate at Mount Gerizzim, the Samaritan metropolis."
+place:mount-gerizim,Mount Gerizim,greco-roman-literary,none-found,,No fetched classical author bears on this place; searched the chapter corpus.
+place:mount-gerizim,Mount Gerizim,material-culture,found,site:mount-gerizim-temple,"Grade C: thousands of pottery vessels and burned bones of sheep, goats, cattle and doves were found in the precinct - the sacrificial worship of the Samaritan temple."
+place:mount-gerizim,Mount Gerizim,geography-or-nature,none-found,,No geographic observation for this place beyond the corpus; searched the chapter corpus.
+place:mount-gerizim,Mount Gerizim,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:samaria,Samaria,inscription,none-found,,No inscription naming this place was fetched this run; searched the chapter corpus.
+place:samaria,Samaria,coin,none-found,,No coin naming or minted at this place was fetched this run.
+place:samaria,Samaria,structure-or-site,found,site:mount-gerizim-temple,"Grade B: the excavated Samaritan sacred precinct on Mount Gerizim, in the heart of Samaria, shows the region's distinct cultic centre standing into the Hasmonean destruction (111-110 BCE)."
+place:samaria,Samaria,burial-or-ossuary,none-found,,No burial evidence for this place was fetched this run.
+place:samaria,Samaria,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:samaria,Samaria,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:samaria,Samaria,jewish-literary,found,text:josephus-ant-11-gerizim,"Grade B: Josephus (Ant. 11.8.6) describes the Samaritans with 'Shechem for their metropolis, a city situate at Mount Gerizzim' - the region as a distinct population centre."
+place:samaria,Samaria,greco-roman-literary,none-found,,No fetched classical author bears on Samaria; searched the chapter corpus.
+place:samaria,Samaria,material-culture,none-found,,No object from this place was fetched this run.
+place:samaria,Samaria,geography-or-nature,none-found,,"No geographic observation fetched this run; Samaria lay between Galilee and Judea on the mission's route, but no source was fetched that states the route's regional sequence."
+place:samaria,Samaria,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:sodom,Sodom,inscription,none-found,,No inscription naming this place was fetched this run; searched the chapter corpus.
+place:sodom,Sodom,coin,none-found,,Nothing to search beyond the chapter corpus; no Sodom coinage exists to fetch.
+place:sodom,Sodom,structure-or-site,none-found,,"No site node for a Sodom candidate was created: the identifications are disputed (Bab edh-Dhra, Numeira, Tall el-Hammam) and the fetched article calls the evidence inconclusive."
+place:sodom,Sodom,burial-or-ossuary,none-found,,No burial evidence for this place was fetched this run.
+place:sodom,Sodom,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:sodom,Sodom,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:sodom,Sodom,jewish-literary,none-found,,"Only the biblical cross-reference (Genesis 19:24, WEB) was fetched; a biblical text cannot attest. Josephus on the Dead Sea region was not fetched this run."
+place:sodom,Sodom,greco-roman-literary,none-found,,"Classical references to the Dead Sea region (Strabo, Pliny) were not fetched this run; searched the chapter corpus."
+place:sodom,Sodom,material-culture,none-found,,No object from a Sodom candidate site was fetched this run.
+place:sodom,Sodom,geography-or-nature,none-found,,"Searched the Sodom and Gomorrah article: candidates at the Dead Sea (Bab edh-Dhra, Numeira; the Tall el-Hammam airburst paper was retracted in 2025) are suggested 'though archaeological evidence is inconclusive' - no identification secured, so the cell stays none-found and the dispute is recorded on claim:mt-10-15-sodom-gomorrah-judgment."
+place:sodom,Sodom,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

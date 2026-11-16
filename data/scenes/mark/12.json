@@ -1,0 +1,15 @@
+{
+  "book": "mark",
+  "chapter": 12,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        44
+      ],
+      "setting": "site:second-temple",
+      "basis": "12:1 \"He began to speak to them in parables\" - continuing 11:27 in the temple; 12:35 \"as he taught in the temple\"; 12:41 \"opposite the treasury\"",
+      "confidence": "inferred"
+    }
+  ]
+}

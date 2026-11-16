@@ -1,0 +1,348 @@
+{"from": "passage:lk-03-01", "type": "asserts", "to": "claim:lk-03-01-tiberius-15th-year"}
+{"from": "passage:lk-03-01", "type": "asserts", "to": "claim:lk-03-01-pilate-governor"}
+{"from": "passage:lk-03-01", "type": "asserts", "to": "claim:lk-03-01-antipas-tetrarch"}
+{"from": "passage:lk-03-01", "type": "asserts", "to": "claim:lk-03-01-philip-tetrarch"}
+{"from": "passage:lk-03-01", "type": "asserts", "to": "claim:lk-03-01-lysanias-tetrarch"}
+{"from": "passage:lk-03-02", "type": "asserts", "to": "claim:lk-03-02-annas-high-priest"}
+{"from": "passage:lk-03-02", "type": "asserts", "to": "claim:lk-03-02-caiaphas-high-priest"}
+{"from": "passage:lk-03-02", "type": "asserts", "to": "claim:mt-03-01-john-preached-wilderness"}
+{"from": "passage:lk-03-03", "type": "asserts", "to": "claim:mt-03-06-baptized-in-jordan"}
+{"from": "passage:lk-03-04", "type": "asserts", "to": "claim:lk-03-04-06-isaiah-40-3-5-quoted"}
+{"from": "passage:lk-03-07", "type": "asserts", "to": "claim:lk-03-07-wrath-warning"}
+{"from": "passage:lk-03-08", "type": "asserts", "to": "claim:lk-03-08-abraham-children"}
+{"from": "passage:lk-03-10", "type": "asserts", "to": "claim:lk-03-10-11-cloaks-food"}
+{"from": "passage:lk-03-11", "type": "asserts", "to": "claim:lk-03-10-11-cloaks-food"}
+{"from": "passage:lk-03-12", "type": "asserts", "to": "claim:lk-03-12-13-tax-collectors"}
+{"from": "passage:lk-03-13", "type": "asserts", "to": "claim:lk-03-12-13-tax-collectors"}
+{"from": "passage:lk-03-14", "type": "asserts", "to": "claim:lk-03-14-soldiers-wages"}
+{"from": "passage:lk-03-15", "type": "asserts", "to": "claim:lk-03-15-expectation-christ"}
+{"from": "passage:lk-03-16", "type": "asserts", "to": "claim:lk-03-16-holy-spirit-fire"}
+{"from": "passage:lk-03-16", "type": "asserts", "to": "claim:mk-01-07-sandal-thong"}
+{"from": "passage:lk-03-17", "type": "asserts", "to": "claim:lk-03-17-winnowing-fan"}
+{"from": "passage:lk-03-19", "type": "asserts", "to": "claim:mt-14-03-john-imprisoned-herodias"}
+{"from": "passage:lk-03-20", "type": "asserts", "to": "claim:mt-14-03-john-imprisoned-herodias"}
+{"from": "passage:lk-03-21", "type": "asserts", "to": "claim:mt-03-13-jesus-baptized"}
+{"from": "passage:lk-03-22", "type": "asserts", "to": "claim:mt-03-13-jesus-baptized"}
+{"from": "passage:lk-03-23", "type": "asserts", "to": "claim:lk-03-23-jesus-about-thirty"}
+{"from": "passage:lk-03-23", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-24", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-25", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-26", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-27", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-28", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-29", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-30", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-31", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-32", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-33", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-34", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-35", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-36", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-37", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "passage:lk-03-38", "type": "asserts", "to": "claim:lk-03-23-38-genealogy-nathan"}
+{"from": "claim:lk-03-01-tiberius-15th-year", "type": "mentions", "to": "person:tiberius"}
+{"from": "claim:lk-03-01-pilate-governor", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:lk-03-01-pilate-governor", "type": "mentions", "to": "person:tiberius"}
+{"from": "claim:lk-03-01-antipas-tetrarch", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:lk-03-01-antipas-tetrarch", "type": "mentions", "to": "person:tiberius"}
+{"from": "claim:lk-03-01-philip-tetrarch", "type": "mentions", "to": "person:philip-the-tetrarch"}
+{"from": "claim:lk-03-01-philip-tetrarch", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:lk-03-01-lysanias-tetrarch", "type": "mentions", "to": "person:lysanias-tetrarch"}
+{"from": "claim:lk-03-01-lysanias-tetrarch", "type": "mentions", "to": "place:abilene"}
+{"from": "claim:lk-03-02-annas-high-priest", "type": "mentions", "to": "person:annas-high-priest"}
+{"from": "claim:lk-03-02-annas-high-priest", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:lk-03-02-caiaphas-high-priest", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:lk-03-04-06-isaiah-40-3-5-quoted", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-04-06-isaiah-40-3-5-quoted", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:lk-03-07-wrath-warning", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-08-abraham-children", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-08-abraham-children", "type": "mentions", "to": "person:abraham"}
+{"from": "claim:lk-03-10-11-cloaks-food", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-12-13-tax-collectors", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-14-soldiers-wages", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-14-soldiers-wages", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:lk-03-15-expectation-christ", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-16-holy-spirit-fire", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-17-winnowing-fan", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-03-23-jesus-about-thirty", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-03-23-jesus-about-thirty", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:heli"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:matthat-son-of-levi-1"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:levi-son-of-melchi"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:melchi-son-of-jannai"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:jannai"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:joseph-son-of-jannai"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:mattathias-son-of-joseph"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:amos-lk"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:nahum-lk"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:esli"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:naggai"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:maath"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:mattathias-son-of-semein"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:semein"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:joseph-son-of-semein-line"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:judah-son-of-joanan"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:joanan"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:rhesa"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:neri"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:melchi-son-of-addi"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:addi"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:cosam"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:elmodam"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:er-lk"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:jose-lk"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:eliezer-lk"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:jorim"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:matthat-son-of-levi-2"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:levi-son-of-simeon"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:simeon-son-of-judah-2"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:judah-son-of-joseph-3"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:joseph-son-of-jonan"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:jonan"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:eliakim-son-of-jonan-line"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:melea"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:menan"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:mattatha"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:nathan-son-of-david"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:aram-son-of-hezron"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:terah"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:nahor"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:serug"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:reu"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:peleg"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:eber"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:shelah"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:cainan-son-of-arphaxad"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:arphaxad"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:shem"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:noah"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:lamech-son-of-methuselah"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:methuselah"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:enoch-son-of-jared"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:jared"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:mahalaleel"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:cainan-son-of-mahalaleel"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:enos"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:seth-son-of-adam"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:adam"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:zerubbabel"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:shealtiel"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:david"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:jesse"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:obed"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:boaz"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:salmon"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:nahshon"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:amminadab"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:hezron"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:perez"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:judah"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:jacob-patriarch"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:isaac"}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "mentions", "to": "person:abraham"}
+{"from": "passage:lk-03-02", "type": "parallels", "to": "passage:mt-03-01", "note": "Luke's 'the word of God came to John son of Zacharias in the wilderness' is the same event as Matthew's 'John the Baptist appeared, preaching in the wilderness of Judea'; Luke names John's father, Matthew never does."}
+{"from": "passage:lk-03-03", "type": "parallels", "to": "passage:mt-03-02", "note": "John's preaching of repentance."}
+{"from": "passage:lk-03-03", "type": "parallels", "to": "passage:mt-03-06", "note": "Baptism in/around the Jordan; Luke says he went through 'all the region around the Jordan'."}
+{"from": "passage:lk-03-04", "type": "parallels", "to": "passage:mt-03-03", "note": "Both quote Isaiah 40:3 for John; Luke quotes the fuller text through Isaiah 40:5."}
+{"from": "passage:lk-03-04", "type": "parallels", "to": "passage:mk-01-03", "note": "Isaiah 40:3."}
+{"from": "passage:lk-03-07", "type": "parallels", "to": "passage:mt-03-07", "note": "The 'offspring of vipers' warning and demand for fruits worthy of repentance; Matthew addresses Pharisees and Sadducees, Luke the multitudes."}
+{"from": "passage:lk-03-08", "type": "parallels", "to": "passage:mt-03-09", "note": "The warning against 'We have Abraham for our father' and children raised from stones."}
+{"from": "passage:lk-03-09", "type": "parallels", "to": "passage:mt-03-10", "note": "The ax at the root of the trees."}
+{"from": "passage:lk-03-16", "type": "parallels", "to": "passage:mt-03-11", "note": "One mightier than I, whose sandals I am unworthy to carry/loosen; baptism with the Holy Spirit and fire."}
+{"from": "passage:lk-03-16", "type": "parallels", "to": "passage:mk-01-07", "note": "The sandal-strap saying."}
+{"from": "passage:lk-03-16", "type": "parallels", "to": "passage:mk-01-08", "note": "Baptism with water versus the Holy Spirit."}
+{"from": "passage:lk-03-17", "type": "parallels", "to": "passage:mt-03-12", "note": "The winnowing fan, wheat into the barn, chaff burned with unquenchable fire."}
+{"from": "passage:lk-03-19", "type": "parallels", "to": "passage:mt-14-03", "note": "John reproved for Herodias, his brother's wife; Luke adds 'and for all the evil things which Herod had done' and narrates the imprisonment before Jesus's baptism."}
+{"from": "passage:lk-03-19", "type": "parallels", "to": "passage:mk-06-17", "note": "Herodias as the wife of Philip, Herod's brother; Luke does not name Philip here."}
+{"from": "passage:lk-03-20", "type": "parallels", "to": "passage:mt-14-03", "note": "Herod shut John up in prison."}
+{"from": "passage:lk-03-20", "type": "parallels", "to": "passage:mk-06-17", "note": "Herod sent and seized John."}
+{"from": "passage:lk-03-21", "type": "parallels", "to": "passage:mt-03-13", "note": "Jesus's baptism in the Jordan; Luke adds that Jesus was praying and that 'all the people' had been baptized."}
+{"from": "passage:lk-03-21", "type": "parallels", "to": "passage:mk-01-09", "note": "Baptism by John in the Jordan."}
+{"from": "passage:lk-03-22", "type": "parallels", "to": "passage:mt-03-16", "note": "The Spirit descending like a dove; Luke says 'in a bodily form'."}
+{"from": "passage:lk-03-22", "type": "parallels", "to": "passage:mt-03-17", "note": "The voice from heaven; Matthew has 'This is my beloved Son', Luke the direct address 'You are my beloved Son'."}
+{"from": "passage:lk-03-22", "type": "parallels", "to": "passage:mk-01-10", "note": "The Spirit like a dove."}
+{"from": "passage:lk-03-22", "type": "parallels", "to": "passage:mk-01-11", "note": "The voice: 'You are my beloved Son' (Mark, like Luke, uses the direct address)."}
+{"from": "claim:lk-03-01-pilate-governor", "type": "related_to", "to": "claim:mt-27-02-11-pilate-governor", "note": "Same man and office; Matthew attests Pilate's governorship at the Passion, Luke dates the office to the fifteenth year of Tiberius."}
+{"from": "claim:lk-03-01-antipas-tetrarch", "type": "related_to", "to": "claim:mt-14-01-antipas-tetrarch", "note": "Same man and office; Matthew attests the tetrarchy at the time John's report reached Herod, Luke dates it to the fifteenth year of Tiberius."}
+{"from": "claim:lk-03-02-caiaphas-high-priest", "type": "related_to", "to": "claim:mt-26-03-caiaphas-high-priest", "note": "Same man and office; Matthew attests the high priesthood at the feast of the Passion, Luke dates it to the fifteenth year of Tiberius."}
+{"from": "claim:lk-03-04-06-isaiah-40-3-5-quoted", "type": "related_to", "to": "claim:mt-03-03-isaiah-40-3-applied", "note": "Matthew quotes Isaiah 40:3 only; Luke quotes the fuller Isaiah 40:3-5 including 'All flesh will see God's salvation'."}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "related_to", "to": "claim:mt-01-16-jacob-to-jesus", "note": "Matthew makes Joseph the son of Jacob; Luke makes Joseph 'the son (as was supposed) of Heli'."}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "related_to", "to": "claim:mt-01-06-jesse-to-solomon", "note": "From David to Jesus the two genealogies share almost no names: Luke runs through David's son Nathan, Matthew through Solomon."}
+{"from": "claim:lk-03-23-38-genealogy-nathan", "type": "related_to", "to": "claim:mt-01-02-abraham-to-judah", "note": "Both lists agree from Abraham to David; Luke continues past Abraham to Adam and God, Matthew stops at Abraham."}
+{"from": "claim:lk-03-07-wrath-warning", "type": "related_to", "to": "claim:mt-03-07-pharisees-sadducees", "note": "Matthew says Pharisees and Sadducees came out and received the 'offspring of vipers' warning; Luke gives the same warning to the multitudes who came to be baptized."}
+{"from": "artifact:pilate-stone", "type": "attests", "to": "claim:lk-03-01-pilate-governor", "grade": "A", "note": "The Caesarea inscription names '[Po]ntius Pilatus, [praef]ectus Iuda[e]ae' - the same man holding the same Judean governorship Luke dates to Tiberius's fifteenth year."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:lk-03-01-pilate-governor", "grade": "A", "note": "Tacitus, Annals 15.44: Christus suffered 'during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus' - the same man governing Judea under Tiberius."}
+{"from": "artifact:tiberius-denarius", "type": "attests", "to": "claim:lk-03-01-tiberius-15th-year", "grade": "C", "note": "Denarii struck during Tiberius's reign (14-37 CE) confirm the reign Luke dates by its fifteenth year; they cannot by themselves fix which regnal counting Luke used."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "claim:lk-03-01-antipas-tetrarch", "grade": "A", "note": "Antipas's bronze coins carry his name and title 'tetrarch' across his 42-year rule, which began in 4 BCE and so covered the fifteenth year of Tiberius."}
+{"from": "text:josephus-ant-17-320-tribute", "type": "attests", "to": "claim:lk-03-01-antipas-tetrarch", "grade": "B", "note": "Josephus, Ant. 17.320: 'Peres and Galilee paid... tribute... annually to two hundred talents' to Antipas when Archelaus's realm was divided - his Galilee-Perea tetrarchy in place at the start of the period."}
+{"from": "artifact:philip-tetrarch-coins", "type": "attests", "to": "claim:lk-03-01-philip-tetrarch", "grade": "A", "note": "Philip's bronze coins carry the inscription 'of Philip the Tetrarch' with portraits of Augustus and Tiberius; his dated regnal years run from his 4 BCE accession through the fifteenth year of Tiberius."}
+{"from": "text:josephus-ant-17-188-189-tetrarchies", "type": "attests", "to": "claim:lk-03-01-philip-tetrarch", "grade": "B", "note": "Josephus, Ant. 17.188-189: Herod's testament gave 'Gaulonitis, and Trachonitis, and Paneas to Philip... by the name of a tetrarchy' - the northeastern tetrarchy Luke names, though Josephus does not use the word 'Ituraea'."}
+{"from": "text:josephus-ant-18-106-108-philip", "type": "attests", "to": "claim:lk-03-01-philip-tetrarch", "grade": "A", "note": "Josephus, Ant. 18.106: Philip died 'in the twentieth year of the reign of Tiberius, after he had been tetrarch of Trachonitis and Gaulanitis, and of the nation of the Bataneans also, thirty-seven years' - so he was tetrarch throughout the fifteenth year of Tiberius. Regraded B to A by architect review: Josephus names Philip as tetrarch and dates his death to Tiberius's twentieth year, so the tenure covers the fifteenth."}
+{"from": "artifact:abila-lysaniou-inscription", "type": "attests", "to": "claim:lk-03-01-lysanias-tetrarch", "grade": "D", "note": "The Abila temple inscription names 'Lysanias the tetrarch' through his freedman Nymphaeus at Abila itself, and Savignac dates the dedication 'for the safety of the lords Augusti' to Livia and Tiberius; graded D because the identification is disputed - Renan argues a gap of at least forty-eight years from Nymphaeus's manumission and takes the dedicator's lord to be a relative of the executed Lysanias, and a third Lysanias under Augustus is possible."}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "attests", "to": "claim:lk-03-02-annas-high-priest", "grade": "A", "note": "Josephus, Ant. 18.26: Gratus 'appointed Ananus, the son of Seth, to be high priest' - the Annas Luke names; he was high priest AD 6-15 and the father-in-law head of the priestly house from which Caiaphas came."}
+{"from": "text:josephus-ant-18-caiaphas", "type": "attests", "to": "claim:lk-03-02-caiaphas-high-priest", "grade": "A", "note": "Josephus, Ant. 18.35: 'Joseph Caiaphas was made his successor' (high priest) by Gratus, and Ant. 18.95 records him still high priest under Pilate - an office spanning the fifteenth year of Tiberius. Regraded B to A by architect review for consistency with Matthew 26: Josephus names Joseph Caiaphas as high priest, appointed by Gratus and still in office under Pilate."}
+{"from": "artifact:caiaphas-ossuary", "type": "attests", "to": "claim:lk-03-02-caiaphas-high-priest", "grade": "B", "note": "The decorated ossuary inscribed 'Joseph son of Caiaphas' names the same high-priestly family Luke names. Regraded A to B by architect review for consistency with Matthew 26: the ossuary names the person, but its inscription carries no high-priestly title, so it is B for the office (A for person:caiaphas)."}
+{"from": "text:josephus-ant-18-1-taxation", "type": "attests", "to": "claim:lk-03-12-13-tax-collectors", "grade": "C", "note": "Josephus, Ant. 18.1.1 records the Roman taxing of Judea under Cyrenius after Archelaus's removal - the standing Roman tax system in the region that employed tax collectors with fixed assessments."}
+{"from": "text:josephus-ant-18-113-115", "type": "attests", "to": "claim:lk-03-14-soldiers-wages", "grade": "C", "note": "Josephus, Ant. 18.113-115 records Antipas's army in the field against Aretas IV - soldiers serving a regional ruler of the kind Luke's soldiers represent; the perica's exact unit is not identified."}
+{"from": "text:suetonius-vespasian-4", "type": "attests", "to": "claim:lk-03-15-expectation-christ", "grade": "C", "note": "Suetonius, Vespasian 4: 'There had spread over all the Orient an old and established belief, that it was fated at that time for men coming from Judaea to rule the world' - the widespread expectation Luke's crowd 'in expectation' reflects; Suetonius applies it to Vespasian."}
+{"from": "text:psalms-of-solomon-17", "type": "attests", "to": "claim:lk-03-15-expectation-christ", "grade": "C", "note": "The pre-Christian Psalms of Solomon include messianic psalms expecting a divinely assisted mortal king - the Jewish messianic expectation behind the people's question whether John was the Christ; they do not mention John."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:lk-03-04-06-isaiah-40-3-5-quoted", "grade": "B", "note": "The Great Isaiah Scroll (1QIsa-a), ca. 125 BCE, preserves the whole Book of Isaiah in Hebrew, including chapter 40 verses 3-5 - the fuller quotation Luke uses existed centuries before John and Jesus."}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "complicates", "to": "claim:lk-03-02-annas-high-priest", "note": "Josephus, Ant. 18.34-35: Gratus deprived Annas, and after the brief tenures of Ismael, Eleazar (one year) and Simon (one year) gave the high priesthood to Caiaphas - so in the fifteenth year of Tiberius the formal high priest was Caiaphas alone; Luke's joint formula ('Annas and Caiaphas') reflects Annas's continuing influence, and a joint high priesthood was not permitted under Jewish law."}
+{"from": "text:josephus-ant-18-36-38-tiberias", "type": "attests", "to": "claim:lk-03-01-antipas-tetrarch", "grade": "B", "note": "Josephus, Ant. 18.36: 'Herod the tetrarch, who was in great favor with Tiberius, built a city... called it Tiberias. He built it in the best part of Galilee' - the same tetrarch ruling Galilee in Tiberius's reign."}
+{"from": "text:josephus-ant-18-85-89", "type": "attests", "to": "claim:lk-03-01-pilate-governor", "grade": "A", "note": "Josephus, Ant. 18.88-89: after 'ten years' of rule Pilate was sent to Rome by Vitellius - a governorship running from c. 26/27 CE through the fifteenth year of Tiberius. Regraded B to A by architect review for consistency with Matthew 27: Josephus names Pilate in the office, and his ten-year tenure (c. 26-36 CE) covers Tiberius's fifteenth year."}
+{"from": "artifact:pilate-prutahs", "type": "attests", "to": "claim:lk-03-01-pilate-governor", "grade": "B", "note": "Pilate's prutahs are dated to his fourth to sixth years (29/30, 30/31, 31/32 CE) - struck exactly in the period Luke dates by Tiberius's fifteenth year, naming no one but Tiberius."}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "attests", "to": "claim:lk-03-01-tiberius-15th-year", "grade": "C", "note": "Josephus's succession list (Gratus's eleven years, then Pilate; after Ananus the brief tenures of Ismael, Eleazar and Simon, and Caiaphas succeeded) fixes the Judean office chronology inside Tiberius's reign against which the fifteenth year is placed."}
+{"from": "text:josephus-ant-18-106-108-philip", "type": "attests", "to": "claim:lk-03-01-tiberius-15th-year", "grade": "C", "note": "Josephus dates events by 'the twentieth year of the reign of Tiberius' - regnal years of Tiberius were the working dating era of the period, the convention Luke's 'fifteenth year' uses."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:lk-03-01-tiberius-15th-year", "grade": "C", "note": "Tacitus dates Christus's execution 'during the reign of Tiberius' - the reign whose fifteenth year Luke uses; Tacitus does not fix the regnal year itself."}
+{"from": "text:josephus-ant-19-275-abilene", "type": "attests", "to": "claim:lk-03-01-lysanias-tetrarch", "grade": "C", "note": "Josephus, Ant. 19.275 knows 'Abila of Lysanias' as a distinct polity (given to Agrippa I in 42 CE); Whiston's note says the passage 'in some measure confirms' Luke 3:1 that Lysanias was some time before tetrarch of Abilene - Josephus himself names no Tiberian-era Lysanias."}
+{"from": "text:josephus-ant-19-275-abilene", "type": "attests", "to": "place:abilene", "grade": "C", "note": "'But for Abila of Lysanias, and all that lay at Mount Libanus, he bestowed them upon him' - Abila of Lysanias as a real polity at Mount Lebanon, later folded into Agrippa's kingdom."}
+{"from": "text:ptolemy-geography-abila", "type": "attests", "to": "place:abilene", "grade": "C", "note": "Ptolemy, Geography Book 5 (c. 120 CE), calls the city 'Abila of Lysanias' (via Whiston's note on Ant. 19.275, citing Spanheim) - the regional name Luke's 'Abilene' reflects."}
+{"from": "text:josephus-ant-18-36-38-tiberias", "type": "documented_by", "to": "source:wikisource-ant-18-tiberias"}
+{"from": "text:josephus-ant-19-275-abilene", "type": "documented_by", "to": "source:wikisource-ant-19-abila"}
+{"from": "text:ptolemy-geography-abila", "type": "documented_by", "to": "source:wikisource-ant-19-abila"}
+{"from": "artifact:abila-lysaniou-inscription", "type": "documented_by", "to": "source:wikipedia-lysanias-inscription"}
+{"from": "artifact:abila-lysaniou-inscription", "type": "documented_by", "to": "source:wikipedia-lysanias-renan"}
+{"from": "text:josephus-ant-17-188-189-tetrarchies", "type": "documented_by", "to": "source:wikisource-ant-17-tetrarchies"}
+{"from": "text:josephus-ant-18-106-108-philip", "type": "documented_by", "to": "source:wikisource-ant-18-philip-death"}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "documented_by", "to": "source:wikisource-ant-18-annas"}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "documented_by", "to": "source:wikisource-ant-18-annas-deprived"}
+{"from": "text:suetonius-vespasian-4", "type": "documented_by", "to": "source:wikisource-suetonius-vespasian"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:wikipedia-psalms-of-solomon"}
+{"from": "artifact:papyrus-75", "type": "documented_by", "to": "source:wikipedia-papyrus-75"}
+{"from": "claim:lk-03-01-tiberius-15th-year", "type": "documented_by", "to": "source:wikipedia-luke-3-fifteenth-year"}
+{"from": "claim:lk-03-01-tiberius-15th-year", "type": "documented_by", "to": "source:wikipedia-luke-3-ramsay"}
+{"from": "claim:lk-03-01-pilate-governor", "type": "documented_by", "to": "source:wikipedia-pontius-pilate-dated"}
+{"from": "claim:lk-03-01-philip-tetrarch", "type": "documented_by", "to": "source:wikipedia-philip-tetrarchy-territory"}
+{"from": "claim:lk-03-01-lysanias-tetrarch", "type": "documented_by", "to": "source:wikipedia-lysanias-schurer"}
+{"from": "claim:lk-03-01-lysanias-tetrarch", "type": "documented_by", "to": "source:wikipedia-lysanias-earlier"}
+{"from": "claim:lk-03-02-annas-high-priest", "type": "documented_by", "to": "source:wikipedia-luke-3-annas"}
+{"from": "claim:lk-03-17-winnowing-fan", "type": "documented_by", "to": "source:wikipedia-threshing-floor"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-03-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-03-38"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-08"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-09"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-10"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-11"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-12"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-13"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-14"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-15"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-16"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-17"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-18"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-19"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-20"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-21"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-22"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-23"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-24"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-25"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-26"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-27"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-28"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-29"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-30"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-31"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-32"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-33"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-34"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-35"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-36"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-37"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-03-38"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-36"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-37"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-03-38"}

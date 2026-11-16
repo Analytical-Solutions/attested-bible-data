@@ -1,0 +1,271 @@
+{"from": "passage:mt-01-02", "type": "asserts", "to": "claim:mt-01-02-abraham-to-judah"}
+{"from": "claim:mt-01-02-abraham-to-judah", "type": "mentions", "to": "person:abraham"}
+{"from": "claim:mt-01-02-abraham-to-judah", "type": "mentions", "to": "person:isaac"}
+{"from": "claim:mt-01-02-abraham-to-judah", "type": "mentions", "to": "person:jacob-patriarch"}
+{"from": "claim:mt-01-02-abraham-to-judah", "type": "mentions", "to": "person:judah"}
+{"from": "passage:mt-01-03", "type": "asserts", "to": "claim:mt-01-03-judah-to-ram"}
+{"from": "claim:mt-01-03-judah-to-ram", "type": "mentions", "to": "person:judah"}
+{"from": "claim:mt-01-03-judah-to-ram", "type": "mentions", "to": "person:tamar"}
+{"from": "claim:mt-01-03-judah-to-ram", "type": "mentions", "to": "person:perez"}
+{"from": "claim:mt-01-03-judah-to-ram", "type": "mentions", "to": "person:zerah"}
+{"from": "claim:mt-01-03-judah-to-ram", "type": "mentions", "to": "person:hezron"}
+{"from": "claim:mt-01-03-judah-to-ram", "type": "mentions", "to": "person:ram"}
+{"from": "passage:mt-01-04", "type": "asserts", "to": "claim:mt-01-04-ram-to-salmon"}
+{"from": "claim:mt-01-04-ram-to-salmon", "type": "mentions", "to": "person:ram"}
+{"from": "claim:mt-01-04-ram-to-salmon", "type": "mentions", "to": "person:amminadab"}
+{"from": "claim:mt-01-04-ram-to-salmon", "type": "mentions", "to": "person:nahshon"}
+{"from": "claim:mt-01-04-ram-to-salmon", "type": "mentions", "to": "person:salmon"}
+{"from": "passage:mt-01-05", "type": "asserts", "to": "claim:mt-01-05-salmon-to-jesse"}
+{"from": "claim:mt-01-05-salmon-to-jesse", "type": "mentions", "to": "person:salmon"}
+{"from": "claim:mt-01-05-salmon-to-jesse", "type": "mentions", "to": "person:boaz"}
+{"from": "claim:mt-01-05-salmon-to-jesse", "type": "mentions", "to": "person:rahab"}
+{"from": "claim:mt-01-05-salmon-to-jesse", "type": "mentions", "to": "person:ruth"}
+{"from": "claim:mt-01-05-salmon-to-jesse", "type": "mentions", "to": "person:obed"}
+{"from": "claim:mt-01-05-salmon-to-jesse", "type": "mentions", "to": "person:jesse"}
+{"from": "passage:mt-01-06", "type": "asserts", "to": "claim:mt-01-06-jesse-to-solomon"}
+{"from": "claim:mt-01-06-jesse-to-solomon", "type": "mentions", "to": "person:jesse"}
+{"from": "claim:mt-01-06-jesse-to-solomon", "type": "mentions", "to": "person:david"}
+{"from": "claim:mt-01-06-jesse-to-solomon", "type": "mentions", "to": "person:uriah-the-hittite"}
+{"from": "claim:mt-01-06-jesse-to-solomon", "type": "mentions", "to": "person:solomon"}
+{"from": "passage:mt-01-07", "type": "asserts", "to": "claim:mt-01-07-solomon-to-asa"}
+{"from": "claim:mt-01-07-solomon-to-asa", "type": "mentions", "to": "person:solomon"}
+{"from": "claim:mt-01-07-solomon-to-asa", "type": "mentions", "to": "person:rehoboam"}
+{"from": "claim:mt-01-07-solomon-to-asa", "type": "mentions", "to": "person:abijah"}
+{"from": "claim:mt-01-07-solomon-to-asa", "type": "mentions", "to": "person:asa"}
+{"from": "passage:mt-01-08", "type": "asserts", "to": "claim:mt-01-08-asa-to-uzziah"}
+{"from": "claim:mt-01-08-asa-to-uzziah", "type": "mentions", "to": "person:asa"}
+{"from": "claim:mt-01-08-asa-to-uzziah", "type": "mentions", "to": "person:jehoshaphat"}
+{"from": "claim:mt-01-08-asa-to-uzziah", "type": "mentions", "to": "person:joram"}
+{"from": "claim:mt-01-08-asa-to-uzziah", "type": "mentions", "to": "person:uzziah"}
+{"from": "passage:mt-01-09", "type": "asserts", "to": "claim:mt-01-09-uzziah-to-hezekiah"}
+{"from": "claim:mt-01-09-uzziah-to-hezekiah", "type": "mentions", "to": "person:uzziah"}
+{"from": "claim:mt-01-09-uzziah-to-hezekiah", "type": "mentions", "to": "person:jotham"}
+{"from": "claim:mt-01-09-uzziah-to-hezekiah", "type": "mentions", "to": "person:ahaz"}
+{"from": "claim:mt-01-09-uzziah-to-hezekiah", "type": "mentions", "to": "person:hezekiah"}
+{"from": "passage:mt-01-10", "type": "asserts", "to": "claim:mt-01-10-hezekiah-to-josiah"}
+{"from": "claim:mt-01-10-hezekiah-to-josiah", "type": "mentions", "to": "person:hezekiah"}
+{"from": "claim:mt-01-10-hezekiah-to-josiah", "type": "mentions", "to": "person:manasseh"}
+{"from": "claim:mt-01-10-hezekiah-to-josiah", "type": "mentions", "to": "person:amon"}
+{"from": "claim:mt-01-10-hezekiah-to-josiah", "type": "mentions", "to": "person:josiah"}
+{"from": "passage:mt-01-11", "type": "asserts", "to": "claim:mt-01-11-josiah-to-jeconiah"}
+{"from": "claim:mt-01-11-josiah-to-jeconiah", "type": "mentions", "to": "person:josiah"}
+{"from": "claim:mt-01-11-josiah-to-jeconiah", "type": "mentions", "to": "person:jeconiah"}
+{"from": "passage:mt-01-12", "type": "asserts", "to": "claim:mt-01-12-jeconiah-to-zerubbabel"}
+{"from": "claim:mt-01-12-jeconiah-to-zerubbabel", "type": "mentions", "to": "person:jeconiah"}
+{"from": "claim:mt-01-12-jeconiah-to-zerubbabel", "type": "mentions", "to": "person:shealtiel"}
+{"from": "claim:mt-01-12-jeconiah-to-zerubbabel", "type": "mentions", "to": "person:zerubbabel"}
+{"from": "passage:mt-01-13", "type": "asserts", "to": "claim:mt-01-13-zerubbabel-to-azor"}
+{"from": "claim:mt-01-13-zerubbabel-to-azor", "type": "mentions", "to": "person:zerubbabel"}
+{"from": "claim:mt-01-13-zerubbabel-to-azor", "type": "mentions", "to": "person:abiud"}
+{"from": "claim:mt-01-13-zerubbabel-to-azor", "type": "mentions", "to": "person:eliakim-son-of-abiud"}
+{"from": "claim:mt-01-13-zerubbabel-to-azor", "type": "mentions", "to": "person:azor"}
+{"from": "passage:mt-01-14", "type": "asserts", "to": "claim:mt-01-14-azor-to-eliud"}
+{"from": "claim:mt-01-14-azor-to-eliud", "type": "mentions", "to": "person:azor"}
+{"from": "claim:mt-01-14-azor-to-eliud", "type": "mentions", "to": "person:zadok-father-of-achim"}
+{"from": "claim:mt-01-14-azor-to-eliud", "type": "mentions", "to": "person:achim"}
+{"from": "claim:mt-01-14-azor-to-eliud", "type": "mentions", "to": "person:eliud"}
+{"from": "passage:mt-01-15", "type": "asserts", "to": "claim:mt-01-15-eliud-to-jacob"}
+{"from": "claim:mt-01-15-eliud-to-jacob", "type": "mentions", "to": "person:eliud"}
+{"from": "claim:mt-01-15-eliud-to-jacob", "type": "mentions", "to": "person:eleazar-son-of-eliud"}
+{"from": "claim:mt-01-15-eliud-to-jacob", "type": "mentions", "to": "person:matthan"}
+{"from": "claim:mt-01-15-eliud-to-jacob", "type": "mentions", "to": "person:jacob-father-of-joseph"}
+{"from": "passage:mt-01-16", "type": "asserts", "to": "claim:mt-01-16-jacob-to-jesus"}
+{"from": "claim:mt-01-16-jacob-to-jesus", "type": "mentions", "to": "person:jacob-father-of-joseph"}
+{"from": "claim:mt-01-16-jacob-to-jesus", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:mt-01-16-jacob-to-jesus", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "claim:mt-01-16-jacob-to-jesus", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "passage:mt-01-06", "type": "asserts", "to": "claim:mt-01-06-david-king"}
+{"from": "claim:mt-01-06-david-king", "type": "mentions", "to": "person:david"}
+{"from": "passage:mt-01-06", "type": "asserts", "to": "claim:mt-01-06-solomon-king"}
+{"from": "claim:mt-01-06-solomon-king", "type": "mentions", "to": "person:solomon"}
+{"from": "passage:mt-01-07", "type": "asserts", "to": "claim:mt-01-07-rehoboam-king"}
+{"from": "claim:mt-01-07-rehoboam-king", "type": "mentions", "to": "person:rehoboam"}
+{"from": "passage:mt-01-07", "type": "asserts", "to": "claim:mt-01-07-abijah-king"}
+{"from": "claim:mt-01-07-abijah-king", "type": "mentions", "to": "person:abijah"}
+{"from": "passage:mt-01-07", "type": "asserts", "to": "claim:mt-01-07-asa-king"}
+{"from": "claim:mt-01-07-asa-king", "type": "mentions", "to": "person:asa"}
+{"from": "passage:mt-01-08", "type": "asserts", "to": "claim:mt-01-08-jehoshaphat-king"}
+{"from": "claim:mt-01-08-jehoshaphat-king", "type": "mentions", "to": "person:jehoshaphat"}
+{"from": "passage:mt-01-08", "type": "asserts", "to": "claim:mt-01-08-joram-king"}
+{"from": "claim:mt-01-08-joram-king", "type": "mentions", "to": "person:joram"}
+{"from": "passage:mt-01-08", "type": "asserts", "to": "claim:mt-01-08-uzziah-king"}
+{"from": "claim:mt-01-08-uzziah-king", "type": "mentions", "to": "person:uzziah"}
+{"from": "passage:mt-01-09", "type": "asserts", "to": "claim:mt-01-09-jotham-king"}
+{"from": "claim:mt-01-09-jotham-king", "type": "mentions", "to": "person:jotham"}
+{"from": "passage:mt-01-09", "type": "asserts", "to": "claim:mt-01-09-ahaz-king"}
+{"from": "claim:mt-01-09-ahaz-king", "type": "mentions", "to": "person:ahaz"}
+{"from": "passage:mt-01-09", "type": "asserts", "to": "claim:mt-01-09-hezekiah-king"}
+{"from": "claim:mt-01-09-hezekiah-king", "type": "mentions", "to": "person:hezekiah"}
+{"from": "passage:mt-01-10", "type": "asserts", "to": "claim:mt-01-10-manasseh-king"}
+{"from": "claim:mt-01-10-manasseh-king", "type": "mentions", "to": "person:manasseh"}
+{"from": "passage:mt-01-10", "type": "asserts", "to": "claim:mt-01-10-amon-king"}
+{"from": "claim:mt-01-10-amon-king", "type": "mentions", "to": "person:amon"}
+{"from": "passage:mt-01-10", "type": "asserts", "to": "claim:mt-01-10-josiah-king"}
+{"from": "claim:mt-01-10-josiah-king", "type": "mentions", "to": "person:josiah"}
+{"from": "passage:mt-01-11", "type": "asserts", "to": "claim:mt-01-11-jeconiah-king"}
+{"from": "claim:mt-01-11-jeconiah-king", "type": "mentions", "to": "person:jeconiah"}
+{"from": "passage:mt-01-01", "type": "asserts", "to": "claim:mt-01-01-jesus-is-the-christ"}
+{"from": "claim:mt-01-01-jesus-is-the-christ", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-01-01-jesus-is-the-christ", "type": "mentions", "to": "person:david"}
+{"from": "claim:mt-01-01-jesus-is-the-christ", "type": "mentions", "to": "person:abraham"}
+{"from": "passage:mt-01-11", "type": "asserts", "to": "claim:mt-01-11-exile-to-babylon"}
+{"from": "claim:mt-01-11-exile-to-babylon", "type": "mentions", "to": "person:jeconiah"}
+{"from": "claim:mt-01-11-exile-to-babylon", "type": "mentions", "to": "place:babylon"}
+{"from": "passage:mt-01-12", "type": "asserts", "to": "claim:mt-01-12-return-after-exile"}
+{"from": "claim:mt-01-12-return-after-exile", "type": "mentions", "to": "person:jeconiah"}
+{"from": "claim:mt-01-12-return-after-exile", "type": "mentions", "to": "person:shealtiel"}
+{"from": "claim:mt-01-12-return-after-exile", "type": "mentions", "to": "person:zerubbabel"}
+{"from": "claim:mt-01-12-return-after-exile", "type": "mentions", "to": "place:babylon"}
+{"from": "passage:mt-01-17", "type": "asserts", "to": "claim:mt-01-17-three-times-fourteen"}
+{"from": "passage:mt-01-18", "type": "asserts", "to": "claim:mt-01-18-holy-spirit-conception"}
+{"from": "claim:mt-01-18-holy-spirit-conception", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "claim:mt-01-18-holy-spirit-conception", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "passage:mt-01-19", "type": "asserts", "to": "claim:mt-01-19-betrothal-put-away"}
+{"from": "claim:mt-01-19-betrothal-put-away", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:mt-01-19-betrothal-put-away", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "passage:mt-01-20", "type": "asserts", "to": "claim:mt-01-20-angel-instructions-joseph"}
+{"from": "claim:mt-01-20-angel-instructions-joseph", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:mt-01-20-angel-instructions-joseph", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "claim:mt-01-20-angel-instructions-joseph", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "passage:mt-01-22", "type": "asserts", "to": "claim:mt-01-22-isaiah-7-14-quoted"}
+{"from": "claim:mt-01-22-isaiah-7-14-quoted", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "passage:mt-01-25", "type": "asserts", "to": "claim:mt-01-25-jesus-born-of-mary"}
+{"from": "claim:mt-01-25-jesus-born-of-mary", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "claim:mt-01-25-jesus-born-of-mary", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:mt-01-25-jesus-born-of-mary", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "artifact:tel-dan-stele", "type": "attests", "to": "person:david", "grade": "A", "note": "An Old Aramaic royal inscription boasting of victory over the king of Israel and the king of the \"House of David\" (bytdwd); the earliest widely accepted extra-biblical reference to David as founder of a dynasty."}
+{"from": "artifact:tel-dan-stele", "type": "attests", "to": "claim:mt-01-06-david-king", "grade": "B", "note": "Names a \"king of the House of David\" (reconstructed as Ahaziah) about a century after David; attests the dynasty, not David himself."}
+{"from": "artifact:tel-dan-stele", "type": "attests", "to": "claim:mt-01-01-jesus-is-the-christ", "grade": "B", "note": "Attests that a royal \"House of David\" existed, the line into which Matthew places Jesus as \"son of David\"."}
+{"from": "artifact:mesha-stele", "type": "attests", "to": "person:david", "grade": "D", "note": "Lemaire reads line 31 (BT[D]WD) as \"House of David\", but Richelle and Burlingame hold the reading uncertain, so the Mesha reference to David is disputed."}
+{"from": "artifact:sennacherib-annals", "type": "attests", "to": "claim:mt-01-09-hezekiah-king", "grade": "A", "note": "Names \"the king of Judah, Hezekiah, who had not submitted to my authority\" and the capture of forty-six of his fortified cities in 701 BCE."}
+{"from": "artifact:sennacherib-annals", "type": "attests", "to": "person:hezekiah", "grade": "A", "note": "Names Hezekiah, king of Judah, and says \"I shut him up like a caged bird in his royal city of Jerusalem\"."}
+{"from": "artifact:hezekiah-bulla", "type": "attests", "to": "claim:mt-01-09-hezekiah-king", "grade": "A", "note": "Seal impression \"Belonging to Hezekiah [son of] Ahaz king of Judah\", found in 2015 in a scientific excavation."}
+{"from": "artifact:hezekiah-bulla", "type": "attests", "to": "person:hezekiah", "grade": "A", "note": "Bulla reading \"Belonging to Hezekiah [son of] Ahaz king of Judah\"."}
+{"from": "artifact:lachish-reliefs", "type": "attests", "to": "claim:mt-01-09-hezekiah-king", "grade": "B", "note": "Palace reliefs narrating Sennacherib's victory over the kingdom of Judah at the siege of Lachish in 701 BCE, the campaign context of Hezekiah's reign; they do not name Hezekiah."}
+{"from": "artifact:lachish-reliefs", "type": "attests", "to": "person:hezekiah", "grade": "B", "note": "Depict the Assyrian campaign against Judah of 701 BCE, during Hezekiah's reign; they do not name him."}
+{"from": "artifact:ahaz-bulla", "type": "attests", "to": "claim:mt-01-09-ahaz-king", "grade": "D", "note": "Seal impression \"Belonging to Ahaz (son of) Yehotam, King of Judah\"; unprovenanced (mid-1990s antiquities market) but, as the source notes, bullae are considered virtually impossible to forge. Graded D because the bulla is unprovenanced (architect review, 2026-11-10)."}
+{"from": "artifact:ahaz-bulla", "type": "attests", "to": "person:ahaz", "grade": "D", "note": "Bulla reading \"Belonging to Ahaz (son of) Yehotam, King of Judah\". Graded D because the bulla is unprovenanced (architect review, 2026-11-10)."}
+{"from": "artifact:tiglath-pileser-inscriptions", "type": "attests", "to": "claim:mt-01-09-ahaz-king", "grade": "A", "note": "The Tiglath-Pileser III annals record tributes and payments received from \"Ahaz, king of Judah\"."}
+{"from": "artifact:tiglath-pileser-inscriptions", "type": "attests", "to": "person:ahaz", "grade": "A", "note": "Annals of Tiglath-Pileser III name tribute from Ahaz, king of Judah."}
+{"from": "artifact:uzziah-ministers-bullae", "type": "attests", "to": "claim:mt-01-08-uzziah-king", "grade": "D", "note": "Contemporary seal impressions reading \"[belonging] to X, minister of Uziyah\" - \"the first authentic contemporary attestations to the ancient king\"; graded D because the source states they are of unprovenanced origin (antiquities market, not a recorded excavation), so authenticity cannot be secured (reviewer 1, 2026-11-11)."}
+{"from": "artifact:uzziah-ministers-bullae", "type": "attests", "to": "person:uzziah", "grade": "D", "note": "Seal impressions of officials \"of Uziyah\", called the first authentic contemporary attestations to the king; graded D because they are unprovenanced (reviewer 1, 2026-11-11)."}
+{"from": "artifact:uzziah-epitaph", "type": "attests", "to": "claim:mt-01-08-uzziah-king", "grade": "D", "note": "Reburial epitaph \"Hither were brought the bones of Uzziah, king of Judah\"; its script dates it to around 30-70 CE, roughly 700 years after his death, and its provenance is undocumented - so it is not a contemporary record."}
+{"from": "artifact:uzziah-epitaph", "type": "attests", "to": "person:uzziah", "grade": "D", "note": "Names Uzziah, king of Judah, in a Second Temple-period reburial inscription dated c. 30-70 CE, not a contemporary record."}
+{"from": "artifact:esarhaddon-inscriptions", "type": "attests", "to": "claim:mt-01-10-manasseh-king", "grade": "A", "note": "Assyrian records list Manasseh among twenty-two vassal kings required to provide materials for Esarhaddon's building projects; Ashurbanipal also names him."}
+{"from": "artifact:esarhaddon-inscriptions", "type": "attests", "to": "person:manasseh", "grade": "A", "note": "Manasseh named in the vassal lists of Esarhaddon and Ashurbanipal."}
+{"from": "artifact:jehoiachin-ration-tablets", "type": "attests", "to": "claim:mt-01-11-jeconiah-king", "grade": "A", "note": "Tablets list rations \"to the king of Judah, Yaukin\" (Jehoiachin) and his five sons in Babylon, about five years after the 597 BCE captivity."}
+{"from": "artifact:jehoiachin-ration-tablets", "type": "attests", "to": "person:jeconiah", "grade": "A", "note": "Names Jehoiachin (Ya'ukinu) and his five sons as recipients of rations in Babylon."}
+{"from": "artifact:jehoiachin-ration-tablets", "type": "attests", "to": "claim:mt-01-11-exile-to-babylon", "grade": "A", "note": "The deposed king of Judah is listed on ration tablets in Babylon, five years after his captivity - direct evidence of the exile of 597 BCE."}
+{"from": "artifact:nebuchadnezzar-chronicle", "type": "attests", "to": "claim:mt-01-11-exile-to-babylon", "grade": "A", "note": "The Babylonian Chronicle records Nebuchadnezzar's siege and capture of Jerusalem in 597 BCE, in which Jeconiah surrendered and was taken to Babylon."}
+{"from": "artifact:nebuchadnezzar-chronicle", "type": "attests", "to": "person:jeconiah", "grade": "B", "note": "Records the 597 BCE capture of Jerusalem, after which Nebuchadnezzar installed Zedekiah and kept Jeconiah in Babylon."}
+{"from": "artifact:cyrus-cylinder", "type": "attests", "to": "claim:mt-01-12-return-after-exile", "grade": "C", "note": "Cyrus is extolled as one who \"repatriated displaced people\" - the imperial context of the return from exile; the Cylinder does not name Judah, Jews or Jerusalem."}
+{"from": "artifact:bubastite-portal", "type": "attests", "to": "claim:mt-01-07-rehoboam-king", "grade": "B", "note": "Shoshenq I, generally identified with the biblical Shishak, left a conquest list over Israel/Judah-region towns from the era of Rehoboam; it does not name Rehoboam."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-01-22-isaiah-7-14-quoted", "grade": "B", "note": "The Hebrew text of Isaiah, including chapter 7, is preserved complete from ca. 125 BCE - predating Matthew and showing the wording of the verse he quotes."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "claim:mt-01-01-jesus-is-the-christ", "grade": "A", "note": "Josephus (c. 94 CE) refers to \"Jesus, who was called the Christ\" in his account of James - the source names the person with the title the claim records; independent, non-Christian evidence that Jesus was known as \"Christ\" (grade A per reviewer-1 calibration, 2026-11-11)."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Josephus names Jesus as a historical figure, the brother of James, called the Christ - a source that names the person is grade A (reviewer-1 calibration, 2026-11-11); the minor authenticity debate over the passage does not reach grade D."}
+{"from": "text:erusin-betrothal-law", "type": "attests", "to": "claim:mt-01-19-betrothal-put-away", "grade": "C", "note": "Jewish law: after erusin (betrothal) the laws of adultery apply and the union \"can only be ended by the same divorce process as married couples\" - the \"putting away\" Joseph considered. Sources are rabbinic, codified after the first century."}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-01"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-02"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-03"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-04"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-05"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-06"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-07"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-08"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-09"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-12"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-13"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-14"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-15"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-16"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-17"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-18"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-19"}
+{"from": "artifact:papyrus-1", "type": "preserves", "to": "passage:mt-01-20"}
+{"from": "artifact:cyrus-cylinder", "type": "complicates", "to": "claim:mt-01-12-return-after-exile", "note": "Kuhrt: \"the purely Babylonian context of the Cylinder provides no proof\" that Cyrus attended to the Jewish exiles; Becking: \"it has nothing to do with Judeans, Jews or Jerusalem\"."}
+{"from": "artifact:bubastite-portal", "type": "complicates", "to": "claim:mt-01-07-rehoboam-king", "note": "\"Shoshenq's Karnak list does not include Jerusalem - his biggest prize according to the Bible\", a problem for equating the campaign with the 1 Kings 14 raid on Rehoboam's Judah."}
+{"from": "artifact:great-isaiah-scroll", "type": "complicates", "to": "claim:mt-01-22-isaiah-7-14-quoted", "note": "The Hebrew text reads almah (\"young woman of childbearing age\"); the Septuagint rendered it parthenos (\"virgin\"), which Matthew follows - the Hebrew wording behind the quote does not unambiguously say \"virgin\"."}
+{"from": "artifact:tel-dan-stele", "type": "documented_by", "to": "source:tel-dan-stele-wiki"}
+{"from": "artifact:mesha-stele", "type": "documented_by", "to": "source:mesha-stele-wiki"}
+{"from": "artifact:mesha-stele", "type": "documented_by", "to": "source:mesha-stele-dispute"}
+{"from": "artifact:sennacherib-annals", "type": "documented_by", "to": "source:sennacherib-annals-wiki"}
+{"from": "artifact:hezekiah-bulla", "type": "documented_by", "to": "source:hezekiah-wiki"}
+{"from": "artifact:lachish-reliefs", "type": "documented_by", "to": "source:lachish-reliefs-wiki"}
+{"from": "artifact:ahaz-bulla", "type": "documented_by", "to": "source:ahaz-wiki"}
+{"from": "artifact:tiglath-pileser-inscriptions", "type": "documented_by", "to": "source:ahaz-annals-wiki"}
+{"from": "artifact:uzziah-epitaph", "type": "documented_by", "to": "source:uzziah-epitaph-wiki"}
+{"from": "artifact:uzziah-ministers-bullae", "type": "documented_by", "to": "source:uzziah-seals-wiki"}
+{"from": "artifact:esarhaddon-inscriptions", "type": "documented_by", "to": "source:manasseh-wiki"}
+{"from": "artifact:jehoiachin-ration-tablets", "type": "documented_by", "to": "source:jeconiah-wiki"}
+{"from": "artifact:nebuchadnezzar-chronicle", "type": "documented_by", "to": "source:siege-jerusalem-597-wiki"}
+{"from": "artifact:cyrus-cylinder", "type": "documented_by", "to": "source:cyrus-cylinder-wiki"}
+{"from": "artifact:cyrus-cylinder", "type": "documented_by", "to": "source:cyrus-cylinder-skeptics-wiki"}
+{"from": "artifact:bubastite-portal", "type": "documented_by", "to": "source:shoshenq-wiki"}
+{"from": "artifact:bubastite-portal", "type": "documented_by", "to": "source:shoshenq-dispute-wiki"}
+{"from": "artifact:papyrus-1", "type": "documented_by", "to": "source:papyrus-1-wiki"}
+{"from": "artifact:papyrus-1", "type": "documented_by", "to": "source:papyrus-1-date-wiki"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:isaiah-scroll-wiki"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:isaiah-scroll-date-wiki"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:isaiah-7-14-wiki"}
+{"from": "text:erusin-betrothal-law", "type": "documented_by", "to": "source:jewish-marriage-wiki"}
+{"from": "text:erusin-betrothal-law", "type": "documented_by", "to": "source:erusin-wiki"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "claim:mt-01-22-isaiah-7-14-quoted", "type": "documented_by", "to": "source:isaiah-7-14-wiki"}
+{"from": "site:large-stone-structure", "type": "attests", "to": "person:david", "grade": "D", "note": "Eilat Mazar proposed this monumental structure in the City of David as David's palace, an Israelite royal palace continuous from the 10th century BCE; the identification is disputed - Finkelstein et al. date the upper part Hellenistic (Hasmonean) or later, and Amihai Mazar suggests a Jebusite fortress."}
+{"from": "site:large-stone-structure", "type": "documented_by", "to": "source:large-stone-structure-wiki"}
+{"from": "site:large-stone-structure", "type": "documented_by", "to": "source:large-stone-structure-dispute"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus-date"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-01-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-01-25"}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Tacitus, Annals 15.44: 'Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus' - the Roman historian names the movement's founder as Christus (the name by which the person node is called) and places his execution under Pilate in Tiberius's reign."}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}

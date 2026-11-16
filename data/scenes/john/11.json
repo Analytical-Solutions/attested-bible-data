@@ -1,0 +1,42 @@
+{
+ "book": "john",
+ "chapter": 11,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    16
+   ],
+   "setting": "site:bethany-beyond-jordan",
+   "confidence": "inferred",
+   "basis": "11:6 \"he stayed two days in the place where he was\" - \"where he was\" is beyond the Jordan (10:40); 11:7 \"Let's go into Judea again\""
+  },
+  {
+   "verses": [
+    17,
+    44
+   ],
+   "setting": "place:bethany",
+   "confidence": "stated",
+   "basis": "11:1 \"a certain man was sick, Lazarus from Bethany\"; 11:18 \"Bethany was near Jerusalem, about fifteen stadia away\""
+  },
+  {
+   "verses": [
+    45,
+    53
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "11:47 \"The chief priests therefore and the Pharisees gathered a council\" - in the city"
+  },
+  {
+   "verses": [
+    54,
+    57
+   ],
+   "setting": "place:ephraim",
+   "confidence": "stated",
+   "basis": "11:54 \"to a city called Ephraim. He stayed there with his disciples\""
+  }
+ ]
+}

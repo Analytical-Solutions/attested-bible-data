@@ -1,0 +1,157 @@
+{
+ "source:ahaz-annals-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ahaz"
+ },
+ "source:ahaz-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ahaz"
+ },
+ "source:cyrus-cylinder-skeptics-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cyrus_Cylinder"
+ },
+ "source:cyrus-cylinder-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cyrus_Cylinder"
+ },
+ "source:erusin-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Erusin"
+ },
+ "source:hezekiah-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Hezekiah"
+ },
+ "source:isaiah-7-14-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_7:14"
+ },
+ "source:isaiah-scroll-date-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+ },
+ "source:isaiah-scroll-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+ },
+ "source:jeconiah-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jeconiah"
+ },
+ "source:jewish-marriage-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jewish_views_on_marriage"
+ },
+ "source:josephus-jesus-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Josephus_on_Jesus"
+ },
+ "source:lachish-reliefs-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lachish_relief"
+ },
+ "source:large-stone-structure-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Large_Stone_Structure"
+ },
+ "source:large-stone-structure-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Large_Stone_Structure"
+ },
+ "source:manasseh-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Manasseh_of_Judah"
+ },
+ "source:mesha-stele-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mesha_Stele"
+ },
+ "source:mesha-stele-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mesha_Stele"
+ },
+ "source:papyrus-1-date-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_1"
+ },
+ "source:papyrus-1-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_1"
+ },
+ "source:sennacherib-annals-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sennacherib's_Annals"
+ },
+ "source:shoshenq-dispute-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Shoshenq_I"
+ },
+ "source:shoshenq-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Shoshenq_I"
+ },
+ "source:siege-jerusalem-597-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(597_BC)"
+ },
+ "source:tel-dan-stele-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele"
+ },
+ "source:uzziah-epitaph-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Uzziah"
+ },
+ "source:uzziah-seals-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Uzziah"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-codex-vaticanus-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikisource-tacitus-annals-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+ }
+}

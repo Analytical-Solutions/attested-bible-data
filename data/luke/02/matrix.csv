@@ -1,0 +1,177 @@
+anchor,label,category,status,findings,note
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,inscription,found,text:res-gestae-divi-augusti-8,"The Res Gestae documents Augustus decreeing and conducting three censuses (B for the decree: same ruler, same act; the recorded censuses are citizen lustra, not a universal enrollment)."
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,manuscript,n/a,,"Sinaiticus, Vaticanus and P4 preserve Luke 2:1, but a manuscript never attests the text it carries."
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,documentary-papyrus,none-found,,"The 104 CE Vibius Maximus census edict could not be fetched (no Wikipedia article; Select Papyri absent from Wikisource); it concerns Egypt in any case, not a Judean decree."
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,jewish-literary,found,text:josephus-ant-18-1-taxation,"Josephus records a Roman enrollment of Judea (6 CE), the kind of decree behind Luke's picture; he names Quirinius, not an Augustan empire-wide decree."
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,greco-roman-literary,none-found,,"No classical literary account of an Augustan world-enrollment was fetched; modern scholarship (Wikipedia, Census of Quirinius) states there was no single census of the entire empire under Augustus."
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-01-augustus-decree,Augustus decreed an enrollment of the world,astronomy-or-calendar,none-found,,No regnal or astronomical dating bears on the decree itself.
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,inscription,found,artifact:lapis-tiburtinus,"The disputed Lapis Tiburtinus is invoked to give Quirinius an earlier Syrian command; the fetched governors list records the dispute (majority Piso, minority Quirinius) as a complicates edge."
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,coin,found,artifact:quirinius-syria-coins,"The Syrian coins date Quirinius's administration to 5/6 CE, against a birth in Herod's day (4 BCE or 1 BCE) - part of the timing tension."
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,manuscript,n/a,,No manuscript variant removes the chronological problem (Luke 2:2 reads the same in the Alexandrian text).
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,documentary-papyrus,none-found,,"No census record from Herodian Judea exists or was fetched; Roman census papyri begin later (Egypt, from 33/34 CE cycles)."
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,jewish-literary,found,text:josephus-ant-18-1-taxation,"Complicates: Josephus dates Quirinius's census to 6 CE, after Archelaus's banishment (37 years after Actium), while Luke ties the enrollment to the birth; most critical scholars judge Luke in error (documented source)."
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,greco-roman-literary,none-found,,Cassius Dio's 6 CE date for Archelaus's exile is reported on the fetched Census article but the ancient text was not fetched; the tension is documented by the source nodes.
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-enrollment-timing,Enrollment dated to Quirinius's governorship at the birth,astronomy-or-calendar,found,observation:lunar-eclipse-4-bce-03-13;observation:lunar-eclipse-1-bce-01-10,Both eclipse candidates for Herod's death complicate the timing: 4 BCE leaves a decade to the 6 CE census; the 1 BCE alternative still leaves about seven years.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,inscription,found,artifact:titulus-venetus,"A census of Apamea taken by order of Quirinius: the same person and event-type (a Syrian enrollment) the verse names. The disputed Lapis Tiburtinus is a complicates edge, not a finding."
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,coin,found,artifact:quirinius-syria-coins,Coins of his Syrian administration (5/6 CE) attest his governorship of Syria.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,manuscript,n/a,,The codices preserve Luke 2:2 but cannot attest the claim.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,jewish-literary,found,text:josephus-ant-18-1-taxation,"Josephus, Ant. 18.1: Cyrenius came into Judea, added to Syria, to take an inventory - Quirinius enrolling as governor of Syria (6 CE), a decade after Herod's death."
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,greco-roman-literary,found,text:tacitus-annals-3-48,"Tacitus names Sulpicius Quirinus and his career, though not the Syrian governorship."
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-02-quirinius-governor,Quirinius governor of Syria,astronomy-or-calendar,none-found,,The governorship's date rests on the coin era and Josephus; no astronomical datum bears on Quirinius himself.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,manuscript,n/a,,"Codex Bezae reads patrida ('homeland') for polin ('city') at 2:3, but no graph manuscript carries Luke; the codices preserve the verse and cannot attest it."
+claim:lk-02-03-own-city,Everyone enrolled in his own city,documentary-papyrus,none-found,,"The prefect Gaius Vibius Maximus's 104 CE edict ('return to their own domestic registers') could not be fetched: no Wikipedia article and Select Papyri is not on Wikisource. Modern scholarship (Wikipedia, Census of Quirinius) states no Roman census required travel to ancestral homes."
+claim:lk-02-03-own-city,Everyone enrolled in his own city,jewish-literary,none-found,,Josephus's account of the 6 CE census records no travel-to-ancestry requirement.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,greco-roman-literary,none-found,,No classical census edict with a homeland-travel rule was fetched.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-03-own-city,Everyone enrolled in his own city,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,inscription,found,artifact:bethlehem-bulla,"The 8th-7th century BCE bulla 'From the town of Bethlehem to the King' attests the destination town's existence (C context), not the journey."
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,structure-or-site,none-found,,The first-century dwelling at Nazareth (site:nazareth-house) attests the starting village (its B edge is attached to the return claim); no excavated evidence bears on the journey itself.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,jewish-literary,none-found,,Josephus nowhere reports the journey; Bethlehem as David's hometown is biblical (Micah 5:2 in the graph via Matthew).
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,geography-or-nature,none-found,,The Nazareth-to-Bethlehem route (~130 km) is well mapped but no fetched observation node bears on this chapter; recorded as a lead.
+claim:lk-02-04-journey-bethlehem,Joseph went from Nazareth to Bethlehem for the enrollment,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,structure-or-site,none-found,,"First-century Judean houses with animals near the living space would bear C evidence, but no fetched excavation reports animals in Bethlehem-area houses; the tradition site (Church of the Nativity) is a reception site (D in the graph for the birth)."
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,manuscript,n/a,,P4 preserves 2:6-7; the codices preserve 2:7 - none attests the claim.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,documentary-papyrus,none-found,,No papyrus documents lodging (kataluma) practice in Judea; the kataluma = 'guest room' reading is documented as modern scholarship only.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,jewish-literary,none-found,,No Mishnah/Talmud or Josephus passage on mangers in Judean houses was fetched.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,material-culture,none-found,,"Feeding troughs are common finds, but no published first-century Judean trough assemblage was fetchable this run."
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-07-manger,No room in the kataluma; the child laid in a manger,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,structure-or-site,none-found,,"The Shepherds' Field tradition sites at Beit Sahour are late reception, not evidence; not entered into the graph this run."
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,jewish-literary,none-found,,No fetched Josephus or rabbinic passage attests overnight flock-watching near Bethlehem; the seasonal (lambing-time) argument is modern and disputed.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,geography-or-nature,none-found,,"The Judean hills around Bethlehem suit pasturage in general terms, but the existing observations in the graph (aridity, flock behavior) do not speak to night-watching; searched and none-found."
+claim:lk-02-08-shepherds,Shepherds keeping watch by night,astronomy-or-calendar,none-found,,The 'spring lambing' dating argument is modern and disputed; no fetched source supports a season.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,jewish-literary,found,text:josephus-ant-1-circumcision,Josephus records the ancestral charge that sons be circumcised 'on the eighth day after they were born' - the custom in the same region (C); Genesis 17:12 is a biblical cross-reference (related_to).
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-21-circumcision-eighth-day,Circumcision on the eighth day,astronomy-or-calendar,none-found,,The day-count rests on the law and Josephus; no independent calendric evidence was fetched.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,structure-or-site,none-found,,"The temple courts (site:second-temple) are the setting but no fetched element attests the purification rite there; the site is reused, not a finding of this cell."
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,jewish-literary,found,text:mishnah-keritot-1-7,"The dove-price incident names the offerings 'of a woman after childbirth' - the same bird-pair purification offering in Jerusalem (B, with the c. 200 CE redaction caveat). Leviticus 12:6-8 is the biblical cross-reference (related_to)."
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-22-24-purification-turtledoves,Purification sacrifice of two turtledoves or pigeons,astronomy-or-calendar,none-found,,The forty-day purification count rests on Leviticus 12; no independent calendric evidence fetched.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,inscription,found,artifact:caesarea-inscription,"The inscription names Nazareth as a village of priestly settlement, though late 3rd/early 4th century - the destination village's existence, centuries later (C)."
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,structure-or-site,found,site:nazareth-house,A first-century dwelling excavated at Nazareth confirms an inhabited village there in the early Roman period (B for the setting; it does not show this family's return).
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,jewish-literary,none-found,,Josephus never reports the family's return to Nazareth; the setting rests on the Caesarea inscription and the Nazareth excavation.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,geography-or-nature,none-found,,The ~130 km route back to Galilee is well mapped but no fetched observation bears on the return; searched and none-found.
+claim:lk-02-39-return-nazareth,The family returned to Nazareth after the purification,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,structure-or-site,none-found,,The temple (site:second-temple) is the festival's setting; no fetched structural evidence bears on the annual pilgrimage custom specifically.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,jewish-literary,found,text:josephus-war-6-422-425,"Cestius's Passover count (256,500 lambs; c. 2,700,000 worshippers) shows the annual Jerusalem Passover pilgrimage on a massive first-century scale (C context)."
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-41-annual-passover,Annual Passover pilgrimage to Jerusalem,astronomy-or-calendar,none-found,,Passover's calendric fix (14 Nisan) is in the graph's existing festival material; nothing new fetched this run.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,structure-or-site,none-found,,"site:second-temple is the setting; no fetched element attests teachers holding sessions in the courts, and the site node is reused, not a finding."
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,jewish-literary,none-found,,Mishnah passages on sages sitting in the temple courts (e.g. the Sanhedrin's chamber) were not fetched this run; searched Sefaria for Shabbat/Hagigah lines without a match for this setting.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-02-46-temple-teachers,Jesus among the teachers in the temple,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:anna-the-prophetess,Anna the prophetess (Luke 2),inscription,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),coin,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),structure-or-site,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),burial-or-ossuary,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),manuscript,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),documentary-papyrus,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),jewish-literary,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),greco-roman-literary,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),material-culture,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),geography-or-nature,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:anna-the-prophetess,Anna the prophetess (Luke 2),astronomy-or-calendar,none-found,,"Anna is unknown outside Luke 2; no inscription, text or find naming her (or Phanuel of Asher) was found in any searched category."
+person:caesar-augustus,Caesar Augustus,inscription,found,text:res-gestae-divi-augusti-8,"Res Gestae Divi Augusti, his funerary inscription (Monumentum Ancyranum copies), names him and his three censuses; attests the person (A) and the decree claim (B)."
+person:caesar-augustus,Caesar Augustus,coin,none-found,,No Augustan coin was fetched this run; his title and acts are documented by the Res Gestae inscription.
+person:caesar-augustus,Caesar Augustus,structure-or-site,none-found,,"Augustan structures (e.g. the Augusteum at Pisidian Antioch, his Mausoleum) were not fetched as site evidence this run."
+person:caesar-augustus,Caesar Augustus,burial-or-ossuary,none-found,,His Mausoleum in Rome exists but was not fetched as evidence this run.
+person:caesar-augustus,Caesar Augustus,manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:caesar-augustus,Caesar Augustus,documentary-papyrus,none-found,,Augustan-period census papyri from Roman Egypt exist in collections but none was fetchable this run.
+person:caesar-augustus,Caesar Augustus,jewish-literary,none-found,,Josephus never names Augustus decreeing an empire-wide enrollment.
+person:caesar-augustus,Caesar Augustus,greco-roman-literary,none-found,,"The Res Gestae is an inscription (listed under inscription); no literary account of an Augustan universal enrollment (Suetonius, Tacitus) was fetched."
+person:caesar-augustus,Caesar Augustus,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:caesar-augustus,Caesar Augustus,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:caesar-augustus,Caesar Augustus,astronomy-or-calendar,found,text:res-gestae-divi-augusti-8,"The dated lustra (28 BCE, 8 BCE, 14 CE) document the Augustan census cycle; none connects to a birth-year enrollment."
+person:quirinius,Publius Sulpicius Quirinius,inscription,found,artifact:titulus-venetus;artifact:lapis-tiburtinus,"The stele of Quintus Aemilius Secundus names Quirinius ordering a census of Apamea (A). The Lapis Tiburtinus's attribution is disputed: majority Piso, minority Quirinius."
+person:quirinius,Publius Sulpicius Quirinius,coin,found,artifact:quirinius-syria-coins,Coins of his administration in Syria inscribed with the 36th year of Caesar (5/6 CE) validate his governorship there.
+person:quirinius,Publius Sulpicius Quirinius,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:quirinius,Publius Sulpicius Quirinius,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+person:quirinius,Publius Sulpicius Quirinius,manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:quirinius,Publius Sulpicius Quirinius,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:quirinius,Publius Sulpicius Quirinius,jewish-literary,found,text:josephus-ant-18-1-taxation,"Josephus names Cyrenius (Quirinius) taxing Judea, newly added to the province of Syria, in 6 CE."
+person:quirinius,Publius Sulpicius Quirinius,greco-roman-literary,found,text:tacitus-annals-3-48,"Tacitus, Annals 3.48: Tiberius asks a public funeral for 'Sulpicius Quirinus', consul under Augustus, triumph for the Homonadenses; Tacitus does not mention Syria."
+person:quirinius,Publius Sulpicius Quirinius,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:quirinius,Publius Sulpicius Quirinius,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:quirinius,Publius Sulpicius Quirinius,astronomy-or-calendar,none-found,,"His Syrian governorship is dated by the coin era (year 36 from Actium) and Josephus (37 years after Actium), not independently by astronomy."
+person:simeon-of-jerusalem,Simeon (Luke 2),inscription,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),coin,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),structure-or-site,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),burial-or-ossuary,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),manuscript,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),documentary-papyrus,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),jewish-literary,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),greco-roman-literary,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),material-culture,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),geography-or-nature,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."
+person:simeon-of-jerusalem,Simeon (Luke 2),astronomy-or-calendar,none-found,,"Simeon is unknown outside Luke 2; no inscription, text or find naming him was found in any searched category (Wikipedia Luke 2 and seed leads searched)."

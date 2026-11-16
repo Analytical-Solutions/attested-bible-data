@@ -1,0 +1,33 @@
+{
+  "book": "matthew",
+  "chapter": 28,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        10
+      ],
+      "setting": null,
+      "basis": "28:1-10 the tomb scene - \"the tomb\" (27:60) has no id of its own and is not placed by name",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        11,
+        15
+      ],
+      "setting": "place:jerusalem",
+      "basis": "28:11 \"some of the guards came into the city, and told the chief priests\" - the city is Jerusalem",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        16,
+        20
+      ],
+      "setting": "place:galilee",
+      "basis": "28:16 \"the eleven disciples went into Galilee, to the mountain where Jesus had sent them\" - the mountain is unnamed",
+      "confidence": "stated"
+    }
+  ]
+}

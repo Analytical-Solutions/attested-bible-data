@@ -1,0 +1,127 @@
+{
+ "source:bible-api-exodus-30-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/exodus+30:13?translation=web"
+ },
+ "source:bible-api-malachi-4-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/malachi+4:5?translation=web"
+ },
+ "source:josephus-jesus-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Josephus_on_Jesus"
+ },
+ "source:sefaria-eduyot-8-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Eduyot.8.7"
+ },
+ "source:sefaria-shekalim-1-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shekalim.1.3"
+ },
+ "source:sefaria-sukkah-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sukkah.1.1"
+ },
+ "source:wikipedia-brassica-nigra": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Brassica_nigra"
+ },
+ "source:wikipedia-capernaum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-epilepsy-moon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Epilepsy"
+ },
+ "source:wikipedia-fiscus-judaicus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Fiscus_Judaicus"
+ },
+ "source:wikipedia-on-the-sacred-disease": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/On_the_Sacred_Disease"
+ },
+ "source:wikipedia-sea-of-galilee-boat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikipedia-sea-of-galilee-fish": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sea_of_Galilee"
+ },
+ "source:wikipedia-second-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple"
+ },
+ "source:wikipedia-tax-collector": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tax_collector"
+ },
+ "source:wikipedia-temple-tax": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_tax"
+ },
+ "source:wikipedia-tilapia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tilapia"
+ },
+ "source:wikipedia-transfiguration": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus"
+ },
+ "source:wikipedia-tv-matt-17-21": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikipedia-tyrian-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_shekel"
+ },
+ "source:wikisource-ant18-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-sacred-disease": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Sacred_Disease"
+ },
+ "source:wikisource-war3-gennesaret": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_III"
+ },
+ "source:wikisource-war4-tabor": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_IV"
+ },
+ "source:wikisource-war7-fiscus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VII"
+ }
+}

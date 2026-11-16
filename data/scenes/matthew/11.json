@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 11,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        30
+      ],
+      "setting": null,
+      "basis": "11:1 \"he departed from there to teach and preach in their cities\" - the cities are unnamed; the prison where John hears (11:2) is not placed",
+      "confidence": "stated"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+ "book": "acts",
+ "chapter": 26,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    32
+   ],
+   "setting": "place:caesarea",
+   "confidence": "inferred",
+   "basis": "26:1 \"Agrippa said to Paul, “You may speak for yourself.”\" - the defense continues the Caesarea hearing of 25:13-23; the chapter names no place; Damascus and Jerusalem (26:12-21) are memories"
+  }
+ ]
+}

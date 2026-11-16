@@ -1,0 +1,137 @@
+{"from": "passage:mt-02-01", "type": "asserts", "to": "claim:mt-02-01-birth-in-bethlehem"}
+{"from": "claim:mt-02-01-birth-in-bethlehem", "type": "mentions", "to": "place:bethlehem"}
+{"from": "passage:mt-02-01", "type": "asserts", "to": "claim:mt-02-01-herod-king"}
+{"from": "claim:mt-02-01-herod-king", "type": "mentions", "to": "person:herod-the-great"}
+{"from": "claim:mt-02-01-herod-king", "type": "mentions", "to": "place:judea"}
+{"from": "passage:mt-02-01", "type": "asserts", "to": "claim:mt-02-01-magi-from-east"}
+{"from": "claim:mt-02-01-magi-from-east", "type": "mentions", "to": "place:jerusalem"}
+{"from": "passage:mt-02-02", "type": "asserts", "to": "claim:mt-02-02-star-in-the-east"}
+{"from": "passage:mt-02-04", "type": "asserts", "to": "claim:mt-02-04-chief-priests-consulted"}
+{"from": "claim:mt-02-04-chief-priests-consulted", "type": "mentions", "to": "place:jerusalem"}
+{"from": "passage:mt-02-05", "type": "asserts", "to": "claim:mt-02-05-micah-bethlehem"}
+{"from": "claim:mt-02-05-micah-bethlehem", "type": "mentions", "to": "place:bethlehem"}
+{"from": "claim:mt-02-05-micah-bethlehem", "type": "mentions", "to": "place:judea"}
+{"from": "passage:mt-02-11", "type": "asserts", "to": "claim:mt-02-11-gifts-gold-frankincense-myrrh"}
+{"from": "passage:mt-02-13", "type": "asserts", "to": "claim:mt-02-13-flight-to-egypt"}
+{"from": "claim:mt-02-13-flight-to-egypt", "type": "mentions", "to": "place:egypt"}
+{"from": "passage:mt-02-15", "type": "asserts", "to": "claim:mt-02-15-hosea-out-of-egypt"}
+{"from": "passage:mt-02-16", "type": "asserts", "to": "claim:mt-02-16-massacre"}
+{"from": "claim:mt-02-16-massacre", "type": "mentions", "to": "person:herod-the-great"}
+{"from": "claim:mt-02-16-massacre", "type": "mentions", "to": "place:bethlehem"}
+{"from": "passage:mt-02-19", "type": "asserts", "to": "claim:mt-02-19-herod-died"}
+{"from": "claim:mt-02-19-herod-died", "type": "mentions", "to": "person:herod-the-great"}
+{"from": "passage:mt-02-22", "type": "asserts", "to": "claim:mt-02-22-archelaus-reigns"}
+{"from": "claim:mt-02-22-archelaus-reigns", "type": "mentions", "to": "person:herod-archelaus"}
+{"from": "claim:mt-02-22-archelaus-reigns", "type": "mentions", "to": "place:judea"}
+{"from": "passage:mt-02-23", "type": "asserts", "to": "claim:mt-02-23-settled-nazareth"}
+{"from": "claim:mt-02-23-settled-nazareth", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:mt-02-23-settled-nazareth", "type": "mentions", "to": "place:galilee"}
+{"from": "artifact:herod-coins", "type": "attests", "to": "claim:mt-02-01-herod-king", "grade": "A", "note": "Coins minted under Herod the Great (37-4 BCE) bear the Greek inscription ΗΡΩΔΟΥ ΒΑΣΙΛΕΩΣ, 'of King Herod'."}
+{"from": "artifact:herod-coins", "type": "attests", "to": "person:herod-the-great", "grade": "A", "note": "Coins inscribed 'of King Herod' name Herod and his royal title."}
+{"from": "site:herodium", "type": "attests", "to": "person:herod-the-great", "grade": "B", "note": "Herod's palace-fortress and mausoleum at Herodium; an ornate sarcophagus found in 2007 was claimed to be Herod's, without an inscription."}
+{"from": "site:herodium", "type": "attests", "to": "claim:mt-02-01-herod-king", "grade": "B", "note": "The Herodium palace-fortress complex shows Herod's royal power and building programme in Judea."}
+{"from": "artifact:bethlehem-bulla", "type": "attests", "to": "place:bethlehem", "grade": "C", "note": "A First Temple-period seal impression reading 'From the town of Bethlehem to the King', found 2012; names Bethlehem centuries before the New Testament, not evidence for the first-century town."}
+{"from": "artifact:bethlehem-bulla", "type": "attests", "to": "claim:mt-02-05-micah-bethlehem", "grade": "C", "note": "The bulla confirms Bethlehem as a real Judean town of the Kingdom of Judah, the town the prophecy names."}
+{"from": "site:church-of-the-nativity", "type": "attests", "to": "claim:mt-02-01-birth-in-bethlehem", "grade": "D", "note": "Commemorative tradition: a Bethlehem cave was pointed out as the birthplace by the 3rd century (Origen). It attests the tradition, not the event itself."}
+{"from": "site:church-of-the-nativity", "type": "attests", "to": "place:bethlehem", "grade": "B", "note": "The oldest major church in the Holy Land stands at Bethlehem over the venerated grotto."}
+{"from": "text:origen-contra-celsum", "type": "attests", "to": "claim:mt-02-01-birth-in-bethlehem", "grade": "D", "note": "Origen (c. 248) records that a Bethlehem cave was shown as Jesus' birthplace - early Christian tradition, not independent evidence of the birth."}
+{"from": "artifact:archelaus-coins", "type": "attests", "to": "claim:mt-02-22-archelaus-reigns", "grade": "A", "note": "Coins of Herod Archelaus (4 BCE-6 CE) bear his name (ΗΡΩΔ) and title Ethnarch (ΕΘΝ) in Greek."}
+{"from": "artifact:archelaus-coins", "type": "attests", "to": "person:herod-archelaus", "grade": "A", "note": "Coins inscribed with Archelaus's name and the title Ethnarch."}
+{"from": "artifact:archelaus-coins", "type": "attests", "to": "place:judea", "grade": "C", "note": "The ethnarch's coins circulated in the districts he ruled, Judea, Samaria and Idumea."}
+{"from": "artifact:archelaus-coins", "type": "attests", "to": "claim:mt-02-19-herod-died", "grade": "C", "note": "Archelaus's coinage is dated from 4 BCE, consistent with Herod's death then; the exact year is disputed (some argue 1 BCE)."}
+{"from": "artifact:caesarea-inscription", "type": "attests", "to": "place:nazareth", "grade": "A", "note": "The first non-Christian reference to Nazareth: a Hebrew inscription from Caesarea naming Nazareth as the home of the priestly Hapizzez/Hafizaz family."}
+{"from": "artifact:caesarea-inscription", "type": "attests", "to": "claim:mt-02-23-settled-nazareth", "grade": "C", "note": "The inscription names Nazareth as a village of priestly settlement, though centuries after the New Testament period (after 135 CE)."}
+{"from": "artifact:caesarea-inscription", "type": "attests", "to": "place:galilee", "grade": "C", "note": "The inscription lists the twenty-four priestly courses and the town or village in Galilee where each settled."}
+{"from": "site:nazareth-house", "type": "attests", "to": "place:nazareth", "grade": "B", "note": "Excavated remains at Nazareth dating to the early Roman period, the time of Jesus."}
+{"from": "site:nazareth-house", "type": "attests", "to": "claim:mt-02-23-settled-nazareth", "grade": "B", "note": "A first-century dwelling excavated at Nazareth confirms an inhabited village there in the early Roman period."}
+{"from": "text:josephus-ant-17-death", "type": "attests", "to": "claim:mt-02-19-herod-died", "grade": "A", "note": "Josephus narrates Herod's death, preceded by a lunar eclipse and a fast day; the same event Matthew refers to."}
+{"from": "text:josephus-ant-17-death", "type": "attests", "to": "person:herod-the-great", "grade": "A", "note": "Book 17 of the Antiquities narrates Herod's last illness, death and funeral arrangements."}
+{"from": "text:josephus-ant-17-death", "type": "attests", "to": "claim:mt-02-01-herod-king", "grade": "A", "note": "Josephus records Herod dying as reigning king, five days after Antipater's execution, and the division of his kingdom."}
+{"from": "text:josephus-ant-17-death", "type": "attests", "to": "claim:mt-02-04-chief-priests-consulted", "grade": "C", "note": "Context: Josephus shows Herod appointing and deposing high priests in his last days, confirming the priestly establishment he could consult."}
+{"from": "text:josephus-ant-17-death", "type": "attests", "to": "place:jerusalem", "grade": "C", "note": "Context: the account of the high priesthood, the Temple fast day and the sedition Herod crushed presupposes the Jerusalem establishment."}
+{"from": "text:josephus-ant-17-archelaus", "type": "attests", "to": "claim:mt-02-22-archelaus-reigns", "grade": "A", "note": "Caesar appointed Archelaus ethnarch of half of Herod's kingdom; Josephus narrates his rule and banishment to Vienna (Vienne) in Gaul."}
+{"from": "text:josephus-ant-17-archelaus", "type": "attests", "to": "person:herod-archelaus", "grade": "A", "note": "Josephus names Archelaus as ethnarch and recounts his banishment."}
+{"from": "text:josephus-ant-17-archelaus", "type": "attests", "to": "place:judea", "grade": "C", "note": "Josephus describes Judea as the core of the half of Herod's kingdom given to Archelaus."}
+{"from": "text:josephus-ant-17-cruelty", "type": "attests", "to": "claim:mt-02-16-massacre", "grade": "C", "note": "Context only: Josephus records that dying Herod ordered one man out of every family slain, so that the whole nation should mourn; he never records a massacre at Bethlehem."}
+{"from": "text:josephus-ant-17-cruelty", "type": "complicates", "to": "claim:mt-02-16-massacre", "note": "Josephus, who details Herod's atrocities including the murder of three of his own sons, does not mention the massacre of Bethlehem's children."}
+{"from": "text:herodotus-1-101", "type": "attests", "to": "claim:mt-02-01-magi-from-east", "grade": "C", "note": "Herodotus (1.101) lists the Magi as one of the six tribes of the Medes - the priestly class behind the Greek word 'magos'."}
+{"from": "text:macrobius-saturnalia", "type": "attests", "to": "claim:mt-02-16-massacre", "grade": "D", "note": "Macrobius (early 5th century) reports Herod ordered boys in Syria under two killed; discounted as extra-biblical evidence due to later authorship."}
+{"from": "text:macrobius-saturnalia", "type": "attests", "to": "person:herod-the-great", "grade": "C", "note": "Macrobius calls Herod 'king of the Jews' in a late, confused anecdote."}
+{"from": "text:josephus-ant-13-onias", "type": "attests", "to": "claim:mt-02-13-flight-to-egypt", "grade": "C", "note": "Context: Egypt hosted a Jewish temple at Leontopolis (built by Onias) and long-standing Jewish communities, so a Jewish family had somewhere to go."}
+{"from": "text:josephus-ant-13-onias", "type": "attests", "to": "place:egypt", "grade": "C", "note": "Josephus describes Onias building a temple in Egypt like the one at Jerusalem."}
+{"from": "site:herodium", "type": "documented_by", "to": "source:wikipedia-herodium"}
+{"from": "artifact:herod-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage"}
+{"from": "artifact:archelaus-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage-archelaus"}
+{"from": "artifact:bethlehem-bulla", "type": "documented_by", "to": "source:wikipedia-bethlehem"}
+{"from": "site:church-of-the-nativity", "type": "documented_by", "to": "source:wikipedia-church-of-the-nativity"}
+{"from": "text:origen-contra-celsum", "type": "documented_by", "to": "source:wikipedia-church-of-the-nativity"}
+{"from": "artifact:caesarea-inscription", "type": "documented_by", "to": "source:wikipedia-nazareth-inscription"}
+{"from": "site:nazareth-house", "type": "documented_by", "to": "source:wikipedia-nazareth"}
+{"from": "text:josephus-ant-17-death", "type": "documented_by", "to": "source:wikisource-ant17-herod-death"}
+{"from": "text:josephus-ant-17-death", "type": "documented_by", "to": "source:wikisource-ant17-eclipse"}
+{"from": "text:josephus-ant-17-death", "type": "documented_by", "to": "source:wikipedia-herod-the-great"}
+{"from": "text:josephus-ant-17-archelaus", "type": "documented_by", "to": "source:wikisource-ant17-archelaus"}
+{"from": "text:josephus-ant-17-archelaus", "type": "documented_by", "to": "source:wikisource-ant17-banished"}
+{"from": "text:josephus-ant-17-archelaus", "type": "documented_by", "to": "source:wikipedia-archelaus"}
+{"from": "text:josephus-ant-17-cruelty", "type": "documented_by", "to": "source:wikisource-ant17-cruelty"}
+{"from": "text:herodotus-1-101", "type": "documented_by", "to": "source:wikisource-herodotus"}
+{"from": "text:macrobius-saturnalia", "type": "documented_by", "to": "source:wikipedia-massacre-macrobius"}
+{"from": "text:josephus-ant-13-onias", "type": "documented_by", "to": "source:wikisource-ant13-onias"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "claim:mt-02-01-magi-from-east", "type": "documented_by", "to": "source:wikipedia-magi"}
+{"from": "claim:mt-02-13-flight-to-egypt", "type": "documented_by", "to": "source:wikipedia-flight-into-egypt"}
+{"from": "claim:mt-02-16-massacre", "type": "documented_by", "to": "source:wikipedia-massacre"}
+{"from": "person:herod-archelaus", "type": "documented_by", "to": "source:wikipedia-archelaus"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-02-23"}
+{"from": "observation:lunar-eclipse-4-bce-03-13", "type": "attests", "to": "claim:mt-02-19-herod-died", "grade": "D", "note": "Partial lunar eclipse of 13 March 4 BCE (NASA 04813), the standard candidate (Schurer) for the eclipse Josephus places between Herod's execution of Matthias's followers and his death; the identification is disputed - opponents argue the time to Passover is too short, and Steinmann dates the death to 1 BCE instead."}
+{"from": "observation:lunar-eclipse-1-bce-01-10", "type": "attests", "to": "claim:mt-02-19-herod-died", "grade": "D", "note": "Total lunar eclipse of 10 January 1 BCE (NASA 04821); Wikipedia (Herod the Great) reports a 1 BCE chronology (Steinmann) taking Josephus's fast day, eclipse and Passover sequence at face value. The identification of Josephus's eclipse is disputed against the 4 BCE candidate, so grade D."}
+{"from": "observation:lunar-eclipse-4-bce-03-13", "type": "documented_by", "to": "source:nasa-eclipse-4-bce"}
+{"from": "observation:lunar-eclipse-1-bce-01-10", "type": "documented_by", "to": "source:nasa-eclipse-1-bce"}
+{"from": "claim:mt-02-19-herod-died", "type": "documented_by", "to": "source:wikipedia-herod-eclipse"}
+{"from": "claim:mt-02-19-herod-died", "type": "documented_by", "to": "source:wikipedia-herod-eclipse-dispute"}
+{"from": "text:josephus-ant-17-death", "type": "related_to", "to": "claim:mt-04-12-john-arrested", "note": "Josephus's account of Herod's death and the division of his kingdom (Ant. 17) is the frame for Antipas's tetrarchy of Galilee and Perea, under which John was arrested and executed at Machaerus; chapter 04's Machaerus edges record that the fortress passed to Antipas on Herod's death."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-02-23"}

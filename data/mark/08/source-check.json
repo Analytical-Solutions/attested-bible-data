@@ -1,0 +1,77 @@
+{
+ "source:archive-ryle-james-psolomon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia800803.us.archive.org/35/items/psalmoisolomnto00jamegoog/psalmoisolomnto00jamegoog_djvu.txt"
+ },
+ "source:sefaria-eduyot-8-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Eduyot.8.7"
+ },
+ "source:wikipedia-bethsaida": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-bethsaida-elaraj": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-bethsaida-elaraj-bathhouse": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-bethsaida-etell": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-dalmanutha": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Dalmanutha"
+ },
+ "source:wikipedia-dalmanutha-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Dalmanutha"
+ },
+ "source:wikipedia-mark-8-blindman": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mark_8"
+ },
+ "source:wikipedia-papyrus-45": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-45-mark": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-sea-of-galilee-boat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikisource-tacitus-histories-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_4"
+ }
+}

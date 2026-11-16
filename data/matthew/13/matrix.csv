@@ -1,0 +1,320 @@
+anchor,label,category,status,findings,note
+claim:mt-13-01-taught-from-boat,,inscription,none-found,,No inscription evidence was fetched for this anchor.
+claim:mt-13-01-taught-from-boat,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-01-taught-from-boat,,structure-or-site,none-found,,"The 'Cove of the Sower/Parables' on the north-west shore is a modern identification, not an excavation; the acoustic capacity (Crisler 1976, Biblical Archaeologist, 5,000-7,000 hearers) is quoted by a fetched travel source documenting the claim, not an evidence node."
+claim:mt-13-01-taught-from-boat,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-01-taught-from-boat,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-01-taught-from-boat,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-01-taught-from-boat,,jewish-literary,none-found,,"No Jewish literary evidence was fetched for this anchor; searched this run's corpus (Wikipedia Lolium, Copper Scroll, Brassica nigra, Salvadora, Mustard Seed parable, Sepphoris, Sea of Galilee, Terra rossa, units; Sefaria/Wikisource via reused nodes; Wikisource Antiquities 18; Latin Library Digest 9; Perseus Pliny 18; Wikisource Herodotus 1)."
+claim:mt-13-01-taught-from-boat,,greco-roman-literary,none-found,,Josephus's 230 fishing boats (Sea of Galilee page) was not fetched from a primary text this run.
+claim:mt-13-01-taught-from-boat,,material-culture,found,artifact:galilee-boat,"Grade C: a 1st-century boat from the north-west shore - boats like this sat offshore while the crowd stood on the beach. Context, not the event."
+claim:mt-13-01-taught-from-boat,,geography-or-nature,none-found,,No fetched source gives an acoustic/geographic observation for shore teaching; the cove acoustics remain a documented modern study (see structure-or-site note).
+claim:mt-13-01-taught-from-boat,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-04-05-path-rocky-ground,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-04-05-path-rocky-ground,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-04-05-path-rocky-ground,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-04-05-path-rocky-ground,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-04-05-path-rocky-ground,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-04-05-path-rocky-ground,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-04-05-path-rocky-ground,,jewish-literary,none-found,,No Mishnah tractate on field paths or shallow soil was fetched; searched this run's corpus plus the reused node set.
+claim:mt-13-04-05-path-rocky-ground,,greco-roman-literary,none-found,,"No classical agronomy passage on paths/rocky ground was fetched beyond the yield texts (Herodotus 1.193, Pliny NH 18.21, fetched for the yield claim)."
+claim:mt-13-04-05-path-rocky-ground,,material-culture,none-found,,No plough or sowing tool was fetched.
+claim:mt-13-04-05-path-rocky-ground,,geography-or-nature,found,observation:terra-rossa-shallow-soil,"Grade C: terra rossa, the soil type classified in Israel, is 'a discontinuous layer... that covers limestone and dolomite bedrock' - thin soil over rock, the parable's rocky ground."
+claim:mt-13-04-05-path-rocky-ground,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-07-thorns-choked,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-07-thorns-choked,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-07-thorns-choked,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-07-thorns-choked,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-07-thorns-choked,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-07-thorns-choked,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-07-thorns-choked,,jewish-literary,none-found,,No rabbinic text on thorns in crops was fetched.
+claim:mt-13-07-thorns-choked,,greco-roman-literary,none-found,,No classical passage on thorns choking crops was fetched.
+claim:mt-13-07-thorns-choked,,material-culture,none-found,,No hoe or weeding tool was fetched.
+claim:mt-13-07-thorns-choked,,geography-or-nature,found,observation:levantine-thorny-plants,Grade C: Ziziphus spina-christi grows in the Levant and Gundelia tournefortii is native to the eastern Mediterranean - choking thorny plants were part of the region's flora.
+claim:mt-13-07-thorns-choked,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,jewish-literary,none-found,,"No rabbinic yield table was fetched (Mishnah Peah 1:1 in the corpus concerns gleanings, not yields)."
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,greco-roman-literary,found,text:herodotus-1-193;text:pliny-nh-18-yields,"Grade C: Herodotus records Babylonian grain 'commonly two-hundred-fold... even three-hundred-fold'; Pliny records Sicily, Baetica and Egypt yielding 'a hundred-fold'. High multiples were real ancient agronomy."
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,material-culture,none-found,,No grain-storage jar or barn installation was fetched.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,geography-or-nature,none-found,,Galilean soil fertility per se was not separately documented beyond the terra rossa observation attached to the rocky-ground claim.
+claim:mt-13-08-yields-thirty-sixty-hundredfold,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,manuscript,found,artifact:great-isaiah-scroll,"Grade B: the Great Isaiah Scroll preserves Isaiah 6 from ca. 125 BCE, predating Matthew and showing the Hebrew wording behind the citation (reused from ch 01)."
+claim:mt-13-14-15-isaiah-6-quoted,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,jewish-literary,none-found,,No Qumran or rabbinic text using Isaiah 6:9-10 this way was fetched; the Great Isaiah Scroll (manuscript cell) carries the quoted wording.
+claim:mt-13-14-15-isaiah-6-quoted,,greco-roman-literary,none-found,,No classical evidence applies to a gospel citation practice.
+claim:mt-13-14-15-isaiah-6-quoted,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-14-15-isaiah-6-quoted,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-25-26-darnel-among-wheat,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-25-26-darnel-among-wheat,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-25-26-darnel-among-wheat,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-25-26-darnel-among-wheat,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-25-26-darnel-among-wheat,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-25-26-darnel-among-wheat,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-25-26-darnel-among-wheat,,jewish-literary,none-found,,Mishnah Kilayim (mixed seedings) was not fetched this run; the darnel botany (observation) and Roman law (Digest) carry the cell.
+claim:mt-13-25-26-darnel-among-wheat,,greco-roman-literary,found,text:digest-9-2-27-14,Grade C: Digest 9.2.27.14 (Ulpian citing Celsus) gives an action against one who throws 'lolium' (darnel) into another's crop to ruin it: the enemy's sabotage was a known legal case.
+claim:mt-13-25-26-darnel-among-wheat,,material-culture,none-found,,No sickle or harvest tool was fetched.
+claim:mt-13-25-26-darnel-among-wheat,,geography-or-nature,found,observation:darnel-weed-of-wheat,"Grade C: darnel 'usually grows in the same production zones as wheat and was a serious weed of cultivation, a Vavilovian mimic of wheat'."
+claim:mt-13-25-26-darnel-among-wheat,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-30-darnel-burned-bundles,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-30-darnel-burned-bundles,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-30-darnel-burned-bundles,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-30-darnel-burned-bundles,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-30-darnel-burned-bundles,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-30-darnel-burned-bundles,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-30-darnel-burned-bundles,,jewish-literary,none-found,,No rabbinic text on burning weed bundles was fetched; searched this run's corpus.
+claim:mt-13-30-darnel-burned-bundles,,greco-roman-literary,none-found,,"The Digest covers the sowing, not the burning, of darnel."
+claim:mt-13-30-darnel-burned-bundles,,material-culture,none-found,,"No sickle, binding or threshing installation was fetched."
+claim:mt-13-30-darnel-burned-bundles,,geography-or-nature,none-found,,No separate observation was fetched for the harvest separation itself; the darnel weed observation serves the darnel-among-wheat claim.
+claim:mt-13-30-darnel-burned-bundles,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-31-mustard-sown-in-field,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-31-mustard-sown-in-field,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-31-mustard-sown-in-field,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-31-mustard-sown-in-field,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-31-mustard-sown-in-field,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-31-mustard-sown-in-field,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-31-mustard-sown-in-field,,jewish-literary,none-found,,"The rabbinical source ('Jews did not grow the plant in gardens') is known only through the fetched Parable-of-the-Mustard-Seed article; the Mishnah Kilayim passage itself was not fetched, so no Jewish-literary evidence node."
+claim:mt-13-31-mustard-sown-in-field,,greco-roman-literary,none-found,,Pliny NH 19 on mustard was not fetched this run.
+claim:mt-13-31-mustard-sown-in-field,,material-culture,none-found,,No mustard seed or agricultural find was fetched.
+claim:mt-13-31-mustard-sown-in-field,,geography-or-nature,found,observation:mustard-botany,"Grade C: black mustard is an upright annual up to 1.2 m, cultivated for its seeds; rabbinical sources (per the documenting source) say it was not grown in gardens, matching sowing 'in his field'."
+claim:mt-13-31-mustard-sown-in-field,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-32-mustard-tree-birds,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-32-mustard-tree-birds,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-32-mustard-tree-birds,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-32-mustard-tree-birds,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-32-mustard-tree-birds,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-32-mustard-tree-birds,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-32-mustard-tree-birds,,jewish-literary,none-found,,No rabbinic 'bird of heaven' tree text (e.g. Dan 4 / Ezek 17 parallels) was fetched as evidence this run.
+claim:mt-13-32-mustard-tree-birds,,greco-roman-literary,none-found,,No classical text on mustard tree size was fetched beyond the two botanical observations.
+claim:mt-13-32-mustard-tree-birds,,material-culture,none-found,,No botanical remains were fetched.
+claim:mt-13-32-mustard-tree-birds,,geography-or-nature,found,observation:salvadora-mustard-tree,"Grade D: Salvadora persica, commonly called the 'mustard tree', is a 6-7 m evergreen tree native to the Middle East - but the identification of the parable's plant is disputed (the documenting source records black mustard, an annual herb, as the general view); black mustard's herb size is recorded as a complicates edge."
+claim:mt-13-32-mustard-tree-birds,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-33-leaven-three-measures,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-33-leaven-three-measures,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-33-leaven-three-measures,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-33-leaven-three-measures,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-33-leaven-three-measures,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-33-leaven-three-measures,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-33-leaven-three-measures,,jewish-literary,found,observation:seah-dry-measure,Grade C: the se'ah (6 kab) is the Hebrew dry measure and an ephah is 3 se'ahs - 'three measures' (sata) is roughly an ephah of meal. (Recorded as an observation from the units tabulation.)
+claim:mt-13-33-leaven-three-measures,,greco-roman-literary,none-found,,No classical leaven text (e.g. Pliny NH 18 on leaven) was fetched this run.
+claim:mt-13-33-leaven-three-measures,,material-culture,found,artifact:tabun-oven,Grade C: the clay tabun oven (reused from ch 06) is the household installation in which a leavened batch was baked.
+claim:mt-13-33-leaven-three-measures,,geography-or-nature,none-found,,No separate observation was fetched; the measure system (observation) serves the jewish-literary cell.
+claim:mt-13-33-leaven-three-measures,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-44-treasure-hidden-field,,inscription,none-found,,No inscription evidence applies to a hidden-hoard custom.
+claim:mt-13-44-treasure-hidden-field,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-44-treasure-hidden-field,,structure-or-site,none-found,,No hoard-excavation site was fetched this run.
+claim:mt-13-44-treasure-hidden-field,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-44-treasure-hidden-field,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-44-treasure-hidden-field,,documentary-papyrus,none-found,,"The Babatha archive (in the graph, ch 05) documents property transactions, not hidden treasure; no documentary papyrus on hoarding was fetched."
+claim:mt-13-44-treasure-hidden-field,,jewish-literary,found,text:copper-scroll-3q15,"Grade C: the Copper Scroll (3Q15) 'is not a literary work, but a list of 64 places where various items of gold and silver were buried or hidden' - hiding wealth in the ground was real practice."
+claim:mt-13-44-treasure-hidden-field,,greco-roman-literary,none-found,,No classical text on buried hoards was fetched beyond the Copper Scroll.
+claim:mt-13-44-treasure-hidden-field,,material-culture,none-found,,No coin hoard from a field was fetched this run.
+claim:mt-13-44-treasure-hidden-field,,geography-or-nature,none-found,,No landscape observation was fetched; the Copper Scroll's hiding places carry the cell.
+claim:mt-13-44-treasure-hidden-field,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-45-46-merchant-pearls,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-45-46-merchant-pearls,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-45-46-merchant-pearls,,structure-or-site,none-found,,No pearl-market site was fetched.
+claim:mt-13-45-46-merchant-pearls,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-45-46-merchant-pearls,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-45-46-merchant-pearls,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-45-46-merchant-pearls,,jewish-literary,none-found,,No Jewish text on pearl merchants was fetched.
+claim:mt-13-45-46-merchant-pearls,,greco-roman-literary,found,text:pliny-pearls,Grade C: Pliny praised the Gulf pearl fishery as most productive in the world (reused from ch 07) - fine pearls were prized 1st-century trade goods.
+claim:mt-13-45-46-merchant-pearls,,material-culture,none-found,,No ancient pearl was fetched as an artifact; Pliny (reused from ch 07) carries the cell.
+claim:mt-13-45-46-merchant-pearls,,geography-or-nature,none-found,,Pearl fishery waters are covered by the reused Pliny node's documenting sources; no separate observation was created.
+claim:mt-13-45-46-merchant-pearls,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-47-dragnet-sea,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-47-dragnet-sea,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-47-dragnet-sea,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-47-dragnet-sea,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-47-dragnet-sea,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-47-dragnet-sea,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-47-dragnet-sea,,jewish-literary,none-found,,No rabbinic fishing-gear text was fetched (Mishnah texts in the corpus concern Sabbath and measures).
+claim:mt-13-47-dragnet-sea,,greco-roman-literary,none-found,,Josephus's fishing-boats passage was not fetched from a primary text this run.
+claim:mt-13-47-dragnet-sea,,material-culture,found,artifact:magdala-fishing-gear,Grade C: lead net weights and a needle from Magdala - weighted nets were part of the lake fishery (reused from ch 04).
+claim:mt-13-47-dragnet-sea,,geography-or-nature,none-found,,The lake's fish species observation serves the sorting claim; no separate seine-fishing observation was fetched.
+claim:mt-13-47-dragnet-sea,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-48-good-bad-fish-sorted,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-48-good-bad-fish-sorted,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-48-good-bad-fish-sorted,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-48-good-bad-fish-sorted,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-48-good-bad-fish-sorted,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-48-good-bad-fish-sorted,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-48-good-bad-fish-sorted,,jewish-literary,none-found,,"The kosher rule is carried by the Leviticus 11:9 cross-reference (biblical, not evidence); no rabbinic treif-fish text was fetched."
+claim:mt-13-48-good-bad-fish-sorted,,greco-roman-literary,none-found,,No classical text on sorting catches was fetched.
+claim:mt-13-48-good-bad-fish-sorted,,material-culture,none-found,,No fish-sorting vessel or installation was fetched.
+claim:mt-13-48-good-bad-fish-sorted,,geography-or-nature,found,observation:galilee-fish-species,"Grade C: the lake's catch includes musht (tilapia), sardin and biny (barbel) plus the scaleless North African sharptooth catfish - a mixed catch that needed sorting (kosher rule = Leviticus cross-reference)."
+claim:mt-13-48-good-bad-fish-sorted,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-52-scribe-new-and-old,,inscription,none-found,,"No inscription naming a sofer (scribe) of this kind was fetched; the Theodotos inscription (in the graph, ch 09) names an archisynagogos."
+claim:mt-13-52-scribe-new-and-old,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-52-scribe-new-and-old,,structure-or-site,none-found,,No scribal school or library was fetched.
+claim:mt-13-52-scribe-new-and-old,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-52-scribe-new-and-old,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-52-scribe-new-and-old,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-52-scribe-new-and-old,,jewish-literary,none-found,,No rabbinic text on a scribe's treasury of learning was fetched this run.
+claim:mt-13-52-scribe-new-and-old,,greco-roman-literary,none-found,,No classical text applies to this metaphor.
+claim:mt-13-52-scribe-new-and-old,,material-culture,none-found,,No scribal implements were fetched.
+claim:mt-13-52-scribe-new-and-old,,geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+claim:mt-13-52-scribe-new-and-old,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-nazareth-synagogue,,inscription,none-found,,No synagogue inscription from Nazareth exists in the fetched corpus.
+claim:mt-13-54-nazareth-synagogue,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-nazareth-synagogue,,structure-or-site,none-found,,"No first-century synagogue has been excavated at Nazareth; searched this run's corpus (Wikipedia Nazareth, Dark 2012 abstract, reused synagogue nodes Migdal/Gamla/Capernaum)."
+claim:mt-13-54-nazareth-synagogue,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-nazareth-synagogue,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-54-nazareth-synagogue,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-nazareth-synagogue,,jewish-literary,none-found,,No text names a Nazareth synagogue.
+claim:mt-13-54-nazareth-synagogue,,greco-roman-literary,none-found,,No classical text names a Nazareth synagogue.
+claim:mt-13-54-nazareth-synagogue,,material-culture,none-found,,No synagogue furnishing from Nazareth was fetched.
+claim:mt-13-54-nazareth-synagogue,,geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-nazareth-synagogue,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-own-country-nazareth,,inscription,none-found,,No inscription names Nazareth from this period.
+claim:mt-13-54-own-country-nazareth,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-own-country-nazareth,,structure-or-site,found,site:nazareth-house;site:sisters-of-nazareth,"Grade C: two first-century domestic structures excavated in Nazareth (Alexandre's Marian Center house; Dark's Sisters of Nazareth courtyard house, published 2012) - the village existed as a settlement in the period."
+claim:mt-13-54-own-country-nazareth,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-own-country-nazareth,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-54-own-country-nazareth,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-54-own-country-nazareth,,jewish-literary,none-found,,Nazareth is not named in Josephus or the Mishnah; searched this run's corpus.
+claim:mt-13-54-own-country-nazareth,,greco-roman-literary,none-found,,Nazareth is not named in classical authors; searched this run's corpus.
+claim:mt-13-54-own-country-nazareth,,material-culture,none-found,,No Nazareth artifact was fetched beyond the two domestic structures.
+claim:mt-13-54-own-country-nazareth,,geography-or-nature,none-found,,No terrain observation for Nazareth was fetched.
+claim:mt-13-54-own-country-nazareth,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-55-tekton-son,,inscription,none-found,,No inscription names Joseph or a Nazareth tekton.
+claim:mt-13-55-tekton-son,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-55-tekton-son,,structure-or-site,found,site:sepphoris,"Grade C: Sepphoris, 6 km north-northwest of Nazareth, burnt in 4 BCE and rebuilt by Antipas as the 'Ornament of the Galilee' - context for a building craftsman's livelihood, not proof Joseph or Jesus worked there."
+claim:mt-13-55-tekton-son,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-55-tekton-son,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-55-tekton-son,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-55-tekton-son,,jewish-literary,none-found,,No rabbinic text on Nazareth craftsmen was fetched.
+claim:mt-13-55-tekton-son,,greco-roman-literary,found,text:josephus-ant-18-sepphoris,"Grade C: Josephus (Ant. 18.27) has Antipas wall Sepphoris and make it 'the metropolis of the country' - the rebuilding that created a craftsman's work market about 6 km from Nazareth. That a tekton of Nazareth worked there is a scholars' suggestion, not evidence."
+claim:mt-13-55-tekton-son,,material-culture,none-found,,No carpenter's or builder's tool from Nazareth was fetched (Chorazin millstones in the graph are from a different village).
+claim:mt-13-55-tekton-son,,geography-or-nature,none-found,,The Nazareth-Sepphoris distance is carried by the Sepphoris site and Wikipedia source; no separate observation was created.
+claim:mt-13-55-tekton-son,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-57-prophet-without-honor,,inscription,none-found,,No inscription evidence for honour-conflict in home villages was fetched.
+claim:mt-13-57-prophet-without-honor,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-57-prophet-without-honor,,structure-or-site,none-found,,No structure bears on the proverb.
+claim:mt-13-57-prophet-without-honor,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-57-prophet-without-honor,,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-13-57-prophet-without-honor,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-13-57-prophet-without-honor,,jewish-literary,none-found,,No rabbinic parallel (e.g. 'no prophet is honoured in his own city') was fetched from a primary text this run.
+claim:mt-13-57-prophet-without-honor,,greco-roman-literary,none-found,,No classical parallel was fetched.
+claim:mt-13-57-prophet-without-honor,,material-culture,none-found,,Category cannot bear evidence for this anchor.
+claim:mt-13-57-prophet-without-honor,,geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+claim:mt-13-57-prophet-without-honor,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:isaiah-the-prophet,Isaiah the prophet,inscription,n/a,,Category cannot bear evidence for this anchor.
+person:isaiah-the-prophet,Isaiah the prophet,coin,n/a,,Category cannot bear evidence for this anchor.
+person:isaiah-the-prophet,Isaiah the prophet,structure-or-site,none-found,,No structure attests him.
+person:isaiah-the-prophet,Isaiah the prophet,burial-or-ossuary,none-found,,"No burial attests him (the scroll preserves the book, not the man - architect correction, ch 11)."
+person:isaiah-the-prophet,Isaiah the prophet,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:isaiah-the-prophet,Isaiah the prophet,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:isaiah-the-prophet,Isaiah the prophet,jewish-literary,none-found,,No text independently attests the man beyond the book itself.
+person:isaiah-the-prophet,Isaiah the prophet,greco-roman-literary,none-found,,No classical text attests him.
+person:isaiah-the-prophet,Isaiah the prophet,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:isaiah-the-prophet,Isaiah the prophet,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:isaiah-the-prophet,Isaiah the prophet,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",inscription,found,artifact:james-ossuary,Grade D: the inscription names James; unprovenanced and disputed (reused from ch 12).
+person:james-brother-of-jesus,"James, brother of Jesus",coin,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",structure-or-site,none-found,,No structure names him.
+person:james-brother-of-jesus,"James, brother of Jesus",burial-or-ossuary,found,artifact:james-ossuary,Grade D: claimed ossuary of James the Just; unprovenanced (reused from ch 12).
+person:james-brother-of-jesus,"James, brother of Jesus",manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:james-brother-of-jesus,"James, brother of Jesus",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",jewish-literary,found,text:josephus-antiquities-20,Grade A: Josephus names James as the brother of Jesus who was called Christ (reused from ch 12).
+person:james-brother-of-jesus,"James, brother of Jesus",greco-roman-literary,none-found,,No classical text names him.
+person:james-brother-of-jesus,"James, brother of Jesus",material-culture,none-found,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),inscription,found,artifact:james-ossuary,"Grade D: the ossuary inscription 'James, son of Joseph, brother of Yeshua' names Jesus - if authentic; unprovenanced, authenticity disputed."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),coin,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),structure-or-site,none-found,,"Site nodes in the graph (Nazareth structures, Sepphoris, Capernaum) attest settings on the claims, not the person."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),burial-or-ossuary,found,artifact:james-ossuary,Grade D: claimed to have held James's bones; unprovenanced (reused from ch 12).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),jewish-literary,found,text:josephus-antiquities-20,"Grade A: Josephus (Ant. 20.200) independently names 'the brother of Jesus, who was called Christ' (reused from ch 12)."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),greco-roman-literary,none-found,,No classical author of the period names Jesus in the fetched corpus (Tacitus/Suetonius not fetched this run).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),material-culture,none-found,,No artifact names him.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:joseph-husband-of-mary,Joseph (husband of Mary),inscription,none-found,,No inscription names Joseph the tekton; the James ossuary's 'son of Joseph' (if authentic) touches the family only through James.
+person:joseph-husband-of-mary,Joseph (husband of Mary),coin,n/a,,Category cannot bear evidence for this anchor.
+person:joseph-husband-of-mary,Joseph (husband of Mary),structure-or-site,none-found,,No structure names him.
+person:joseph-husband-of-mary,Joseph (husband of Mary),burial-or-ossuary,none-found,,No ossuary of his was fetched.
+person:joseph-husband-of-mary,Joseph (husband of Mary),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:joseph-husband-of-mary,Joseph (husband of Mary),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:joseph-husband-of-mary,Joseph (husband of Mary),jewish-literary,none-found,,No text independently names him.
+person:joseph-husband-of-mary,Joseph (husband of Mary),greco-roman-literary,none-found,,No classical text names him.
+person:joseph-husband-of-mary,Joseph (husband of Mary),material-culture,none-found,,Category cannot bear evidence for this anchor.
+person:joseph-husband-of-mary,Joseph (husband of Mary),geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+person:joseph-husband-of-mary,Joseph (husband of Mary),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",inscription,none-found,,No inscription names Joses brother of Jesus; the name Joses is not in the fetched name-frequency excerpt.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",coin,n/a,,Category cannot bear evidence for this anchor.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",structure-or-site,none-found,,No structure names him.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",burial-or-ossuary,none-found,,No ossuary of his was fetched.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",jewish-literary,none-found,,No text independently names him.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",greco-roman-literary,none-found,,No classical text names him.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",material-culture,none-found,,Category cannot bear evidence for this anchor.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+person:joses-brother-of-jesus,"Joses, brother of Jesus",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",inscription,none-found,,"No inscription names Judas brother of Jesus; Judah is a top-ten period name (reused observation, attached to the claim)."
+person:judas-brother-of-jesus,"Judas, brother of Jesus",coin,n/a,,Category cannot bear evidence for this anchor.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",structure-or-site,none-found,,No structure names him.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",burial-or-ossuary,none-found,,No ossuary of his was fetched.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",jewish-literary,none-found,,No text independently names him.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",greco-roman-literary,none-found,,No classical text names him.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",material-culture,none-found,,Category cannot bear evidence for this anchor.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+person:judas-brother-of-jesus,"Judas, brother of Jesus",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:mary-mother-of-jesus,Mary (mother of Jesus),inscription,none-found,,No inscription names her; period name statistics (reused observation) show Mary among the commonest women's names but are attached to the claims.
+person:mary-mother-of-jesus,Mary (mother of Jesus),coin,n/a,,Category cannot bear evidence for this anchor.
+person:mary-mother-of-jesus,Mary (mother of Jesus),structure-or-site,none-found,,No structure names her.
+person:mary-mother-of-jesus,Mary (mother of Jesus),burial-or-ossuary,none-found,,No ossuary of hers was fetched; the Talpiot name statistics are not evidence for her person.
+person:mary-mother-of-jesus,Mary (mother of Jesus),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:mary-mother-of-jesus,Mary (mother of Jesus),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:mary-mother-of-jesus,Mary (mother of Jesus),jewish-literary,none-found,,No text independently names her.
+person:mary-mother-of-jesus,Mary (mother of Jesus),greco-roman-literary,none-found,,No classical text names her.
+person:mary-mother-of-jesus,Mary (mother of Jesus),material-culture,none-found,,Category cannot bear evidence for this anchor.
+person:mary-mother-of-jesus,Mary (mother of Jesus),geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+person:mary-mother-of-jesus,Mary (mother of Jesus),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",inscription,none-found,,"No inscription names Simon brother of Jesus; Simon is a top-ten period name (reused observation, attached to the claim)."
+person:simon-brother-of-jesus,"Simon, brother of Jesus",coin,n/a,,Category cannot bear evidence for this anchor.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",structure-or-site,none-found,,No structure names him.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",burial-or-ossuary,none-found,,No ossuary of his was fetched.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",jewish-literary,none-found,,No text independently names him.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",greco-roman-literary,none-found,,No classical text names him.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",material-culture,none-found,,Category cannot bear evidence for this anchor.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",geography-or-nature,none-found,,Category cannot bear evidence for this anchor.
+person:simon-brother-of-jesus,"Simon, brother of Jesus",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,inscription,none-found,,No inscription names Nazareth from the Roman period.
+place:nazareth,Nazareth,coin,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,structure-or-site,found,site:nazareth-house;site:sisters-of-nazareth,Grade C: first-century domestic remains at the Marian Center site (Alexandre) and the Sisters of Nazareth convent site (Dark).
+place:nazareth,Nazareth,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:nazareth,Nazareth,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,jewish-literary,none-found,,Nazareth is unattested in Josephus and the Mishnah; searched this run's corpus.
+place:nazareth,Nazareth,greco-roman-literary,none-found,,Nazareth is unattested in classical authors; searched this run's corpus.
+place:nazareth,Nazareth,material-culture,none-found,,No Nazareth artifact was fetched beyond the two domestic structures.
+place:nazareth,Nazareth,geography-or-nature,none-found,,No terrain observation was fetched.
+place:nazareth,Nazareth,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,inscription,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,coin,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,structure-or-site,none-found,,"Lakeside town sites in the graph (Hippos, Kursi, Capernaum, Magdala) attest the lake's towns on other chapters' rows; no new site was fetched this run."
+place:sea-of-galilee,Sea of Galilee,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:sea-of-galilee,Sea of Galilee,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,jewish-literary,none-found,,Josephus's fishing-boats passage was not fetched from a primary text this run.
+place:sea-of-galilee,Sea of Galilee,greco-roman-literary,none-found,,Same as the jewish-literary note.
+place:sea-of-galilee,Sea of Galilee,material-culture,found,artifact:galilee-boat;artifact:magdala-fishing-gear,Grade C: the 1st-century boat from the north-west shore and Magdala net weights - the lake's fishery (reused from ch 04/07).
+place:sea-of-galilee,Sea of Galilee,geography-or-nature,none-found,,The lake's fish species observation is attached to the sorting claim; no separate lake observation was created this run.
+place:sea-of-galilee,Sea of Galilee,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

@@ -1,0 +1,51 @@
+{
+ "book": "john",
+ "chapter": 1,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    18
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "Prologue; \"In the beginning was the Word\" (1:1) names no place - John 1:1-18 null rule"
+  },
+  {
+   "verses": [
+    19,
+    28
+   ],
+   "setting": "site:bethany-beyond-jordan",
+   "confidence": "stated",
+   "basis": "1:28 \"These things were done in Bethany beyond the Jordan, where John was baptizing\""
+  },
+  {
+   "verses": [
+    29,
+    34
+   ],
+   "setting": "site:bethany-beyond-jordan",
+   "confidence": "stated",
+   "basis": "1:29 \"The next day, he saw Jesus coming to him\" - the baptizing at Bethany beyond the Jordan (1:28)"
+  },
+  {
+   "verses": [
+    35,
+    42
+   ],
+   "setting": "site:bethany-beyond-jordan",
+   "confidence": "stated",
+   "basis": "1:35 \"the next day, John was standing with two of his disciples\" - at Bethany beyond the Jordan (1:28)"
+  },
+  {
+   "verses": [
+    43,
+    51
+   ],
+   "setting": "place:galilee",
+   "confidence": "stated",
+   "basis": "1:43 \"he was determined to go out into Galilee, and he found Philip\""
+  }
+ ]
+}

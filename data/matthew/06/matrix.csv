@@ -1,0 +1,243 @@
+anchor,label,category,status,findings,note
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,documentary-papyrus,none-found,,"No papyrus documenting almsgiving was fetched; the Babatha archive concerns property, not alms."
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,jewish-literary,found,text:mishnah-peah-1-1,"Mishnah Peah 1:1 lists 'the performance of righteous deeds' (gemilut chasadim, the charity duty behind almsgiving) among the things without fixed measure; a later rabbinic redaction describing earlier practice."
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,greco-roman-literary,none-found,,No classical text on Jewish almsgiving was fetched.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-01-almsgiving,Almsgiving as a religious duty,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,structure-or-site,found,site:gamla-synagogue;site:migdal-synagogue;site:capernaum-synagogue,Synagogues excavated at Gamla (believed late 1st century BCE) and Migdal/Magdala (Second Temple period) confirm first-century synagogue venues; Capernaum's standing building is 4th-5th century over a basalt foundation suggested to be 1st century.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,documentary-papyrus,none-found,,No papyrus on synagogue attendance was fetched.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,jewish-literary,found,text:amidah;text:mishnah-taanit-2-1,"The Amidah is literally 'the Standing Prayer', the central Jewish prayer; Mishnah Taanit 2:1 has the synagogue ark carried to the city square on fast days - formal prayer is standing and public synagogue life is assumed."
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-05-synagogues-streets,Public prayer and almsgiving in synagogues and streets,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,structure-or-site,found,site:sepphoris,"Grade D: Sepphoris, about 6 km from Nazareth, has an excavated Roman theatre (45 m diameter, 4,500 seats), confirming a theatre in Roman Galilee; graded D because the fetched sources give no construction date, so its standing in the early first century cannot be secured."
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,jewish-literary,none-found,,No Jewish literary source on stage actors or theatres was fetched (Josephus was searched for a theatre and none was found in Ant. 18).
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,greco-roman-literary,none-found,,"No classical text on stage actors was fetched; the word's etymology is recorded as documented_by on the claim (Wikipedia, Hypocrite)."
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-hypocrites-actors,Hypocrites as stage actors; theatres in Galilee,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,coin,found,artifact:tyrian-shekel,Tyrian tetradrachms (issued 126 BC-AD 56) were the coins the Jerusalem Temple priests required for the half-shekel Temple tax - the shekels the Mishnah's collection horns received.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,structure-or-site,found,site:second-temple;text:mishnah-shekalim-6-1,The Temple in Jerusalem was the venue where pilgrims' shekel contributions were gathered; the Mishnah locates the thirteen trumpet-shaped collection chests in its courts.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,jewish-literary,found,text:mishnah-shekalim-6-1,"Mishnah Shekalim 6:1 records thirteen trumpet-shaped collection chests (shofarot), 'narrow at the top and wide at the bottom', into which shekels were placed; a later rabbinic redaction describing Second Temple practice."
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,material-culture,none-found,,No excavated offering chest was searched and found; the chests are known only from the Mishnah account (Searched Wikipedia and museum pages via the shofar article route).
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-02-shofarot,Trumpet-shaped offering chests (shofarot) in the Temple,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,structure-or-site,none-found,,"Searched Wikipedia pages on first-century Galilean houses (Capernaum, Gamla); no fetched page describes the inner storage chamber (tameion) of a Galilean house."
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,jewish-literary,none-found,,No Mishnah or Talmud passage on the tameion was fetched.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,greco-roman-literary,none-found,,No classical description of Judean house rooms was fetched.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,material-culture,none-found,,No excavated domestic storage-room assemblage page was fetched.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-06-inner-room,The inner room (tameion) of a house,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,jewish-literary,none-found,,No Jewish text on gentile prayer habits was fetched.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,greco-roman-literary,none-found,,No classical text on repetitive pagan prayer ('much speaking') was fetched; Wikipedia pages on prayer customs were consulted via search.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-07-pagan-repetition,Pagan prayer by much speaking and repetition,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,jewish-literary,found,text:didache-8,"WITNESS OF THE TEXT, NOT THE EVENTS: Didache 8 directs Christians to pray the Lord's Prayer three times a day in a version close to Matthew 6; it is linked to the passage with related_to and is never used to attest."
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,greco-roman-literary,none-found,,No classical parallel to the Lord's Prayer was fetched.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-09-lords-prayer,The Lord's Prayer as a taught form of prayer,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,jewish-literary,none-found,,The Didache's version of the prayer includes the doxology; it is linked related_to to the passage and cannot attest a textual claim.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-13-doxology,The doxology at the end of the Lord's Prayer,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,documentary-papyrus,none-found,,No papyrus on fasting was fetched.
+claim:mt-06-16-fasting,Fasting and its visible display,jewish-literary,found,text:mishnah-taanit-2-1,"Mishnah Taanit 2:1: on public fast days ashes are placed on the ark and on the head of the Nasi, the deputy Nasi and every member of the community - fasting visibly marked on the head and face; a later redaction describing earlier practice."
+claim:mt-06-16-fasting,Fasting and its visible display,greco-roman-literary,none-found,,No classical text on Jewish fasting was fetched.
+claim:mt-06-16-fasting,Fasting and its visible display,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-16-fasting,Fasting and its visible display,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,jewish-literary,none-found,,No rabbinic text on grooming with oil was fetched.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,greco-roman-literary,found,text:pliny-nh-13-unguents,Pliny's book on unguents shows oil-based perfumes for the body were a major Roman industry; the grooming use of anointment with oil after bathing is documented by Wikipedia (Anointing) via documented_by on the claim.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,material-culture,none-found,,No excavated oil flask or unguentarium page tied to Judea/Galilee was fetched.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-17-anointing,Anointing the head with oil as grooming,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-dig-through,Thieves digging through house walls,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-dig-through,Thieves digging through house walls,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-dig-through,Thieves digging through house walls,structure-or-site,none-found,,"Searched the Capernaum and Gamla pages; walls there are basalt, and no page discusses house-breaking."
+claim:mt-06-19-dig-through,Thieves digging through house walls,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-dig-through,Thieves digging through house walls,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-dig-through,Thieves digging through house walls,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-dig-through,Thieves digging through house walls,jewish-literary,none-found,,"Job 24:16 ('they dig through houses') is a biblical cross-reference, not counted; no other Jewish text was fetched."
+claim:mt-06-19-dig-through,Thieves digging through house walls,greco-roman-literary,none-found,,No classical text on house-breaking (digging through walls) was fetched.
+claim:mt-06-19-dig-through,Thieves digging through house walls,material-culture,none-found,,"Wikipedia (Mudbrick) documents mudbrick walls across the Levant for millennia (recorded as documented_by on the claim), but no fetched page ties wall-breaking into houses to first-century Galilee."
+claim:mt-06-19-dig-through,Thieves digging through house walls,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-dig-through,Thieves digging through house walls,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,documentary-papyrus,found,artifact:babatha-archive,"The Babatha archive (96-134 CE) preserves a Judean woman's legal contracts - property transfers, ketubah, guardianship - showing ordinary households held and managed wealth in goods and documents."
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,jewish-literary,none-found,,No rabbinic passage on storing valuables at home was fetched.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,greco-roman-literary,none-found,,No classical text on household treasure storage was fetched.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,material-culture,none-found,,No excavated hoard or storage assemblage page for first-century Galilee was fetched.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-laying-up-treasure,Laying up treasure in goods on earth,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,jewish-literary,none-found,,"Isaiah 51:8 ('the moth shall eat them up') is a biblical cross-reference, not counted as evidence; no other Jewish text was fetched."
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,greco-roman-literary,found,text:pliny-nh-11-moths;text:pliny-nh-34-rust,Pliny records that 'dust in woollens and in clothes breeds moths' and that nature 'limited the power of iron itself by inflicting on it the penalty of rust' - both decay agents of stored goods.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,material-culture,found,artifact:judean-desert-textiles,Woollen textiles from the Cave of Letters (c. 135 CE) show wool garments were kept in Judean households - the garments that moths consume.
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,geography-or-nature,none-found,,"The webbing clothes moth feeds on wool garments (Wikipedia, Tineola bisselliella), but no nature-category node type could carry the find; Pliny is recorded under Greco-Roman literary."
+claim:mt-06-19-moth-rust,Moth and rust consuming stored goods,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,jewish-literary,none-found,,No Jewish parallel (rabbinic or Qumran 'eye as lamp') was fetched.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,greco-roman-literary,found,text:euclid-optics,"Euclid postulated that the visual ray emitted from the eye travelled in straight lines - ancient optics conceived the eye in terms of light and rays, the world of ideas behind 'the lamp of the body'."
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-22-eye-lamp,The eye as the lamp of the body,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,coin,found,artifact:antipas-coins,Antipas's bronze coins circulated in Galilee in this period; coined money was part of the everyday economy that 'mammon' (wealth) names.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,jewish-literary,none-found,,The Aramaic word mamona is documented by Wikipedia (Mammon) via documented_by on the claim; no Aramaic text page was fetched.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-mammon,Mammon: an Aramaic word for wealth,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,inscription,none-found,,No inscription naming household slaves of first-century Judea was fetched.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,documentary-papyrus,none-found,,"No papyrus on slave sales in Judea was fetched; the Babatha archive concerns property, not slaves."
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,jewish-literary,none-found,,Josephus on slaves in Judea was not fetched.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,greco-roman-literary,none-found,,"Wikipedia (Slavery in ancient Rome) documents domestic slaves as part of the Roman familia (recorded as documented_by on the claim), but no classical text page on a slave serving masters was fetched."
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-24-two-masters,Serving a master: slavery in the Roman world,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",documentary-papyrus,none-found,,"The Babatha archive documents property and marriage, not subsistence; no papyrus on daily provisioning was fetched."
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",jewish-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",material-culture,none-found,,"Loom weights and grain tools are ubiquitous household finds, but no fetched page tied an excavated assemblage to food, drink and clothing as daily concerns in Galilee."
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-25-daily-provisions,"Daily concern for food, drink and clothing",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",documentary-papyrus,none-found,,No agricultural papyrus from Galilee was fetched.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",jewish-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",greco-roman-literary,none-found,,No classical agronomy text was fetched.
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",material-culture,none-found,,"No excavated farm implement or barn page for first-century Galilee was fetched (granary article consulted: grain stored in bulk since ancient times, but no period-regional page)."
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",geography-or-nature,none-found,,"The house sparrow naturally feeds on the seeds of grains and wild plants (Wikipedia, House sparrow) - birds live off the fields without farming - but no nature-category node could carry the find; recorded as documented_by on the claim."
+claim:mt-06-26-sowing-reaping-barns,"Sowing, reaping and barns; birds without farming",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,jewish-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,greco-roman-literary,found,text:pliny-nh-21-anemone,"Pliny lists the anemone among the wild spring flowers ('a flower of the wild bulbs'); the poppy anemone, a common candidate for 'lilies of the field', is native to the Mediterranean region."
+claim:mt-06-28-lilies,The lilies of the field,material-culture,none-found,,Category cannot bear evidence for this anchor.
+claim:mt-06-28-lilies,The lilies of the field,geography-or-nature,none-found,,"Anemone coronaria is native to the Mediterranean and blooms April-June (Wikipedia, recorded as documented_by on the claim), but no nature-category node could carry flora; Pliny is recorded under Greco-Roman literary."
+claim:mt-06-28-lilies,The lilies of the field,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,jewish-literary,none-found,,No rabbinic text on oven fuel was fetched.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,greco-roman-literary,none-found,,No classical description of village ovens was fetched.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,material-culture,found,artifact:tabun-oven,"The clay tabun/tannur oven, used since antiquity in the Near East, is heated with dried dung, dried tree leaves and other dried plant fuel - the picture of the oven into which field grass is thrown."
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,geography-or-nature,none-found,,Dried plants as oven fuel are documented by Wikipedia (Tabun oven) but no nature-category node could carry fuel plants.
+claim:mt-06-30-oven,Clay ovens fuelled with dried plants,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:solomon,Solomon,inscription,none-found,,No inscription naming Solomon was found; Wikipedia (Solomon) states that no material evidence indisputably of his reign has been found.
+person:solomon,Solomon,coin,none-found,,No coins naming Solomon exist; none were fetched.
+person:solomon,Solomon,structure-or-site,found,site:solomonic-gates,"Recorded as a complicates edge: the gates at Hazor, Megiddo, Beit She'an and Gezer that Yadin dated to Solomon are dated by Finkelstein and Silberman to the Omride period, more than a century after Solomon."
+person:solomon,Solomon,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+person:solomon,Solomon,manuscript,none-found,,A manuscript of Matthew only preserves the passage; it cannot attest a claim about Solomon.
+person:solomon,Solomon,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:solomon,Solomon,jewish-literary,found,text:josephus-ant-8-solomon,"Grade D: Josephus gives Solomon's yearly gold as 666 talents (Ant. 8.7.2), but he retells and expands 1 Kings 10, so it is not independent evidence for Solomon's glory."
+person:solomon,Solomon,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+person:solomon,Solomon,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:solomon,Solomon,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:solomon,Solomon,astronomy-or-calendar,none-found,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",inscription,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",coin,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",jewish-literary,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+place:temple-mount,"Temple Mount, Jerusalem",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

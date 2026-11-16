@@ -1,0 +1,17 @@
+{
+ "source:wikipedia-siege-circumvallation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)"
+ },
+ "source:wikisource-war-5-temple-gold": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ },
+ "source:wikisource-war-6-captives": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ }
+}

@@ -1,0 +1,127 @@
+{"from": "passage:lk-15-08", "type": "asserts", "to": "claim:lk-15-08-ten-drachmas"}
+{"from": "passage:lk-15-08", "type": "asserts", "to": "claim:lk-15-08-lamp-sweep"}
+{"from": "passage:lk-15-11", "type": "asserts", "to": "claim:lk-15-11-12-division-living"}
+{"from": "passage:lk-15-12", "type": "asserts", "to": "claim:lk-15-11-12-division-living"}
+{"from": "passage:lk-15-15", "type": "asserts", "to": "claim:lk-15-15-swineherd"}
+{"from": "passage:lk-15-16", "type": "asserts", "to": "claim:lk-15-16-carob-pods"}
+{"from": "passage:lk-15-22", "type": "asserts", "to": "claim:lk-15-22-robe-ring"}
+{"from": "passage:lk-15-23", "type": "asserts", "to": "claim:lk-15-23-fatted-calf"}
+{"from": "passage:lk-15-25", "type": "asserts", "to": "claim:lk-15-25-27-music-dancing"}
+{"from": "passage:lk-15-01", "type": "asserts", "to": "claim:mt-09-10-11-eating-sinners"}
+{"from": "passage:lk-15-02", "type": "asserts", "to": "claim:mt-09-10-11-eating-sinners"}
+{"from": "passage:lk-15-04", "type": "asserts", "to": "claim:mt-18-12-13-lost-sheep"}
+{"from": "passage:lk-15-01", "type": "related_to", "to": "passage:lk-05-29", "note": "Tax collectors and sinners at table with Jesus, as at Levi's feast in Luke 5:29 — a recurring scene type, different occasions; the same-event parallels are to Mark 2:15 (reviewer 7)."}
+{"from": "passage:lk-15-02", "type": "parallels", "to": "passage:mt-09-11"}
+{"from": "passage:lk-15-02", "type": "parallels", "to": "passage:mk-02-16"}
+{"from": "passage:lk-15-02", "type": "related_to", "to": "passage:lk-05-30", "note": "The murmuring motif of Luke 5:30 at Levi's feast; here the Pharisees and scribes murmur 'this man welcomes sinners'. Different occasions; the same-event parallels are Matt 9:11 and Mark 2:16 (reviewer 7)."}
+{"from": "passage:lk-15-04", "type": "parallels", "to": "passage:mt-18-12", "note": "Same lost-sheep parable; Luke leaves the ninety-nine 'in the wilderness' and addresses 'which of you men', Matthew leaves them 'on the mountains' in the church-discourse setting."}
+{"from": "passage:lk-15-06", "type": "parallels", "to": "passage:mt-18-13", "note": "Rejoicing over the found sheep; Luke adds that the shepherd carries it on his shoulders and calls friends and neighbors together."}
+{"from": "passage:lk-15-07", "type": "parallels", "to": "passage:mt-18-14", "note": "Luke: 'more joy in heaven over one sinner who repents'; Matthew: 'it is not the will of your Father ... that one of these little ones should perish'."}
+{"from": "artifact:drachma-coin", "type": "attests", "to": "claim:lk-15-08-ten-drachmas", "grade": "C", "note": "The drachma, a usually silver coin minted from the 6th century BC onward and still current in the Roman period, worth about a day's wage: a hoard of ten was a poor peasant's modest savings. The coin type attests the object, not that the parable was told."}
+{"from": "artifact:herodian-oil-lamp", "type": "attests", "to": "claim:lk-15-08-lamp-sweep", "grade": "C", "note": "The excavated Herodian lamp type (1st century BC to end of the 1st century AD, considered mainly Jewish use): the small household lamp a woman would light to search a one-room house. It attests the lamp, not the search."}
+{"from": "observation:carob-fodder", "type": "attests", "to": "claim:lk-15-16-carob-pods", "grade": "C", "note": "Carob pods were used as animal feed in the Mediterranean Basin: the fodder the pigs of the parable eat existed then and there. It attests the custom, not that the parable was told."}
+{"from": "claim:lk-15-15-swineherd", "type": "related_to", "to": "claim:mk-05-11-13-two-thousand-swine", "note": "Mark 5's herd of about two thousand pigs on the mountainside east of the lake shows pig-keeping in the region; Luke 15 assumes a Jew herding pigs for a citizen in an unnamed far country. Different settings, the same unclean trade."}
+{"from": "claim:lk-15-22-robe-ring", "type": "related_to", "to": "text:genesis-41-42", "note": "Cross-reference: Genesis 41:42 - Pharaoh's signet ring on Joseph's hand and fine-linen robes - the ring-and-robe investiture the father's gifts echo. A biblical text is not independent evidence."}
+{"from": "claim:lk-15-25-27-music-dancing", "type": "related_to", "to": "claim:mt-14-06-herodias-daughter-danced", "note": "Dancing at a banquet also appears in Matthew 14:6 (Herod's birthday feast); a celebration with music and dancing is the same custom family."}
+{"from": "artifact:drachma-coin", "type": "documented_by", "to": "source:wikipedia-ancient-drachma"}
+{"from": "claim:lk-15-08-ten-drachmas", "type": "documented_by", "to": "source:wikipedia-lost-coin"}
+{"from": "observation:carob-fodder", "type": "documented_by", "to": "source:wikipedia-carob"}
+{"from": "claim:lk-15-15-swineherd", "type": "documented_by", "to": "source:wikipedia-pork-bones"}
+{"from": "text:genesis-41-42", "type": "documented_by", "to": "source:bible-api-genesis-41-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-15-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-15-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-15-32"}
+{"from": "claim:lk-15-11-12-division-living", "type": "documented_by", "to": "source:wikipedia-prodigal-son"}

@@ -1,0 +1,33 @@
+{
+  "book": "matthew",
+  "chapter": 20,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        16
+      ],
+      "setting": "place:beyond-the-jordan",
+      "basis": "20:1 the vineyard parable continues the discourse with no movement",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        17,
+        28
+      ],
+      "setting": null,
+      "basis": "20:17 \"As Jesus was going up to Jerusalem... on the way\" - not yet arrived; the road is not placed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        29,
+        34
+      ],
+      "setting": "place:jericho",
+      "basis": "20:29 \"As they went out from Jericho, a great multitude followed him\"",
+      "confidence": "stated"
+    }
+  ]
+}

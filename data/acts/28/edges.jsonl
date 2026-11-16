@@ -1,0 +1,202 @@
+{"from": "passage:ac-28-01", "type": "asserts", "to": "claim:ac-28-01-malta-melita"}
+{"from": "passage:ac-28-02", "type": "asserts", "to": "claim:ac-28-02-barbaroi"}
+{"from": "passage:ac-28-02", "type": "asserts", "to": "claim:ac-28-02-kindness-fire"}
+{"from": "passage:ac-28-03", "type": "asserts", "to": "claim:ac-28-03-viper-attack"}
+{"from": "passage:ac-28-04", "type": "asserts", "to": "claim:ac-28-04-dike-inference"}
+{"from": "passage:ac-28-05", "type": "asserts", "to": "claim:ac-28-05-06-survived-unharmed"}
+{"from": "passage:ac-28-06", "type": "asserts", "to": "claim:ac-28-05-06-survived-unharmed"}
+{"from": "passage:ac-28-07", "type": "asserts", "to": "claim:ac-28-07-protos-melitaion"}
+{"from": "passage:ac-28-07", "type": "asserts", "to": "claim:ac-28-07-publius-hosted"}
+{"from": "passage:ac-28-08", "type": "asserts", "to": "claim:ac-28-08-publius-father-fever"}
+{"from": "passage:ac-28-08", "type": "asserts", "to": "claim:ac-28-08-father-healed"}
+{"from": "passage:ac-28-09", "type": "asserts", "to": "claim:ac-28-09-rest-cured"}
+{"from": "passage:ac-28-10", "type": "asserts", "to": "claim:ac-28-10-honors-provisions"}
+{"from": "passage:ac-28-11", "type": "asserts", "to": "claim:ac-28-11-three-months"}
+{"from": "passage:ac-28-11", "type": "asserts", "to": "claim:ac-28-11-ship-sign-dioscuri"}
+{"from": "passage:ac-28-12", "type": "asserts", "to": "claim:ac-28-12-syracuse"}
+{"from": "passage:ac-28-13", "type": "asserts", "to": "claim:ac-28-13-rhegium"}
+{"from": "passage:ac-28-13", "type": "asserts", "to": "claim:ac-28-13-puteoli"}
+{"from": "passage:ac-28-14", "type": "asserts", "to": "claim:ac-28-14-puteoli-jewish-community"}
+{"from": "passage:ac-28-14", "type": "asserts", "to": "claim:ac-28-14-brothers-puteoli"}
+{"from": "passage:ac-28-14", "type": "asserts", "to": "claim:ac-28-14-arrival-rome"}
+{"from": "passage:ac-28-15", "type": "asserts", "to": "claim:ac-28-15-appii-forum"}
+{"from": "passage:ac-28-15", "type": "asserts", "to": "claim:ac-28-15-tres-tabernae"}
+{"from": "passage:ac-28-15", "type": "asserts", "to": "claim:ac-28-15-brothers-met"}
+{"from": "passage:ac-28-16", "type": "asserts", "to": "claim:ac-28-16-prisoners-delivered"}
+{"from": "passage:ac-28-16", "type": "asserts", "to": "claim:ac-28-16-custodia-militaris"}
+{"from": "passage:ac-28-17", "type": "asserts", "to": "claim:ac-28-17-jews-of-rome"}
+{"from": "passage:ac-28-17", "type": "asserts", "to": "claim:ac-28-17-jewish-leaders"}
+{"from": "passage:ac-28-19", "type": "asserts", "to": "claim:ac-28-19-appeal-caesar"}
+{"from": "passage:ac-28-22", "type": "asserts", "to": "claim:ac-28-22-sect-spoken-against"}
+{"from": "passage:ac-28-25", "type": "asserts", "to": "claim:ac-28-26-isaiah-6-9-10-quoted"}
+{"from": "passage:ac-28-26", "type": "asserts", "to": "claim:ac-28-26-isaiah-6-9-10-quoted"}
+{"from": "passage:ac-28-30", "type": "asserts", "to": "claim:ac-28-30-two-years"}
+{"from": "passage:ac-28-31", "type": "asserts", "to": "claim:ac-28-31-unhindered"}
+{"from": "claim:ac-28-01-malta-melita", "type": "mentions", "to": "place:malta"}
+{"from": "claim:ac-28-02-barbaroi", "type": "mentions", "to": "place:malta"}
+{"from": "claim:ac-28-02-kindness-fire", "type": "mentions", "to": "place:malta"}
+{"from": "claim:ac-28-03-viper-attack", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-04-dike-inference", "type": "mentions", "to": "place:malta"}
+{"from": "claim:ac-28-05-06-survived-unharmed", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-07-protos-melitaion", "type": "mentions", "to": "place:malta"}
+{"from": "claim:ac-28-07-publius-hosted", "type": "mentions", "to": "person:publius-of-malta"}
+{"from": "claim:ac-28-07-publius-hosted", "type": "mentions", "to": "place:malta"}
+{"from": "claim:ac-28-08-publius-father-fever", "type": "mentions", "to": "person:publius-of-malta"}
+{"from": "claim:ac-28-08-father-healed", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-09-rest-cured", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-11-three-months", "type": "mentions", "to": "place:malta"}
+{"from": "claim:ac-28-12-syracuse", "type": "mentions", "to": "place:syracuse"}
+{"from": "claim:ac-28-13-rhegium", "type": "mentions", "to": "place:rhegium"}
+{"from": "claim:ac-28-13-puteoli", "type": "mentions", "to": "place:puteoli"}
+{"from": "claim:ac-28-14-brothers-puteoli", "type": "mentions", "to": "place:puteoli"}
+{"from": "claim:ac-28-14-arrival-rome", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-28-15-appii-forum", "type": "mentions", "to": "place:appii-forum"}
+{"from": "claim:ac-28-15-tres-tabernae", "type": "mentions", "to": "place:tres-tabernae"}
+{"from": "claim:ac-28-15-appii-forum", "type": "mentions", "to": "place:via-appia"}
+{"from": "claim:ac-28-15-tres-tabernae", "type": "mentions", "to": "place:via-appia"}
+{"from": "claim:ac-28-15-brothers-met", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-16-prisoners-delivered", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-28-16-custodia-militaris", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-16-custodia-militaris", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-28-17-jews-of-rome", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-28-17-jewish-leaders", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-28-19-appeal-caesar", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-22-sect-spoken-against", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-28-26-isaiah-6-9-10-quoted", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-30-two-years", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-30-two-years", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-28-31-unhindered", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-28-31-paul-death-tradition", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "text:strabo-geography-6-2", "type": "attests", "to": "place:malta", "grade": "A", "note": "Strabo, Geog. 6.2: 'Off Pachynus lie Melita, whence come the little dogs called Melitaean' (Loeb footnote: 'Now Malta') - the island named under its ancient name by a 1st-century geographer."}
+{"from": "text:cicero-verr-2-4-103", "type": "attests", "to": "place:malta", "grade": "A", "note": "Cicero, Verr. 2.4.103: 'There is an island called Melita, O judges, separated from Sicily by a sufficiently wide and perilous navigation' - the island of Acts 28:1 named in a 70 BCE court speech."}
+{"from": "text:strabo-geography-6-2", "type": "attests", "to": "claim:ac-28-01-malta-melita", "grade": "B", "note": "Strabo names Melita off Sicily's Cape Pachynus; the Loeb editor equates it with Malta. The minority Meleda (Mljet) identification is not Strabo's and is recorded in the claim note. Regraded A to B by the architect: Strabo names the island Melita (A on place:malta), but that the shipwreck island of Acts is this Melita is the usual identification, which no fetched source here states."}
+{"from": "text:strabo-geography-6-2", "type": "attests", "to": "place:syracuse", "grade": "A", "note": "Strabo, Geog. 6.2 names Syracuse among Sicily's cities and sailing distances ('to Syracuse thirty-six') - the harbor Acts 28:12 puts in at."}
+{"from": "text:strabo-geography-6-2", "type": "attests", "to": "place:rhegium", "grade": "A", "note": "Strabo, Geog. 6.2 names Rhegium opposite Messene across the strait ('the distance across to Messene from Rhegium is only sixty stadia') - the port Acts 28:13 touches."}
+{"from": "text:seneca-epistle-77", "type": "attests", "to": "place:puteoli", "grade": "A", "note": "Seneca, Ep. 77.1: 'all the rabble of Puteoli' 'stand on the docks' watching the Alexandrian grain ships - the Campanian port Acts 28:13 reaches, named by a contemporary."}
+{"from": "text:homeric-hymn-33-dioscuri", "type": "attests", "to": "claim:ac-28-11-ship-sign-dioscuri", "grade": "B", "note": "Homeric Hymn 33 calls the Dioscuri 'deliverers... of swift-going ships when stormy gales rage over the ruthless sea' and has shipmen call on them 'to the forepart of the prow' - the patronage behind a ship's figurehead of the Twin Brothers."}
+{"from": "text:horace-satires-1-5", "type": "attests", "to": "claim:ac-28-15-appii-forum", "grade": "A", "note": "Horace, Sat. 1.5.3-6: 'Next Appii Forum, filled... with knavish publicans and boatmen folk... for those who go The Appian road are jolted less when slow' - the Market of Appius named as a halt on the Appian road."}
+{"from": "text:horace-satires-1-5", "type": "attests", "to": "place:appii-forum", "grade": "A", "note": "Horace names Appii Forum as the first-day halt from Rome on the Appian road (Sat. 1.5), matching the Wikipedia post-station description."}
+{"from": "text:cicero-ad-atticum-2-12", "type": "attests", "to": "claim:ac-28-15-tres-tabernae", "grade": "A", "note": "Cicero, Att. 2.12 (19 April 59 BCE): 'I had just made my way from Antium on to the via Appia at Three Taverns' - Tres Tabernae named as a halt on the Via Appia."}
+{"from": "text:cicero-ad-atticum-2-12", "type": "attests", "to": "place:tres-tabernae", "grade": "A", "note": "Cicero names Tres Tabernae on the via Appia; the Wikipedia article locates it about 50 km (31 miles) from Rome."}
+{"from": "text:josephus-ant-17-328", "type": "attests", "to": "claim:ac-28-14-puteoli-jewish-community", "grade": "B", "note": "Josephus, Ant. 17.328: on his landing at Dicearchia (Puteoli) the pretender was 'to bring the Jews that were there into the same delusion' - Jews lived at Puteoli in the late 1st century BCE."}
+{"from": "text:josephus-ant-18-6", "type": "attests", "to": "claim:ac-28-16-custodia-militaris", "grade": "B", "note": "Josephus, Ant. 18.6 (sections 189-237): Agrippa I, imprisoned in Rome under Tiberius, was 'bound' and 'asked leave of the soldier to whom he was bound'; the soldiers that kept him and their centurion 'dieted' with him - a prisoner kept in chains under a guarding soldier in Rome."}
+{"from": "text:seneca-epistle-5", "type": "attests", "to": "claim:ac-28-16-custodia-militaris", "grade": "B", "note": "Seneca, Ep. 5.7: 'Just as the same chain fastens the prisoner and the soldier who guards him' - the one-soldier chained custody Acts 28:16-20, 30 describes for Paul in Rome."}
+{"from": "text:philo-legatio-155", "type": "attests", "to": "claim:ac-28-17-jews-of-rome", "grade": "A", "note": "Philo, Legatio 155 (c. 41 CE): 'the great division of Rome which is on the other side of the river Tiber... was occupied and inhabited by the Jews', mostly Roman freedmen, with synagogues - a large settled Jewish community in Rome."}
+{"from": "site:vigna-randanini", "type": "attests", "to": "claim:ac-28-17-jews-of-rome", "grade": "C", "note": "Jewish catacombs on the Via Appia (2nd-5th centuries CE) whose epitaphs suggest at least eleven different Jewish communities in ancient Rome - later than Acts 28, but material confirmation of the community's size and continuity."}
+{"from": "site:st-pauls-catacombs-malta", "type": "attests", "to": "claim:ac-28-17-jewish-leaders", "grade": "C", "note": "A Maltese Jewish epitaph (late Roman) names Eulogia 'the wife of the gerousiarch (council head)' - titled community heads existed in the Jewish diaspora, though this find is later than Acts 28 and from Malta, not Rome."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:ac-28-22-sect-spoken-against", "grade": "B", "note": "Tacitus, Ann. 15.44: an immense multitude in Rome convicted 'not so much of the crime of firing the city, as of hatred against mankind' (64 CE) - the movement's ill repute in Rome and beyond within a decade of Acts 28's scene, from a hostile Roman source."}
+{"from": "text:suetonius-claudius-25-4", "type": "attests", "to": "claim:ac-28-22-sect-spoken-against", "grade": "B", "note": "Suetonius, Claud. 25.4: disturbances at the instigation of 'Chrestus' led Claudius to expel the Jews from Rome (c. 49 CE) - the same unsettled Jewish-Christian situation behind 'everywhere spoken against'; whether 'Chrestus' is a garbled Christus is disputed."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:ac-28-26-isaiah-6-9-10-quoted", "grade": "B", "note": "The Great Isaiah Scroll (1QIsa-a, ca. 125 BCE) carries the whole of Isaiah 6 including verses 9-10, the passage Acts 28 quotes in full - the quoted wording existed in Hebrew long before (binding Isaiah-scroll rule; reused node and sources)."}
+{"from": "text:1-clement-5", "type": "attests", "to": "claim:ac-28-31-paul-death-tradition", "grade": "D", "note": "Reception, c. 96 CE: 1 Clement 5 reports Paul as one who 'suffered martyrdom under the prefects' and 'was removed from the world' - the earliest witness to Paul's martyrdom; it names no manner or place, and Raymond Brown (fetched source) notes it 'does not explicitly say' Rome. Reports a tradition."}
+{"from": "text:eusebius-hist-eccl-2-22", "type": "attests", "to": "claim:ac-28-31-paul-death-tradition", "grade": "D", "note": "Reception, c. 325 CE: Eusebius, HE 2.22, says that after Acts' close Paul 'was sent again upon the ministry of preaching, and that upon coming to the same city a second time he suffered martyrdom'; the beheading under Nero is Eusebius's further statement (fetched Wikipedia source). Reception tradition, not independent evidence."}
+{"from": "text:eusebius-hist-eccl-2-22", "type": "attests", "to": "claim:ac-28-30-two-years", "grade": "D", "note": "Eusebius, HE 2.22, repeats Luke's own report that Paul 'spent two whole years at Rome as a prisoner at large, and preached the word of God without restraint' - it restates Acts rather than independently confirming it."}
+{"from": "artifact:melita-protos-inscriptions", "type": "attests", "to": "claim:ac-28-07-protos-melitaion", "grade": "A", "note": "Maltese inscriptions of the Roman period give the island's chief officer exactly Luke's phrasing: the later Greek 'prōtos tēs nēsou kai tōn Melitaiōn', or 'the Primus Melitensium', 'both languages and expressions found in Roman times' (fetched source, citing the Lucius Castricius inscription, C.I.G. 14.601, and the Temple of Apollo pedestal)."}
+{"from": "artifact:cippi-of-melqart", "type": "attests", "to": "claim:ac-28-02-barbaroi", "grade": "B", "note": "The 2nd-century BC Cippi of Melqart carry the same dedication in both Punic (Phoenician script) and Greek - a bilingual inscription for a Punic-speaking Maltese population, i.e. non-Greek speakers ('barbaroi') in Luke's term."}
+{"from": "observation:malta-fever-brucellosis", "type": "attests", "to": "claim:ac-28-08-publius-father-fever", "grade": "C", "note": "Brucella melitensis ('Malta fever'), long endemic in Maltese goats and transmitted to humans by goat milk (Bruce 1887, Zammit 1905), gives a named endemic febrile illness on the island - context for 'fever and dysentery', not evidence about Publius's father."}
+{"from": "observation:malta-gregale-wind", "type": "attests", "to": "claim:ac-28-02-kindness-fire", "grade": "C", "note": "The gregale, a strong, cool northeasterly wind when a low passes south of Malta, marks Malta's cold, wet winter weather - the 'present rain, and... the cold' of Acts 28:2; climate context, not evidence of the event."}
+{"from": "observation:malta-cat-snake", "type": "complicates", "to": "claim:ac-28-03-viper-attack", "note": "Malta's known snake today is the European cat snake (Telescopus fallax), native, venomous but rear-fanged, with venom 'not very effective against humans' - so what the deadly echidna of Acts 28 was is an open question; a past extinction of vipers on Malta is argued but was not verified in a fetched source."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-28-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-28-31"}
+{"from": "artifact:cippi-of-melqart", "type": "documented_by", "to": "source:wikipedia-cippi-of-melqart"}
+{"from": "artifact:melita-protos-inscriptions", "type": "documented_by", "to": "source:redalyc-malta-gozo"}
+{"from": "text:strabo-geography-6-2", "type": "documented_by", "to": "source:perseus-strabo-book-6"}
+{"from": "text:cicero-verr-2-4-103", "type": "documented_by", "to": "source:perseus-cicero-verr-2-4-103"}
+{"from": "text:homeric-hymn-33-dioscuri", "type": "documented_by", "to": "source:perseus-homeric-hymn-33"}
+{"from": "text:horace-satires-1-5", "type": "documented_by", "to": "source:wikisource-horace-satire-1-5"}
+{"from": "text:cicero-ad-atticum-2-12", "type": "documented_by", "to": "source:wikisource-cicero-atticus-2-12"}
+{"from": "text:seneca-epistle-77", "type": "documented_by", "to": "source:wikisource-seneca-letter-77"}
+{"from": "text:seneca-epistle-5", "type": "documented_by", "to": "source:wikisource-seneca-letter-5"}
+{"from": "text:josephus-ant-17-328", "type": "documented_by", "to": "source:wikisource-antiquities-17"}
+{"from": "text:josephus-ant-18-6", "type": "documented_by", "to": "source:wikisource-antiquities-18"}
+{"from": "text:philo-legatio-155", "type": "documented_by", "to": "source:wikisource-philo-embassy-tiber"}
+{"from": "text:eusebius-hist-eccl-2-22", "type": "documented_by", "to": "source:newadvent-eusebius-book-2"}
+{"from": "site:vigna-randanini", "type": "documented_by", "to": "source:wikipedia-vigna-randanini"}
+{"from": "site:st-pauls-catacombs-malta", "type": "documented_by", "to": "source:wikipedia-st-pauls-catacombs"}
+{"from": "observation:malta-cat-snake", "type": "documented_by", "to": "source:wikipedia-telescopus-fallax"}
+{"from": "observation:malta-fever-brucellosis", "type": "documented_by", "to": "source:wikipedia-brucella-melitensis"}
+{"from": "observation:malta-gregale-wind", "type": "documented_by", "to": "source:wikipedia-gregale"}
+{"from": "claim:ac-28-01-malta-melita", "type": "documented_by", "to": "source:wikipedia-malta"}
+{"from": "claim:ac-28-02-barbaroi", "type": "documented_by", "to": "source:wikipedia-acts-28"}
+{"from": "claim:ac-28-04-dike-inference", "type": "documented_by", "to": "source:wikipedia-dike-mythology"}
+{"from": "claim:ac-28-07-publius-hosted", "type": "documented_by", "to": "source:wikipedia-saint-publius"}
+{"from": "claim:ac-28-11-ship-sign-dioscuri", "type": "documented_by", "to": "source:wikipedia-castor-and-pollux"}
+{"from": "claim:ac-28-15-appii-forum", "type": "documented_by", "to": "source:wikipedia-forum-appii"}
+{"from": "claim:ac-28-15-tres-tabernae", "type": "documented_by", "to": "source:wikipedia-tres-tabernae"}
+{"from": "claim:ac-28-15-appii-forum", "type": "documented_by", "to": "source:wikipedia-appian-way"}
+{"from": "claim:ac-28-15-tres-tabernae", "type": "documented_by", "to": "source:wikipedia-appian-way"}
+{"from": "claim:ac-28-31-paul-death-tradition", "type": "documented_by", "to": "source:wikipedia-paul-the-apostle"}
+{"from": "claim:ac-28-01-malta-melita", "type": "documented_by", "to": "source:wikipedia-acts-28"}
+{"from": "claim:ac-28-16-prisoners-delivered", "type": "documented_by", "to": "source:wikipedia-acts-28"}
+{"from": "claim:ac-28-11-three-months", "type": "documented_by", "to": "source:wikipedia-acts-28"}
+{"from": "claim:ac-28-26-isaiah-6-9-10-quoted", "type": "related_to", "to": "claim:mt-13-14-15-isaiah-6-quoted", "note": "The same passage (Isaiah 6:9-10) quoted again: in Acts 28 by Paul against the Roman Jews; in Matthew 13 by Jesus to the crowds. Same quotation, different speaker and setting."}
+{"from": "claim:ac-28-26-isaiah-6-9-10-quoted", "type": "related_to", "to": "claim:jn-12-39-40-isaiah-6-10-quoted", "note": "John 12:39-40 cites Isaiah 6:10 for why they could not believe; Acts 28:26-27 quotes verses 9-10 in full as Paul's parting word. Same quotation, different application."}
+{"from": "claim:ac-28-31-paul-death-tradition", "type": "related_to", "to": "claim:jn-21-18-19-peters-death", "note": "Parallel martyrdom traditions of the two leading apostles in Rome: 1 Clement 5 reports both Peter's and Paul's deaths (see the reused 1 Clement node)."}
+{"from": "text:strabo-geography-6-2", "type": "documented_by", "to": "source:perseus-strabo-6-2-melita"}
+{"from": "text:strabo-geography-6-2", "type": "documented_by", "to": "source:perseus-strabo-6-2-syracuse"}
+{"from": "text:seneca-epistle-77", "type": "documented_by", "to": "source:wikisource-seneca-77-docks"}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-annals-15-multitude"}
+{"from": "text:1-clement-5", "type": "documented_by", "to": "source:newadvent-1-clement-5-paul"}
+{"from": "text:1-clement-5", "type": "documented_by", "to": "source:wikipedia-paul-brown"}
+{"from": "text:eusebius-hist-eccl-2-22", "type": "documented_by", "to": "source:newadvent-eusebius-2-22-martyrdom"}
+{"from": "observation:malta-cat-snake", "type": "documented_by", "to": "source:wikipedia-telescopus-venom"}
+{"from": "text:strabo-geography-6-2", "type": "attests", "to": "claim:ac-28-12-syracuse", "grade": "B", "note": "Strabo, Geog. 6.2 names Syracuse among Sicily's cities and sailing distances ('to Syracuse thirty-six') - the harbour Acts 28:12 puts in at; the three-day stay is Acts-only."}
+{"from": "text:strabo-geography-6-2", "type": "attests", "to": "claim:ac-28-13-rhegium", "grade": "B", "note": "Strabo, Geog. 6.2 names Rhegium opposite Messene across the strait - the port Acts 28:13 touches; the arrival itself is Acts-only."}
+{"from": "text:seneca-epistle-77", "type": "attests", "to": "claim:ac-28-13-puteoli", "grade": "B", "note": "Seneca, Ep. 77.1 names Puteoli and its docks where the Alexandrian grain ships land - the Campanian port Acts 28:13 reaches; the arrival itself is Acts-only."}

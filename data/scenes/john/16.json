@@ -1,0 +1,15 @@
+{
+ "book": "john",
+ "chapter": 16,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    33
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "16:1 \"I have said these things to you\" - the discourse continues"
+  }
+ ]
+}

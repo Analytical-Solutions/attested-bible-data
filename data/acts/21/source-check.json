@@ -1,0 +1,142 @@
+{
+ "source:newadvent-eusebius-3-39": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/250103.htm"
+ },
+ "source:perseus-pliny-5-caesarea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D14"
+ },
+ "source:perseus-pliny-5-cos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D36"
+ },
+ "source:perseus-pliny-5-cyprus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D35"
+ },
+ "source:perseus-pliny-5-patara": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D28"
+ },
+ "source:perseus-pliny-5-ptolemais": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D17"
+ },
+ "source:perseus-pliny-5-rhodes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D36"
+ },
+ "source:perseus-pliny-5-tyre": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D17"
+ },
+ "source:perseus-strabo-14-5-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D14%3Achapter%3D5%3Asection%3D13"
+ },
+ "source:sefaria-mishnah-nazir-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Nazir.1.1"
+ },
+ "source:sefaria-mishnah-nazir-3-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Nazir.3.6"
+ },
+ "source:wikipedia-antonia-fortress": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonia_Fortress"
+ },
+ "source:wikipedia-antonia-garrison": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonia_Fortress"
+ },
+ "source:wikipedia-james-the-just": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/James_the_Just"
+ },
+ "source:wikipedia-papyrus-74": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_74"
+ },
+ "source:wikipedia-temple-warning": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_Warning_inscription"
+ },
+ "source:wikipedia-temple-warning-foreigner": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_Warning_inscription"
+ },
+ "source:wikipedia-temple-warning-inscription-text": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_Warning_inscription"
+ },
+ "source:wikisource-ant-19-law-required": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-ant-19-nazarites": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-ant-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-egyptian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-war-2-egyptian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war-2-egyptian-false": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war-2-sicarii": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war5-antonia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ },
+ "source:wikisource-war5-antonia-passages": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ },
+ "source:wikisource-war5-camps": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

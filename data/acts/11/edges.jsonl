@@ -1,0 +1,154 @@
+{"from": "passage:ac-11-01", "type": "asserts", "to": "claim:ac-11-02-03-circumcision-boundary"}
+{"from": "passage:ac-11-02", "type": "asserts", "to": "claim:ac-11-02-03-circumcision-boundary"}
+{"from": "passage:ac-11-03", "type": "asserts", "to": "claim:ac-11-02-03-circumcision-boundary"}
+{"from": "passage:ac-11-05", "type": "asserts", "to": "claim:ac-10-10-16-sheet-vision"}
+{"from": "passage:ac-11-06", "type": "asserts", "to": "claim:ac-10-10-16-sheet-vision"}
+{"from": "passage:ac-11-07", "type": "asserts", "to": "claim:ac-10-10-16-sheet-vision"}
+{"from": "passage:ac-11-08", "type": "asserts", "to": "claim:ac-10-14-food-laws"}
+{"from": "passage:ac-11-09", "type": "asserts", "to": "claim:ac-10-10-16-sheet-vision"}
+{"from": "passage:ac-11-10", "type": "asserts", "to": "claim:ac-10-10-16-sheet-vision"}
+{"from": "passage:ac-11-13", "type": "asserts", "to": "claim:ac-10-03-04-angel-vision"}
+{"from": "passage:ac-11-15", "type": "asserts", "to": "claim:ac-10-44-46-spirit-gentiles"}
+{"from": "passage:ac-11-17", "type": "asserts", "to": "claim:ac-10-44-46-spirit-gentiles"}
+{"from": "passage:ac-11-19", "type": "asserts", "to": "claim:ac-11-19-20-preach-antioch"}
+{"from": "passage:ac-11-20", "type": "asserts", "to": "claim:ac-11-19-20-preach-antioch"}
+{"from": "passage:ac-11-22", "type": "asserts", "to": "claim:ac-11-22-barnabas-sent"}
+{"from": "passage:ac-11-25", "type": "asserts", "to": "claim:ac-11-25-tarsus-saul"}
+{"from": "passage:ac-11-26", "type": "asserts", "to": "claim:ac-11-25-tarsus-saul"}
+{"from": "passage:ac-11-26", "type": "asserts", "to": "claim:ac-11-26-christian-name"}
+{"from": "passage:ac-11-26", "type": "asserts", "to": "claim:ac-11-26-first-called-antioch"}
+{"from": "passage:ac-11-27", "type": "asserts", "to": "claim:ac-11-27-prophets-jerusalem"}
+{"from": "passage:ac-11-28", "type": "asserts", "to": "claim:ac-11-28-agabus-prediction"}
+{"from": "passage:ac-11-28", "type": "asserts", "to": "claim:ac-11-28-great-famine-claudius"}
+{"from": "passage:ac-11-29", "type": "asserts", "to": "claim:ac-11-29-30-relief-antioch"}
+{"from": "passage:ac-11-30", "type": "asserts", "to": "claim:ac-11-29-30-relief-antioch"}
+{"from": "passage:ac-11-30", "type": "asserts", "to": "claim:ac-11-30-elders-received"}
+{"from": "claim:ac-11-02-03-circumcision-boundary", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-11-02-03-circumcision-boundary", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-11-19-20-preach-antioch", "type": "mentions", "to": "person:stephen"}
+{"from": "claim:ac-11-19-20-preach-antioch", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-11-22-barnabas-sent", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-11-22-barnabas-sent", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-11-22-barnabas-sent", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-11-25-tarsus-saul", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-11-25-tarsus-saul", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-11-25-tarsus-saul", "type": "mentions", "to": "place:tarsus"}
+{"from": "claim:ac-11-25-tarsus-saul", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-11-26-christian-name", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-11-26-first-called-antioch", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-11-27-prophets-jerusalem", "type": "mentions", "to": "person:agabus"}
+{"from": "claim:ac-11-27-prophets-jerusalem", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-11-27-prophets-jerusalem", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-11-28-agabus-prediction", "type": "mentions", "to": "person:agabus"}
+{"from": "claim:ac-11-28-great-famine-claudius", "type": "mentions", "to": "place:judea"}
+{"from": "claim:ac-11-29-30-relief-antioch", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-11-29-30-relief-antioch", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-11-29-30-relief-antioch", "type": "mentions", "to": "place:judea"}
+{"from": "claim:ac-11-30-elders-received", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-11-30-elders-received", "type": "mentions", "to": "place:judea"}
+{"from": "text:josephus-ant-13-idumeans", "type": "attests", "to": "claim:ac-11-02-03-circumcision-boundary", "grade": "C", "note": "Josephus (Ant. 13.257): Hyrcanus let the conquered Idumeans stay only if they circumcised themselves and used the laws of the Jews - circumcision as the condition of belonging to the Jewish people, the boundary Acts 11:1-3 polices. Attests the custom, not this contention."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:ac-11-26-christian-name", "grade": "C", "note": "Tacitus (Ann. 15.44): the vulgar called them 'Chrestianos' and 'Christus, from whom the name had its origin' - the name in use in Rome in the 60s CE. The earliest manuscript's reading (Chrestianos vs Christianos) is disputed; and Tacitus is later and Roman, not Antiochene."}
+{"from": "text:pliny-epistles-10-96", "type": "attests", "to": "claim:ac-11-26-christian-name", "grade": "C", "note": "Pliny, Ep. 10.96 (c. 112 CE): trials of 'suspected Christians' who were asked whether 'the name' of Christianity itself should condemn them - the name as a fixed legal category, in Bithynia-Pontus, two generations after Acts 11:26."}
+{"from": "text:suetonius-claudius-25-4", "type": "attests", "to": "claim:ac-11-26-christian-name", "grade": "D", "note": "Suetonius, Claudius 25.4: 'the Jews constantly made disturbances at the instigation of Chrestus, he expelled them from Rome'. The identification of 'Chrestus' with Christ and the reading of the passage are disputed (many scholars see a different man); graded D for the dispute, recorded as a near-contemporary name-echo only."}
+{"from": "text:josephus-ant-20-famine", "type": "attests", "to": "claim:ac-11-28-great-famine-claudius", "grade": "A", "note": "Josephus (Ant. 20.101): 'that great famine happened in Judea' under the procurators Tiberius Alexander through Cuspius Fadus (Claudius's reign), in which queen Helena bought corn in Egypt - the same famine event in the same reign and place. It does not attest the 'all over the world' scope."}
+{"from": "text:suetonius-claudius-18", "type": "attests", "to": "claim:ac-11-28-great-famine-claudius", "grade": "C", "note": "Suetonius (Claudius 18): 'a scarcity of grain because of the long-continued droughts' while Claudius was pelted with pieces of bread in the Forum - severe food shortage in Rome in Claudius's reign; it attests the empire-wide condition, not the Judean famine."}
+{"from": "text:tacitus-annals-12-43", "type": "attests", "to": "claim:ac-11-28-great-famine-claudius", "grade": "C", "note": "Tacitus (Ann. 12.43): 'scanty crops too, and consequent famine' in Rome under Claudius, with the populace clamouring round him - again the Roman grain crisis, consistent with a Claudius-era food emergency but silent on Judea."}
+{"from": "text:josephus-ant-20-famine", "type": "attests", "to": "claim:ac-11-29-30-relief-antioch", "grade": "C", "note": "A parallel act of relief, not the same event: during the same famine queen Helena bought corn in Egypt at great expense and distributed it to those in want in Judea (Ant. 20.49-53, 101) - famine relief sent to Judea is attested as a practice in the period, not this Antiochene mission."}
+{"from": "site:antioch-on-the-orontes", "type": "attests", "to": "claim:ac-11-26-first-called-antioch", "grade": "B", "note": "The excavated city (founded 300 BCE by Seleucus I Nicator; excavations 1932-1939, today Antakya) is the place Acts 11:26 names; it attests the city as the setting, not that the name was coined there. Regraded A to B by reviewer 10: a grade covers the whole claim, and the evidence supports only the place (the place's own A now sits on place:antioch-on-the-orontes; the Acts 19 venue regrade precedent)."}
+{"from": "claim:ac-11-02-03-circumcision-boundary", "type": "related_to", "to": "claim:ac-10-28-gentile-avoidance", "note": "Acts 10:28 states the avoidance custom; Acts 11:2-3 shows the boundary enforced inside the community ('you went in to uncircumcised men and ate with them')."}
+{"from": "claim:ac-11-28-great-famine-claudius", "type": "related_to", "to": "claim:mt-24-06-07-wars-famines-earthquakes", "note": "The Claudian famine is the concrete famine behind the discourse's famines in the graph (Matt 24:6-7; the Josephus famine already links there at grade C)."}
+{"from": "claim:ac-11-28-great-famine-claudius", "type": "related_to", "to": "claim:lk-04-25-famine-three-and-a-half-years", "note": "Luke links famines across the two volumes: the Elijah famine (Luke 4:25) is typological; the Claudian famine (Acts 11:28) is contemporary."}
+{"from": "claim:ac-11-26-christian-name", "type": "related_to", "to": "text:tacitus-annals-15-44", "note": "The Chrestianos/Christianos manuscript variant is recorded on the Tacitus text node and in the attests note."}
+{"from": "site:antioch-on-the-orontes", "type": "documented_by", "to": "source:wikipedia-antioch-founded"}
+{"from": "text:suetonius-claudius-18", "type": "documented_by", "to": "source:wikisource-suetonius-claudius"}
+{"from": "text:suetonius-claudius-25-4", "type": "documented_by", "to": "source:wikisource-suetonius-claudius-chrestus"}
+{"from": "text:tacitus-annals-12-43", "type": "documented_by", "to": "source:wikisource-tacitus-annals-12"}
+{"from": "text:pliny-epistles-10-96", "type": "documented_by", "to": "source:wikipedia-pliny-on-christians"}
+{"from": "text:pliny-epistles-10-96", "type": "documented_by", "to": "source:wikipedia-pliny-nomen"}
+{"from": "text:josephus-ant-13-idumeans", "type": "documented_by", "to": "source:wikisource-ant-13-idumeans"}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}
+{"from": "text:josephus-ant-20-famine", "type": "documented_by", "to": "source:wikisource-ant-20-famine"}
+{"from": "text:josephus-ant-20-famine", "type": "documented_by", "to": "source:wikisource-ant-20-famine-judea"}
+{"from": "claim:ac-11-26-christian-name", "type": "documented_by", "to": "source:wikipedia-tacitus-on-christ"}
+{"from": "claim:ac-11-26-first-called-antioch", "type": "documented_by", "to": "source:wikipedia-antioch"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-11-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-11-30"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-02"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-03"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-04"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-05"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-06"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-07"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-08"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-09"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-10"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-11"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-12"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-24"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-25"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-26"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-27"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-28"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-29"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-11-30"}
+{"from": "site:antioch-on-the-orontes", "type": "attests", "to": "place:antioch-on-the-orontes", "grade": "A", "note": "A source names the same place: the excavated city of Antioch on the Orontes, founded 300 BCE by Seleucus I Nicator, excavated 1932-1939, today Antakya - the city Acts 11:26 names."}

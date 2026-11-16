@@ -1,0 +1,136 @@
+{"from": "passage:jn-21-01", "type": "asserts", "to": "claim:jn-21-01-sea-tiberias-again"}
+{"from": "passage:jn-21-02", "type": "asserts", "to": "claim:jn-21-02-seven-by-the-lake"}
+{"from": "passage:jn-21-03", "type": "asserts", "to": "claim:jn-21-03-night-fishing-nothing"}
+{"from": "passage:jn-21-06", "type": "asserts", "to": "claim:jn-21-06-cast-right-side-multitude"}
+{"from": "passage:jn-21-07", "type": "asserts", "to": "claim:jn-21-07-beloved-disciple-recognized"}
+{"from": "passage:jn-21-08", "type": "asserts", "to": "claim:jn-21-08-two-hundred-cubits"}
+{"from": "passage:jn-21-09", "type": "asserts", "to": "claim:jn-21-09-charcoal-fish-bread"}
+{"from": "passage:jn-21-11", "type": "asserts", "to": "claim:jn-21-11-153-fish"}
+{"from": "passage:jn-21-12", "type": "asserts", "to": "claim:jn-21-12-13-breakfast-served"}
+{"from": "passage:jn-21-13", "type": "asserts", "to": "claim:jn-21-12-13-breakfast-served"}
+{"from": "passage:jn-21-14", "type": "asserts", "to": "claim:jn-21-14-third-appearance"}
+{"from": "passage:jn-21-15", "type": "asserts", "to": "claim:jn-21-15-17-feed-my-sheep"}
+{"from": "passage:jn-21-16", "type": "asserts", "to": "claim:jn-21-15-17-feed-my-sheep"}
+{"from": "passage:jn-21-17", "type": "asserts", "to": "claim:jn-21-15-17-feed-my-sheep"}
+{"from": "passage:jn-21-18", "type": "asserts", "to": "claim:jn-21-18-19-peters-death"}
+{"from": "passage:jn-21-19", "type": "asserts", "to": "claim:jn-21-18-19-peters-death"}
+{"from": "passage:jn-21-20", "type": "asserts", "to": "claim:jn-21-20-23-death-saying"}
+{"from": "passage:jn-21-21", "type": "asserts", "to": "claim:jn-21-20-23-death-saying"}
+{"from": "passage:jn-21-22", "type": "asserts", "to": "claim:jn-21-20-23-death-saying"}
+{"from": "passage:jn-21-23", "type": "asserts", "to": "claim:jn-21-20-23-death-saying"}
+{"from": "passage:jn-21-24", "type": "asserts", "to": "claim:jn-21-24-eyewitness-authorship"}
+{"from": "passage:jn-21-25", "type": "asserts", "to": "claim:jn-21-25-many-things-unwritten"}
+{"from": "claim:jn-21-01-sea-tiberias-again", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:jn-21-01-sea-tiberias-again", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-21-02-seven-by-the-lake", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-21-02-seven-by-the-lake", "type": "mentions", "to": "person:thomas-the-apostle"}
+{"from": "claim:jn-21-02-seven-by-the-lake", "type": "mentions", "to": "person:nathanael"}
+{"from": "claim:jn-21-02-seven-by-the-lake", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:jn-21-02-seven-by-the-lake", "type": "mentions", "to": "person:james-son-of-zebedee"}
+{"from": "claim:jn-21-02-seven-by-the-lake", "type": "mentions", "to": "place:cana"}
+{"from": "claim:jn-21-02-seven-by-the-lake", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:jn-21-03-night-fishing-nothing", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:jn-21-07-beloved-disciple-recognized", "type": "mentions", "to": "person:beloved-disciple"}
+{"from": "claim:jn-21-07-beloved-disciple-recognized", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-21-11-153-fish", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-21-12-13-breakfast-served", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-21-14-third-appearance", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-21-15-17-feed-my-sheep", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-21-15-17-feed-my-sheep", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-21-18-19-peters-death", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-21-20-23-death-saying", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-21-20-23-death-saying", "type": "mentions", "to": "person:beloved-disciple"}
+{"from": "claim:jn-21-20-23-death-saying", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-21-24-eyewitness-authorship", "type": "mentions", "to": "person:beloved-disciple"}
+{"from": "claim:jn-21-01-sea-tiberias-again", "type": "related_to", "to": "claim:jn-06-01-sea-called-tiberias", "note": "Same lake, same naming: John 6:1 'the sea of Galilee, which is also called the sea of Tiberias' carries the naming evidence (Josephus, B); 21:1 is a new appearance scene at that lake."}
+{"from": "claim:jn-21-03-night-fishing-nothing", "type": "related_to", "to": "claim:lk-05-catch-of-fish", "note": "Luke 5:5 'we toiled all night and took nothing' inside the pre-Easter catch scene; John 21:3's fruitless night fishing precedes a different, post-resurrection catch. Related scenes, not the same event."}
+{"from": "claim:jn-21-06-cast-right-side-multitude", "type": "related_to", "to": "claim:lk-05-catch-of-fish", "note": "Both are a miraculous catch after a fruitless night, but Luke's is the pre-Easter call of Simon, John's a post-resurrection appearance by the Sea of Tiberias - different occasions, not parallels."}
+{"from": "claim:jn-21-06-cast-right-side-multitude", "type": "related_to", "to": "claim:mt-13-47-dragnet-sea", "note": "Matthew 13:47 states the seine (dragnet) custom of Galilean fishing; John 21 narrates casting a net from a working boat - same fishery, parable custom vs narrative event."}
+{"from": "claim:jn-21-09-charcoal-fish-bread", "type": "related_to", "to": "claim:jn-18-18-fire-cold", "note": "Both verses use the rare word anthrakia ('fire of coals'): the courtyard fire of the denial night warmed, the shore fire of 21:9 cooks the breakfast. John is the only Gospel to use the word."}
+{"from": "claim:jn-21-14-third-appearance", "type": "related_to", "to": "claim:jn-20-19-20-appearance-evening", "note": "John 21:14 counts this as the third appearance: the first was the locked-room evening of 20:19-23."}
+{"from": "claim:jn-21-14-third-appearance", "type": "related_to", "to": "claim:jn-20-26-29-thomas-belief", "note": "John 21:14's count assumes the second appearance, eight days later with Thomas (20:26-29)."}
+{"from": "claim:jn-21-24-eyewitness-authorship", "type": "related_to", "to": "claim:jn-20-30-31-purpose", "note": "The two book-conclusion statements of the Gospel: 20:30-31 states the purpose, 21:24 the eyewitness authorship."}
+{"from": "claim:jn-21-25-many-things-unwritten", "type": "related_to", "to": "claim:jn-20-30-31-purpose", "note": "The same selection statement in exaggerated form: 'many other things which Jesus did' (20:30) becomes the world could not hold the books (21:25)."}
+{"from": "passage:jn-21-13", "type": "related_to", "to": "passage:lk-24-42", "note": "The risen Jesus eats fish with the disciples in Luke 24:42-43 (in Jerusalem) and serves bread and fish in John 21:12-13 (by the lake) - a shared motif in two different appearance scenes."}
+{"from": "artifact:magdala-fishing-gear", "type": "attests", "to": "claim:jn-21-06-cast-right-side-multitude", "grade": "C", "note": "A needle and lead weights for repairing and holding down fishing nets, excavated 1970s at Magdala on this lake shore: the net-fishing practice 21:6-11 assumes; it attests the practice, never the catch."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:jn-21-03-night-fishing-nothing", "grade": "C", "note": "A 1st-century fishing boat (8.2 m) recovered from the lake bed: the kind of working boat the seven entered for the night's fishing; grade C context, no link to Jesus claimed."}
+{"from": "observation:galilee-fish-species", "type": "attests", "to": "claim:jn-21-06-cast-right-side-multitude", "grade": "C", "note": "The lake holds musht (tilapia), sardin, biny and catfish: a real, rich fishery behind 'the multitude of fish'; the observation documents the lake, never the miracle."}
+{"from": "observation:galilee-fish-species", "type": "attests", "to": "claim:jn-21-09-charcoal-fish-bread", "grade": "C", "note": "Fish of this lake (musht among them) were the ordinary local fare: fish cooked on the shore is period-plausible eating, not proof of the scene."}
+{"from": "observation:galilee-fish-species", "type": "attests", "to": "claim:jn-21-11-153-fish", "grade": "C", "note": "The lake's fish include the biny (Jordan barbel), among the largest fish of the fishery: 'great fish' is plausible lake catch; the exact count 153 is unattested."}
+{"from": "text:1-clement-5", "type": "attests", "to": "claim:jn-21-18-19-peters-death", "grade": "D", "note": "Reception c. 96 CE: Peter 'endured... many labors, and thus having borne his testimony went to his appointed place of glory' - the earliest witness that Peter died a martyr's death; it says nothing of the manner or place, and it reports a tradition, not independent evidence."}
+{"from": "text:caius-disputation-proclus", "type": "attests", "to": "claim:jn-21-18-19-peters-death", "grade": "D", "note": "Reception c. 198 CE: Caius can 'point out the trophies of the apostles' at the Vatican - the Roman grave-tradition for Peter, which presupposes his Roman death; it attests the tradition, never the manner predicted in 21:18-19."}
+{"from": "text:irenaeus-heresies-3-1-1", "type": "attests", "to": "claim:jn-21-24-eyewitness-authorship", "grade": "D", "note": "Reception c. 180 CE: 'Afterwards, John, the disciple of the Lord, who also had leaned upon His breast, did himself publish a Gospel during his residence at Ephesus in Asia' - Irenaeus identifies the author with the one who leaned on Jesus' breast (John 13:23, the beloved disciple); a tradition reporting a tradition, not independent evidence."}
+{"from": "text:papias-fragments-john", "type": "attests", "to": "claim:jn-21-24-eyewitness-authorship", "grade": "D", "note": "Reception c. 100-130 CE: Papias inquired after 'what Andrew or what Peter said, or... what was said by... John', from 'the presbyter John, the disciples of the Lord'; whether his John is the apostle or a distinct 'John the Elder' is disputed (Eusebius distinguished them), so at most it attests that early tradition reached eyewitnesses including a John."}
+{"from": "text:jerome-on-153-fish", "type": "attests", "to": "claim:jn-21-11-153-fish", "grade": "D", "note": "Reception: Jerome wrote 'Those who have written about animated nature say that there are a hundred and fifty-three kinds of fish. One of each of these kinds was caught by the Apostle' - an allegorical reading of the count, known only through a Lapide's commentary; it attests the interpretation, never the count."}
+{"from": "claim:jn-21-08-two-hundred-cubits", "type": "documented_by", "to": "source:wikipedia-cubit"}
+{"from": "claim:jn-21-09-charcoal-fish-bread", "type": "documented_by", "to": "source:wikipedia-brazier"}
+{"from": "claim:jn-21-11-153-fish", "type": "documented_by", "to": "source:wikisource-war3-fish"}
+{"from": "claim:jn-21-18-19-peters-death", "type": "documented_by", "to": "source:wikipedia-saint-peter"}
+{"from": "claim:jn-21-24-eyewitness-authorship", "type": "documented_by", "to": "source:wikipedia-gospel-of-john"}
+{"from": "text:1-clement-5", "type": "documented_by", "to": "source:wikipedia-saint-peter-clement"}
+{"from": "text:caius-disputation-proclus", "type": "documented_by", "to": "source:wikipedia-saint-peter-caius"}
+{"from": "text:irenaeus-heresies-3-1-1", "type": "documented_by", "to": "source:newadvent-irenaeus-3-1-1"}
+{"from": "text:papias-fragments-john", "type": "documented_by", "to": "source:wikipedia-papias"}
+{"from": "text:jerome-on-153-fish", "type": "documented_by", "to": "source:wikipedia-miraculous-catch"}
+{"from": "artifact:papyrus-66", "type": "documented_by", "to": "source:wikipedia-papyrus-66-extent"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-21-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-21-25"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-01"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-02"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-03"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-04"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-05"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-06"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-07"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-08"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-09"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-12"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-21-17"}

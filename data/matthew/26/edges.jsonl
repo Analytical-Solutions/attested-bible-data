@@ -1,0 +1,384 @@
+{"from": "passage:mt-26-03", "type": "asserts", "to": "claim:mt-26-03-caiaphas-high-priest"}
+{"from": "passage:mt-26-03", "type": "asserts", "to": "claim:mt-26-04-plot"}
+{"from": "passage:mt-26-04", "type": "asserts", "to": "claim:mt-26-04-plot"}
+{"from": "passage:mt-26-05", "type": "asserts", "to": "claim:mt-26-05-not-during-feast"}
+{"from": "passage:mt-26-06", "type": "asserts", "to": "claim:mt-26-06-simon-leper-house"}
+{"from": "passage:mt-26-07", "type": "asserts", "to": "claim:mt-26-07-costly-ointment"}
+{"from": "passage:mt-26-15", "type": "asserts", "to": "claim:mt-26-15-thirty-silver"}
+{"from": "passage:mt-26-17", "type": "asserts", "to": "claim:mt-26-17-prepare-passover"}
+{"from": "passage:mt-26-19", "type": "asserts", "to": "claim:mt-26-17-prepare-passover"}
+{"from": "passage:mt-26-20", "type": "asserts", "to": "claim:mt-26-20-reclining-twelve"}
+{"from": "passage:mt-26-30", "type": "asserts", "to": "claim:mt-26-30-hymn-mount-olives"}
+{"from": "passage:mt-26-34", "type": "asserts", "to": "claim:mt-26-34-cockcrow-denial"}
+{"from": "passage:mt-26-36", "type": "asserts", "to": "claim:mt-26-36-gethsemane"}
+{"from": "passage:mt-26-47", "type": "asserts", "to": "claim:mt-26-47-armed-crowd"}
+{"from": "passage:mt-26-51", "type": "asserts", "to": "claim:mt-26-51-sword-ear"}
+{"from": "passage:mt-26-53", "type": "asserts", "to": "claim:mt-26-53-twelve-legions"}
+{"from": "passage:mt-26-55", "type": "asserts", "to": "claim:mt-26-55-taught-in-temple"}
+{"from": "passage:mt-26-57", "type": "asserts", "to": "claim:mt-26-57-led-to-caiaphas"}
+{"from": "passage:mt-26-58", "type": "asserts", "to": "claim:mt-26-58-peters-in-courtyard"}
+{"from": "passage:mt-26-59", "type": "asserts", "to": "claim:mt-26-59-council-death"}
+{"from": "passage:mt-26-64", "type": "asserts", "to": "claim:mt-26-64-son-of-man-clouds"}
+{"from": "passage:mt-26-65", "type": "asserts", "to": "claim:mt-26-65-tore-clothes"}
+{"from": "passage:mt-26-73", "type": "asserts", "to": "claim:mt-26-73-galilean-accent"}
+{"from": "passage:mt-26-75", "type": "asserts", "to": "claim:mt-26-34-cockcrow-denial"}
+{"from": "claim:mt-26-03-caiaphas-high-priest", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:mt-26-03-caiaphas-high-priest", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-26-04-plot", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:mt-26-04-plot", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-26-05-not-during-feast", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-26-06-simon-leper-house", "type": "mentions", "to": "place:bethany"}
+{"from": "claim:mt-26-07-costly-ointment", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-15-thirty-silver", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:mt-26-15-thirty-silver", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-26-17-prepare-passover", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-26-20-reclining-twelve", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-20-reclining-twelve", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:mt-26-30-hymn-mount-olives", "type": "mentions", "to": "place:mount-of-olives"}
+{"from": "claim:mt-26-30-hymn-mount-olives", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-34-cockcrow-denial", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-26-36-gethsemane", "type": "mentions", "to": "place:gethsemane"}
+{"from": "claim:mt-26-36-gethsemane", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-47-armed-crowd", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:mt-26-47-armed-crowd", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-51-sword-ear", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-51-sword-ear", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:mt-26-53-twelve-legions", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-55-taught-in-temple", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-26-55-taught-in-temple", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-57-led-to-caiaphas", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:mt-26-57-led-to-caiaphas", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-26-58-peters-in-courtyard", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-26-58-peters-in-courtyard", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:mt-26-59-council-death", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:mt-26-64-son-of-man-clouds", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-26-65-tore-clothes", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:mt-26-73-galilean-accent", "type": "mentions", "to": "person:simon-peter"}
+{"from": "artifact:caiaphas-ossuary", "type": "attests", "to": "person:caiaphas", "grade": "A", "note": "A limestone ossuary twice inscribed \"Joseph, son of Caiaphas\" (Yehosef bar Qayafa), excavated in December 1990 in a burial cave in the Peace Forest, south Jerusalem, and held in the Israel Museum. The fetched Wikipedia page states the identification with the high priest Caiaphas of the New Testament; the same page records that some scholars challenge the identification (spelling of the inscription, absence of the high-priestly title), which the claim-level edges grade conservatively."}
+{"from": "artifact:caiaphas-ossuary", "type": "attests", "to": "claim:mt-26-03-caiaphas-high-priest", "grade": "B", "note": "The ossuary gives the family name Caiaphas for a first-century Jerusalem burial, but the inscription does not state the high-priestly office; the identification with the high priest is the mainstream view, challenged by some scholars, so the office claim is graded B, not A."}
+{"from": "artifact:caiaphas-ossuary", "type": "documented_by", "to": "source:wikipedia-caiaphas-ossuary"}
+{"from": "artifact:caiaphas-ossuary", "type": "documented_by", "to": "source:wikipedia-caiaphas-ossuary-identification"}
+{"from": "artifact:caiaphas-ossuary", "type": "documented_by", "to": "source:wikipedia-caiaphas-ossuary-dispute"}
+{"from": "artifact:miriam-ossuary", "type": "attests", "to": "person:caiaphas", "grade": "D", "note": "Unprovenanced: the ossuary was plundered from a tomb in the Valley of Elah and recovered by the Israel Antiquities Authority in June 2011; the IAA declared it authentic but no scientific authentication is reported on the fetched page. It is inscribed \"Miriam, daughter of Yeshua, son of Caiaphas, Priest of Ma’aziah\" - the family name Caiaphas, not the high priest himself."}
+{"from": "artifact:miriam-ossuary", "type": "documented_by", "to": "source:wikipedia-miriam-ossuary"}
+{"from": "artifact:miriam-ossuary", "type": "documented_by", "to": "source:wikipedia-miriam-ossuary-inscription"}
+{"from": "artifact:miriam-ossuary", "type": "related_to", "to": "artifact:caiaphas-ossuary", "note": "The two ossuaries are the two named \"Caiaphas\" finds; the Wikipedia pages cross-reference them."}
+{"from": "artifact:caiaphas-ossuary", "type": "related_to", "to": "artifact:second-temple-ossuaries", "note": "The Caiaphas ossuary is an example of the Second Temple ossuary burial custom this artifact node describes."}
+{"from": "text:josephus-ant-18-caiaphas", "type": "attests", "to": "claim:mt-26-03-caiaphas-high-priest", "grade": "A", "note": "Josephus: Valerius Gratus made \"Joseph Caiaphas\" high priest after Simon son of Camithus (Ant. 18.35), and Vitellius \"deprived Joseph, who was also called Caiaphas, of the high priesthood\" (Ant. 18.95) - the same man holding the same office in exactly the period (c. 18-36 CE)."}
+{"from": "text:josephus-ant-18-caiaphas", "type": "documented_by", "to": "source:wikisource-ant-18-caiaphas-appointed"}
+{"from": "text:josephus-ant-18-caiaphas", "type": "documented_by", "to": "source:wikisource-ant-18-caiaphas-removed"}
+{"from": "site:wohl-palace", "type": "attests", "to": "claim:mt-26-58-peters-in-courtyard", "grade": "C", "note": "The excavated Herodian Quarter shows five late Second Temple-period mansions believed to belong to priestly families, including a \"Palatial Mansion\" laid out around a central courtyard - the kind of high-priestly house and courtyard the scene presupposes, though the mansion is not identified as Caiaphas’s own house."}
+{"from": "site:wohl-palace", "type": "attests", "to": "claim:mt-26-03-caiaphas-high-priest", "grade": "C", "note": "Wealthy priestly residences with courtyards in Jerusalem’s Upper City in the late Second Temple period - the setting of the gathering \"in the court of the high priest\"; the specific house is not identified."}
+{"from": "site:wohl-palace", "type": "documented_by", "to": "source:wikipedia-wohl-archaeological-museum"}
+{"from": "site:wohl-palace", "type": "documented_by", "to": "source:wikipedia-wohl-palatial-mansion"}
+{"from": "site:church-saint-peter-in-gallicantu", "type": "attests", "to": "claim:mt-26-58-peters-in-courtyard", "grade": "D", "note": "Reception, not excavation: the identification of this Mount Zion site as the palace/house of Caiaphas rests on the 4th-century Pilgrim of Bordeaux (\"the House of the Priest Caiaphas\") and later tradition; the fetched page says the location \"is believed to be\" the palace of Caiaphas. The Byzantine shrine (457 CE) and Crusader chapel commemorate Peter’s repentance, centuries after the event."}
+{"from": "site:church-saint-peter-in-gallicantu", "type": "related_to", "to": "person:caiaphas", "note": "The site is traditionally identified as the house of Caiaphas; the tradition is reception (Bordeaux pilgrim, 333 CE), not documentary evidence."}
+{"from": "site:church-saint-peter-in-gallicantu", "type": "documented_by", "to": "source:wikipedia-gallicantu"}
+{"from": "artifact:gethsemane-ritual-bath", "type": "attests", "to": "claim:mt-26-36-gethsemane", "grade": "C", "note": "A Second Temple-era ritual bath (mikveh) revealed in December 2020 during tunnel construction beneath the Church of All Nations - per the IAA’s Amit Re’em the first archaeological evidence at the site of Gethsemane. It shows Second Temple-era Jewish activity at the traditional site; it does not name the place or an olive estate."}
+{"from": "site:garden-of-gethsemane", "type": "attests", "to": "claim:mt-26-36-gethsemane", "grade": "D", "note": "The traditional garden beside the Church of All Nations is identified with the gospel Gethsemane by tradition (a Byzantine church stood here); the identification is centuries after the event and is not documented for 30 CE."}
+{"from": "artifact:gethsemane-ritual-bath", "type": "documented_by", "to": "source:wikipedia-gethsemane-mikveh"}
+{"from": "artifact:gethsemane-ritual-bath", "type": "documented_by", "to": "source:wikipedia-gethsemane-iaa"}
+{"from": "site:garden-of-gethsemane", "type": "documented_by", "to": "source:wikipedia-gethsemane-name"}
+{"from": "site:garden-of-gethsemane", "type": "documented_by", "to": "source:wikipedia-gethsemane-iaa"}
+{"from": "site:garden-of-gethsemane", "type": "related_to", "to": "place:gethsemane", "note": "The garden is the traditional (D) identification of the gospel place; the name gat shemanim means \"oil press\" per the fetched page (modern etymology, documented_by only)."}
+{"from": "place:gethsemane", "type": "related_to", "to": "place:mount-of-olives", "note": "Gethsemane lies on the Mount of Olives slope across the Kidron from Jerusalem."}
+{"from": "text:pliny-nh-12-nard", "type": "attests", "to": "claim:mt-26-07-costly-ointment", "grade": "C", "note": "Pliny prices pure nard at 100 denarii a pound, with graded leaf preparations at 40-75 denarii - spikenard perfumed oil was a known, expensive luxury commodity in the Roman world, as the woman’s \"very expensive ointment\" presupposes."}
+{"from": "text:pliny-nh-12-nard", "type": "documented_by", "to": "source:wikisource-pliny-nh-12"}
+{"from": "text:pliny-nh-13-unguents", "type": "attests", "to": "claim:mt-26-07-costly-ointment", "grade": "C", "note": "Pliny’s book on unguents shows oil-based perfumes for the body were a major Roman industry (reused from ch 6); the alabaster flask is the standard container of such unguents."}
+{"from": "artifact:tyrian-shekel", "type": "attests", "to": "claim:mt-26-15-thirty-silver", "grade": "C", "note": "The Tyrian shekel (126 BC-AD 56) was the silver coin of Judea’s economy and the Temple; thirty silver coins \"weighed out\" fits payment in shekels, echoing the thirty shekels of Exodus 21:32 (reused from ch 17)."}
+{"from": "claim:mt-26-15-thirty-silver", "type": "related_to", "to": "text:zechariah-11-12", "note": "Biblical cross-reference: Zechariah 11:12 - \"they weighed for my wages thirty pieces of silver\", the verbal background of the weighed-out thirty pieces."}
+{"from": "claim:mt-26-15-thirty-silver", "type": "related_to", "to": "text:exodus-21-32", "note": "Biblical cross-reference: Exodus 21:32 fixes thirty shekels of silver as the compensation for a gored servant - the price of a slave’s life."}
+{"from": "claim:mt-26-47-armed-crowd", "type": "related_to", "to": "text:zechariah-13-7", "note": "Biblical cross-reference: Zechariah 13:7 - \"strike the shepherd and the sheep will be scattered\", quoted by Jesus at 26:31."}
+{"from": "text:zechariah-11-12", "type": "documented_by", "to": "source:bible-api-zechariah-11-12"}
+{"from": "text:exodus-21-32", "type": "documented_by", "to": "source:bible-api-exodus-21-32"}
+{"from": "text:zechariah-13-7", "type": "documented_by", "to": "source:bible-api-zechariah-13-7"}
+{"from": "text:mishnah-pesachim-5-1", "type": "attests", "to": "claim:mt-26-17-prepare-passover", "grade": "B", "note": "Pesachim 5:1 fixes the Passover-eve temple schedule (the daily offering slaughtered at the eighth-and-a-half hour, earlier on Passover eve) - the same festival system in Jerusalem in the period. The Mishnah was compiled c. 200 CE and may not describe 30 CE practice exactly."}
+{"from": "text:josephus-war-6-422-425", "type": "attests", "to": "claim:mt-26-05-not-during-feast", "grade": "C", "note": "Cestius’ Passover count: 256,500 lambs and about 2,700,000 worshippers at the festival in Jerusalem - first-century Passover crowds on a scale that makes the leaders’ fear of a riot during the feast coherent (reused from ch 21). Regraded B to C by architect review: crowd size is context for the fear of a riot, as in ch 21; it does not show a riot feared or raised at this feast."}
+{"from": "text:mishnah-pesachim-10-1", "type": "attests", "to": "claim:mt-26-20-reclining-twelve", "grade": "B", "note": "\"Even the poorest of Jews should not eat the meal on Passover night until he reclines on his left side, as free and wealthy people recline\" - reclining as the required posture of the Passover meal, the same institution in Judea. The Mishnah was compiled c. 200 CE and may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-pesachim-10-7", "type": "attests", "to": "claim:mt-26-30-hymn-mount-olives", "grade": "B", "note": "Pesachim 10:7 completes the seder with the fourth cup over which the Hallel is finished and \"the blessing of the song\" is said - the sung Hallel at the Passover meal that 26:30’s \"when they had sung a hymn\" reflects. The Mishnah was compiled c. 200 CE and may not describe 30 CE practice exactly."}
+{"from": "artifact:elephantine-passover-letter", "type": "attests", "to": "claim:mt-26-17-prepare-passover", "grade": "C", "note": "The Passover Letter of 419 BCE instructs the Jewish garrison of Elephantine on observing the Festival of Unleavened Bread - Passover observance is documented centuries before 30 CE. Caveat from the fetched page: Passover itself is not mentioned in the extant text, only the Festival of Unleavened Bread."}
+{"from": "text:mishnah-pesachim-10-1", "type": "documented_by", "to": "source:sefaria-pesachim-10-1"}
+{"from": "text:mishnah-pesachim-10-7", "type": "documented_by", "to": "source:sefaria-pesachim-10-7"}
+{"from": "artifact:elephantine-passover-letter", "type": "documented_by", "to": "source:wikipedia-elephantine-passover"}
+{"from": "site:bethany-al-eizariya", "type": "attests", "to": "claim:mt-26-06-simon-leper-house", "grade": "C", "note": "Excavations at al-Eizariya (Saller 1949-1953) found a Roman-period village with houses, rock-cut tombs, wine-presses, cisterns and silos - the village of Bethany as a settlement in the period (reused from ch 21). Regraded B to C by architect review, consistent with ch 21: Saller's published pottery is Persian and Hellenistic, and whether al-Eizariya is the ancient village is questioned (see the ch 21 complicates edge). It shows a settlement, not the house."}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "attests", "to": "claim:mt-26-06-simon-leper-house", "grade": "C", "note": "Mycobacterium leprae DNA from the first-century Tomb of the Shroud at Akeldama near Jerusalem - the disease called leprosy existed in 1st-century Judea, so a resident \"Simon the leper\" is historically coherent (reused from ch 8)."}
+{"from": "text:mishnah-bava-kamma-7-7", "type": "complicates", "to": "claim:mt-26-34-cockcrow-denial", "note": "Tension: Bava Kamma 7:7 rules \"One may not raise chickens in Jerusalem, due to the sacrificial meat that is common there\" - if the rule held in 30 CE, a cock would not normally crow inside the city where the courtyard scene sits (the denial could be in the surrounding houses or the cockcrow be heard from outside; the Mishnah is c. 200 CE and may not describe 30 CE practice exactly). The Roman civil-day division \"gallicinium (cock crowing)\" (Wikipedia, Roman timekeeping, documented_by on the claim) shows cockcrow as a standard Roman time marker."}
+{"from": "text:mishnah-bava-kamma-7-7", "type": "documented_by", "to": "source:sefaria-bava-kamma-7-7"}
+{"from": "claim:mt-26-34-cockcrow-denial", "type": "documented_by", "to": "source:wikipedia-roman-timekeeping"}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "attests", "to": "claim:mt-26-47-armed-crowd", "grade": "C", "note": "Four Roman swords (three in wooden scabbards) and a pilum head from the Cave of the Swords near Ein Gedi. The cache is dated to the 2nd-century Bar Kokhba era - a generation after the arrest - so it shows the weaponry circulating in Roman Judea (C at most), not 1st-century Jerusalem specifically (reused from ch 24)."}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "attests", "to": "claim:mt-26-51-sword-ear", "grade": "C", "note": "The Cave of the Swords cache confirms short iron swords of Roman type in Judea, but its 2nd-century context post-dates the event; the \"sword\" of 26:51 is a machaira such as these blades typify."}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "documented_by", "to": "source:wikipedia-cave-of-the-swords"}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "documented_by", "to": "source:wikipedia-cave-of-the-swords-dating"}
+{"from": "claim:mt-26-53-twelve-legions", "type": "documented_by", "to": "source:wikipedia-roman-legion"}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-26-55-taught-in-temple", "grade": "B", "note": "The Herod-extended Second Temple, destroyed in 70 CE, was the setting of daily public teaching during pilgrimage festivals; the temple’s existence and role as a gathering and teaching place in the period is the specific setting of the claim (reused node)."}
+{"from": "text:mishnah-sanhedrin-4-1", "type": "complicates", "to": "claim:mt-26-59-council-death", "note": "Tension: Sanhedrin 4:1 rules that in capital cases \"the court judges during the daytime, and concludes the deliberations and issues the ruling only in the daytime\", a verdict of guilt must wait for the following day, and capital cases may not be judged \"neither on the eve of Shabbat nor the eve of a Festival\". The night hearing before a festival as Matthew narrates it contradicts each of these rules. The Mishnah was compiled c. 200 CE and may not describe 30 CE practice exactly; the tension is recorded, not explained away."}
+{"from": "text:mishnah-sanhedrin-4-1", "type": "complicates", "to": "claim:mt-26-57-led-to-caiaphas", "note": "Sanhedrin 4:1’s daytime and festival-eve rules for capital cases stand in tension with a night gathering of the scribes and elders at the high priest’s house before the festival; c. 200 CE redaction, may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-sanhedrin-7-5", "type": "attests", "to": "claim:mt-26-65-tore-clothes", "grade": "B", "note": "Sanhedrin 7:5: when the blasphemer’s curse is heard, \"the judges stand on their feet and make a tear in their garments, as an act of mourning for the desecration of the honor of God\" - the tearing of garments on hearing blasphemy, the same judicial institution. The Mishnah was compiled c. 200 CE and may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-sanhedrin-7-5", "type": "complicates", "to": "claim:mt-26-65-tore-clothes", "note": "Tension: Sanhedrin 7:5 holds a blasphemer \"is not liable unless he utters the name of God and curses it\" - the explicit divine Name. Matthew’s Jesus says \"sitting at the right hand of Power and coming on the clouds of the sky\", which does not obviously pronounce the Name; whether his words meet the Mishnah’s definition of blasphemy is unresolved. c. 200 CE redaction, may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-sanhedrin-4-1", "type": "documented_by", "to": "source:sefaria-sanhedrin-4-1"}
+{"from": "text:mishnah-sanhedrin-4-1", "type": "documented_by", "to": "source:sefaria-sanhedrin-4-1-festival"}
+{"from": "text:mishnah-sanhedrin-7-5", "type": "documented_by", "to": "source:sefaria-sanhedrin-7-5-tearing"}
+{"from": "text:mishnah-sanhedrin-7-5", "type": "documented_by", "to": "source:sefaria-sanhedrin-7-5-name"}
+{"from": "text:1-enoch-62-son-of-man", "type": "attests", "to": "claim:mt-26-64-son-of-man-clouds", "grade": "C", "note": "1 Enoch 62:5-9 expects \"that Son of Man Sitting on the throne of his glory\", before whom kings and the mighty fall down - a pre-Christian Jewish exalted Son-of-Man expectation (grade as in ch 16, 19 and 25; reused node)."}
+{"from": "claim:mt-26-64-son-of-man-clouds", "type": "related_to", "to": "text:daniel-7-13", "note": "Biblical cross-reference: Daniel 7:13 - \"one like a son of man... with the clouds of the sky\", the direct source of the cloud-coming language."}
+{"from": "text:talmud-eruvin-53b", "type": "attests", "to": "claim:mt-26-73-galilean-accent", "grade": "C", "note": "Eruvin 53b: \"Galileans did not pronounce the guttural letters properly\", illustrated by the confused \"amar\" story and \"the lack of precision in the Galileans’ speech\" - Galilean speech was recognizably distinct to Judeans. The Talmud was redacted c. 500 CE and may not describe 30 CE speech exactly."}
+{"from": "text:talmud-eruvin-53b", "type": "documented_by", "to": "source:sefaria-eruvin-53b"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-07"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-08"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-10"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-14"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-15"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-22"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-23"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-31"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-32"}
+{"from": "artifact:papyrus-64-p67", "type": "preserves", "to": "passage:mt-26-33"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-19"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-20"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-21"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-22"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-23"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-24"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-25"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-26"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-27"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-28"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-29"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-30"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-31"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-32"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-33"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-34"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-35"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-36"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-37"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-38"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-39"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-40"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-41"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-42"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-43"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-44"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-45"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-46"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-47"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-48"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-49"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-50"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-51"}
+{"from": "artifact:papyrus-37", "type": "preserves", "to": "passage:mt-26-52"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-29"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-30"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-31"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-32"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-33"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-34"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-35"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-36"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-37"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-38"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-39"}
+{"from": "artifact:papyrus-53", "type": "preserves", "to": "passage:mt-26-40"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-01"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-02"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-03"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-04"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-05"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-06"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-07"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-08"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-09"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-10"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-11"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-12"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-16"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-17"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-18"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-19"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-20"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-21"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-22"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-23"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-24"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-25"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-26"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-27"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-28"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-29"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-30"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-31"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-32"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-33"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-34"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-35"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-36"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-37"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-38"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-26-39"}
+{"from": "artifact:papyrus-64-p67", "type": "documented_by", "to": "source:wikipedia-papyrus-64"}
+{"from": "artifact:papyrus-64-p67", "type": "documented_by", "to": "source:wikipedia-papyrus-64-verso"}
+{"from": "artifact:papyrus-64-p67", "type": "documented_by", "to": "source:wikipedia-papyrus-64-dating"}
+{"from": "artifact:papyrus-37", "type": "documented_by", "to": "source:wikipedia-papyrus-37"}
+{"from": "artifact:papyrus-53", "type": "documented_by", "to": "source:wikipedia-papyrus-53"}
+{"from": "artifact:papyrus-45", "type": "documented_by", "to": "source:wikipedia-papyrus-45-extant"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-52"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-53"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-53"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-55"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-55"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-57"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-57"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-58"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-58"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-59"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-59"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-60"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-60"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-64"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-64"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-65"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-65"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-73"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-73"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-75"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-75"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "site:bethany-al-eizariya", "type": "documented_by", "to": "source:wikipedia-bethany"}
+{"from": "site:mount-of-olives-necropolis", "type": "documented_by", "to": "source:wikipedia-mount-of-olives"}
+{"from": "text:mishnah-pesachim-5-1", "type": "documented_by", "to": "source:sefaria-pesachim-5-1"}
+{"from": "text:josephus-war-6-422-425", "type": "documented_by", "to": "source:wikisource-war-6-census"}
+{"from": "text:1-enoch-62-son-of-man", "type": "documented_by", "to": "source:wikisource-enoch-62"}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "documented_by", "to": "source:wikipedia-akeldama"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-54"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-54"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-56"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-56"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-61"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-61"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-62"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-62"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-63"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-63"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-66"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-66"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-67"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-67"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-68"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-68"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-69"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-69"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-70"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-70"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-71"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-71"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-72"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-72"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-26-74"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-26-74"}

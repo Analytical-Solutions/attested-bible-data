@@ -1,0 +1,33 @@
+{
+ "book": "acts",
+ "chapter": 4,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    4
+   ],
+   "setting": "site:second-temple",
+   "confidence": "inferred",
+   "basis": "4:1 \"As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them\" - the arrest follows the temple scenes of 3:11-26"
+  },
+  {
+   "verses": [
+    5,
+    22
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "4:5 \"their rulers, elders, and scribes were gathered together in Jerusalem\""
+  },
+  {
+   "verses": [
+    23,
+    37
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "4:23 \"Being let go, they came to their own company\" - the gathering names no place; it follows the Jerusalem council scene of 4:5-22"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "source:perseus-strabo-14-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D14%3Achapter%3D1"
+ },
+ "source:perseus-strabo-14-1-ionia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D14%3Achapter%3D1"
+ },
+ "source:perseus-strabo-14-1-poseidium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D14%3Achapter%3D1"
+ },
+ "source:perseus-strabo-14-1-trogilian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D14%3Achapter%3D1"
+ },
+ "source:wikipedia-achaia-roman-province": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Achaia_(Roman_province)"
+ },
+ "source:wikipedia-acts-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_20"
+ },
+ "source:wikipedia-acts-20-assos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_20"
+ },
+ "source:wikipedia-aristarchus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Aristarchus_of_Thessalonica"
+ },
+ "source:wikipedia-assos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Assos"
+ },
+ "source:wikipedia-chios": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Chios"
+ },
+ "source:wikipedia-macedonia-roman-province": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Macedonia_(Roman_province)"
+ },
+ "source:wikipedia-miletus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Miletus"
+ },
+ "source:wikipedia-mytilene": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mytilene"
+ },
+ "source:wikipedia-papyrus-74": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_74"
+ },
+ "source:wikipedia-pliny-certain-day": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians"
+ },
+ "source:wikipedia-roman-syria": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Roman_Syria"
+ },
+ "source:wikipedia-samos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Samos"
+ },
+ "source:wikipedia-textual-variants-acts-20-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Acts_of_the_Apostles"
+ },
+ "source:wikipedia-textual-variants-acts-20-28": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Acts_of_the_Apostles"
+ },
+ "source:wikipedia-trogyllium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Trogyllium"
+ }
+}

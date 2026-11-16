@@ -1,0 +1,127 @@
+{
+ "source:bible-api-genesis-19-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+19:24?translation=web"
+ },
+ "source:sefaria-2-kings-1-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/II_Kings_1.2"
+ },
+ "source:sefaria-makkot-3-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Makkot_3.10"
+ },
+ "source:wikipedia-arabian-wolf": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Arabian_wolf"
+ },
+ "source:wikipedia-as-coin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/As_(Roman_coin)"
+ },
+ "source:wikipedia-beelzebub": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beelzebub"
+ },
+ "source:wikipedia-capernaum-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-cave-of-letters": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cave_of_Letters"
+ },
+ "source:wikipedia-cave-of-the-swords": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Archaeology_of_the_Bar_Kokhba_Revolt"
+ },
+ "source:wikipedia-cave-of-the-swords-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Archaeology_of_the_Bar_Kokhba_Revolt"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-crucifixion-heel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion"
+ },
+ "source:wikipedia-judas-iscariot-name": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judas_Iscariot"
+ },
+ "source:wikipedia-jude-apostle": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jude_the_Apostle"
+ },
+ "source:wikipedia-mount-gerizim-excavation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mount_Gerizim"
+ },
+ "source:wikipedia-palestine-viper": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Vipera_palaestinae"
+ },
+ "source:wikipedia-pilate-stone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pilate_stone"
+ },
+ "source:wikipedia-sodom-identification": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sodom_and_Gomorrah"
+ },
+ "source:wikipedia-talpiot-names": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Talpiot_Tomb"
+ },
+ "source:wikipedia-tv-matt-10-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikipedia-tyrian-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_shekel"
+ },
+ "source:wikipedia-zealots": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Zealots_(Judea)"
+ },
+ "source:wikisource-ant-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XI"
+ },
+ "source:wikisource-ant18-zealots": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-jw-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ }
+}

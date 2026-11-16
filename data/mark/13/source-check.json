@@ -1,0 +1,27 @@
+{
+ "source:sefaria-berakhot-1-1-first-watch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Berakhot.1.1"
+ },
+ "source:sefaria-mishnah-berakhot-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Berakhot.1.1"
+ },
+ "source:wikipedia-roman-timekeeping": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Roman_timekeeping"
+ },
+ "source:wikipedia-western-wall-ashlars": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Western_Wall"
+ },
+ "source:wikisource-polybius-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Paton_translation)/Book_VI"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "source:wikipedia-abiathar-mark": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Abiathar"
+ },
+ "source:wikipedia-capernaum-roof": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-matthew-levi": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+ },
+ "source:wikipedia-showbread": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Showbread"
+ }
+}

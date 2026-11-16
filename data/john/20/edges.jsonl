@@ -1,0 +1,187 @@
+{"from": "passage:jn-20-01", "type": "asserts", "to": "claim:mt-28-01-mary-tomb"}
+{"from": "passage:jn-20-01", "type": "asserts", "to": "claim:mt-28-01-first-day-week"}
+{"from": "passage:jn-20-01", "type": "asserts", "to": "claim:mt-28-02-06-tomb-stone"}
+{"from": "passage:jn-20-06", "type": "asserts", "to": "claim:lk-24-12-peter-tomb"}
+{"from": "passage:jn-20-08", "type": "asserts", "to": "claim:jn-20-08-believed"}
+{"from": "passage:jn-20-19", "type": "asserts", "to": "claim:mt-28-01-first-day-week"}
+{"from": "passage:jn-20-01", "type": "asserts", "to": "claim:jn-20-01-mary-alone-dark"}
+{"from": "passage:jn-20-02", "type": "asserts", "to": "claim:jn-20-02-report-disciples"}
+{"from": "passage:jn-20-03", "type": "asserts", "to": "claim:jn-20-03-04-run"}
+{"from": "passage:jn-20-04", "type": "asserts", "to": "claim:jn-20-03-04-run"}
+{"from": "passage:jn-20-05", "type": "asserts", "to": "claim:jn-20-05-07-linens"}
+{"from": "passage:jn-20-06", "type": "asserts", "to": "claim:jn-20-05-07-linens"}
+{"from": "passage:jn-20-07", "type": "asserts", "to": "claim:jn-20-05-07-linens"}
+{"from": "passage:jn-20-11", "type": "asserts", "to": "claim:jn-20-11-13-angels"}
+{"from": "passage:jn-20-12", "type": "asserts", "to": "claim:jn-20-11-13-angels"}
+{"from": "passage:jn-20-13", "type": "asserts", "to": "claim:jn-20-11-13-angels"}
+{"from": "passage:jn-20-14", "type": "asserts", "to": "claim:jn-20-14-15-gardener"}
+{"from": "passage:jn-20-15", "type": "asserts", "to": "claim:jn-20-14-15-gardener"}
+{"from": "passage:jn-20-16", "type": "asserts", "to": "claim:jn-20-16-rabboni"}
+{"from": "passage:jn-20-19", "type": "asserts", "to": "claim:jn-20-19-20-appearance-evening"}
+{"from": "passage:jn-20-20", "type": "asserts", "to": "claim:jn-20-19-20-appearance-evening"}
+{"from": "passage:jn-20-21", "type": "asserts", "to": "claim:jn-20-21-23-breathing-spirit"}
+{"from": "passage:jn-20-22", "type": "asserts", "to": "claim:jn-20-21-23-breathing-spirit"}
+{"from": "passage:jn-20-23", "type": "asserts", "to": "claim:jn-20-21-23-breathing-spirit"}
+{"from": "passage:jn-20-24", "type": "asserts", "to": "claim:jn-20-24-25-thomas-demand"}
+{"from": "passage:jn-20-25", "type": "asserts", "to": "claim:jn-20-24-25-thomas-demand"}
+{"from": "passage:jn-20-26", "type": "asserts", "to": "claim:jn-20-26-29-thomas-belief"}
+{"from": "passage:jn-20-27", "type": "asserts", "to": "claim:jn-20-26-29-thomas-belief"}
+{"from": "passage:jn-20-28", "type": "asserts", "to": "claim:jn-20-26-29-thomas-belief"}
+{"from": "passage:jn-20-29", "type": "asserts", "to": "claim:jn-20-26-29-thomas-belief"}
+{"from": "passage:jn-20-30", "type": "asserts", "to": "claim:jn-20-30-31-purpose"}
+{"from": "passage:jn-20-31", "type": "asserts", "to": "claim:jn-20-30-31-purpose"}
+{"from": "claim:jn-20-01-mary-alone-dark", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:jn-20-01-mary-alone-dark", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-20-02-report-disciples", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:jn-20-02-report-disciples", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-20-02-report-disciples", "type": "mentions", "to": "person:beloved-disciple"}
+{"from": "claim:jn-20-03-04-run", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-20-03-04-run", "type": "mentions", "to": "person:beloved-disciple"}
+{"from": "claim:jn-20-05-07-linens", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-20-05-07-linens", "type": "mentions", "to": "person:beloved-disciple"}
+{"from": "claim:jn-20-11-13-angels", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:jn-20-14-15-gardener", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:jn-20-14-15-gardener", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-20-16-rabboni", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:jn-20-19-20-appearance-evening", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-20-19-20-appearance-evening", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-20-21-23-breathing-spirit", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-20-24-25-thomas-demand", "type": "mentions", "to": "person:thomas-the-apostle"}
+{"from": "claim:jn-20-24-25-thomas-demand", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-20-26-29-thomas-belief", "type": "mentions", "to": "person:thomas-the-apostle"}
+{"from": "claim:jn-20-26-29-thomas-belief", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-20-01-mary-alone-dark", "type": "related_to", "to": "claim:mt-28-01-mary-tomb", "note": "John has Mary Magdalene going alone while it was still dark; Matthew has her with 'the other Mary' at dawn (28:1), Mark three women at sunrise (16:1-2), Luke a larger group 'at early dawn' (24:1)."}
+{"from": "claim:jn-20-01-mary-alone-dark", "type": "related_to", "to": "claim:lk-24-10-women-named", "note": "Luke names several women (Mary Magdalene, Joanna, Mary the mother of James, 'the other women with them'); John names only Mary Magdalene at the tomb, and still dark rather than early dawn."}
+{"from": "claim:jn-20-03-04-run", "type": "related_to", "to": "claim:lk-24-12-peter-tomb", "note": "Luke 24:12 has Peter alone running to the tomb and finding the linen strips; John has Peter and the unnamed beloved disciple running, the beloved disciple arriving first, and no 'went home wondering' ending."}
+{"from": "claim:jn-20-05-07-linens", "type": "related_to", "to": "claim:lk-24-12-peter-tomb", "note": "Luke knows 'strips of linen lying by themselves'; John adds the face cloth (soudarion) rolled up in a place by itself, separate from the linen cloths."}
+{"from": "claim:jn-20-05-07-linens", "type": "related_to", "to": "claim:mt-27-59-60-new-rock-tomb", "note": "The linen cloths lying in the empty tomb are the wrapping of 27:59 ('wrapped it in a clean linen cloth') left behind; John's separate face cloth is a detail Matthew and Luke lack."}
+{"from": "claim:jn-20-11-13-angels", "type": "related_to", "to": "claim:lk-24-04-two-men-dazzling", "note": "Luke's women meet two men standing in dazzling clothing; John's Mary meets two angels in white sitting, one at the head and one at the feet where the body had lain."}
+{"from": "claim:jn-20-11-13-angels", "type": "related_to", "to": "claim:mt-28-02-04-angel", "note": "Matthew has one angel of the Lord who descends, rolls away the stone and sits on it outside; John's two angels sit inside the tomb with no stone rolled by them."}
+{"from": "claim:jn-20-19-20-appearance-evening", "type": "related_to", "to": "claim:lk-24-36-43-jerusalem-appearance", "note": "Both place a first appearance to the gathered disciples in Jerusalem on the day of the resurrection; John's doors are locked for fear and Jesus shows his hands and side, while Luke has him invite touch ('a spirit doesn't have flesh and bones') and eat broiled fish."}
+{"from": "claim:jn-20-21-23-breathing-spirit", "type": "related_to", "to": "claim:lk-24-49-wait-power", "note": "John gives the Holy Spirit by Jesus's breathing on Easter evening; Luke's risen Jesus commands waiting in Jerusalem until 'clothed with power from on high' (Acts puts the gift at Pentecost)."}
+{"from": "claim:jn-20-16-rabboni", "type": "related_to", "to": "claim:jn-01-38-42-aramaic-glosses", "note": "The same Gospel habit: 'Rabboni! which is to say, Teacher' (20:16) glosses an Aramaic term for Greek readers, as 1:38 glosses 'Rabbi', 1:41 'Messiah' and 1:42 'Cephas'."}
+{"from": "claim:jn-20-16-rabboni", "type": "related_to", "to": "claim:mt-23-07-title-rabbi", "note": "The same honorific family as Matthew 23:7-8's 'Rabbi, Rabbi'; John's feminine-addressed 'Rabboni' (my teacher) is the only Gospel use of that form. The title's first-century currency is debated (see the Rabbi article)."}
+{"from": "passage:jn-20-01", "type": "parallels", "to": "passage:mt-28-01", "note": "The visit to the tomb on the first day of the week; John: Mary Magdalene alone while still dark, Matthew: Mary Magdalene and the other Mary at dawn."}
+{"from": "passage:jn-20-01", "type": "parallels", "to": "passage:mk-16-01", "note": "The tomb visit after the Sabbath; Mark's three women bring bought spices, John's Mary Magdalene comes alone and unaccompanied."}
+{"from": "passage:jn-20-01", "type": "parallels", "to": "passage:lk-24-01", "note": "Early on the first day of the week; Luke: a group at early dawn with prepared spices, John: Mary Magdalene alone while it was still dark."}
+{"from": "passage:jn-20-01", "type": "parallels", "to": "passage:mt-28-02", "note": "The stone found taken away from the tomb; Matthew's angel has just rolled it away amid an earthquake, John's Mary simply sees it taken away."}
+{"from": "passage:jn-20-01", "type": "parallels", "to": "passage:lk-24-02", "note": "The stone found rolled away from the tomb."}
+{"from": "passage:jn-20-01", "type": "parallels", "to": "passage:mk-16-04", "note": "The stone found rolled back/away from the tomb."}
+{"from": "passage:jn-20-03", "type": "parallels", "to": "passage:lk-24-12", "note": "Running to the tomb; Luke's Peter runs alone, John adds the beloved disciple who outruns him."}
+{"from": "passage:jn-20-04", "type": "parallels", "to": "passage:lk-24-12", "note": "The runner(s) at the tomb; Luke has only Peter."}
+{"from": "passage:jn-20-05", "type": "parallels", "to": "passage:lk-24-12", "note": "Looking in and seeing the linen strips/linen cloths lying; John's first looker is the beloved disciple, who does not enter."}
+{"from": "passage:jn-20-06", "type": "parallels", "to": "passage:lk-24-12", "note": "Peter at the tomb seeing the linen cloths lying."}
+{"from": "passage:jn-20-11", "type": "parallels", "to": "passage:lk-24-04", "note": "Angelic figure(s) at the tomb encountered by the women; Luke: two men in dazzling clothing standing, John: Mary weeping outside."}
+{"from": "passage:jn-20-12", "type": "parallels", "to": "passage:lk-24-04", "note": "Two heavenly figures at the tomb: Luke's two men standing in dazzling clothing, John's two angels in white sitting at the head and the feet."}
+{"from": "passage:jn-20-12", "type": "parallels", "to": "passage:mk-16-05", "note": "The figure(s) in the tomb: Mark's one young man in a white robe seated on the right, John's two angels in white sitting."}
+{"from": "passage:jn-20-12", "type": "parallels", "to": "passage:mt-28-03", "note": "The angelic appearance at the tomb: Matthew's one angel with an appearance like lightning, John's two angels in white."}
+{"from": "passage:jn-20-14", "type": "parallels", "to": "passage:mt-28-09", "note": "Meeting the risen Jesus near the tomb; Matthew: he meets the women as they run to the disciples, John: Mary Magdalene alone, who does not recognize him at first."}
+{"from": "passage:jn-20-14", "type": "parallels", "to": "passage:mk-16-09", "note": "The first appearance to Mary Magdalene; Mark's longer ending states it without narrative, John gives the garden dialogue."}
+{"from": "passage:jn-20-18", "type": "parallels", "to": "passage:mk-16-10", "note": "Mary Magdalene goes and reports; Mark's longer ending: 'she went and told those who had been with him, as they mourned and wept'."}
+{"from": "passage:jn-20-18", "type": "parallels", "to": "passage:lk-24-09", "note": "Reporting the tomb/encounter to the eleven; Luke's group of women report the empty tomb, John's Mary reports 'I have seen the Lord'."}
+{"from": "passage:jn-20-19", "type": "parallels", "to": "passage:lk-24-36", "note": "Jesus appears to the gathered disciples in Jerusalem that same day and stands among them."}
+{"from": "passage:jn-20-19", "type": "parallels", "to": "passage:mk-16-14", "note": "An appearance to the eleven at table; Mark's longer ending rebukes their unbelief, John's Easter-evening appearance comes before Thomas's doubt."}
+{"from": "passage:jn-20-20", "type": "parallels", "to": "passage:lk-24-39", "note": "Showing the disciples his body: Luke 'see my hands and my feet... a spirit doesn't have flesh and bones', John 'he showed them his hands and his side'."}
+{"from": "passage:jn-20-20", "type": "parallels", "to": "passage:lk-24-40", "note": "Showing hands (Luke and feet; John hands and side); the Lukan verse is bracketed/omitted in Western witnesses."}
+{"from": "passage:jn-20-21", "type": "parallels", "to": "passage:lk-24-47", "note": "Sending the disciples: Luke 'repentance and remission of sins should be preached in his name to all the nations', John 'As the Father has sent me, even so I send you' with authority over sins (20:23)."}
+{"from": "passage:jn-20-21", "type": "parallels", "to": "passage:mk-16-15", "note": "The commission to the disciples; Mark's longer ending sends them into all the world to preach, John's sending is tied to the Father's sending and the Spirit."}
+{"from": "passage:jn-20-22", "type": "parallels", "to": "passage:lk-24-49", "note": "The gift of the Spirit: John breathes on them 'Receive the Holy Spirit' on Easter evening; Luke's Jesus promises 'power from on high' and they must wait (Acts 2)."}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "attests", "to": "claim:jn-20-05-07-linens", "grade": "C", "note": "The Tomb of the Shroud at Akeldama, Jerusalem, is 'one of very few examples of a preserved shrouded human burial' dating to the first century - the practice of burying the dead wrapped in linen shrouds in Jerusalem in the period; it confirms the custom of John's linen cloths, not the cloths of 20:5-7 themselves (reuse of the Matthew 26 evidence at its grade)."}
+{"from": "observation:holy-sepulchre-garden-pollen", "type": "attests", "to": "claim:jn-20-14-15-gardener", "grade": "C", "note": "Excavation under the Church of the Holy Sepulchre found remains of olive trees and grapevines approximately 2,000 years old (seeds and pollen, archaeobotanical analysis) - cultivated growth at the traditional tomb site in the first century. It confirms a garden-like setting in the period, not John's tomb or the gardener's mistake itself."}
+{"from": "site:church-of-holy-sepulchre", "type": "related_to", "to": "claim:jn-20-14-15-gardener", "note": "The traditional site of Jesus's tomb (first-century quarry with tombs outside the then walls; the identification rests on 4th-century tradition, no first-century name-plate). The first-century olive/vine remains were found beneath its floor. Follows the ch 27 calibration: the site shows the setting, not the event."}
+{"from": "claim:jn-20-16-rabboni", "type": "documented_by", "to": "source:wikipedia-rabbi"}
+{"from": "observation:holy-sepulchre-garden-pollen", "type": "documented_by", "to": "source:wikipedia-holy-sepulchre-garden"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-20-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-20-31"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-01"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-02"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-03"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-04"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-05"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-06"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-07"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-08"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-09"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-10"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-11"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-12"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-13"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-14"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-15"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-16"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-17"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-18"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-19"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-20"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-22"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-23"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-25"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-26"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-27"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-28"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-29"}
+{"from": "person:beloved-disciple", "type": "documented_by", "to": "source:wikipedia-beloved-disciple"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-30"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-20-31"}
+{"from": "claim:jn-20-08-believed", "type": "related_to", "to": "claim:mt-28-06-resurrection", "note": "John's beloved disciple draws his belief from the empty tomb and the linen cloths (20:8); Matthew's angel announces 'he has risen' (28:5-6). Different witnesses to the same underlying event, never mutual evidence."}
+{"from": "claim:jn-20-08-believed", "type": "mentions", "to": "person:beloved-disciple"}

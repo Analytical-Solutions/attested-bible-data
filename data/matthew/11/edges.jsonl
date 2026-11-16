@@ -1,0 +1,209 @@
+{"from": "passage:mt-11-01", "type": "asserts", "to": "claim:mt-11-01-teaching-cities"}
+{"from": "passage:mt-11-02", "type": "asserts", "to": "claim:mt-11-02-john-in-prison"}
+{"from": "passage:mt-11-03", "type": "asserts", "to": "claim:mt-11-02-john-in-prison"}
+{"from": "passage:mt-11-04", "type": "asserts", "to": "claim:mt-11-05-healings-listed"}
+{"from": "passage:mt-11-05", "type": "asserts", "to": "claim:mt-11-05-healings-listed"}
+{"from": "passage:mt-11-07", "type": "asserts", "to": "claim:mt-11-07-reed-wind"}
+{"from": "passage:mt-11-08", "type": "asserts", "to": "claim:mt-11-08-soft-raiment"}
+{"from": "passage:mt-11-09", "type": "asserts", "to": "claim:mt-11-10-messenger-quoted"}
+{"from": "passage:mt-11-10", "type": "asserts", "to": "claim:mt-11-10-messenger-quoted"}
+{"from": "passage:mt-11-14", "type": "asserts", "to": "claim:mt-11-14-elijah-to-come"}
+{"from": "passage:mt-11-16", "type": "asserts", "to": "claim:mt-11-16-17-marketplace-games"}
+{"from": "passage:mt-11-17", "type": "asserts", "to": "claim:mt-11-16-17-marketplace-games"}
+{"from": "passage:mt-11-19", "type": "asserts", "to": "claim:mt-11-19-glutton-drunkard"}
+{"from": "passage:mt-11-21", "type": "asserts", "to": "claim:mt-11-21-chorazin"}
+{"from": "passage:mt-11-21", "type": "asserts", "to": "claim:mt-11-21-bethsaida"}
+{"from": "passage:mt-11-22", "type": "asserts", "to": "claim:mt-11-22-tyre-sidon"}
+{"from": "passage:mt-11-23", "type": "asserts", "to": "claim:mt-11-23-capernaum-exalted"}
+{"from": "passage:mt-11-23", "type": "asserts", "to": "claim:mt-11-23-24-sodom-judgment"}
+{"from": "passage:mt-11-24", "type": "asserts", "to": "claim:mt-11-23-24-sodom-judgment"}
+{"from": "passage:mt-11-28", "type": "asserts", "to": "claim:mt-11-28-30-yoke"}
+{"from": "passage:mt-11-29", "type": "asserts", "to": "claim:mt-11-28-30-yoke"}
+{"from": "passage:mt-11-30", "type": "asserts", "to": "claim:mt-11-28-30-yoke"}
+{"from": "claim:mt-11-01-teaching-cities", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-01-teaching-cities", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-11-02-john-in-prison", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-11-02-john-in-prison", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-11-02-john-in-prison", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-05-healings-listed", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-07-reed-wind", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-07-reed-wind", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-11-07-reed-wind", "type": "mentions", "to": "place:jordan-river"}
+{"from": "claim:mt-11-08-soft-raiment", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-11-10-messenger-quoted", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-11-14-elijah-to-come", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-11-19-glutton-drunkard", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-21-chorazin", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-21-chorazin", "type": "mentions", "to": "place:chorazin"}
+{"from": "claim:mt-11-21-bethsaida", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-21-bethsaida", "type": "mentions", "to": "place:bethsaida"}
+{"from": "claim:mt-11-22-tyre-sidon", "type": "mentions", "to": "place:tyre"}
+{"from": "claim:mt-11-22-tyre-sidon", "type": "mentions", "to": "place:sidon"}
+{"from": "claim:mt-11-23-capernaum-exalted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-23-capernaum-exalted", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-11-23-24-sodom-judgment", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-11-23-24-sodom-judgment", "type": "mentions", "to": "place:sodom"}
+{"from": "claim:mt-11-28-30-yoke", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-11-02-john-in-prison", "grade": "A", "note": "Josephus narrates the imprisonment directly: Herod 'sent a prisoner, out of Herod's suspicious temper, to Macherus, the castle I before mentioned, and was there put to death'."}
+{"from": "site:machaerus", "type": "attests", "to": "claim:mt-11-02-john-in-prison", "grade": "B", "note": "The excavated Herodian fortress east of the Dead Sea is the place Josephus and the tradition locate John's imprisonment and execution; it passed to Herod Antipas at Herod the Great's death."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:john-the-baptist", "grade": "A", "note": "Josephus names 'John, that was called the Baptist', a good man who commanded the Jews to exercise virtue and come to baptism, and records Herod putting him to death."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "The passage names 'Herod, who had slain him' - Herod the tetrarch - at Macherus; the identification of that Herod with Antipas rests on context (Wikipedia, John the Baptist, states it)."}
+{"from": "site:machaerus", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Upon Herod the Great's death the fortress passed to Herod Antipas, who ruled from 4 BC until 39 AD; John the Baptist was imprisoned and beheaded there during this time."}
+{"from": "text:4q521-2", "type": "attests", "to": "claim:mt-11-05-healings-listed", "grade": "C", "note": "A pre-Christian Qumran text expects the coming age to bring exactly this cluster: 'giving sight to the blind, straightening out the twisted' and 'he will heal the badly wounded and he will make the dead live, he will proclaim good news to the poor'. It attests the expectation, not the events."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "claim:mt-11-07-reed-wind", "grade": "C", "note": "Antipas's coins carry botanical emblems: 'The obverse has the Greek inscription Herod the Tetrarch with an upright palm branch. A variant type depicted an upright reed' (Wikipedia, Herodian coinage). The reed was a current emblem in his tetrarchy; the modern suggestion that the phrase alludes to Antipas's coinage was not sourced this run and is kept out of the graph."}
+{"from": "site:herodium", "type": "attests", "to": "claim:mt-11-08-soft-raiment", "grade": "C", "note": "Herod's own excavated palace-fortress with its 'elaborately decorated loggia' and royal luxury is the 'kings' house' of Herod's realm - the exception allowed where the site is the ruler's own documented building. Regraded C by architect review: context, not the specific claim."}
+{"from": "text:mishnah-eduyot-8-7", "type": "attests", "to": "claim:mt-11-14-elijah-to-come", "grade": "C", "note": "Rabbinic tradition expects Elijah to come: 'it is said, Behold I send to you Elijah the prophet... and he shall turn the heart of the fathers to the children and the heart of the children to their fathers (Malachi 3:23-4)' - Elijah's return before the day of the Lord was a living expectation. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:mishnah-ketubot-4-5", "type": "attests", "to": "claim:mt-11-16-17-marketplace-games", "grade": "C", "note": "'Even the poorest man of the Jewish people may not provide fewer than two flutes and a lamenting woman, which it was customary to hire for a funeral' - flute-playing and wailing are standard Jewish practice, the two games the children mimic. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "attests", "to": "claim:mt-11-22-tyre-sidon", "grade": "B", "note": "Pliny, writing in the first century, describes the two cities as standing: Tyre 'so famous in ancient times', whose fame 'is now confined to the production of the murex and the purple', and 'Sidon, famous for its manufacture of glass'."}
+{"from": "text:pliny-nh-5-julias", "type": "attests", "to": "claim:mt-11-21-bethsaida", "grade": "D", "note": "Pliny lists Julias among the lake towns 'on the east' of Genesara; but the identification of Julias with the gospel Bethsaida is disputed - Bostock's note says it is 'generally supposed... that this was not the Bethsaida mentioned so often in the New Testament', and modern scholarship is split between et-Tell and el-Araj."}
+{"from": "site:et-tell", "type": "attests", "to": "claim:mt-11-21-bethsaida", "grade": "D", "note": "Et-Tell was 'inhabited on a lesser scale during the first centuries BCE and CE and sometimes identified with the town of Bethsaida' (Arav's identification); the site lies about 2 km from the lakeshore, a problem for a fishing town, and has been displaced as front-runner by el-Araj."}
+{"from": "site:el-araj", "type": "attests", "to": "claim:mt-11-21-bethsaida", "grade": "D", "note": "The 2017 Roman bathhouse ('taken as proof that the site was a polis') and Notley's 'Roman village... pottery, coins, also stone vessels, which are typical of first-century Jewish life' support the identification, which its own excavators call a suggestion; Bethsaida 'has not been positively identified'."}
+{"from": "site:capernaum", "type": "attests", "to": "claim:mt-11-23-capernaum-exalted", "grade": "B", "note": "Capernaum is excavated and was established in the 2nd century BC as a Hasmonean fishing village - the real lakeside town denounced in the woe."}
+{"from": "site:capernaum-synagogue", "type": "attests", "to": "claim:mt-11-23-capernaum-exalted", "grade": "D", "note": "The standing white synagogue is 4th-5th century; Loffreda suggests the basalt foundation beneath is the 1st-century synagogue, but others read the same floor as an open paved market area - the first-century date is disputed."}
+{"from": "site:chorazin-synagogue", "type": "attests", "to": "claim:mt-11-21-chorazin", "grade": "B", "note": "Excavations confirm an ancient basalt village on the Korazim Plateau, 2.5 mi from Capernaum, with a synagogue at its centre; the main settlement and the standing synagogue date to the 3rd-4th centuries, after Jesus - the 1st-century occupation is proposed from coin and pottery findings, not secured."}
+{"from": "text:mishnah-avot-3-5", "type": "attests", "to": "claim:mt-11-28-30-yoke", "grade": "C", "note": "Rabbinic idiom: 'whoever takes upon himself the yoke of the Torah, they remove from him the yoke of government and the yoke of worldly concerns' - the yoke as a metaphor of discipleship to Torah, the idiom Jesus draws on. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-01"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-02"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-03"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-04"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-05"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-06"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-07"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-08"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-09"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-10"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-11"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-12"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-13"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-14"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-15"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-16"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-17"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-18"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-19"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-20"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-21"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-22"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-23"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-24"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-25"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-26"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-27"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-28"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-29"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-11-30"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mt-11-30"}
+{"from": "text:malachi-3-1", "type": "related_to", "to": "claim:mt-11-10-messenger-quoted", "note": "Cross-reference: Malachi 3:1 (WEB) 'Behold, I send my messenger, and he will prepare the way before me'; Matthew's wording ('before your face... before you') follows the Greek. A biblical text is not independent evidence."}
+{"from": "text:malachi-4-5", "type": "related_to", "to": "claim:mt-11-14-elijah-to-come", "note": "Cross-reference: Malachi 4:5 (WEB) 'Behold, I will send you Elijah the prophet before the great and terrible day of Yahweh comes' - the scriptural basis of the expectation. A biblical text is not independent evidence."}
+{"from": "text:isaiah-35-5-6", "type": "related_to", "to": "claim:mt-11-05-healings-listed", "note": "Cross-reference: Isaiah 35:5-6 (WEB) 'the eyes of the blind will be opened, and the ears of the deaf will be unstopped... the lame man will leap like a deer'. A biblical text is not independent evidence."}
+{"from": "text:isaiah-61-1", "type": "related_to", "to": "claim:mt-11-05-healings-listed", "note": "Cross-reference: Isaiah 61:1 (WEB) 'Yahweh has anointed me to preach good news to the humble'. A biblical text is not independent evidence."}
+{"from": "text:deuteronomy-21-20", "type": "related_to", "to": "claim:mt-11-19-glutton-drunkard", "note": "Cross-reference: Deuteronomy 21:20 (WEB) 'He is a glutton and a drunkard' - the charge formula of the rebellious son. A biblical text is not independent evidence."}
+{"from": "text:genesis-19-24", "type": "related_to", "to": "claim:mt-11-23-24-sodom-judgment", "note": "Cross-reference: Genesis 19:24 (WEB) 'Yahweh rained on Sodom and on Gomorrah sulfur and fire' - the judgment memory Matt 11:23-24 invokes. A biblical text is not independent evidence."}
+{"from": "claim:mt-11-23-24-sodom-judgment", "type": "documented_by", "to": "source:wikipedia-sodom-identification"}
+{"from": "claim:mt-11-21-bethsaida", "type": "documented_by", "to": "source:wikipedia-bethsaida"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus-john"}
+{"from": "site:herodium", "type": "documented_by", "to": "source:wikipedia-herodium"}
+{"from": "site:herodium", "type": "documented_by", "to": "source:wikipedia-herodium-loggia"}
+{"from": "site:capernaum", "type": "documented_by", "to": "source:wikipedia-capernaum"}
+{"from": "site:capernaum-synagogue", "type": "documented_by", "to": "source:wikipedia-capernaum-synagogue"}
+{"from": "site:chorazin-synagogue", "type": "documented_by", "to": "source:wikipedia-chorazin-synagogue"}
+{"from": "site:chorazin-synagogue", "type": "documented_by", "to": "source:wikipedia-chorazin-synagogue-date"}
+{"from": "site:et-tell", "type": "documented_by", "to": "source:wikipedia-bethsaida-etell"}
+{"from": "site:el-araj", "type": "documented_by", "to": "source:wikipedia-bethsaida-elaraj"}
+{"from": "site:el-araj", "type": "documented_by", "to": "source:wikipedia-bethsaida-elaraj-bathhouse"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herod-antipas-coins"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-washingtonianus", "type": "documented_by", "to": "source:wikipedia-codex-washingtonianus"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-machaerus"}
+{"from": "text:mishnah-eduyot-8-7", "type": "documented_by", "to": "source:sefaria-eduyot-8-7"}
+{"from": "text:mishnah-avot-3-5", "type": "documented_by", "to": "source:sefaria-avot-3-5"}
+{"from": "text:mishnah-ketubot-4-5", "type": "documented_by", "to": "source:sefaria-ketubot-4-5"}
+{"from": "text:4q521-2", "type": "documented_by", "to": "source:wikipedia-4q521"}
+{"from": "text:4q521-2", "type": "documented_by", "to": "source:wikipedia-4q521-blind"}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "documented_by", "to": "source:perseus-pliny-5-tyre"}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "documented_by", "to": "source:perseus-pliny-5-sidon"}
+{"from": "text:pliny-nh-5-julias", "type": "documented_by", "to": "source:perseus-pliny-5-julias"}
+{"from": "text:malachi-3-1", "type": "documented_by", "to": "source:bible-api-malachi-3-1"}
+{"from": "text:malachi-4-5", "type": "documented_by", "to": "source:bible-api-malachi-4-5"}
+{"from": "text:isaiah-35-5-6", "type": "documented_by", "to": "source:bible-api-isaiah-35-5-6"}
+{"from": "text:isaiah-61-1", "type": "documented_by", "to": "source:bible-api-isaiah-61-1"}
+{"from": "text:deuteronomy-21-20", "type": "documented_by", "to": "source:bible-api-deuteronomy-21-20"}
+{"from": "text:genesis-19-24", "type": "documented_by", "to": "source:bible-api-genesis-19-24"}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Josephus, Ant. 20.200, names 'the brother of Jesus, who was called Christ, whose name was James' - the source names the person (reviewer-1 calibration: modern scholarship largely accepts this reference)."}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:wikisource-ant-20"}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "place:galilee", "grade": "C", "note": "An ancient fishing boat from the 1st century AD, discovered in 1986 on the north-west shore of the Sea of Galilee - the working lake economy of the region."}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "site:bethany-beyond-jordan", "type": "attests", "to": "place:jordan-river", "grade": "B", "note": "The excavated baptism site with its mikveh pools lies on the east bank of the Jordan River - the river valley where John preached and where the 'reed shaken by the wind' is spoken."}
+{"from": "site:bethany-beyond-jordan", "type": "documented_by", "to": "source:wikipedia-al-maghtas"}
+{"from": "artifact:chorazin-olive-millstones", "type": "attests", "to": "place:chorazin", "grade": "C", "note": "Millstones for olive-oil extraction from the excavated village show the economy of ancient Galilean villages like Chorazin."}
+{"from": "artifact:chorazin-olive-millstones", "type": "attests", "to": "claim:mt-11-21-chorazin", "grade": "C", "note": "The excavated village's olive-oil millstones show a real basalt settlement at the traditional site; they do not date the 1st-century town."}
+{"from": "artifact:chorazin-olive-millstones", "type": "documented_by", "to": "source:wikipedia-chorazin-millstones"}
+{"from": "text:josephus-ant-18-bethsaida", "type": "attests", "to": "claim:mt-11-21-bethsaida", "grade": "A", "note": "Josephus names the village 'Bethsaids, situate at the lake of Gennesareth', advanced by Philip to the dignity of a city and renamed Julias - the same town at the same lake in the first century."}
+{"from": "text:josephus-ant-18-bethsaida", "type": "documented_by", "to": "source:wikisource-ant18-bethsaida"}
+{"from": "text:pliny-nh-5-asphaltites", "type": "attests", "to": "claim:mt-11-23-24-sodom-judgment", "grade": "C", "note": "Pliny describes the Asphaltites (Dead Sea), the region of the Sodom memory, as producing 'nothing whatever except bitumen' with water in which 'the bodies of animals will not sink' - the setting of the judgment tradition, not the judgment itself."}
+{"from": "text:pliny-nh-5-asphaltites", "type": "documented_by", "to": "source:perseus-pliny-5-asphaltites"}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "attests", "to": "place:tyre", "grade": "A", "note": "Pliny, writing in the first century, describes Tyre as a standing city so famous in ancient times, its fame now confined to the murex and purple trade. Regraded B to A by the architect (2026-11-14): a classical author naming the place is A for the place, the precedent applied since Matthew 11."}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "attests", "to": "place:sidon", "grade": "B", "note": "Pliny describes Sidon, famous for its manufacture of glass, as a standing first-century town."}
+{"from": "site:chorazin-synagogue", "type": "attests", "to": "place:chorazin", "grade": "B", "note": "The excavated basalt village with a synagogue at its centre, on the Korazim Plateau 2.5 mi from Capernaum; the standing synagogue is late 3rd century."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-11-30"}

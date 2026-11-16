@@ -1,0 +1,24 @@
+{
+ "book": "luke",
+ "chapter": 14,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    24
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "14:1 \"he went into the house of one of the rulers of the Pharisees\" - the city is not named"
+  },
+  {
+   "verses": [
+    25,
+    35
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "14:25 \"Great multitudes were going with him. He turned and said to them\" - the road is not named"
+  }
+ ]
+}

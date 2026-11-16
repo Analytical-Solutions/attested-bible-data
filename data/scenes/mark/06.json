@@ -1,0 +1,60 @@
+{
+  "book": "mark",
+  "chapter": 6,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        6
+      ],
+      "setting": "place:nazareth",
+      "basis": "6:1 \"He came into his own country\" and taught in its synagogue - \"Isn't this the carpenter?\" (6:3); his country is Nazareth (1:9)",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        7,
+        13
+      ],
+      "setting": null,
+      "basis": "6:7-13 the sending of the twelve from unnamed villages (6:6 \"He went around the villages teaching\")",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        14,
+        29
+      ],
+      "setting": null,
+      "basis": "6:14-29 Herod's court and the prison where John is beheaded; no place named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        30,
+        44
+      ],
+      "setting": null,
+      "basis": "6:32 \"They went away in the boat to a deserted place by themselves\" - the place is unnamed (Bethsaida, 6:45, is only the boat's destination)",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        45,
+        52
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "6:45 \"to go ahead to the other side, to Bethsaida\"; 6:47 \"the boat was in the middle of the sea\"; 6:48 \"walking on the sea\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        53,
+        56
+      ],
+      "setting": "place:gennesaret",
+      "basis": "6:53 \"When they had crossed over, they came to land at Gennesaret, and moored to the shore\"",
+      "confidence": "stated"
+    }
+  ]
+}

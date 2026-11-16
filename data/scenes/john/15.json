@@ -1,0 +1,15 @@
+{
+ "book": "john",
+ "chapter": 15,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    27
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "15:1 \"I am the true vine\" - the discourse continues after 14:31 \"Arise, let us go from here\""
+  }
+ ]
+}

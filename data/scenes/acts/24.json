@@ -1,0 +1,15 @@
+{
+ "book": "acts",
+ "chapter": 24,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    27
+   ],
+   "setting": "place:caesarea",
+   "confidence": "inferred",
+   "basis": "24:1 \"After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul\" - the hearing before Felix continues the Caesarea custody of 23:33-35; the chapter itself names no place"
+  }
+ ]
+}

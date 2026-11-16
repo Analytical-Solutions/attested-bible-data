@@ -1,0 +1,100 @@
+anchor,label,category,status,findings,note
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,jewish-literary,none-found,,Josephus never names the Herodian party; searched the fetched Wikisource Antiquities books in this run's corpus. The reused Wikipedia 'Herodians' source (documented_by on the claim) states 'Nothing is known of them beyond what the Gospels state'.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,greco-roman-literary,none-found,,No classical author names the Herodians; searched the Herodians Wikipedia article's cited ancient sources via the fetched page.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-06-herodians-conspiracy,The Pharisees conspired with the Herodians,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",inscription,none-found,,"No inscription fetched naming any of the listed provenances in connection with pilgrim crowds; searched Wikipedia Idumaea/Maresha, Tyre, Sidon."
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",structure-or-site,none-found,,"No excavated site attests the gathering; searched Wikipedia Tyre, Sidon, Maresha, Bethsaida/Capernaum sites in this run."
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",jewish-literary,found,text:josephus-ant-13-idumaea,Grade B: Josephus (Ant. 13.9.1) shows Idumaea was a region of the Jewish kingdom whose inhabitants kept the laws of the Jews - the setting of crowds coming from there; it cannot attest that a crowd came.
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",greco-roman-literary,found,text:pliny-nh-5-tyre-sidon,"Grade B for the setting: Pliny describes Tyre, once an island, rejoined to the mainland, and (5.14) where Idumaea begins - the listed provenances existed as populated regions; it cannot attest the crowd."
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",geography-or-nature,none-found,,"Searched Wikipedia Tyre, Sidon, Idumaea for distances/routes to Galilee; no fetched page states the route of pilgrims from these regions."
+claim:mk-03-08-crowds-from-idumea-tyre-sidon,"Crowds from Idumaea, Tyre and Sidon",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,structure-or-site,none-found,,"No excavated harbour or mooring fetched for the north-west shore; searched Wikipedia Sea of Galilee, Magdala in this run."
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,jewish-literary,none-found,,"Josephus's report of many fishing boats on the lake (Vita ~65, 'not fewer than 230 boats') is quoted on the fetched Wikipedia pages but was not fetched from the primary text this run."
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,greco-roman-literary,none-found,,No classical passage on lake boats fetched this run.
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,material-culture,found,artifact:galilee-boat,"Grade C: the 1st-century boat from Ginosar (8.2 m hull) shows the kind of small boat that could stand near shore; context, not the event."
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,geography-or-nature,none-found,,"The 'Cove of the Sower' acoustic identification is a modern proposal (Crisler 1976), quoted by travel sources, not evidence."
+claim:mk-03-09-boat-kept-near,A small boat kept near Jesus,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",jewish-literary,found,text:josephus-ant-8-eleazar,"Grade C: Eleazar exorcising demoniacs before Vespasian shows Jewish exorcism in the period; context for unclean spirits, not for the confession ""Son of God""."
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",greco-roman-literary,none-found,,"No classical text on demoniac confessions fetched; searched Wikipedia Language of Jesus, Herodians, Beelzebub in this run."
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-11-unclean-spirits-son-of-god,"Unclean spirits cry ""Son of God""",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",manuscript,n/a,,"Sinaiticus and Vaticanus preserve the verse and its Greek spelling Βοανηργες, but they cannot attest an Aramaic etymology."
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",documentary-papyrus,none-found,,No Aramaic documentary text explaining the name fetched; searched Wikipedia Language of Jesus (Boanerges section) and its cited scholarship.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",jewish-literary,none-found,,No ancient Jewish text explains Boanerges; searched Wikipedia Language of Jesus and its references.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",greco-roman-literary,none-found,,No classical author mentions the name; searched Wikipedia Language of Jesus.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-17-boanerges,"Boanerges, ""sons of thunder""",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,jewish-literary,none-found,,"Nothing in the fetched Jewish-literary corpus bears on the crowd at the house; searched this run's Wikipedia corpus (Capernaum, Sea of Galilee, Language of Jesus)."
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,greco-roman-literary,none-found,,No classical passage fetched on crowds pressing a teacher.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-20-crowd-could-not-eat,The crowd gathered so they could not eat bread,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",jewish-literary,none-found,,"Nothing fetched in Josephus, Philo or rabbinic texts on a family seizing a kinsman as insane; searched Wikipedia corpus this run."
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",greco-roman-literary,none-found,,No classical passage on madness accusations within a family was fetched this run.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-21-family-seize-insane,"His friends went to seize him, ""He is insane""",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",structure-or-site,none-found,,"No site or structure attests scribes coming down from Jerusalem; searched Wikipedia Jerusalem, Capernaum in this run."
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",jewish-literary,found,text:josephus-ant-8-eleazar,"Grade C: Jewish exorcists were a reality in the period (Eleazar before Vespasian) - the background of ""by the prince of the demons he casts out the demons""."
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",greco-roman-literary,none-found,,"The name Beelzebul's older form Baal-zebub (2 Kings 1:2) is a biblical cross-reference (text:2-kings-1-2-baal-zebub, related_to), not external evidence; no classical author fetched."
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",geography-or-nature,none-found,,"The journey 'down' from Jerusalem to Galilee is topographically right but no fetched page documents it for travellers; searched Wikipedia Jerusalem, Capernaum."
+claim:mk-03-22-scribes-from-jerusalem-beelzebul,"Scribes from Jerusalem: ""He has Beelzebul""",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:idumaea,Idumaea,inscription,none-found,,No inscription naming Idumaea was fetched; searched Wikipedia Maresha/Idumaea and Wikisource Antiquities 13.
+place:idumaea,Idumaea,coin,none-found,,No coin fetched naming Idumaea; searched Wikipedia Maresha/Idumaea.
+place:idumaea,Idumaea,structure-or-site,found,site:maresha,"Grade B: Tel Maresha (Marissa), excavated, was a major Idumean city through the Hellenistic period."
+place:idumaea,Idumaea,burial-or-ossuary,found,site:maresha,"Grade C: Maresha's burial caves are a UNESCO World Heritage Site in the Idumean heartland - burial evidence at an Idumean site, not a named burial."
+place:idumaea,Idumaea,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:idumaea,Idumaea,documentary-papyrus,none-found,,No documentary papyrus naming Idumaea was fetched; searched Wikipedia Idumaea/Maresha.
+place:idumaea,Idumaea,jewish-literary,found,text:josephus-ant-13-idumaea,"Grade A: Josephus names Idumea and the Idumaeans ('Dora and Marissa, cities of Idumea') and their incorporation into the Jewish state."
+place:idumaea,Idumaea,greco-roman-literary,found,text:pliny-nh-5-idumaea,"Grade A: Pliny, Natural History 5.14, names Idumaea ('Idumaea and Palaestina begin' past the Sirbonian Lake)."
+place:idumaea,Idumaea,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:idumaea,Idumaea,geography-or-nature,none-found,,The Pliny 5.14 passage locates Idumaea relative to the Sirbonian Lake and Rhinocolura; no further geographic datum fetched.
+place:idumaea,Idumaea,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

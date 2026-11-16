@@ -1,0 +1,77 @@
+{
+ "source:wikipedia-cleopas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cleopas"
+ },
+ "source:wikipedia-emmaus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-emmaus-abu-ghosh": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-emmaus-eusebius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-emmaus-identification": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-emmaus-josephus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-emmaus-nicopolis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-emmaus-qubeibeh": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-emmaus-qubeibeh-nosource": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emmaus"
+ },
+ "source:wikipedia-textual-variants-luke-160": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikipedia-textual-variants-luke-ascension": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikipedia-textual-variants-luke-peter": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikisource-war1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ },
+ "source:wikisource-war7-emmaus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VII"
+ },
+ "source:wikisource-war7-reland": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VII"
+ }
+}

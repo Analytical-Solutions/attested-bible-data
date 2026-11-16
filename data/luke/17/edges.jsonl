@@ -1,0 +1,159 @@
+{"from": "passage:lk-17-02", "type": "asserts", "to": "claim:mt-18-06-millstone-drowning"}
+{"from": "passage:lk-17-06", "type": "asserts", "to": "claim:mt-17-20-mustard-seed-faith"}
+{"from": "passage:lk-17-23", "type": "asserts", "to": "claim:mt-24-05-23-26-messiah-claimants"}
+{"from": "passage:lk-17-29", "type": "asserts", "to": "claim:mt-10-15-sodom-gomorrah-judgment"}
+{"from": "passage:lk-17-35", "type": "asserts", "to": "claim:mt-24-41-women-grinding"}
+{"from": "passage:lk-17-01", "type": "parallels", "to": "passage:mt-18-07", "note": "The woe through whom stumbling comes."}
+{"from": "passage:lk-17-02", "type": "parallels", "to": "passage:mt-18-06", "note": "The millstone around the neck; Matthew 'drowned in the depths of the sea', Luke 'thrown into the sea'."}
+{"from": "passage:lk-17-02", "type": "parallels", "to": "passage:mk-09-42"}
+{"from": "passage:lk-17-06", "type": "parallels", "to": "passage:mt-17-20", "note": "Faith like a mustard seed; Matthew's object is a mountain, Luke's a sycamore uprooted and planted in the sea."}
+{"from": "passage:lk-17-23", "type": "parallels", "to": "passage:mt-24-23", "note": "'Look, here!' / 'Look, there!' - do not follow."}
+{"from": "passage:lk-17-23", "type": "parallels", "to": "passage:mt-24-26"}
+{"from": "passage:lk-17-24", "type": "parallels", "to": "passage:mt-24-27", "note": "The lightning flashing across the sky; Matthew 'from the east to the west', Luke 'from one part under the sky to the other'."}
+{"from": "passage:lk-17-26", "type": "parallels", "to": "passage:mt-24-37", "note": "The days of Noah and the days of the Son of Man."}
+{"from": "passage:lk-17-27", "type": "parallels", "to": "passage:mt-24-38", "note": "Eating, drinking, marrying until the flood; Matthew adds 'until the day Noah entered the ark' in 24:38's wording 'they knew not'."}
+{"from": "passage:lk-17-29", "type": "parallels", "to": "passage:mt-10-15", "note": "The day of judgment for Sodom: Luke retells the fire and sulfur, Matthew the remembered judgment."}
+{"from": "passage:lk-17-31", "type": "parallels", "to": "passage:mt-24-17", "note": "On the housetop, do not go down to take the goods."}
+{"from": "passage:lk-17-31", "type": "parallels", "to": "passage:mt-24-18"}
+{"from": "passage:lk-17-33", "type": "parallels", "to": "passage:mt-16-25", "note": "Whoever seeks to save his life loses it; Matthew adds 'for my sake'."}
+{"from": "passage:lk-17-33", "type": "parallels", "to": "passage:mk-08-35"}
+{"from": "passage:lk-17-34", "type": "parallels", "to": "passage:mt-24-40", "note": "One taken, one left: Luke's pair are in one bed, Matthew's two men in the field."}
+{"from": "passage:lk-17-35", "type": "parallels", "to": "passage:mt-24-41", "note": "Two grinding at the mill, one taken and one left."}
+{"from": "passage:lk-17-37", "type": "parallels", "to": "passage:mt-24-28", "note": "Where the body is, the vultures (Matthew 'eagles') gather."}
+{"from": "text:josephus-ant-20-cumanus", "type": "attests", "to": "claim:lk-17-11-border-route", "grade": "B", "note": "Josephus: it was the custom of the Galileans going up to Jerusalem at the festivals to travel through the country of the Samaritans - the same Galilee-to-Jerusalem road along Samaria's borders in the period."}
+{"from": "text:josephus-ant-20-cumanus", "type": "attests", "to": "claim:lk-17-16-samaritan-thankful", "grade": "C", "note": "Josephus records Samaritans killing Galileans on that road - the sharp Judean-Samaritan hostility behind 'this stranger'; it does not attest the man's identity or the healing."}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "attests", "to": "claim:lk-17-12-ten-lepers", "grade": "C", "note": "Mycobacterium leprae DNA from a first-century shrouded burial at Akeldama, Jerusalem - leprosy existed in Judea in the period; it does not attest the healing."}
+{"from": "observation:sycamore-range", "type": "attests", "to": "claim:lk-17-06-sycamore", "grade": "C", "note": "Ficus sycomorus grows naturally in Palestine and Egypt and 'also grows in Israel' - the tree Jesus names, inside its documented range."}
+{"from": "text:josephus-ant-1-flood", "type": "attests", "to": "claim:lk-17-26-27-days-of-noah", "grade": "C", "note": "Josephus reports the flood as history: the ark's remains 'are shown there by the inhabitants to this day', and 'all the writers of barbarian histories make mention of this flood' - the flood remembered in the first century; a reception tradition, not evidence of the event."}
+{"from": "text:josephus-ant-1-sodom", "type": "attests", "to": "claim:lk-17-28-29-days-of-lot", "grade": "C", "note": "Josephus retells Sodom burned by fire from God and Lot's wife changed into a pillar of salt 'for I have seen it' - the destruction remembered as judgment in the period; a reception tradition, not evidence of the event."}
+{"from": "text:josephus-ant-1-flood", "type": "documented_by", "to": "source:wikisource-ant1-flood"}
+{"from": "text:josephus-ant-1-sodom", "type": "documented_by", "to": "source:wikisource-ant1-sodom"}
+{"from": "observation:sycamore-range", "type": "documented_by", "to": "source:wikipedia-ficus-sycomorus"}
+{"from": "claim:lk-17-04-forgive-seven-times", "type": "related_to", "to": "claim:mt-18-21-22-seventy-seven", "note": "Luke: forgive the repentant brother seven times in a day; Matthew 18:22: not seven times but seventy times seven."}
+{"from": "claim:lk-17-14-show-priests", "type": "related_to", "to": "claim:mt-08-04-offering-moses-commanded", "note": "Luke says only 'go and show yourselves to the priests'; Matthew 8:4 adds telling nobody and offering the gift Moses commanded."}
+{"from": "claim:lk-17-16-samaritan-thankful", "type": "related_to", "to": "claim:mt-10-05-samaritan-people", "note": "Luke names a Samaritan among the ten and calls him 'this stranger'; Matthew 10:5 excludes Samaritans from the mission."}
+{"from": "text:leviticus-14", "type": "related_to", "to": "claim:lk-17-14-show-priests", "note": "Cross-reference: Leviticus 14 prescribes bringing the cleansed leper to the priest for examination and the cleansing ritual."}
+{"from": "claim:lk-17-11-border-route", "type": "mentions", "to": "place:samaria"}
+{"from": "claim:lk-17-11-border-route", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:lk-17-12-ten-lepers", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-17-14-cleansed-as-went", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-17-16-samaritan-thankful", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-17-16-samaritan-thankful", "type": "mentions", "to": "place:samaria"}
+{"from": "claim:lk-17-26-27-days-of-noah", "type": "mentions", "to": "person:noah"}
+{"from": "claim:lk-17-28-29-days-of-lot", "type": "mentions", "to": "person:lot"}
+{"from": "claim:lk-17-28-29-days-of-lot", "type": "mentions", "to": "person:lots-wife"}
+{"from": "claim:lk-17-28-29-days-of-lot", "type": "mentions", "to": "place:sodom"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-17-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-17-37"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-17-37"}
+{"from": "text:mishnah-negaim-3-1", "type": "attests", "to": "claim:lk-17-14-show-priests", "grade": "B", "note": "Mishnah Nega'im 3:1: 'only a priest may declare them unclean or clean' - the priest's role in the leprosy inspection; redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "text:mishnah-negaim-3-1", "type": "documented_by", "to": "source:sefaria-negaim-3-1"}
+{"from": "text:josephus-ant-1-sodom", "type": "attests", "to": "claim:mt-10-15-sodom-gomorrah-judgment", "grade": "C", "note": "Josephus retells the destruction as history: God 'set it on fire, with its inhabitants' - Sodom remembered as judged in the first century; a reception tradition."}
+{"from": "text:josephus-ant-1-sodom", "type": "attests", "to": "person:lot", "grade": "D", "note": "Josephus names Lot in the Sodom retelling - reception of Genesis, not an independent witness to the person."}
+{"from": "text:josephus-ant-1-sodom", "type": "attests", "to": "person:lots-wife", "grade": "D", "note": "Josephus says Lot's wife 'was changed into a pillar of salt; for I have seen it, and it remains at this day' - a pilgrimage tradition he reports; reception, not independent evidence."}
+{"from": "text:josephus-ant-1-flood", "type": "documented_by", "to": "source:wikisource-ant1-flood-writers"}

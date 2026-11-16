@@ -1,0 +1,122 @@
+anchor,label,category,status,findings,note
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,inscription,none-found,,"Searched for any inscription naming a 'ruler of the Pharisees' (arkisynagogos-type titles); none was fetched, and the title is not otherwise attested anywhere in this graph."
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,coin,n/a,,No coinage could bear on a private Sabbath meal.
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,structure-or-site,none-found,,"The house is unnamed; searched the excavated Judean sites in the graph (Capernaum, Magdala, Herodium, Jerusalem) and none bears on this meal."
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,burial-or-ossuary,n/a,,No burial or ossuary could bear on this anchor.
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus, P45 and P75 preserves edges are recorded on the passages."
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,documentary-papyrus,none-found,,Searched for documentary leads on private dinner invitations; nothing fetchable bears on this anchor.
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,jewish-literary,none-found,,Searched Josephus and rabbinic leads for Pharisaic dining customs; no passage about a ruler of the Pharisees hosting a Sabbath meal was fetched.
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,greco-roman-literary,none-found,,No classical passage on Pharisee dinner guests was fetched.
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,material-culture,none-found,,"Searched excavated 1st-century Judean dining finds (Herodium triclinium, Magdala, Capernaum); they show dining halls but not this meal."
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,geography-or-nature,n/a,,The place is unnamed; no geography bears on the anchor.
+claim:lk-14-01-ruler-pharisees-hosts,A Sabbath meal in a ruler of the Pharisees' house,astronomy-or-calendar,n/a,,"Nothing in this anchor is datable by calendar or astronomy beyond the Sabbath itself, already covered by existing Sabbath claims."
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,inscription,n/a,,No inscription could record this healing.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,coin,n/a,,No coinage bears on the healing.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,structure-or-site,none-found,,The meal house is unnamed; searched the excavated sites in the graph and none bears on the healing.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,burial-or-ossuary,n/a,,No burial or ossuary bears on the healing.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,documentary-papyrus,n/a,,No documentary papyrus could record the healing.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,jewish-literary,none-found,,"Miracle claim: searched Josephus and rabbinic leads for any independent report of this healing; none exists (as with the Matthew 12 and Luke 6 Sabbath healings, none-found)."
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,greco-roman-literary,none-found,,No classical author reports the healing.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,material-culture,n/a,,No tool or vessel bears on the healing.
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,geography-or-nature,n/a,,No geography bears on the healing beyond the condition itself (separate anchor).
+claim:lk-14-02-04-healed-sabbath,The man with dropsy healed on the Sabbath,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,inscription,none-found,,Votive healing inscriptions (Asclepieia) recording cured dropsy were considered as a lead; none was fetched that names dropsy.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,coin,n/a,,No coinage bears on a disease condition.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,structure-or-site,n/a,,No excavated site bears on the recognition of dropsy.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,burial-or-ossuary,none-found,,Searched for skeletal evidence of fluid retention (e.g. anemia-related periostosis) tied to the parable's world; nothing fetchable was specific to dropsy.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the codices and P45/P75 preserves edges are recorded on the passages.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,documentary-papyrus,none-found,,Medical papyri were considered; none fetched that bears on dropsy in this period.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,jewish-literary,none-found,,Searched Josephus and rabbinic leads for dropsy; nothing fetchable was found.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,greco-roman-literary,found,text:hippocrates-prognostics-8,"Hippocratic Prognostics 8 treats dropsies clinically ('All dropsies arising from acute diseases are bad; ... very painful and fatal'): the condition was recognized and serious in ancient medicine centuries before Luke; grade C for the condition, not the man or the healing."
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,material-culture,n/a,,No tool or vessel bears on the condition.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,geography-or-nature,n/a,,The modern medical definition (edema) is not ancient evidence; the Hippocratic text carries the cell.
+claim:lk-14-02-dropsy-condition,Dropsy a recognized ancient illness,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,inscription,n/a,,No inscription could record a Sabbath well-rescue custom.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,coin,n/a,,No coinage bears on the anchor.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,structure-or-site,n/a,,No site bears on a Sabbath-rescue saying.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,burial-or-ossuary,n/a,,No burial or ossuary could bear on the anchor.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,documentary-papyrus,none-found,,Searched for documentary papyri on Sabbath animal rescue; nothing fetchable bears on the anchor.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,jewish-literary,found,text:damascus-document-11-13-14,"The Damascus Document (CD 11.13-14, node reused from Matthew 12) forbids raising a fallen animal from a pit on the Sabbath - recorded on this claim as complicates; the same debate context is attests C on the 13:15 watering claim."
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,greco-roman-literary,none-found,,No classical passage on Sabbath animal rescue was fetched.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,material-culture,n/a,,Wells and livestock are too generic for a specific find.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,geography-or-nature,n/a,,No geography bears on the anchor.
+claim:lk-14-05-son-or-ox-well,Sabbath rescue: a son or an ox out of a well,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,inscription,none-found,,"Searched for inscriptions on banquet seating precedence; none was fetched. The Seat of Moses chairs (Chorazin, Hammat Tiberias) are synagogue furniture of the 3rd-6th centuries, entered on Matthew's Moses'-seat claim, and say nothing about feasts."
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,coin,n/a,,No coinage bears on seating custom.
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,structure-or-site,found,site:herodium,"Herod's palace-fortress at Herodium included an excavated triclinium (Herod's dining hall) and banquet halls: formal ranked banquet dining existed in Herodian Judea; grade C for the setting, not the guests' seat-grabbing."
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,burial-or-ossuary,n/a,,No burial or ossuary could bear on seating.
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,documentary-papyrus,none-found,,Searched for banquet invitations or seating orders on papyrus; nothing fetchable was found.
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,jewish-literary,none-found,,"Searched for a Josephus, Qumran or rabbinic passage on honor seats at feasts (1QSa's seating order is not fetchable in a stateable excerpt from the pages reached); nothing entered. Matthew 23's matrix records the same gap."
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,greco-roman-literary,none-found,,"The Triclinium article describes Roman dinner seating arranged 'in a prescribed seating order to emphasize divisions in status', but its statements are modern summaries and no ancient passage was fetched in a stateable form."
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,material-culture,none-found,,No excavated 1st-century banquet couch or seat with rank markings was found on the fetched pages.
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,geography-or-nature,n/a,,No geography bears on seating custom.
+claim:lk-14-07-best-seats,Choosing the best seats at a feast,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,inscription,n/a,,No inscription could plausibly bear on a dinner-guest exhortation.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,coin,n/a,,No coinage bears on the anchor.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,structure-or-site,none-found,,Searched the excavated sites in the graph; none bears on whom a host invited.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,burial-or-ossuary,n/a,,No burial or ossuary could bear on the anchor.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,documentary-papyrus,none-found,,Searched for documentary papyri on banquet guest lists or almsgiving; nothing fetchable bears on the anchor.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,jewish-literary,none-found,,"Searched Josephus and rabbinic leads for a text urging hosts to feed the poor; only the deuterocanonical Tobit 4:7-11 was found, which is a biblical cross-reference (related_to) and cannot attest (calibration rule)."
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,greco-roman-literary,none-found,,No classical passage on inviting the unable-to-repay to dinner was fetched.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,material-culture,n/a,,No tool or vessel bears on the anchor.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,geography-or-nature,n/a,,No geography bears on the anchor.
+claim:lk-14-12-14-invite-poor,Inviting the poor who cannot repay,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,inscription,n/a,,No inscription could record a supper-invitation custom.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,coin,n/a,,No coinage bears on the anchor.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,structure-or-site,none-found,,"Searched the excavated sites in the graph; the Herodium triclinium (ranked dining) is linked on the best-seats claim, none bears on the invitation round."
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,burial-or-ossuary,n/a,,No burial or ossuary could bear on the anchor.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,documentary-papyrus,none-found,,Searched for documentary papyri on dinner invitations; nothing fetchable bears on the anchor (the Babatha loan papyri concern debts).
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,jewish-literary,none-found,,No Josephus or rabbinic passage on sending a servant to call invited guests when the feast is ready was fetched; the parable difference from Matthew's king is recorded via related_to.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,greco-roman-literary,none-found,,No classical passage on supper invitations was fetched.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,material-culture,none-found,,No find bears on the invitation round specifically.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,geography-or-nature,n/a,,No geography bears on the anchor.
+claim:lk-14-16-17-great-supper-servants,A man's great supper; servant sent to call the invited,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-18-20-excuses,Invited guests making excuses,inscription,n/a,,No inscription could record guests' excuses at a supper.
+claim:lk-14-18-20-excuses,Invited guests making excuses,coin,n/a,,No coinage bears on the anchor.
+claim:lk-14-18-20-excuses,Invited guests making excuses,structure-or-site,none-found,,Searched the excavated sites in the graph; none bears on the excuses.
+claim:lk-14-18-20-excuses,Invited guests making excuses,burial-or-ossuary,n/a,,No burial or ossuary could bear on the anchor.
+claim:lk-14-18-20-excuses,Invited guests making excuses,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-18-20-excuses,Invited guests making excuses,documentary-papyrus,none-found,,Searched for documentary papyri on purchase of fields or teams of oxen as grounds for absence; nothing fetchable bears on the anchor.
+claim:lk-14-18-20-excuses,Invited guests making excuses,jewish-literary,none-found,,"No Josephus or rabbinic passage on excusing oneself from a feast for property reasons was fetched; the Deuteronomy 20:5-7 battle exemptions are a biblical cross-reference (related_to), not evidence."
+claim:lk-14-18-20-excuses,Invited guests making excuses,greco-roman-literary,none-found,,No classical passage on feast-excuses was fetched.
+claim:lk-14-18-20-excuses,Invited guests making excuses,material-culture,none-found,,Searched for five-yoke ox-team finds or records; nothing fetchable specific to the anchor.
+claim:lk-14-18-20-excuses,Invited guests making excuses,geography-or-nature,n/a,,No geography bears on the anchor.
+claim:lk-14-18-20-excuses,Invited guests making excuses,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,inscription,n/a,,No inscription could record this sending.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,coin,n/a,,No coinage bears on the anchor.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,structure-or-site,none-found,,"Searched for excavated street-and-lane town plans of 1st-century Judean towns (Capernaum, Magdala); they show the streets but bear no witness to this custom."
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,burial-or-ossuary,n/a,,No burial or ossuary could bear on the anchor.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,documentary-papyrus,none-found,,Searched for documentary papyri on summoning the poor to feasts; nothing fetchable.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,jewish-literary,none-found,,Searched Josephus and rabbinic leads for feeding the street poor at festivals; nothing fetchable was found.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,greco-roman-literary,none-found,,No classical passage on compelling passersby to a banquet was fetched.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,material-culture,n/a,,No tool or vessel bears on the anchor.
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,geography-or-nature,n/a,,"'Streets and lanes', 'highways and hedges' are generic; no geography bears on the anchor."
+claim:lk-14-21-23-streets-compel,Bringing in the poor from streets and lanes,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,inscription,none-found,,Searched for building inscriptions of towers with costs; none was fetched (Herod's towers carry no cost figures).
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,coin,n/a,,No coinage bears on the anchor.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,structure-or-site,found,site:jerusalem-herodian-citadel,"Herod's three citadel towers at Jerusalem, the tallest (Phasael) 44 m: tower-building as a grand, costly undertaking in the period; grade C for the custom's scale, not for the parable."
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,burial-or-ossuary,n/a,,No burial or ossuary could bear on the anchor.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,documentary-papyrus,none-found,,Searched for building accounts or contracts for tower construction on papyrus; nothing fetchable from Judea.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,jewish-literary,none-found,,"Josephus describes Herod's towers (War 5), but the evidence was entered from the excavated site via the Tower of David page; no separate ancient text node was fetched in a stateable excerpt. Isaiah 5:2's vineyard tower is a biblical cross-reference."
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,greco-roman-literary,none-found,,The Wikipedia 'Counting the cost' article states (Joel B. Green) that it is unclear what kind of tower is meant; no ancient passage on tower costs was fetched.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,material-culture,none-found,,No excavated freestanding watchtower with construction accounts was fetched; agricultural watchtowers exist in the hill country but no fetched page states one with cost evidence.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,geography-or-nature,n/a,,No geography bears on the anchor.
+claim:lk-14-28-30-tower-cost,Counting the cost of building a tower,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,inscription,n/a,,No inscription could bear on a parable's war deliberation.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,coin,none-found,,Searched for coinage of the tetrarchs bearing war imagery relevant to deliberation; nothing bears on the anchor.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,structure-or-site,n/a,,No excavated structure bears on the anchor.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,burial-or-ossuary,n/a,,No burial or ossuary could bear on the anchor.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the preserves edges are recorded on the passages.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,documentary-papyrus,none-found,,Searched for peace-treaty or envoy documentation between petty kings of the period; nothing fetchable.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,jewish-literary,none-found,,"Searched for a Josephus instance of a ruler deliberating against a superior force and suing for terms (the Antipas-Aretas and Archelaus-embassy material is the closest lead, recorded in notes.md); no stateable excerpt was fetched for this custom."
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,greco-roman-literary,none-found,,The Wikipedia 'Counting the cost' article gives no historical instance; no classical passage on a king suing for terms when outnumbered was fetched.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,material-culture,n/a,,No tool or vessel bears on the anchor.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,geography-or-nature,n/a,,No geography bears on the anchor.
+claim:lk-14-31-32-king-deliberates,A king deliberating before a war he might lose,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.

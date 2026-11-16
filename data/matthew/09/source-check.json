@@ -1,0 +1,182 @@
+{
+ "source:sefaria-ketubot-4-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Ketubot.4.5"
+ },
+ "source:sefaria-taanit-2-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Taanit_2.1"
+ },
+ "source:tel-dan-stele-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele"
+ },
+ "source:wikipedia-beelzebub-prince": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beelzebub"
+ },
+ "source:wikipedia-beelzebub-tos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beelzebub"
+ },
+ "source:wikipedia-calling-matthew-antipas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Calling_of_Matthew"
+ },
+ "source:wikipedia-calling-matthew-setting": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Calling_of_Matthew"
+ },
+ "source:wikipedia-calling-matthew-telonion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Calling_of_Matthew"
+ },
+ "source:wikipedia-calling-matthew-traffic": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Calling_of_Matthew"
+ },
+ "source:wikipedia-capernaum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-basalt": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-peter-house": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-cave-of-letters": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cave_of_Letters"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-gamla": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gamla"
+ },
+ "source:wikipedia-herod-antipas-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Antipas"
+ },
+ "source:wikipedia-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-machaerus-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-migdal-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Migdal_Synagogue"
+ },
+ "source:wikipedia-names-titles-jesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Names_and_titles_of_Jesus_in_the_New_Testament"
+ },
+ "source:wikipedia-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ossuary"
+ },
+ "source:wikipedia-sea-of-galilee-boat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikipedia-tax-collector": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tax_collector"
+ },
+ "source:wikipedia-tekhelet": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tekhelet"
+ },
+ "source:wikipedia-theodotos-inscription": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Theodotos_inscription"
+ },
+ "source:wikipedia-tzitzit": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tzitzit"
+ },
+ "source:wikipedia-wineskin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Wineskin"
+ },
+ "source:wikisource-2-samuel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/2_Samuel"
+ },
+ "source:wikisource-ant-8-eleazar": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ },
+ "source:wikisource-ant18-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-sects": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-hosea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Hosea"
+ },
+ "source:wikisource-leviticus-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Leviticus"
+ },
+ "source:wikisource-numbers-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Numbers"
+ },
+ "source:wikisource-numbers-27": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Numbers"
+ }
+}

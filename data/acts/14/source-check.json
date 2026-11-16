@@ -1,0 +1,117 @@
+{
+ "source:bible-api-2-corinthians-11-25": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2+corinthians+11:25?translation=web"
+ },
+ "source:gutenberg-ovid-met-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.gutenberg.org/cache/epub/26073/pg26073.txt"
+ },
+ "source:perseus-strabo-12-6-derbe": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D12%3Achapter%3D6"
+ },
+ "source:perseus-strabo-12-6-iconium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D12%3Achapter%3D6"
+ },
+ "source:perseus-strabo-12-6-lycaonia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D12%3Achapter%3D6"
+ },
+ "source:perseus-strabo-12-7-pisidians": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D12%3Achapter%3D7"
+ },
+ "source:perseus-strabo-14-4-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D14%3Achapter%3D4%3Asection%3D1"
+ },
+ "source:wikipedia-acts-14": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_14"
+ },
+ "source:wikipedia-antalya-attalia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antalya"
+ },
+ "source:wikipedia-antioch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch"
+ },
+ "source:wikipedia-antioch-pisidia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch_of_Pisidia"
+ },
+ "source:wikipedia-antioch-pisidia-excavations": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch_of_Pisidia"
+ },
+ "source:wikipedia-derbe": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Derbe"
+ },
+ "source:wikipedia-derbe-controversy": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Derbe"
+ },
+ "source:wikipedia-konya-iconium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Konya"
+ },
+ "source:wikipedia-lycaonia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lycaonia"
+ },
+ "source:wikipedia-lycaonian-language": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lycaonian_language"
+ },
+ "source:wikipedia-lystra": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lystra"
+ },
+ "source:wikipedia-pamphylia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pamphylia"
+ },
+ "source:wikipedia-perga": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Perga"
+ },
+ "source:wikipedia-pisidia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pisidia"
+ },
+ "source:wikipedia-zeus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Zeus"
+ },
+ "source:wikisource-war7-antioch-jews": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VII"
+ }
+}

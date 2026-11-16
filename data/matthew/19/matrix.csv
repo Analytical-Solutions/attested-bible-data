@@ -1,0 +1,265 @@
+anchor,label,category,status,findings,note
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,inscription,none-found,,"Searched the Josephus texts fetched (War 2, War 3) for any Perea inscription; none exists on the page."
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,coin,none-found,,n/a checked: nothing fetched. Antipas's coins are linked on the person anchor only.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,structure-or-site,none-found,,No site evidence fetched for the journey itself; site:machaerus is linked on the place:beyond-the-jordan anchor.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,jewish-literary,found,text:josephus-war-2-perea;text:josephus-war-3-perea,Josephus names Perea as Antipas's tetrarchy and describes the region (grades B and C; edges present in this chapter).
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,greco-roman-literary,none-found,,Nothing classical outside Josephus fetched on Perea.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,geography-or-nature,none-found,,War 3's terrain description is recorded on the jewish-literary cell as text evidence; no separate observation fetched.
+claim:mt-19-01-journey-beyond-jordan,Jesus goes to the region beyond the Jordan,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,jewish-literary,none-found,,Josephus records no healing campaign in Perea; nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-02-healed-multitudes,Great multitudes followed and he healed them there,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,jewish-literary,found,text:mishnah-gittin-9-10,"The very dispute: Beit Shammai (only for forbidden sexual intercourse), Beit Hillel ('even... because she burned or over-salted his dish'), Rabbi Akiva ('another woman... better looking') - 'for any cause' matches Hillel (grade B; edge present)."
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-any-cause-debate,Divorce 'for any cause' was a disputed question,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,jewish-literary,found,text:mishnah-gittin-9-10,Mishnah Gittin 9:10 records the Schools' divorce-grounds debate that the testing question echoes (grade C; edge present in this chapter).
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-03-divorce-question,Pharisees test Jesus with the divorce question,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,manuscript,none-found,,Genesis manuscripts from the Judean desert would be the cell's evidence; nothing fetched this run. The Great Isaiah Scroll rule (calibration 4) does not apply - no Isaiah quotation here.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,jewish-literary,found,text:damascus-document-4-20-5-1,"CD 4.20-5.1 cites 'the foundation of the creation is, Male and female created He them' against taking two wives - the same creation-norm argument in the same period (grade B; edge present). A complicates edge records that the Pharisaic debate argued from Deuteronomy 24:1, not Genesis."
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-04-male-female-quote,Genesis 1:27 quoted for marriage,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,jewish-literary,none-found,,"The Damascus Document passage fetched (4.20-5.1) cites Genesis 1:27, not 2:24; no fetched source connects the one-flesh citation. Genesis 2:24 is entered only as a biblical cross-reference."
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-05-one-flesh-quote,Genesis 2:24 quoted: one flesh,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),manuscript,none-found,,"The Murabba'at Deuteronomy fragments (MurDeut, Deut 10:1-3) are on the fetched page but preserve Deuteronomy 10, not the ch 24 divorce statute - recorded as a lead in notes, not entered."
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),documentary-papyrus,found,artifact:murabbaat-writ-of-divorce,"A writ of divorce among the ~120 legal documents of the Judean desert caves at Wadi Murabba'at, officially excavated by Harding and de Vaux (1952) - the physical get of the period, dated decades after 19:7 (grade C)."
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),jewish-literary,found,text:erusin-betrothal-law,"Rabbinic divorce law describes the written get with two witnesses (grade C; reused from ch 05, edge present in this chapter)."
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-07-bill-of-divorce,The bill of divorce (get),astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,manuscript,none-found,,The 19:9 textual variants (the exception clause and the closing clause) are recorded in the passage's variants field from the fetched variants article.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,jewish-literary,found,text:mishnah-gittin-9-10;text:damascus-document-4-20-5-1,"Gittin 9:10 confirms the permissive Hillelite practice the saying addresses (C); CD 4.20-5.1 shows the strict-marriage movement nearby, Schechter noting its prohibition 'extends also to divorce' (C; edges present)."
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-09-divorce-adultery,Divorce and remarriage as adultery,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,jewish-literary,found,text:josephus-ant-16-eunuchs,"Josephus describes Herod's court eunuchs entrusted with the king's drink, supper and bed (Ant. 16.8.1) - the 'made by men' class in the court world of the period (grade C; edge present)."
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,greco-roman-literary,none-found,,"Nothing classical fetched on eunuchs; the Wikipedia Eunuch article (castration as social function) is attached as a source on the claim, not evidence."
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-12-eunuchs,Three kinds of eunuchs,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,jewish-literary,none-found,,"Searched the fetched Sefaria and Josephus pages; the laying-on-of-hands blessing parallels (Genesis 48) are biblical cross-references, not evidence. Nothing fetched."
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-13-children-blessing,Children brought for laying on of hands,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,manuscript,none-found,,The 19:16-17 variants ('Good teacher' vs 'Teacher'; 'Why are you asking me about the good?') are recorded in the passages' variants field; the article is attached as a source on the claim.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,jewish-literary,none-found,,The man is unnamed; nothing fetched identifies him or the episode.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-16-rich-young-man,The rich man asks about eternal life,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,jewish-literary,found,text:mishnah-tamid-5-1,"Mishnah Tamid 5:1: the priestly watch daily 'recited the Ten Commandments, Shema' in the Temple - the commandments Jesus lists were the recited core of Jewish instruction (grade C; edge present)."
+claim:mt-19-18-commandments,The commandments listed,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-18-commandments,The commandments listed,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",jewish-literary,none-found,,"Almsgiving parallels (Tobit 4:7-11, 'you lay up a good treasure') are entered only as a biblical cross-reference; no rabbinic or Qumran almsgiving text fetched."
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-21-sell-give-poor,"Sell, give to the poor, treasure in heaven",astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,structure-or-site,none-found,,The 'needle gate' of popular explanation: the fetched Eye-of-a-needle article states 'there is no evidence for the existence of such a gate' - attached as a source on the claim with the dispute in the claim note; no site entered.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,manuscript,none-found,,"The 19:24 variants (kamilon 'cable' in minuscules 174, 579, 1424 and lectionaries; trypematos 'borehole' incl. W) are recorded in the passage's variants field from the fetched article."
+claim:mt-19-24-camel-needle,A camel through a needle's eye,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,jewish-literary,found,text:talmud-berakhot-55b;text:talmud-bava-metzia-38b,"The parallel hyperbole in rabbinic idiom: 'an elephant going through the eye of a needle' (Rava, Berakhot 55b) and 'where people pass an elephant through the eye of a needle' (Rav Sheshet, Bava Metzia 38b) (grade C; edges present)."
+claim:mt-19-24-camel-needle,A camel through a needle's eye,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,material-culture,none-found,,No excavated first-century needle fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-24-camel-needle,A camel through a needle's eye,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,jewish-literary,found,text:1-enoch-62-son-of-man,"1 Enoch 62 expects 'that Son of Man Sitting on the throne of his glory' with judgement - the pre-Christian throne-of-glory scene behind 19:28 (grade C; reused from ch 16, edge present in this chapter)."
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-28-twelve-thrones,Twelve thrones judging the twelve tribes,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,manuscript,none-found,,The 19:29 variants ('manifold' for 'hundredfold' in B; 'father or mother' without 'or wife') are recorded in the passage's variants field.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,jewish-literary,none-found,,No rabbinic or Qumran recompense text fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-29-hundredfold,A hundredfold for leaving houses and lands,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,inscription,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,coin,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,structure-or-site,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,manuscript,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,jewish-literary,none-found,,No parallel fetched; nothing entered.
+claim:mt-19-30-first-last,The first will be last,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,material-culture,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,geography-or-nature,none-found,,n/a checked: nothing fetched.
+claim:mt-19-30-first-last,The first will be last,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+person:herod-antipas,Herod Antipas,inscription,none-found,,No inscription naming Antipas fetched; his coins carry the Greek legend 'Herod the Tetrarch' (coin cell).
+person:herod-antipas,Herod Antipas,coin,found,artifact:antipas-coins,"Antipas's bronze coins name him ΗΡΩΔΟΥ ΤΕΤΡΑΡΧΟΥ (grade B; reused from ch 14, edge present in this chapter)."
+person:herod-antipas,Herod Antipas,structure-or-site,none-found,,"His buildings (Sepphoris, Tiberias, Julias in Perea) are documented in ch 04/14 and here via War 2 on the jewish-literary cell; no new site fetched."
+person:herod-antipas,Herod Antipas,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+person:herod-antipas,Herod Antipas,manuscript,none-found,,n/a checked: nothing fetched.
+person:herod-antipas,Herod Antipas,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+person:herod-antipas,Herod Antipas,jewish-literary,found,text:josephus-war-2-perea;text:josephus-war-2-julias,War 2 names Antipas tetrarch of 'Perea and Galilee' at Herod's death (A) and records his building of Julias in Perea (C); edges present.
+person:herod-antipas,Herod Antipas,greco-roman-literary,none-found,,Nothing classical outside Josephus fetched on Antipas this run.
+person:herod-antipas,Herod Antipas,material-culture,none-found,,n/a checked: nothing fetched.
+person:herod-antipas,Herod Antipas,geography-or-nature,none-found,,n/a checked: nothing fetched.
+person:herod-antipas,Herod Antipas,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),inscription,none-found,,"No inscription naming Jesus fetched; Josephus Ant. 20.200 ('the brother of Jesus, who was called Christ') is in the graph from ch 01 at grade A with reviewer 1's A-or-B lead open - no new edge added."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),coin,none-found,,n/a checked: nothing fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),structure-or-site,none-found,,n/a checked: nothing fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),manuscript,none-found,,A manuscript of Matthew only preserves its passages; Codex Sinaiticus carries the preserves edges for all 30 verses of this chapter.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),documentary-papyrus,none-found,,n/a checked: nothing fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),jewish-literary,none-found,,Josephus Ant. 20.200 exists in the graph from ch 01; no competing edge added from this chapter (grade lead open).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),greco-roman-literary,none-found,,"Tacitus, Annals 15.44 is a standing lead assigned to ch 27; not fetched this run."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),material-culture,none-found,,n/a checked: nothing fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),geography-or-nature,none-found,,n/a checked: nothing fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,inscription,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,coin,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,structure-or-site,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,manuscript,none-found,,"The fetched Wadi Murabba'at article records MurDeut, a Deuteronomy scroll (Deut 10:1-3) dated 20-84 CE; it preserves Deuteronomy 10, not a passage naming Moses, so it is recorded as a lead in notes, not entered."
+person:moses,Moses,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,jewish-literary,none-found,,"The Mishnah and Josephus transmit Mosaic law, but nothing fetched this run attests the person beyond the biblical text itself."
+person:moses,Moses,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,material-culture,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,geography-or-nature,none-found,,n/a checked: nothing fetched.
+person:moses,Moses,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,inscription,none-found,,No inscription naming Peter fetched.
+person:simon-peter,Simon Peter,coin,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,structure-or-site,none-found,,The Capernaum house-site evidence lives in ch 04; nothing fetched this run.
+person:simon-peter,Simon Peter,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,manuscript,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,jewish-literary,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,material-culture,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,geography-or-nature,none-found,,n/a checked: nothing fetched.
+person:simon-peter,Simon Peter,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+place:beyond-the-jordan,Beyond the Jordan (Perea),inscription,none-found,,No inscription naming Perea fetched.
+place:beyond-the-jordan,Beyond the Jordan (Perea),coin,none-found,,n/a checked: nothing fetched.
+place:beyond-the-jordan,Beyond the Jordan (Perea),structure-or-site,found,site:machaerus,"The excavated Herodian fortress of Machaerus marks the southern end of Josephus's Perea ('the length of Perea is from Macherus to Pella') (grade C; reused from ch 14, edge present)."
+place:beyond-the-jordan,Beyond the Jordan (Perea),burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+place:beyond-the-jordan,Beyond the Jordan (Perea),manuscript,none-found,,n/a checked: nothing fetched.
+place:beyond-the-jordan,Beyond the Jordan (Perea),documentary-papyrus,none-found,,n/a checked: nothing fetched.
+place:beyond-the-jordan,Beyond the Jordan (Perea),jewish-literary,found,text:josephus-war-2-perea;text:josephus-war-2-julias;text:josephus-war-3-perea,"War 2: Perea given to Antipas (A), Julias built in Perea (B); War 3: Perea described from Machaerus to Pella, part desert (C); edges present."
+place:beyond-the-jordan,Beyond the Jordan (Perea),greco-roman-literary,none-found,,Nothing classical outside Josephus fetched on Perea.
+place:beyond-the-jordan,Beyond the Jordan (Perea),material-culture,none-found,,n/a checked: nothing fetched.
+place:beyond-the-jordan,Beyond the Jordan (Perea),geography-or-nature,none-found,,"War 3's terrain description (desert and rough; olive, vine, palm) is on the jewish-literary cell as text evidence; no separate observation fetched."
+place:beyond-the-jordan,Beyond the Jordan (Perea),astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,inscription,none-found,,Broad regional anchor; nothing fetched this run (Galilee evidence lives in ch 04-15).
+place:galilee,Galilee,coin,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,structure-or-site,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,manuscript,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,jewish-literary,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,material-culture,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,geography-or-nature,none-found,,n/a checked: nothing fetched.
+place:galilee,Galilee,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,inscription,none-found,,Broad regional anchor; nothing fetched this run. Judea's ethnarch-era evidence (Ant. 17) is in ch 02.
+place:judea,Judea,coin,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,structure-or-site,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,burial-or-ossuary,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,manuscript,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,documentary-papyrus,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,jewish-literary,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,greco-roman-literary,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,material-culture,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,geography-or-nature,none-found,,n/a checked: nothing fetched.
+place:judea,Judea,astronomy-or-calendar,none-found,,n/a checked: nothing fetched.

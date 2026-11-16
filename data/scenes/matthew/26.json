@@ -1,0 +1,105 @@
+{
+  "book": "matthew",
+  "chapter": 26,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        2
+      ],
+      "setting": "place:mount-of-olives",
+      "basis": "26:1 \"When Jesus had finished all these words\" - the Olivet discourse (24:3) closes here, no movement",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        3,
+        5
+      ],
+      "setting": "place:jerusalem",
+      "basis": "26:3 \"the chief priests... were gathered together in the court of the high priest, who was called Caiaphas\" - in Jerusalem (cf. 26:57)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        6,
+        13
+      ],
+      "setting": "place:bethany",
+      "basis": "26:6 \"Now when Jesus was in Bethany, in the house of Simon the leper\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        14,
+        16
+      ],
+      "setting": "place:jerusalem",
+      "basis": "26:14 \"Judas Iscariot... went to the chief priests\" - in Jerusalem (26:3-5)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        17,
+        19
+      ],
+      "setting": "place:jerusalem",
+      "basis": "26:18 \"Go into the city to a certain person... I will keep the Passover at your house with my disciples\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        20,
+        29
+      ],
+      "setting": "place:jerusalem",
+      "basis": "26:20 \"when evening had come, he was reclining at the table with the twelve\" - in the prepared house in the city (26:18)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        30,
+        35
+      ],
+      "setting": "place:mount-of-olives",
+      "basis": "26:30 \"When they had sung a hymn, they went out to the Mount of Olives\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        36,
+        46
+      ],
+      "setting": "place:gethsemane",
+      "basis": "26:36 \"Then Jesus came with them to a place called Gethsemane\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        47,
+        56
+      ],
+      "setting": "place:gethsemane",
+      "basis": "26:47-56 the arrest - \"they came and laid hands on Jesus\" where he prayed (26:36)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        57,
+        58
+      ],
+      "setting": "place:jerusalem",
+      "basis": "26:57 \"Those who had taken Jesus led him away to Caiaphas the high priest\"; Peter \"entered in\" to the court of the high priest",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        59,
+        75
+      ],
+      "setting": "place:jerusalem",
+      "basis": "26:59-75 the trial before the council and Peter's denials in the court of the high priest (26:57-58)",
+      "confidence": "inferred"
+    }
+  ]
+}

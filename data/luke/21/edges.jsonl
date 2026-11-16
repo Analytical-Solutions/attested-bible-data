@@ -1,0 +1,194 @@
+{"from": "passage:lk-21-01", "type": "asserts", "to": "claim:mk-12-41-treasury-chests"}
+{"from": "passage:lk-21-02", "type": "asserts", "to": "claim:mk-12-42-two-lepta-quadrans"}
+{"from": "passage:lk-21-04", "type": "asserts", "to": "claim:mk-12-44-widow-gave-all"}
+{"from": "passage:lk-21-05", "type": "asserts", "to": "claim:lk-21-05-temple-beautiful-stones"}
+{"from": "passage:lk-21-05", "type": "asserts", "to": "claim:lk-21-05-temple-votive-gifts"}
+{"from": "passage:lk-21-06", "type": "asserts", "to": "claim:mt-24-01-02-temple-thrown-down"}
+{"from": "passage:lk-21-08", "type": "asserts", "to": "claim:mt-24-05-23-26-messiah-claimants"}
+{"from": "passage:lk-21-09", "type": "asserts", "to": "claim:mt-24-06-07-wars-famines-earthquakes"}
+{"from": "passage:lk-21-10", "type": "asserts", "to": "claim:mt-24-06-07-wars-famines-earthquakes"}
+{"from": "passage:lk-21-11", "type": "asserts", "to": "claim:mt-24-06-07-wars-famines-earthquakes"}
+{"from": "passage:lk-21-11", "type": "asserts", "to": "claim:lk-21-11-signs-from-heaven"}
+{"from": "passage:lk-21-12", "type": "asserts", "to": "claim:mt-24-09-persecution"}
+{"from": "passage:lk-21-16", "type": "asserts", "to": "claim:mt-24-09-persecution"}
+{"from": "passage:lk-21-17", "type": "asserts", "to": "claim:mt-24-09-persecution"}
+{"from": "passage:lk-21-20", "type": "asserts", "to": "claim:lk-21-20-jerusalem-surrounded"}
+{"from": "passage:lk-21-21", "type": "asserts", "to": "claim:mt-24-16-20-flight-from-judea"}
+{"from": "passage:lk-21-24", "type": "asserts", "to": "claim:lk-21-24-captives-nations"}
+{"from": "passage:lk-21-24", "type": "asserts", "to": "claim:lk-21-24-trodden-by-gentiles"}
+{"from": "passage:lk-21-25", "type": "asserts", "to": "claim:mt-24-29-30-signs-in-heaven"}
+{"from": "passage:lk-21-26", "type": "asserts", "to": "claim:mt-24-29-30-signs-in-heaven"}
+{"from": "passage:lk-21-27", "type": "asserts", "to": "claim:mt-24-29-30-signs-in-heaven"}
+{"from": "passage:lk-21-29", "type": "asserts", "to": "claim:mt-24-32-33-fig-tree-summer"}
+{"from": "passage:lk-21-30", "type": "asserts", "to": "claim:mt-24-32-33-fig-tree-summer"}
+{"from": "passage:lk-21-34", "type": "asserts", "to": "claim:lk-21-34-carousing-drunkenness"}
+{"from": "passage:lk-21-37", "type": "asserts", "to": "claim:lk-21-37-38-olivet-lodging"}
+{"from": "passage:lk-21-38", "type": "asserts", "to": "claim:lk-21-37-38-olivet-lodging"}
+{"from": "passage:lk-21-01", "type": "parallels", "to": "passage:mk-12-41"}
+{"from": "passage:lk-21-02", "type": "parallels", "to": "passage:mk-12-42"}
+{"from": "passage:lk-21-03", "type": "parallels", "to": "passage:mk-12-43"}
+{"from": "passage:lk-21-04", "type": "parallels", "to": "passage:mk-12-44"}
+{"from": "passage:lk-21-05", "type": "parallels", "to": "passage:mk-13-01"}
+{"from": "passage:lk-21-06", "type": "parallels", "to": "passage:mk-13-02"}
+{"from": "passage:lk-21-06", "type": "parallels", "to": "passage:mt-24-02"}
+{"from": "passage:lk-21-07", "type": "parallels", "to": "passage:mk-13-04"}
+{"from": "passage:lk-21-07", "type": "parallels", "to": "passage:mt-24-03"}
+{"from": "passage:lk-21-08", "type": "parallels", "to": "passage:mk-13-06"}
+{"from": "passage:lk-21-08", "type": "parallels", "to": "passage:mt-24-05"}
+{"from": "passage:lk-21-09", "type": "parallels", "to": "passage:mk-13-07"}
+{"from": "passage:lk-21-09", "type": "parallels", "to": "passage:mt-24-06"}
+{"from": "passage:lk-21-10", "type": "parallels", "to": "passage:mk-13-08"}
+{"from": "passage:lk-21-10", "type": "parallels", "to": "passage:mt-24-07"}
+{"from": "passage:lk-21-11", "type": "parallels", "to": "passage:mk-13-08"}
+{"from": "passage:lk-21-11", "type": "parallels", "to": "passage:mt-24-07"}
+{"from": "passage:lk-21-12", "type": "parallels", "to": "passage:mk-13-09", "note": "Luke 21:12 repeats Mark 13:9 and Matt 24:9 and Matthew 10:18 (kings and governors); Luke alone says this comes 'before all these things'."}
+{"from": "passage:lk-21-12", "type": "parallels", "to": "passage:mt-24-09", "note": "Luke 21:12 repeats Mark 13:9 and Matt 24:9 and Matthew 10:18 (kings and governors); Luke alone says this comes 'before all these things'."}
+{"from": "passage:lk-21-12", "type": "parallels", "to": "passage:mt-10-18", "note": "Luke 21:12 repeats Mark 13:9 and Matt 24:9 and Matthew 10:18 (kings and governors); Luke alone says this comes 'before all these things'."}
+{"from": "passage:lk-21-13", "type": "parallels", "to": "passage:mk-13-09"}
+{"from": "passage:lk-21-13", "type": "parallels", "to": "passage:mt-10-19"}
+{"from": "passage:lk-21-14", "type": "parallels", "to": "passage:mk-13-11"}
+{"from": "passage:lk-21-14", "type": "parallels", "to": "passage:mt-10-19"}
+{"from": "passage:lk-21-15", "type": "parallels", "to": "passage:mk-13-11"}
+{"from": "passage:lk-21-15", "type": "parallels", "to": "passage:mt-10-20"}
+{"from": "passage:lk-21-16", "type": "parallels", "to": "passage:mk-13-12"}
+{"from": "passage:lk-21-16", "type": "parallels", "to": "passage:mt-10-21"}
+{"from": "passage:lk-21-17", "type": "parallels", "to": "passage:mk-13-13"}
+{"from": "passage:lk-21-17", "type": "parallels", "to": "passage:mt-10-22"}
+{"from": "passage:lk-21-19", "type": "parallels", "to": "passage:mk-13-13"}
+{"from": "passage:lk-21-19", "type": "parallels", "to": "passage:mt-10-22"}
+{"from": "passage:lk-21-20", "type": "parallels", "to": "passage:mt-24-15", "note": "Luke's sign before the desolation is 'Jerusalem surrounded by armies'; Matthew and Mark put the Danielic abomination of desolation here, which Luke omits."}
+{"from": "passage:lk-21-20", "type": "parallels", "to": "passage:mk-13-14", "note": "Luke's sign before the desolation is 'Jerusalem surrounded by armies'; Matthew and Mark put the Danielic abomination of desolation here, which Luke omits."}
+{"from": "passage:lk-21-21", "type": "parallels", "to": "passage:mt-24-16"}
+{"from": "passage:lk-21-21", "type": "parallels", "to": "passage:mk-13-14"}
+{"from": "passage:lk-21-23", "type": "parallels", "to": "passage:mt-24-19"}
+{"from": "passage:lk-21-23", "type": "parallels", "to": "passage:mk-13-17"}
+{"from": "passage:lk-21-24", "type": "parallels", "to": "passage:mk-13-19", "note": "Luke's outcome (sword, captivity, trampling by the Gentiles) is his own; Mark 13:19 gives only the distress of those days."}
+{"from": "passage:lk-21-25", "type": "parallels", "to": "passage:mt-24-29"}
+{"from": "passage:lk-21-25", "type": "parallels", "to": "passage:mk-13-24"}
+{"from": "passage:lk-21-26", "type": "parallels", "to": "passage:mt-24-29"}
+{"from": "passage:lk-21-26", "type": "parallels", "to": "passage:mk-13-25"}
+{"from": "passage:lk-21-27", "type": "parallels", "to": "passage:mt-24-30"}
+{"from": "passage:lk-21-27", "type": "parallels", "to": "passage:mk-13-26"}
+{"from": "passage:lk-21-28", "type": "parallels", "to": "passage:mt-24-33"}
+{"from": "passage:lk-21-28", "type": "parallels", "to": "passage:mk-13-29"}
+{"from": "passage:lk-21-29", "type": "parallels", "to": "passage:mt-24-32"}
+{"from": "passage:lk-21-29", "type": "parallels", "to": "passage:mk-13-28"}
+{"from": "passage:lk-21-30", "type": "parallels", "to": "passage:mt-24-32"}
+{"from": "passage:lk-21-30", "type": "parallels", "to": "passage:mk-13-28"}
+{"from": "passage:lk-21-31", "type": "parallels", "to": "passage:mt-24-33"}
+{"from": "passage:lk-21-31", "type": "parallels", "to": "passage:mk-13-29"}
+{"from": "passage:lk-21-32", "type": "parallels", "to": "passage:mt-24-34"}
+{"from": "passage:lk-21-32", "type": "parallels", "to": "passage:mk-13-30"}
+{"from": "passage:lk-21-33", "type": "parallels", "to": "passage:mt-24-35"}
+{"from": "passage:lk-21-33", "type": "parallels", "to": "passage:mk-13-31"}
+{"from": "passage:lk-21-36", "type": "parallels", "to": "passage:mt-24-42", "note": "Luke's watchfulness saying with the snare image (21:34-36) stands where Matthew 24:42 and Mark 13:37 have shorter 'watch' commands."}
+{"from": "passage:lk-21-36", "type": "parallels", "to": "passage:mk-13-37", "note": "Luke's watchfulness saying with the snare image (21:34-36) stands where Matthew 24:42 and Mark 13:37 have shorter 'watch' commands."}
+{"from": "artifact:western-wall-ashlars", "type": "attests", "to": "claim:lk-21-05-temple-beautiful-stones", "grade": "B", "note": "Herodian ashlars of the Temple Mount retaining wall, exposed by the Western Wall tunnel excavations: great dressed stones of the same temple complex in situ - the 'beautiful stones' of the setting"}
+{"from": "text:josephus-war-5-207-213-temple-gold", "type": "attests", "to": "claim:lk-21-05-temple-votive-gifts", "grade": "A", "note": "Eyewitness description of the same building: the sanctuary gate 'all over covered with gold... it had also golden vines above it, from which clusters of grapes hung as tall as a man's height' - consecrated adornment of Jesus' day (War 5.207-213, the golden vine a famous votive gift)"}
+{"from": "text:josephus-war-6-288-300", "type": "attests", "to": "claim:lk-21-11-signs-from-heaven", "grade": "C", "note": "The prodigies before the war: 'a star resembling a sword... and a comet, that continued a whole year', and 'chariots and troops of soldiers in their armor were seen running about among the clouds' - signs in the heavens reported for the years before 70 CE; it attests that such signs were reported, not that the prediction was made"}
+{"from": "text:tacitus-histories-5-13", "type": "attests", "to": "claim:lk-21-11-signs-from-heaven", "grade": "C", "note": "Tacitus' independent list of prodigies (hosts fighting in the skies, the temple lit from the clouds) confirms that heavenly portents were reported for this period and region"}
+{"from": "observation:halley-comet-66", "type": "attests", "to": "claim:lk-21-11-signs-from-heaven", "grade": "C", "note": "The computed 66 CE apparition of Halley's Comet (perihelion 26 January) is a great celestial sign in exactly the years of the revolt; the article's identification with Josephus' comet is only 'may be', so the computed apparition alone is used"}
+{"from": "text:josephus-war-5-12-1-2", "type": "attests", "to": "claim:lk-21-20-jerusalem-surrounded", "grade": "A", "note": "Titus 'must build a wall round about the whole city'; the wall ran 'from the camp of the Assyrians... and was joined to Titus's own camp, where it began' (forty furlongs, thirteen garrison posts, 'completed in three days'), after which 'all hope of escaping was now cut off from the Jews' - the encirclement of Jerusalem by armies in 70 CE. It attests the event, not that it was predicted"}
+{"from": "artifact:judaea-capta-coins", "type": "attests", "to": "claim:lk-21-20-jerusalem-surrounded", "grade": "C", "note": "Imperial coinage issued from 71 CE celebrating the capture of Judaea and the destruction of the temple - the conquest of the besieged city became the Flavians' advertised victory, though it does not picture the encirclement itself"}
+{"from": "artifact:judaea-capta-coins", "type": "attests", "to": "claim:lk-21-24-captives-nations", "grade": "C", "note": "Judaea Capta coinage shows Judaea seated mourning beneath Roman trophies - the captive land as Rome advertised it across the empire from 71 CE"}
+{"from": "text:josephus-war-6-418-421-captives", "type": "attests", "to": "claim:lk-21-24-captives-nations", "grade": "A", "note": "'the number of those that were carried captive during this whole war was collected to be ninety-seven thousand': the young men sent to the Egyptian mines, 'a great number into the provinces... to be destroyed upon their theatres', the rest 'sold for slaves' - the fall by the sword and the captivity of 70 CE. It attests the event, not the prediction"}
+{"from": "site:arch-of-titus", "type": "attests", "to": "claim:lk-21-24-captives-nations", "grade": "B", "note": "The arch's panels depict the 71 CE triumphal procession with the temple spoils and captives - Roman state art commemorating the leading away of Jerusalem's people and treasure; it attests the captivity's aftermath, not the prediction"}
+{"from": "artifact:arch-of-titus-showbread-table", "type": "attests", "to": "claim:lk-21-24-captives-nations", "grade": "B", "note": "The relief shows the temple's showbread table carried in the triumph - the temple treasures led away to Rome, the material face of the captivity"}
+{"from": "artifact:burnt-house", "type": "attests", "to": "claim:lk-21-24-trodden-by-gentiles", "grade": "C", "note": "A priestly house of the Upper City destroyed in a great fire during the Roman siege, one month after the Temple - the city's destruction and occupation as found in the ground"}
+{"from": "text:josephus-war-7-1-4", "type": "attests", "to": "claim:lk-21-24-trodden-by-gentiles", "grade": "A", "note": "Titus ordered that the Romans 'should now demolish the entire city and temple', leaving towers and a stretch of wall with a garrison - the captured city razed and held by the Gentile army of occupation. It attests the event, not that it was predicted"}
+{"from": "artifact:judaea-capta-coins", "type": "attests", "to": "claim:lk-21-24-trodden-by-gentiles", "grade": "C", "note": "Judaea Capta coinage shows Judaea weeping beneath Roman trophies and a soldier - the Gentile master's image of a defeated land, issued across the empire from 71 CE"}
+{"from": "text:josephus-war-2-261-263", "type": "attests", "to": "claim:lk-21-37-38-olivet-lodging", "grade": "B", "note": "Josephus names the Mount of Olives as the place where the Egyptian prophet's crowd encamped, a short distance across the Kidron from the city - the same mountain Luke names as the nightly lodging; it attests the place and its use for staying outside the walls, not that Jesus lodged there"}
+{"from": "text:josephus-ant-20-169-172", "type": "attests", "to": "claim:lk-21-37-38-olivet-lodging", "grade": "B", "note": "The Antiquities parallel again names 'the mountain called the Mount of Olives' over against Jerusalem as a place crowds gathered and stayed - the named place; the lodging practice itself rests on the verse"}
+{"from": "claim:lk-21-20-jerusalem-surrounded", "type": "documented_by", "to": "source:wikipedia-siege-jerusalem-70"}
+{"from": "claim:lk-21-20-jerusalem-surrounded", "type": "documented_by", "to": "source:wikipedia-siege-circumvallation"}
+{"from": "claim:lk-21-24-captives-nations", "type": "documented_by", "to": "source:wikipedia-siege-jerusalem-70"}
+{"from": "claim:lk-21-24-trodden-by-gentiles", "type": "documented_by", "to": "source:wikipedia-siege-jerusalem-70"}
+{"from": "text:josephus-war-6-418-421-captives", "type": "documented_by", "to": "source:wikisource-war-6-captives"}
+{"from": "text:josephus-war-5-207-213-temple-gold", "type": "documented_by", "to": "source:wikisource-war-5-temple-gold"}
+{"from": "artifact:western-wall-ashlars", "type": "documented_by", "to": "source:wikipedia-western-wall"}
+{"from": "artifact:judaea-capta-coins", "type": "documented_by", "to": "source:wikipedia-judaea-capta"}
+{"from": "site:arch-of-titus", "type": "documented_by", "to": "source:wikipedia-arch-of-titus"}
+{"from": "claim:lk-21-20-jerusalem-surrounded", "type": "related_to", "to": "claim:mt-24-15-abomination-holy-place", "note": "Luke's sign of the desolation is 'Jerusalem surrounded by armies'; Matthew 24:15 and Mark 13:14 place the Danielic abomination standing in the holy place instead, and Luke omits the abomination entirely."}
+{"from": "claim:lk-21-34-carousing-drunkenness", "type": "related_to", "to": "claim:mt-24-43-thief-night-watch", "note": "Luke's snare warning (21:34-35) and Matthew's thief-in-the-night image (24:43) are different pictures of the same sudden coming; Luke alone names carousing, drunkenness and anxieties."}
+{"from": "claim:lk-21-20-jerusalem-surrounded", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-21-24-captives-nations", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-21-24-trodden-by-gentiles", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-21-05-temple-beautiful-stones", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:lk-21-05-temple-votive-gifts", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:lk-21-37-38-olivet-lodging", "type": "mentions", "to": "place:mount-of-olives"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-21-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-21-38"}

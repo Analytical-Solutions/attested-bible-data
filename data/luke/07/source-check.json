@@ -1,0 +1,72 @@
+{
+ "source:bible-api-1-kings-17-17-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1%20kings+17:17-24?translation=web"
+ },
+ "source:bible-api-2-kings-4-18-37": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2%20kings+4:18-37?translation=web"
+ },
+ "source:bible-api-deuteronomy-18-15-18": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+18:15-18?translation=web"
+ },
+ "source:bible-api-genesis-18-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+18:4?translation=web"
+ },
+ "source:tertullian-onomasticon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.tertullian.org/fathers/eusebius_onomasticon_02_trans.htm"
+ },
+ "source:wikipedia-alabaster": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Alabaster"
+ },
+ "source:wikipedia-anointing-of-jesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Anointing_of_Jesus"
+ },
+ "source:wikipedia-anointing-of-jesus-hair": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Anointing_of_Jesus"
+ },
+ "source:wikipedia-nein": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nein"
+ },
+ "source:wikipedia-nein-tombs": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nein"
+ },
+ "source:wikipedia-raising-nain": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Raising_of_the_son_of_the_widow_of_Nain"
+ },
+ "source:wikipedia-raising-nain-widow": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Raising_of_the_son_of_the_widow_of_Nain"
+ },
+ "source:wikipedia-textual-variants-luke": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikisource-ant-20-theudas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ }
+}

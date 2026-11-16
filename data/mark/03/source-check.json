@@ -1,0 +1,22 @@
+{
+ "source:perseus-pliny-5-idumaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D14"
+ },
+ "source:wikipedia-language-of-jesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Language_of_Jesus"
+ },
+ "source:wikipedia-maresha": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Maresha"
+ },
+ "source:wikisource-ant13-idumaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIII"
+ }
+}

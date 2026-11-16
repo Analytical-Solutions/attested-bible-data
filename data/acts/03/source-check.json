@@ -1,0 +1,47 @@
+{
+ "source:bible-api-genesis-22-18": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+22:18?translation=web"
+ },
+ "source:sefaria-pesachim-5-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.5.1"
+ },
+ "source:wikipedia-beautiful-gate": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beautiful_Gate"
+ },
+ "source:wikipedia-cave-of-nicanor": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cave_of_Nicanor"
+ },
+ "source:wikipedia-cave-of-nicanor-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cave_of_Nicanor"
+ },
+ "source:wikisource-ant-14-65": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIV"
+ },
+ "source:wikisource-ant18-testimonium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-testimonium-appearances": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-war-5-corinthian-gate": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

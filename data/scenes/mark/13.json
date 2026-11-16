@@ -1,0 +1,24 @@
+{
+  "book": "mark",
+  "chapter": 13,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        2
+      ],
+      "setting": "site:second-temple",
+      "basis": "13:1 \"As he went out of the temple, one of his disciples said to him, 'Teacher, see what kind of stones and what kind of buildings!'\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        3,
+        37
+      ],
+      "setting": "place:mount-of-olives",
+      "basis": "13:3 \"As he sat on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked him privately\"",
+      "confidence": "stated"
+    }
+  ]
+}

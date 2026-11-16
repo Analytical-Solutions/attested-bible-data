@@ -1,0 +1,42 @@
+{
+  "book": "matthew",
+  "chapter": 17,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        13
+      ],
+      "setting": null,
+      "basis": "17:1 \"brought them up into a high mountain by themselves\" - the mountain of the transfiguration is not named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        14,
+        21
+      ],
+      "setting": null,
+      "basis": "17:14 \"When they came to the multitude\" - below the unnamed mountain; no place named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        22,
+        23
+      ],
+      "setting": "place:galilee",
+      "basis": "17:22 \"While they were staying in Galilee\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        24,
+        27
+      ],
+      "setting": "place:capernaum",
+      "basis": "17:24 \"When they had come to Capernaum\"",
+      "confidence": "stated"
+    }
+  ]
+}

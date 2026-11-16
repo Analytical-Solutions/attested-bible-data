@@ -1,0 +1,27 @@
+{
+ "source:sefaria-peah-8-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Peah.8.7"
+ },
+ "source:wikipedia-papyrus-45-acts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-second-temple-period-ossuary-greek": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple_period"
+ },
+ "source:wikipedia-synagogue-libertines": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Synagogue_of_the_Libertines"
+ },
+ "source:wikipedia-theodotos-translation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Theodotos_inscription"
+ }
+}

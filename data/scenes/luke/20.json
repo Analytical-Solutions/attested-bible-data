@@ -1,0 +1,15 @@
+{
+ "book": "luke",
+ "chapter": 20,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    47
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "20:1 \"as he was teaching the people in the temple\" - the authorities' questions and the parable of the vineyard (20:9-19) continue there"
+  }
+ ]
+}

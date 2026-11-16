@@ -1,0 +1,147 @@
+{
+ "source:bible-api-1-maccabees-13-51": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1%20Maccabees%2013:51?translation=web"
+ },
+ "source:bible-api-isaiah-5-1-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/Isaiah%205:1-2?translation=web"
+ },
+ "source:bible-api-isaiah-56-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/Isaiah%2056:7?translation=web"
+ },
+ "source:bible-api-jeremiah-7-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/Jeremiah%207:11?translation=web"
+ },
+ "source:bible-api-psalm-118-25-26": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/Psalms%20118:25-26?translation=web"
+ },
+ "source:bible-api-psalm-8-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/Psalms%208:2?translation=web"
+ },
+ "source:bible-api-zechariah-9-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/Zechariah%209:9?translation=web"
+ },
+ "source:isaiah-scroll-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+ },
+ "source:sefaria-keritot-1-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Keritot.1.7"
+ },
+ "source:sefaria-shekalim-1-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shekalim.1.3"
+ },
+ "source:sefaria-shekalim-1-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shekalim.1.6"
+ },
+ "source:sefaria-sukkah-4-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sukkah.4.5"
+ },
+ "source:wikipedia-bar-kokhba-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bar_Kokhba_revolt_coinage"
+ },
+ "source:wikipedia-bethany": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethany"
+ },
+ "source:wikipedia-bethany-identification": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethany"
+ },
+ "source:wikipedia-bethphage": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethphage"
+ },
+ "source:wikipedia-bethphage-eusebius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethphage"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-fig-breba": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ficus_carica"
+ },
+ "source:wikipedia-greek-minor-prophets": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Greek_Minor_Prophets_Scroll_from_Nahal_Hever"
+ },
+ "source:wikipedia-mount-of-olives": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mount_of_Olives"
+ },
+ "source:wikipedia-philadelphia-zenon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)"
+ },
+ "source:wikipedia-second-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple"
+ },
+ "source:wikipedia-temple-warning": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_Warning_inscription"
+ },
+ "source:wikipedia-tyrian-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_shekel"
+ },
+ "source:wikipedia-zenon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Zenon_of_Kaunos"
+ },
+ "source:wikisource-ant-15-royal-stoa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ },
+ "source:wikisource-ant18-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-war-6-census": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ }
+}

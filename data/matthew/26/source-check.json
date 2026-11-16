@@ -1,0 +1,222 @@
+{
+ "source:bible-api-daniel-7-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+7:13?translation=web"
+ },
+ "source:bible-api-exodus-21-32": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/exodus+21:32?translation=web"
+ },
+ "source:bible-api-zechariah-11-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/zechariah+11:12?translation=web"
+ },
+ "source:bible-api-zechariah-13-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/zechariah+13:7?translation=web"
+ },
+ "source:sefaria-bava-kamma-7-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Kamma.7.7"
+ },
+ "source:sefaria-eruvin-53b": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Eruvin.53b"
+ },
+ "source:sefaria-pesachim-10-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.10.1"
+ },
+ "source:sefaria-pesachim-10-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.10.7"
+ },
+ "source:sefaria-pesachim-5-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.5.1"
+ },
+ "source:sefaria-sanhedrin-4-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sanhedrin.4.1"
+ },
+ "source:sefaria-sanhedrin-4-1-festival": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sanhedrin.4.1"
+ },
+ "source:sefaria-sanhedrin-7-5-name": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sanhedrin.7.5"
+ },
+ "source:sefaria-sanhedrin-7-5-tearing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sanhedrin.7.5"
+ },
+ "source:wikipedia-akeldama": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Akeldama"
+ },
+ "source:wikipedia-caiaphas-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caiaphas_ossuary"
+ },
+ "source:wikipedia-caiaphas-ossuary-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caiaphas_ossuary"
+ },
+ "source:wikipedia-caiaphas-ossuary-identification": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caiaphas_ossuary"
+ },
+ "source:wikipedia-cave-of-the-swords": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Archaeology_of_the_Bar_Kokhba_Revolt"
+ },
+ "source:wikipedia-cave-of-the-swords-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Archaeology_of_the_Bar_Kokhba_Revolt"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-elephantine-passover": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Elephantine_papyri_and_ostraca"
+ },
+ "source:wikipedia-gallicantu": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Peter_in_Gallicantu"
+ },
+ "source:wikipedia-gethsemane-iaa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gethsemane"
+ },
+ "source:wikipedia-gethsemane-mikveh": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gethsemane"
+ },
+ "source:wikipedia-gethsemane-name": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gethsemane"
+ },
+ "source:wikipedia-miriam-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Miriam_ossuary"
+ },
+ "source:wikipedia-miriam-ossuary-inscription": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Miriam_ossuary"
+ },
+ "source:wikipedia-papyrus-37": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_37"
+ },
+ "source:wikipedia-papyrus-45-extant": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-53": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_53"
+ },
+ "source:wikipedia-papyrus-64": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_64"
+ },
+ "source:wikipedia-papyrus-64-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_64"
+ },
+ "source:wikipedia-papyrus-64-verso": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_64"
+ },
+ "source:wikipedia-roman-legion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Roman_legion"
+ },
+ "source:wikipedia-roman-timekeeping": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Roman_timekeeping"
+ },
+ "source:wikipedia-tyrian-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_shekel"
+ },
+ "source:wikipedia-wohl-archaeological-museum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Wohl_Archaeological_Museum"
+ },
+ "source:wikipedia-wohl-palatial-mansion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Wohl_Archaeological_Museum"
+ },
+ "source:wikisource-ant-18-caiaphas-appointed": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-18-caiaphas-removed": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-enoch-62": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_62"
+ },
+ "source:wikisource-pliny-nh-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_12"
+ },
+ "source:wikisource-pliny-nh-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_13"
+ }
+}

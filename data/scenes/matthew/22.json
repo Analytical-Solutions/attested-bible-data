@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 22,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        46
+      ],
+      "setting": "site:second-temple",
+      "basis": "22:1 \"Jesus answered and spoke to them again in parables\" - continuing 21:23 in the temple, no movement",
+      "confidence": "inferred"
+    }
+  ]
+}

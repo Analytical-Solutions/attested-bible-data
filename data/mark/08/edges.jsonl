@@ -1,0 +1,235 @@
+{"from": "site:ginosar-plain-roman-town", "type": "documented_by", "to": "source:wikipedia-dalmanutha"}
+{"from": "site:ginosar-plain-roman-town", "type": "documented_by", "to": "source:wikipedia-dalmanutha-dispute"}
+{"from": "site:et-tell", "type": "documented_by", "to": "source:wikipedia-bethsaida-etell"}
+{"from": "site:el-araj", "type": "documented_by", "to": "source:wikipedia-bethsaida-elaraj"}
+{"from": "site:el-araj", "type": "documented_by", "to": "source:wikipedia-bethsaida-elaraj-bathhouse"}
+{"from": "site:el-araj", "type": "documented_by", "to": "source:wikipedia-bethsaida"}
+{"from": "text:mishnah-eduyot-8-7", "type": "documented_by", "to": "source:sefaria-eduyot-8-7"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:archive-ryle-james-psolomon"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "text:tacitus-histories-4-81", "type": "documented_by", "to": "source:wikisource-tacitus-histories-4"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "artifact:papyrus-45", "type": "documented_by", "to": "source:wikipedia-papyrus-45"}
+{"from": "artifact:papyrus-45", "type": "documented_by", "to": "source:wikipedia-papyrus-45-mark"}
+{"from": "passage:mk-08-02", "type": "asserts", "to": "claim:mt-15-32-three-days-nothing-eat"}
+{"from": "passage:mk-08-03", "type": "asserts", "to": "claim:mt-15-32-three-days-nothing-eat"}
+{"from": "passage:mk-08-05", "type": "asserts", "to": "claim:mt-15-34-seven-loaves-fish"}
+{"from": "passage:mk-08-06", "type": "asserts", "to": "claim:mt-15-34-seven-loaves-fish"}
+{"from": "passage:mk-08-07", "type": "asserts", "to": "claim:mt-15-34-seven-loaves-fish"}
+{"from": "passage:mk-08-08", "type": "asserts", "to": "claim:mt-15-37-seven-baskets"}
+{"from": "passage:mk-08-09", "type": "asserts", "to": "claim:mk-08-09-four-thousand"}
+{"from": "passage:mk-08-10", "type": "asserts", "to": "claim:mk-08-10-dalmanutha"}
+{"from": "passage:mk-08-11", "type": "asserts", "to": "claim:mk-08-11-sign-from-heaven"}
+{"from": "passage:mk-08-12", "type": "asserts", "to": "claim:mk-08-12-no-sign-generation"}
+{"from": "passage:mk-08-14", "type": "asserts", "to": "claim:mk-08-14-one-loaf"}
+{"from": "passage:mk-08-15", "type": "asserts", "to": "claim:mk-08-15-leaven-herod"}
+{"from": "passage:mk-08-19", "type": "asserts", "to": "claim:mt-16-09-five-loaves-recalled"}
+{"from": "passage:mk-08-20", "type": "asserts", "to": "claim:mt-16-10-seven-loaves-recalled"}
+{"from": "passage:mk-08-22", "type": "asserts", "to": "claim:mk-08-22-blind-man-bethsaida"}
+{"from": "passage:mk-08-23", "type": "asserts", "to": "claim:mk-08-23-spittle-two-stage"}
+{"from": "passage:mk-08-23", "type": "asserts", "to": "claim:mk-08-25-blind-man-healed"}
+{"from": "passage:mk-08-24", "type": "asserts", "to": "claim:mk-08-25-blind-man-healed"}
+{"from": "passage:mk-08-25", "type": "asserts", "to": "claim:mk-08-25-blind-man-healed"}
+{"from": "passage:mk-08-27", "type": "asserts", "to": "claim:mt-16-13-caesarea-philippi"}
+{"from": "passage:mk-08-28", "type": "asserts", "to": "claim:mk-08-28-identifications"}
+{"from": "passage:mk-08-29", "type": "asserts", "to": "claim:mk-08-29-you-are-the-christ"}
+{"from": "passage:mk-08-31", "type": "asserts", "to": "claim:mt-16-21-jerusalem-suffering"}
+{"from": "passage:mk-08-34", "type": "asserts", "to": "claim:mt-16-24-take-up-cross"}
+{"from": "passage:mk-08-38", "type": "asserts", "to": "claim:mt-16-27-son-of-man-glory"}
+{"from": "passage:mk-08-01", "type": "parallels", "to": "passage:mt-15-32"}
+{"from": "passage:mk-08-02", "type": "parallels", "to": "passage:mt-15-32"}
+{"from": "passage:mk-08-03", "type": "parallels", "to": "passage:mt-15-32"}
+{"from": "passage:mk-08-04", "type": "parallels", "to": "passage:mt-15-33"}
+{"from": "passage:mk-08-05", "type": "parallels", "to": "passage:mt-15-34"}
+{"from": "passage:mk-08-06", "type": "parallels", "to": "passage:mt-15-36"}
+{"from": "passage:mk-08-07", "type": "parallels", "to": "passage:mt-15-34"}
+{"from": "passage:mk-08-08", "type": "parallels", "to": "passage:mt-15-37"}
+{"from": "passage:mk-08-09", "type": "parallels", "to": "passage:mt-15-38", "note": "Mark says 'about four thousand'; Matthew adds 'men, besides women and children'. Difference recorded on the related_to edge between the claims."}
+{"from": "passage:mk-08-10", "type": "parallels", "to": "passage:mt-15-39", "note": "Mark reads Dalmanutha; Matthew reads Magdala (variant Magadan); several Markan manuscripts themselves read Magdala/Mageda."}
+{"from": "passage:mk-08-11", "type": "parallels", "to": "passage:mt-16-01", "note": "Mark names only Pharisees; Matthew names Pharisees and Sadducees. Difference recorded on the related_to edge between the claims."}
+{"from": "passage:mk-08-12", "type": "parallels", "to": "passage:mt-16-04", "note": "Mark: 'no sign will be given to this generation'; Matthew adds the sign of the prophet Jonah."}
+{"from": "passage:mk-08-14", "type": "parallels", "to": "passage:mt-16-05", "note": "Mark adds that the disciples had no more than one loaf in the boat."}
+{"from": "passage:mk-08-15", "type": "parallels", "to": "passage:mt-16-06", "note": "Mark: 'the yeast of the Pharisees and the yeast of Herod'; Matthew: 'the yeast of the Pharisees and Sadducees'."}
+{"from": "passage:mk-08-19", "type": "parallels", "to": "passage:mt-16-09"}
+{"from": "passage:mk-08-20", "type": "parallels", "to": "passage:mt-16-10"}
+{"from": "passage:mk-08-27", "type": "parallels", "to": "passage:mt-16-13", "note": "Mark: 'the villages of Caesarea Philippi'; Matthew: 'the parts of Caesarea Philippi'."}
+{"from": "passage:mk-08-28", "type": "parallels", "to": "passage:mt-16-14", "note": "Mark: John the Baptizer, Elijah, one of the prophets; Matthew adds Jeremiah."}
+{"from": "passage:mk-08-29", "type": "parallels", "to": "passage:mt-16-16", "note": "Mark: 'You are the Christ'; Matthew: 'You are the Christ, the Son of the living God'."}
+{"from": "passage:mk-08-30", "type": "parallels", "to": "passage:mt-16-20"}
+{"from": "passage:mk-08-31", "type": "parallels", "to": "passage:mt-16-21", "note": "Mark: 'after three days' and no destination named; Matthew: 'the third day' and 'go to Jerusalem'."}
+{"from": "passage:mk-08-33", "type": "parallels", "to": "passage:mt-16-23"}
+{"from": "passage:mk-08-34", "type": "parallels", "to": "passage:mt-16-24"}
+{"from": "passage:mk-08-38", "type": "parallels", "to": "passage:mt-16-27"}
+{"from": "claim:mk-08-09-four-thousand", "type": "related_to", "to": "claim:mt-15-38-four-thousand-men", "note": "Mark says 'about four thousand'; Matthew says 'four thousand men, besides women and children'."}
+{"from": "claim:mk-08-10-dalmanutha", "type": "related_to", "to": "claim:mt-15-39-borders-magdala", "note": "Mark reads Dalmanutha (otherwise unattested); Matthew reads Magdala (variant Magadan); several Markan manuscripts (Theta, f1, f13, 565) read Magdala/Mageda, so the two accounts may name the same shore."}
+{"from": "claim:mk-08-11-sign-from-heaven", "type": "related_to", "to": "claim:mt-16-01-seek-sign", "note": "Mark names only Pharisees; Matthew names Pharisees and Sadducees."}
+{"from": "claim:mk-08-12-no-sign-generation", "type": "related_to", "to": "claim:mt-16-04-sign-of-jonah", "note": "Mark gives no qualifying sign at all; Matthew adds 'except the sign of the prophet Jonah'."}
+{"from": "claim:mk-08-14-one-loaf", "type": "related_to", "to": "claim:mt-16-05-forgot-bread", "note": "Mark adds the detail that they had no more than one loaf in the boat; Matthew records only the forgetting."}
+{"from": "claim:mk-08-15-leaven-herod", "type": "related_to", "to": "claim:mt-16-06-leaven-warning", "note": "Mark pairs the Pharisees with Herod (Antipas); Matthew pairs them with the Sadducees."}
+{"from": "claim:mk-08-28-identifications", "type": "related_to", "to": "claim:mt-16-14-popular-identifications", "note": "Mark lists John the Baptizer, Elijah and one of the prophets; Matthew adds Jeremiah."}
+{"from": "claim:mk-08-29-you-are-the-christ", "type": "related_to", "to": "claim:mt-16-16-peters-confession", "note": "Mark's confession stops at 'You are the Christ'; Matthew adds 'the Son of the living God'."}
+{"from": "claim:mk-08-09-four-thousand", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-10-dalmanutha", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-11-sign-from-heaven", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-12-no-sign-generation", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-14-one-loaf", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-15-leaven-herod", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-22-blind-man-bethsaida", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-23-spittle-two-stage", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-25-blind-man-healed", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-28-identifications", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-29-you-are-the-christ", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-08-10-dalmanutha", "type": "mentions", "to": "place:dalmanutha"}
+{"from": "claim:mk-08-15-leaven-herod", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mk-08-22-blind-man-bethsaida", "type": "mentions", "to": "place:bethsaida"}
+{"from": "claim:mk-08-28-identifications", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mk-08-29-you-are-the-christ", "type": "mentions", "to": "person:simon-peter"}
+{"from": "site:ginosar-plain-roman-town", "type": "attests", "to": "claim:mk-08-10-dalmanutha", "grade": "D", "note": "Ken Dark's 2013 surface survey reported 'a possible location of Dalmanutha in the Ginosar Plain' - a previously unrecognised Roman-era ruined town on the north-west lakeshore. A candidate, not a confirmed identification; the existence of any town named Dalmanutha is itself disputed."}
+{"from": "site:ginosar-plain-roman-town", "type": "attests", "to": "place:dalmanutha", "grade": "D", "note": "The same candidate: a lakeshore town of the Roman period near where a place named Dalmanutha would sit, but 'possible' only, and Bethsaida's own experience shows how contested such identifications stay."}
+{"from": "site:ginosar-plain-roman-town", "type": "complicates", "to": "claim:mk-08-10-dalmanutha", "note": "The fetched article records Joel L. Watts disputing 'that there was ever a town called Dalmanutha', and Mark 8:10 itself reads Dalmanutha only in most manuscripts - Theta, f1, f13 and 565 read Magdala/Mageda, aligning Mark with Matthew's Magdala (recorded in the passage's variants)."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:mk-08-10-dalmanutha", "grade": "C", "note": "The 1st-century fishing boat, found in 1986 on the north-west shore - the working lakeshore economy of the region Dalmanutha's boat trip ended in; Dark placed the boat's find spot on the candidate town's stretch of lakeshore. Context, not the place name."}
+{"from": "site:et-tell", "type": "attests", "to": "claim:mk-08-22-blind-man-bethsaida", "grade": "D", "note": "Et-Tell was 'inhabited on a lesser scale during the first centuries BCE and CE and sometimes identified with the town of Bethsaida'; the identification is disputed and the site lies about 2 km from the lakeshore (reused from ch 11; the dispute is recorded on the edge)."}
+{"from": "site:el-araj", "type": "attests", "to": "claim:mk-08-22-blind-man-bethsaida", "grade": "D", "note": "The 2017 Roman bathhouse and Notley's 'Roman village... pottery, coins, also stone vessels, which are typical of first-century Jewish life' support the identification, which its own excavators call a suggestion; Bethsaida 'has not been positively identified' (reused from ch 11)."}
+{"from": "text:mishnah-eduyot-8-7", "type": "attests", "to": "claim:mk-08-28-identifications", "grade": "C", "note": "Mishnah Eduyot 8:7 cites the expectation 'Behold I send to you Elijah the prophet' - the living Elijah-expectation behind the 'some say Elijah' answer (reused from ch 16). Redacted c. 200 CE; it attests the expectation, not the crowd's answer."}
+{"from": "text:psalms-of-solomon-17", "type": "attests", "to": "claim:mk-08-29-you-are-the-christ", "grade": "C", "note": "'Raise up unto them their king, the son of David' - a first-century BCE Jewish psalm expecting a Davidic messiah: the currency of the messianic title 'Christ' that Peter uses. It attests the expectation behind the title, not that Peter spoke these words (reused from ch 15)."}
+{"from": "text:tacitus-histories-4-81", "type": "attests", "to": "claim:mk-08-23-spittle-two-stage", "grade": "C", "note": "Tacitus, Hist. 4.81: the Alexandrian blind man begged Vespasian 'to moisten his cheeks and eye-balls with his spittle' - spittle as a healing agent for eyes in the period. A parallel from elsewhere in the empire; it attests the custom, not this healing (reused from ch 07)."}
+{"from": "claim:mk-08-22-blind-man-bethsaida", "type": "documented_by", "to": "source:wikipedia-mark-8-blindman"}
+{"from": "claim:mk-08-23-spittle-two-stage", "type": "documented_by", "to": "source:wikipedia-mark-8-blindman"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-08-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-08-38"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-01"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-10"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-11"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-12"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-16"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-17"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-18"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-19"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-20"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-21"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-22"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-23"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-24"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-25"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-26"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-34"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-35"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-36"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-37"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mk-08-38"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-01"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-02"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-03"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-04"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-05"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-06"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-07"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-08"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-09"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-10"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-11"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-12"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-13"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-14"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-15"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-16"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-17"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-18"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-19"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-20"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-21"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-22"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-23"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-24"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-25"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-26"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-27"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-28"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-29"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-30"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-31"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-32"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-33"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-34"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-35"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-36"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-37"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-08-38"}

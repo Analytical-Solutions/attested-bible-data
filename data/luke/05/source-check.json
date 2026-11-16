@@ -1,0 +1,17 @@
+{
+ "source:biblehub-luke-5-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://biblehub.com/commentaries/luke/5-19.htm"
+ },
+ "source:wikipedia-luke-5-gennesaret": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Luke_5"
+ },
+ "source:wikisource-war3-fish": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_III"
+ }
+}

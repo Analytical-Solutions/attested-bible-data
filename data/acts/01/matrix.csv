@@ -1,0 +1,111 @@
+anchor,label,category,status,findings,note
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),inscription,n/a,,
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),coin,n/a,,
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),structure-or-site,none-found,,"The Chapel of the Ascension on Olivet is a much later Christian tradition; no fetched page states it as first-century evidence; searched Wikipedia (Mount of Olives, Acts of the Apostles)."
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),burial-or-ossuary,n/a,,
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),documentary-papyrus,none-found,,"No documentary papyrus bears on the ascension; P45's Acts leaves cover chapters 4-17 only (Wikipedia, Papyrus 45)."
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),jewish-literary,none-found,,"Josephus's Testimonium mentions appearances, not the ascension, and is disputed; nothing else in Josephus, Philo or the rabbis; searched Wikisource Ant. 18 and Wikipedia (Josephus on Jesus)."
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),greco-roman-literary,none-found,,"Tacitus and Suetonius never mention the ascension; searched Wikipedia (Tacitus on Jesus, Historicity of Jesus)."
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),material-culture,n/a,,
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),geography-or-nature,none-found,,The 'cloud received him' is not independently checkable; no meteorological source bears on it; searched Wikipedia (Acts 1).
+claim:ac-01-02-09-ascension,Jesus was taken up into the sky and a cloud received him (the ascension),astronomy-or-calendar,none-found,,"No calendar or astronomical datum bears on the ascension's date; searched Wikipedia (Acts 1, Chronology of Jesus)."
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,inscription,n/a,,
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,coin,n/a,,
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,structure-or-site,none-found,,"No excavated structure bears on the appearance period; searched Wikipedia (Historicity of Jesus, Acts 1)."
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,burial-or-ossuary,n/a,,
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,documentary-papyrus,none-found,,No documentary papyrus bears on the appearances; P45 covers Acts 4-17 only.
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,jewish-literary,found,text:josephus-ant-18-116-119,"The Testimonium's 'he appeared to them alive again the third day' echoes an appearance claim, but no forty-day period, and the passage's authenticity is disputed (D)."
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,greco-roman-literary,none-found,,Tacitus (Ann. 15.44) records only the execution; no classical text mentions post-mortem appearances; searched Wikipedia (Tacitus on Christ).
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,material-culture,n/a,,
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,geography-or-nature,n/a,,
+claim:ac-01-03-appearances-forty-days,Jesus showed himself alive to the apostles over forty days,astronomy-or-calendar,none-found,,The forty-day period has no external calendar check; searched Wikipedia (Chronology of Jesus).
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",inscription,n/a,,
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",coin,n/a,,
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",structure-or-site,none-found,,"No excavation measures a marked Sabbath limit near Jerusalem; searched Wikipedia (Sabbath day's journey, Techum)."
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",burial-or-ossuary,n/a,,
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",documentary-papyrus,none-found,,"No documentary papyrus states the 2,000-cubit techum; searched Wikipedia (Sabbath day's journey, Judean desert papyri)."
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",jewish-literary,found,text:mishnah-eruvin-4-3-5-7,"Eruvin 4:3 and 5:7 fix the Sabbath limit at 2,000 cubits ('another two thousand cubits beyond it'); redacted c. 200 CE, so it may not describe the 30s CE practice exactly (B with the caveat)."
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",greco-roman-literary,none-found,,"Tacitus, Hist. 5.4 mentions Sabbath rest but not the 2,000-cubit limit; the fetched Histories 5 page excerpt in this graph concerns the siege, so nothing was entered."
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",material-culture,n/a,,
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",geography-or-nature,found,observation:olivet-temple-distance,"The computed Olivet-Temple distance of 960 m falls inside the 2,000-cubit range (920-1,200 m), showing the unit's practical scale."
+claim:ac-01-12-sabbath-journey-2000-cubits,"A Sabbath day's journey was the permitted Sabbath walking limit, 2,000 cubits",astronomy-or-calendar,n/a,,
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,inscription,none-found,,"No inscription names an upper room of this community; searched Wikipedia (Cenacle, Theodotos inscription)."
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,coin,n/a,,
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,structure-or-site,found,site:cenacle,"The Cenacle on Mount Zion is the traditional Upper Room; a reception tradition in a 12th-14th-century Gothic building, so D."
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,burial-or-ossuary,n/a,,
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,documentary-papyrus,none-found,,No documentary papyrus mentions the room; searched Wikipedia (Acts 1).
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,jewish-literary,none-found,,Josephus and the rabbis say nothing about this room; searched Wikisource (Ant. 18-20) and Wikipedia (Cenacle).
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,greco-roman-literary,none-found,,No classical author mentions the early community's meeting room; searched Wikipedia (Historicity of Acts).
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,material-culture,none-found,,"Upper rooms (anagaion/hyperoion) belong to known Second Temple domestic architecture, but no fetched page gave a citable excavation locus; searched Wikipedia (Cenacle, Housing in antiquity)."
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,geography-or-nature,n/a,,
+claim:ac-01-13-upper-room,The apostles lodged in an upper room in Jerusalem,astronomy-or-calendar,n/a,,
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,inscription,none-found,,"No inscription counts the Jerusalem community; searched Wikipedia (Early centers of Christianity, Acts 1)."
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,coin,n/a,,
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,structure-or-site,none-found,,"No structure corresponds to the gathering of about 120; searched Wikipedia (Cenacle, Acts 1)."
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,burial-or-ossuary,n/a,,
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,documentary-papyrus,none-found,,No documentary papyrus records the community's size; searched Wikipedia (Acts 1).
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,jewish-literary,none-found,,Josephus and Philo say nothing about the group's size; searched Wikisource (Ant. 18-20) and Wikipedia (Josephus on Jesus).
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,greco-roman-literary,none-found,,No classical author records the number; crowd figures in ancient historians are uncheckable here; searched Wikipedia (Acts 1).
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,material-culture,n/a,,
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,geography-or-nature,n/a,,
+claim:ac-01-15-one-hundred-twenty,The number of the disciples gathered was about one hundred twenty,astronomy-or-calendar,n/a,,
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",inscription,none-found,,No inscription names Akeldama or the purchase; searched Wikipedia (Akeldama).
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",coin,n/a,,
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",structure-or-site,found,site:akeldama-tombs,"The Akeldama tombs in the Hinnom Valley mark the traditional Field of Blood; the identification is tradition, so D."
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",burial-or-ossuary,none-found,,"The first-century Tomb of the Shroud in Akeldama shows the area was a burial field, but nothing ties a burial to Judas himself (Wikipedia, Akeldama)."
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",documentary-papyrus,none-found,,"No deed of sale or papyrus bears on the field; searched Wikipedia (Akeldama, Judas Iscariot)."
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",jewish-literary,none-found,,"Josephus never mentions this Judas's death; Papias's divergent tradition is entered as reception (related_to), not evidence; searched Wikipedia (Judas Iscariot, Papias)."
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",greco-roman-literary,none-found,,No classical author mentions Judas's death; searched Wikipedia (Historicity of Jesus).
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",material-culture,n/a,,
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",geography-or-nature,none-found,,"The field's location in the Hinnom Valley is carried by the Akeldama site; no further geography evidence; searched Wikipedia (Akeldama, Valley of Hinnom)."
+claim:ac-01-18-19-judas-bought-field-akeldama,"Judas bought a field, fell headlong and burst open; the field was called Akeldama",astronomy-or-calendar,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,inscription,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,coin,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,structure-or-site,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,burial-or-ossuary,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,"Sinaiticus and Vaticanus carry the verse (preserves edges). The Great Psalms Scroll (11Q5) carries about fifty psalms in a different order, but no fetched page identifies Psalms 69 or 109 among them (Wikipedia, Great Psalms Scroll), so no pre-Christian manuscript attests the quotation."
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,documentary-papyrus,none-found,,No documentary papyrus bears on the quotation; searched Wikipedia (Great Psalms Scroll).
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,jewish-literary,none-found,,"No Qumran scroll page fetched identifies Psalm 69 or 109; searched Wikipedia (Great Psalms Scroll, Psalms of Solomon)."
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,greco-roman-literary,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,material-culture,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,geography-or-nature,n/a,,
+claim:ac-01-20-psalms-quoted,Peter quoted Psalm 69:25 and Psalm 109:8 about Judas,astronomy-or-calendar,n/a,,
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,inscription,none-found,,No inscription names Matthias or Barsabbas; later Christian lists (Dorotheus) are tradition; searched Wikipedia (Matthias the Apostle).
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,coin,n/a,,
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,structure-or-site,none-found,,"No structure relates to the election; searched Wikipedia (Matthias the Apostle, Cenacle)."
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,burial-or-ossuary,none-found,,"Traditions place Matthias's grave (Trier, Georgia) centuries later - reception, not evidence; searched Wikipedia (Matthias the Apostle)."
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,documentary-papyrus,none-found,,No documentary papyrus bears on the choice; P45 covers Acts 4-17 only.
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,jewish-literary,found,text:mishnah-tamid-3-7,"Attests only the custom of casting lots to assign duties - four daily lotteries in the Temple; redacted c. 200 CE, so it may not describe the 30s CE practice exactly (C)."
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,greco-roman-literary,none-found,,No classical author mentions the election; searched Wikipedia (Acts 1).
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,material-culture,none-found,,"No lot (keramos/psephos) from the event exists; searched Wikipedia (Cleromancy, Urim and Thummim)."
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,geography-or-nature,n/a,,
+claim:ac-01-23-26-matthias-chosen,Matthias was chosen by lot to replace Judas,astronomy-or-calendar,n/a,,
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",inscription,none-found,,No inscription names Joseph Barsabbas/Justus; searched Wikipedia (Joseph Barsabbas).
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",coin,n/a,,
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",structure-or-site,n/a,,
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",burial-or-ossuary,none-found,,Later relic traditions are medieval reception; searched Wikipedia (Joseph Barsabbas).
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry his name in Acts 1:23 (preserves edges); a copy of the text is not independent evidence.
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",documentary-papyrus,none-found,,No documentary papyrus names him; searched Wikipedia (Joseph Barsabbas).
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",jewish-literary,none-found,,No Jewish text mentions him; searched Wikipedia (Joseph Barsabbas).
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",greco-roman-literary,none-found,,No classical author mentions him; searched Wikipedia (Joseph Barsabbas).
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",material-culture,n/a,,
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",geography-or-nature,n/a,,
+person:joseph-barsabbas,"Joseph Barsabbas, called Justus",astronomy-or-calendar,n/a,,
+person:matthias,Matthias (apostle chosen by lot),inscription,none-found,,No inscription names Matthias the apostle; searched Wikipedia (Matthias the Apostle).
+person:matthias,Matthias (apostle chosen by lot),coin,n/a,,
+person:matthias,Matthias (apostle chosen by lot),structure-or-site,none-found,,No excavated structure is tied to Matthias; the Trier and Georgia traditions are late; searched Wikipedia (Matthias the Apostle).
+person:matthias,Matthias (apostle chosen by lot),burial-or-ossuary,none-found,,"Relic traditions (Trier, Georgia) are medieval reception; searched Wikipedia (Matthias the Apostle)."
+person:matthias,Matthias (apostle chosen by lot),manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,"Sinaiticus and Vaticanus carry his name in Acts 1:23, 26 (preserves edges); a copy of the text is not independent evidence."
+person:matthias,Matthias (apostle chosen by lot),documentary-papyrus,none-found,,No documentary papyrus names him; searched Wikipedia (Matthias the Apostle).
+person:matthias,Matthias (apostle chosen by lot),jewish-literary,none-found,,"Josephus, Philo and the rabbis never mention him; searched Wikipedia (Matthias the Apostle)."
+person:matthias,Matthias (apostle chosen by lot),greco-roman-literary,none-found,,No classical author mentions him; searched Wikipedia (Matthias the Apostle).
+person:matthias,Matthias (apostle chosen by lot),material-culture,n/a,,
+person:matthias,Matthias (apostle chosen by lot),geography-or-nature,n/a,,
+person:matthias,Matthias (apostle chosen by lot),astronomy-or-calendar,n/a,,

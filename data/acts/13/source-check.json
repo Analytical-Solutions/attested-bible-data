@@ -1,0 +1,122 @@
+{
+ "source:bible-api-1-samuel-13-14": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+samuel+13:14?translation=web"
+ },
+ "source:bible-api-habakkuk-1-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/habakkuk+1:5?translation=web"
+ },
+ "source:bible-api-isaiah-49-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+49:6?translation=web"
+ },
+ "source:bible-api-isaiah-55-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+55:3?translation=web"
+ },
+ "source:bible-api-psalm-2-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalm+2:7?translation=web"
+ },
+ "source:lacuscurtius-dio-54-4-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/54*.html"
+ },
+ "source:wikipedia-antioch-pisidia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch_of_Pisidia"
+ },
+ "source:wikipedia-antioch-pisidia-colony": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch_of_Pisidia"
+ },
+ "source:wikipedia-antioch-pisidia-excavations": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch_of_Pisidia"
+ },
+ "source:wikipedia-cyprus-roman-province": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cyprus_(Roman_province)"
+ },
+ "source:wikipedia-godfearers": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/God-fearers"
+ },
+ "source:wikipedia-godfearers-cij": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/God-fearers"
+ },
+ "source:wikipedia-john-mark": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/John_Mark"
+ },
+ "source:wikipedia-konya": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Konya"
+ },
+ "source:wikipedia-paphos-nea-paphos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Paphos"
+ },
+ "source:wikipedia-papyrus-45-acts-list": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-perga": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Perga"
+ },
+ "source:wikipedia-perga-excavations": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Perga"
+ },
+ "source:wikipedia-salamis-cyprus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Salamis,_Cyprus"
+ },
+ "source:wikipedia-seleucia-pieria": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Seleucia_Pieria"
+ },
+ "source:wikipedia-sergius-paulus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sergius_Paulus"
+ },
+ "source:wikipedia-sergius-paulus-family": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sergius_Paulus"
+ },
+ "source:wikipedia-sergius-paulus-mitford": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sergius_Paulus"
+ },
+ "source:wikipedia-sergius-paulus-soli": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sergius_Paulus"
+ }
+}

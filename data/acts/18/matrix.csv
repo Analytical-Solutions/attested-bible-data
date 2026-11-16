@@ -1,0 +1,529 @@
+anchor,label,category,status,findings,note
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-01-athens-to-corinth,Paul left Athens and came to Corinth.,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,inscription,none-found,,No inscription of the edict survives or was found; searched the Wikipedia 'Claudius' expulsion of Jews from Rome' article and the graph's inscription nodes.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,documentary-papyrus,none-found,,"No papyrus copy or notice of the edict was found; searched the Wikipedia expulsion article and the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,jewish-literary,none-found,,No extant Josephus passage reports the Claudian expulsion (Orosius's quoted Josephus is non-extant per the fetched Wikipedia article); searched Whiston Books 18-20 and the Wikipedia expulsion article.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,greco-roman-literary,found,text:suetonius-claudius-25-4;text:cassius-dio-60-6-6-7;text:orosius-histories-7-6-15-16,"Suetonius, Claudius 25.4 attests the expulsion (A); Dio 60.6.6-7 complicates (a 41 CE assembly ban, 'did not drive them out'); Orosius 7.6.15-16 dates it to 49 CE on a non-extant Josephus quote (D)."
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-02-claudius-expulsion,Claudius had commanded all the Jews to depart from Rome.,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,inscription,none-found,,"No inscription entered; searched Wikipedia 'Claudius' expulsion of Jews from Rome', 'History of the Jews in the Roman Empire' and the graph's inscription nodes."
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,structure-or-site,none-found,,Rome's Jewish catacombs are largely 2nd-3rd century and were not entered as nodes; searched Wikipedia 'Jewish catacombs of Rome' and 'History of the Jews in the Roman Empire'.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,documentary-papyrus,none-found,,No documentary papyrus naming the Roman Jewish community was entered; searched the graph's papyrus nodes and the Wikipedia expulsion article.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-02-jews-in-rome,A Jewish community lived in Rome in the first half of the first century CE.,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",inscription,none-found,,"No skenopoios inscription was found on a fetched page; searched Wikipedia and the graph's inscription nodes (guild inscriptions: Thyatira dyers, entered elsewhere)."
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",documentary-papyrus,none-found,,No papyrus naming tentmakers or the trade was entered; searched the graph's papyrus nodes (Zenon archive covers trades but none entered).
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",jewish-literary,none-found,,"No rabbinic or Josephus passage on tentmaking (skenopia) itself was found on a fetched page; searched Sefaria (Kiddushin 29a covers the trade norm, entered for claim:ac-18-03-trade-taught) and Wikipedia."
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",greco-roman-literary,none-found,,The goat-hair tent cloth 'cilicium' of Cilicia could not be secured on a fetched page (Wikipedia 'Cilicia' has no such passage; searches returned nothing); recorded in notes.md Uncertain.
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",material-culture,none-found,,"No excavated tentmaker's workshop or tent cloth find was entered; searched Wikipedia 'Cilicia', 'Tentmaking' and the graph's material-culture nodes."
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-03-tentmakers,"Aquila, Priscilla and Paul were tentmakers (skenopoioi), and Paul worked the trade with them.",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,inscription,none-found,,No inscription on apprenticeship or trades was entered; searched the graph's inscription nodes (Thyatira dyers' guild) and Wikipedia.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,jewish-literary,found,text:talmud-kiddushin-29a,Kiddushin 29a (baraita): a father must 'teach him Torah... and teach him a trade'; 'any father who does not teach his son a trade teaches him banditry'; searched Sefaria.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,greco-roman-literary,none-found,,No classical passage on Jewish craftsmen norms was fetched; searched Wikipedia 'Artisan' and Sefaria.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-03-trade-taught,Working with one's hands at a craft was the norm for Jewish men; a father was expected to see his,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",inscription,found,artifact:aphrodisias-godfearers-stele;artifact:miletus-godfearers-inscription,"Theosebeis ('God-fearers') as a category on the Aphrodisias stele and the Miletus theatre seat inscription - Gentile sympathizers in diaspora synagogues; both later than Acts 18, so C."
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",jewish-literary,none-found,,Philo/Josephus on Gentile sympathizers not secured on a fetched page this run; searched Wikipedia 'God-fearers'.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",greco-roman-literary,none-found,,Juvenal/Ovid on converts not fetched; searched Wikipedia 'God-fearers' and 'Judaism in the Roman Empire'.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-04-godfearers,"Gentile sympathizers ('Greeks', God-worshipers) attended diaspora synagogues alongside Jews.",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-05-silas-timothy-arrive,Silas and Timothy came down from Macedonia to Paul in Corinth.,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-06-shook-garments,Paul shook out his garments in protest and declared 'Your blood be on your own heads... From now ,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-07-justus-house,"Paul went into the house of a certain Justus, a God-worshiper whose house was next door to the sy",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-08-crispus-believed,"Crispus believed in the Lord with all his house, and many Corinthians believed and were baptized.",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,inscription,found,artifact:theodotos-inscription,"The Theodotos inscription (1st-century Jerusalem) names an archisynagogos - the office; it attests the office, not Crispus. Searched Wikipedia and the graph's inscription nodes."
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,jewish-literary,none-found,,Josephus names archisynagogoi elsewhere but nothing on Crispus; searched Whiston and Wikipedia 'Ruler of the synagogue'.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-08-crispus-ruler,Crispus was the ruler of the synagogue (archisynagogos) in Corinth.,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-09-10-vision,"The Lord spoke to Paul in a night vision, telling him not to be afraid, for no one would attack h",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",jewish-literary,none-found,,No text dates Paul's Corinthian stay; searched Whiston and the Wikipedia Gallio/Acts 18 articles.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",greco-roman-literary,none-found,,No classical text dates the stay; searched the Wikipedia Gallio article.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-11-eighteen-months,"Paul lived in Corinth a year and six months, teaching the word of God among them.",astronomy-or-calendar,none-found,,"The Delphi inscription fixes Gallio's term (51-52 CE) as the terminus for the stay's end; it dates the trial, not the eighteen months themselves; searched the Delphi Inscription and Gallio Wikipedia articles."
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,structure-or-site,found,artifact:corinth-bema,"The excavated bema in the Corinthian forum is the judge's platform where cases were heard (BiblePlaces); attests the venue, not the delivery."
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,jewish-literary,none-found,,No Jewish text on the Corinthian hearing; searched Whiston and Wikipedia.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,greco-roman-literary,none-found,,No classical text on the hearing; the fetched Gallio article reports it only from Acts.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-12-before-bema,The Jews of Corinth rose up with one accord and brought Paul before the judgment seat (bema).,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,inscription,found,artifact:gallio-inscription,Claudius's Delphi letter names Gallio 'my friend and proconsul'; dated by the 12th tribunician power and 26th acclamation to 52 CE; with the one-year proconsular tenure the term is 51-52 - the anchor of Pauline chronology.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,documentary-papyrus,none-found,,The letter survives in stone at Delphi; no papyrus copy found; searched the Delphi Inscription Wikipedia article.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,greco-roman-literary,none-found,,"Tacitus (Ann. 15.73) and Dio mention Gallio in Nero's reign per the fetched Gallio article, but no primary page was entered this run; the inscription carries the evidence."
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-12-gallio-proconsul,Gallio (L. Junius Gallio Annaeanus) was proconsul of the senatorial province of Achaia.,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",inscription,none-found,,No inscription on Gallio's judicial policy; searched the Gallio and Delphi Inscription Wikipedia articles.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",jewish-literary,found,text:josephus-ant-16-160-165,"Roman decrees guaranteed diaspora Jews their ancestral customs (Ant. 16.160-165) - the policy Gallio's hands-off ruling reflects; attests the practice, not the decision; searched Whiston Book 16."
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",greco-roman-literary,none-found,,The fetched Wikipedia 'Acts 18' and Gallio articles report the refusal only from Acts; no independent classical text found.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-14-gallio-refused,"Gallio refused to judge questions of 'words and names and your own law', telling the Jews to look",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",inscription,none-found,,No inscription names Sosthenes; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",structure-or-site,found,artifact:corinth-bema,"The beating happened 'before the judgment seat'; the excavated bema attests the venue, not the beating."
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",jewish-literary,none-found,,No text names Sosthenes; searched Whiston and Wikipedia 'Sosthenes'.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",greco-roman-literary,none-found,,The Gallio article's account is drawn from Acts; no independent classical report found.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-17-sosthenes-beaten,"Sosthenes, the ruler of the synagogue, was beaten before the judgment seat, and Gallio paid no at",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-18-sailed-syria,"Paul sailed from Cenchreae for Syria, with Priscilla and Aquila.",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",inscription,none-found,,No Nazirite dedication inscription was entered; searched Wikipedia 'Nazirite' and the graph's inscription nodes.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",jewish-literary,found,text:mishnah-nazir-6,"Mishnah Nazir 6 lists 'the shaving of one's hair' among the nazirite's prohibitions - the haircut of the vow complex (redacted c. 200 CE, so C); searched Sefaria."
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",greco-roman-literary,none-found,,Josephus on Nazirites not fetched; searched Whiston and Wikipedia 'Nazirite'.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-18-vow-shaving,"Paul shaved his head at Cenchreae because of a vow - the haircut of a completed vow, as in the Na",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-19-ephesus-visit,"Paul came to Ephesus, left Priscilla and Aquila there, and reasoned with the Jews in the synagogu",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-21-feast-jerusalem,"Paul declined to stay longer in Ephesus, intending to keep the coming feast in Jerusalem and retu",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",structure-or-site,found,site:caesarea-maritima;site:antioch-on-the-orontes,"The excavated ports attests the landing (Caesarea) and destination (Antioch) places, not the journey; sites entered at Acts 8/11."
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-22-caesarea-antioch,"Paul landed at Caesarea, went up and greeted the assembly, and went down to Antioch.",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-23-galatia-phrygia,"Paul went through the region of Galatia and Phrygia in order, strengthening all the disciples.",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",jewish-literary,found,text:philo-embassy-281-283,"Philo (c. 41 CE) numbers Egypt among the diaspora colonies looking to Jerusalem - the community an Alexandrian like Apollos came from; searched the Yonge text on Wikisource and earlyjewishwritings.com (blocked, see notes.md)."
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",greco-roman-literary,none-found,,No classical text on Alexandrian Jewish learning entered; searched Wikipedia 'Philo' and 'Alexandria'.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-24-alexandrian-learning,"In Philo's Egypt, and especially around Alexandria, Jewish groups devoted themselves to studying ",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,coin,n/a,,No coinage bears on this claim.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-26-instruction,Priscilla and Aquila took Apollos aside and explained the way of God to him more accurately.,astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",inscription,none-found,,No inscription bearing on this claim was entered; searched Wikipedia and the graph's inscription nodes.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",coin,n/a,,No coinage bears on this claim.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",structure-or-site,none-found,,No excavated structure bears on this claim was entered; searched Wikipedia and the graph's site nodes.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",burial-or-ossuary,n/a,,No burial or ossuary could attest this claim.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",manuscript,n/a,,Manuscripts preserve the text; they never attest its claims.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",documentary-papyrus,none-found,,"No documentary papyrus bears on this claim was entered; searched the graph's papyrus nodes (Babatha, Zenon, Elephantine)."
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus record nothing bearing on this claim on fetched pages; searched Whiston and Sefaria."
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",greco-roman-literary,none-found,,"Tacitus, Suetonius, Dio and Pliny record nothing bearing on this claim on fetched pages; searched via Wikipedia and attalus.org."
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",material-culture,n/a,,No material find could attest this claim this run.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",geography-or-nature,none-found,,No geographic or natural evidence was entered; searched Wikipedia and the graph's observation nodes.
+claim:ac-18-27-28-apollos-achaia,"Apollos crossed to Achaia, where the brothers encouraged him, and he powerfully refuted the Jews ",astronomy-or-calendar,n/a,,No astronomical or calendrical evidence bears on this claim.
+person:apollos,Apollos,inscription,none-found,,No inscription names Apollos was entered; searched Wikipedia and the graph's inscription nodes.
+person:apollos,Apollos,coin,n/a,,The category cannot bear evidence for this person.
+person:apollos,Apollos,structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:apollos,Apollos,burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:apollos,Apollos,manuscript,n/a,,The category cannot bear evidence for this person.
+person:apollos,Apollos,documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:apollos,Apollos,jewish-literary,none-found,,Josephus and Philo name no Apollos on fetched pages; searched Whiston and Wikipedia.
+person:apollos,Apollos,greco-roman-literary,none-found,,"No classical author names Apollos on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:apollos,Apollos,material-culture,n/a,,The category cannot bear evidence for this person.
+person:apollos,Apollos,geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:apollos,Apollos,astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,inscription,none-found,,No inscription names Aquila of Pontus was entered; searched Wikipedia and the graph's inscription nodes.
+person:aquila,Aquila of Pontus,coin,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,manuscript,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,jewish-literary,none-found,,Josephus and Philo name no Aquila of Pontus on fetched pages; searched Whiston and Wikipedia.
+person:aquila,Aquila of Pontus,greco-roman-literary,none-found,,"No classical author names Aquila of Pontus on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:aquila,Aquila of Pontus,material-culture,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:aquila,Aquila of Pontus,astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,inscription,none-found,,No inscription names Crispus was entered; searched Wikipedia and the graph's inscription nodes.
+person:crispus,Crispus,coin,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,manuscript,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,jewish-literary,none-found,,Josephus and Philo name no Crispus on fetched pages; searched Whiston and Wikipedia.
+person:crispus,Crispus,greco-roman-literary,none-found,,"No classical author names Crispus on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:crispus,Crispus,material-culture,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:crispus,Crispus,astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,inscription,found,artifact:gallio-inscription,"The Delphi letter of Claudius names '[L. Jun]ius Gallio, my fri[end] an[d procon]sul' - the same man; searched the Gallio Wikipedia article and the graph's inscription nodes."
+person:gallio,Lucius Junius Gallio Annaeanus,coin,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,manuscript,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,jewish-literary,none-found,,Josephus and Philo name no Lucius Junius Gallio Annaeanus on fetched pages; searched Whiston and Wikipedia.
+person:gallio,Lucius Junius Gallio Annaeanus,greco-roman-literary,none-found,,"No classical author names Lucius Junius Gallio Annaeanus on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:gallio,Lucius Junius Gallio Annaeanus,material-culture,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:gallio,Lucius Junius Gallio Annaeanus,astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),inscription,none-found,,No inscription names Paul was entered; searched Wikipedia and the graph's inscription nodes.
+person:paul-of-tarsus,Paul (Saul of Tarsus),coin,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),manuscript,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),jewish-literary,none-found,,Josephus and Philo name no Paul on fetched pages; searched Whiston and Wikipedia.
+person:paul-of-tarsus,Paul (Saul of Tarsus),greco-roman-literary,none-found,,"No classical author names Paul on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:paul-of-tarsus,Paul (Saul of Tarsus),material-culture,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),inscription,none-found,,No inscription names Priscilla was entered; searched Wikipedia and the graph's inscription nodes.
+person:priscilla,Priscilla (Prisca),coin,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),manuscript,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),jewish-literary,none-found,,Josephus and Philo name no Priscilla on fetched pages; searched Whiston and Wikipedia.
+person:priscilla,Priscilla (Prisca),greco-roman-literary,none-found,,"No classical author names Priscilla on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:priscilla,Priscilla (Prisca),material-culture,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:priscilla,Priscilla (Prisca),astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,inscription,none-found,,No inscription names Silas was entered; searched Wikipedia and the graph's inscription nodes.
+person:silas,Silas,coin,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,manuscript,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,jewish-literary,none-found,,Josephus and Philo name no Silas on fetched pages; searched Whiston and Wikipedia.
+person:silas,Silas,greco-roman-literary,none-found,,"No classical author names Silas on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:silas,Silas,material-culture,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:silas,Silas,astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,inscription,none-found,,No inscription names Sosthenes was entered; searched Wikipedia and the graph's inscription nodes.
+person:sosthenes,Sosthenes,coin,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,manuscript,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,jewish-literary,none-found,,Josephus and Philo name no Sosthenes on fetched pages; searched Whiston and Wikipedia.
+person:sosthenes,Sosthenes,greco-roman-literary,none-found,,"No classical author names Sosthenes on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:sosthenes,Sosthenes,material-culture,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:sosthenes,Sosthenes,astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,inscription,none-found,,No inscription names Timothy of Lystra was entered; searched Wikipedia and the graph's inscription nodes.
+person:timothy,Timothy of Lystra,coin,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,manuscript,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,jewish-literary,none-found,,Josephus and Philo name no Timothy of Lystra on fetched pages; searched Whiston and Wikipedia.
+person:timothy,Timothy of Lystra,greco-roman-literary,none-found,,"No classical author names Timothy of Lystra on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:timothy,Timothy of Lystra,material-culture,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:timothy,Timothy of Lystra,astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),inscription,none-found,,No inscription names Justus was entered; searched Wikipedia and the graph's inscription nodes.
+person:titius-justus,Justus (Titius Justus),coin,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),structure-or-site,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),burial-or-ossuary,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),manuscript,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),documentary-papyrus,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),jewish-literary,none-found,,Josephus and Philo name no Justus on fetched pages; searched Whiston and Wikipedia.
+person:titius-justus,Justus (Titius Justus),greco-roman-literary,none-found,,"No classical author names Justus on a fetched page; searched Tacitus, Suetonius and Dio via Wikipedia."
+person:titius-justus,Justus (Titius Justus),material-culture,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),geography-or-nature,n/a,,The category cannot bear evidence for this person.
+person:titius-justus,Justus (Titius Justus),astronomy-or-calendar,n/a,,The category cannot bear evidence for this person.
+place:achaia,Achaia (Roman province),inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:achaia,Achaia (Roman province),coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:achaia,Achaia (Roman province),structure-or-site,none-found,,No excavated site for this place was entered in this chapter; searched Wikipedia and the graph's site nodes.
+place:achaia,Achaia (Roman province),burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:achaia,Achaia (Roman province),manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:achaia,Achaia (Roman province),documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:achaia,Achaia (Roman province),jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:achaia,Achaia (Roman province),greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:achaia,Achaia (Roman province),material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:achaia,Achaia (Roman province),geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:achaia,Achaia (Roman province),astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:alexandria,Alexandria,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:alexandria,Alexandria,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:alexandria,Alexandria,structure-or-site,none-found,,No excavated site for this place was entered in this chapter; searched Wikipedia and the graph's site nodes.
+place:alexandria,Alexandria,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:alexandria,Alexandria,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:alexandria,Alexandria,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:alexandria,Alexandria,jewish-literary,found,text:philo-embassy-281-283,"Philo, Alexandria's own Jewish author (c. 41 CE), numbers Egypt among the diaspora colonies looking to Jerusalem; searched the Yonge text on Wikisource and earlyjewishwritings.com (the latter blocks automated fetching; see notes.md)."
+place:alexandria,Alexandria,greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:alexandria,Alexandria,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:alexandria,Alexandria,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:alexandria,Alexandria,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:antioch-on-the-orontes,Antioch on the Orontes,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:antioch-on-the-orontes,Antioch on the Orontes,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:antioch-on-the-orontes,Antioch on the Orontes,structure-or-site,found,site:antioch-on-the-orontes,site:antioch-on-the-orontes (entered at Acts 11) is the excavated capital; attests the destination city.
+place:antioch-on-the-orontes,Antioch on the Orontes,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:antioch-on-the-orontes,Antioch on the Orontes,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:antioch-on-the-orontes,Antioch on the Orontes,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:antioch-on-the-orontes,Antioch on the Orontes,jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:antioch-on-the-orontes,Antioch on the Orontes,greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:antioch-on-the-orontes,Antioch on the Orontes,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:antioch-on-the-orontes,Antioch on the Orontes,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:antioch-on-the-orontes,Antioch on the Orontes,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:athens,Athens,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:athens,Athens,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:athens,Athens,structure-or-site,none-found,,No excavated site for this place was entered in this chapter; searched Wikipedia and the graph's site nodes.
+place:athens,Athens,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:athens,Athens,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:athens,Athens,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:athens,Athens,jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:athens,Athens,greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:athens,Athens,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:athens,Athens,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:athens,Athens,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:caesarea,Caesarea Maritima,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:caesarea,Caesarea Maritima,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:caesarea,Caesarea Maritima,structure-or-site,found,site:caesarea-maritima,"site:caesarea-maritima (entered at Acts 8/12) is the excavated port; attests the landing place, not the landing."
+place:caesarea,Caesarea Maritima,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:caesarea,Caesarea Maritima,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:caesarea,Caesarea Maritima,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:caesarea,Caesarea Maritima,jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:caesarea,Caesarea Maritima,greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:caesarea,Caesarea Maritima,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:caesarea,Caesarea Maritima,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:caesarea,Caesarea Maritima,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:cenchreae,Cenchreae (Kenchreai),inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:cenchreae,Cenchreae (Kenchreai),coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:cenchreae,Cenchreae (Kenchreai),structure-or-site,found,site:cenchreae,"The Roman harbour of Kenchreai was partly excavated 1962-1969 (Robert Scranton, ASCSA); the site attests the port place."
+place:cenchreae,Cenchreae (Kenchreai),burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:cenchreae,Cenchreae (Kenchreai),manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:cenchreae,Cenchreae (Kenchreai),documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:cenchreae,Cenchreae (Kenchreai),jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:cenchreae,Cenchreae (Kenchreai),greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:cenchreae,Cenchreae (Kenchreai),material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:cenchreae,Cenchreae (Kenchreai),geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:cenchreae,Cenchreae (Kenchreai),astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:corinth,Corinth,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:corinth,Corinth,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:corinth,Corinth,structure-or-site,found,site:corinth,"Ancient Corinth is excavated by the American School of Classical Studies at Athens since 1896 (Wikipedia, Ancient Corinth); the site attests the city."
+place:corinth,Corinth,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:corinth,Corinth,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:corinth,Corinth,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:corinth,Corinth,jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:corinth,Corinth,greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:corinth,Corinth,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:corinth,Corinth,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:corinth,Corinth,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:ephesus,Ephesus,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:ephesus,Ephesus,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:ephesus,Ephesus,structure-or-site,found,site:ephesus,Ephesus is excavated (Wood 1863-1874; Benndorf and the Austrian Archaeological Institute from 1895; UNESCO 2015); the site attests the city.
+place:ephesus,Ephesus,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:ephesus,Ephesus,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:ephesus,Ephesus,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:ephesus,Ephesus,jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:ephesus,Ephesus,greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:ephesus,Ephesus,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:ephesus,Ephesus,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:ephesus,Ephesus,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:galatia,Galatia (region and Roman province),inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:galatia,Galatia (region and Roman province),coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:galatia,Galatia (region and Roman province),structure-or-site,none-found,,No excavated site for this place was entered in this chapter; searched Wikipedia and the graph's site nodes.
+place:galatia,Galatia (region and Roman province),burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:galatia,Galatia (region and Roman province),manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:galatia,Galatia (region and Roman province),documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:galatia,Galatia (region and Roman province),jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:galatia,Galatia (region and Roman province),greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:galatia,Galatia (region and Roman province),material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:galatia,Galatia (region and Roman province),geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:galatia,Galatia (region and Roman province),astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:phrygia,Phrygia,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:phrygia,Phrygia,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:phrygia,Phrygia,structure-or-site,none-found,,No excavated site for this place was entered in this chapter; searched Wikipedia and the graph's site nodes.
+place:phrygia,Phrygia,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:phrygia,Phrygia,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:phrygia,Phrygia,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:phrygia,Phrygia,jewish-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:phrygia,Phrygia,greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:phrygia,Phrygia,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:phrygia,Phrygia,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:phrygia,Phrygia,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:pontus,Pontus (region),inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:pontus,Pontus (region),coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:pontus,Pontus (region),structure-or-site,none-found,,No excavated site for this place was entered in this chapter; searched Wikipedia and the graph's site nodes.
+place:pontus,Pontus (region),burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:pontus,Pontus (region),manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:pontus,Pontus (region),documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:pontus,Pontus (region),jewish-literary,found,text:philo-embassy-281-283,"Philo, Embassy 281-283 names Jewish colonies 'in the furthermost corners of Pontus'; searched the Wikisource Yonge text and Wikipedia 'Pontus (region)'."
+place:pontus,Pontus (region),greco-roman-literary,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:pontus,Pontus (region),material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:pontus,Pontus (region),geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:pontus,Pontus (region),astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.
+place:rome,Rome,inscription,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:rome,Rome,coin,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:rome,Rome,structure-or-site,none-found,,No excavated site for this place was entered in this chapter; searched Wikipedia and the graph's site nodes.
+place:rome,Rome,burial-or-ossuary,n/a,,The category cannot bear evidence for this place claim.
+place:rome,Rome,manuscript,n/a,,The category cannot bear evidence for this place claim.
+place:rome,Rome,documentary-papyrus,none-found,,Nothing in this category bearing on this place was entered; searched Wikipedia/Pleiades and the graph's nodes.
+place:rome,Rome,jewish-literary,found,text:josephus-ant-18-81-84-rome-jews,"Josephus Ant. 18.81-84: 4,000 Jews banished from Rome in 19 CE - the first-century community; searched Whiston Book 18 and the Wikipedia expulsion article."
+place:rome,Rome,greco-roman-literary,found,text:cicero-pro-flacco-28-67,"Cicero, Pro Flacco 28.67 (59 BCE): gold sent to Jerusalem from 'Italy and from all our provinces'; searched attalus.org and the Wikipedia expulsion article."
+place:rome,Rome,material-culture,n/a,,The category cannot bear evidence for this place claim.
+place:rome,Rome,geography-or-nature,n/a,,The category cannot bear evidence for this place claim.
+place:rome,Rome,astronomy-or-calendar,n/a,,The category cannot bear evidence for this place claim.

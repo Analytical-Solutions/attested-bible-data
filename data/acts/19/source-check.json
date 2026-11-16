@@ -1,0 +1,147 @@
+{
+ "source:judaism-and-rome-persicus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.judaism-and-rome.org/paullus-fabius-persicus-claudius-and-temple-artemis-ephesos"
+ },
+ "source:judaism-and-rome-salutaris-assembly": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.judaism-and-rome.org/salutaris-foundation-and-roman-representations-ephesus"
+ },
+ "source:judaism-and-rome-salutaris-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.judaism-and-rome.org/salutaris-foundation-and-roman-representations-ephesus"
+ },
+ "source:judaism-and-rome-salutaris-grammateus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.judaism-and-rome.org/salutaris-foundation-and-roman-representations-ephesus"
+ },
+ "source:judaism-and-rome-salutaris-procession": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.judaism-and-rome.org/salutaris-foundation-and-roman-representations-ephesus"
+ },
+ "source:wikipedia-artemis-of-ephesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Artemis_of_Ephesus"
+ },
+ "source:wikipedia-artemis-of-ephesus-farnese": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Artemis_of_Ephesus"
+ },
+ "source:wikipedia-asiarch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Asiarch"
+ },
+ "source:wikipedia-ephesia-grammata-himera": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesia_Grammata"
+ },
+ "source:wikipedia-ephesia-grammata-plutarch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesia_Grammata"
+ },
+ "source:wikipedia-ephesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesus"
+ },
+ "source:wikipedia-ephesus-artemis-statues": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesus"
+ },
+ "source:wikipedia-ephesus-artemision-column": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesus"
+ },
+ "source:wikipedia-ephesus-excavation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesus"
+ },
+ "source:wikipedia-ephesus-great-theatre": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesus"
+ },
+ "source:wikipedia-neokoros": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Neokoros"
+ },
+ "source:wikipedia-neokoros-coin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Neokoros"
+ },
+ "source:wikipedia-riot-in-ephesus-dio": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Riot_in_Ephesus"
+ },
+ "source:wikipedia-riot-in-ephesus-diopetes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Riot_in_Ephesus"
+ },
+ "source:wikipedia-riot-in-ephesus-grammateus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Riot_in_Ephesus"
+ },
+ "source:wikipedia-riot-in-ephesus-guild": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Riot_in_Ephesus"
+ },
+ "source:wikipedia-riot-in-ephesus-magnesia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Riot_in_Ephesus"
+ },
+ "source:wikipedia-riot-in-ephesus-neokoros": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Riot_in_Ephesus"
+ },
+ "source:wikipedia-riot-in-ephesus-noshrines": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Riot_in_Ephesus"
+ },
+ "source:wikipedia-temple-of-artemis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+ },
+ "source:wikipedia-temple-of-artemis-location": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+ },
+ "source:wikipedia-textual-variants-acts-19-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Acts_of_the_Apostles"
+ },
+ "source:wikisource-ant-14-ephesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIV"
+ },
+ "source:wikisource-ant-8-eleazar": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ }
+}

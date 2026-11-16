@@ -1,0 +1,152 @@
+{
+ "source:sefaria-peah-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Peah_1.1"
+ },
+ "source:sefaria-shekalim-6-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shekalim_6.1"
+ },
+ "source:sefaria-taanit-2-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Taanit_2.1"
+ },
+ "source:wikipedia-amidah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Amidah"
+ },
+ "source:wikipedia-anemone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Anemone_coronaria"
+ },
+ "source:wikipedia-anointing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Anointing"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-didache": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Didache"
+ },
+ "source:wikipedia-emission-theory": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Emission_theory_(vision)"
+ },
+ "source:wikipedia-gamla": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gamla"
+ },
+ "source:wikipedia-house-sparrow": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/House_sparrow"
+ },
+ "source:wikipedia-hypocrite": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Hypocrite"
+ },
+ "source:wikipedia-lords-prayer-doxology": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lord%27s_Prayer"
+ },
+ "source:wikipedia-mammon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mammon"
+ },
+ "source:wikipedia-mudbrick": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mudbrick"
+ },
+ "source:wikipedia-sepphoris-theatre": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sepphoris"
+ },
+ "source:wikipedia-slavery-rome": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Rome"
+ },
+ "source:wikipedia-solomon-account": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Solomon"
+ },
+ "source:wikipedia-solomon-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Solomon"
+ },
+ "source:wikipedia-taanit": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ta%27anit"
+ },
+ "source:wikipedia-tabun-oven": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tabun_oven"
+ },
+ "source:wikipedia-tandoor": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tandoor"
+ },
+ "source:wikipedia-tv-matt-6-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikipedia-tyrian-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_shekel"
+ },
+ "source:wikipedia-tzedakah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tzedakah"
+ },
+ "source:wikisource-ant-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ },
+ "source:wikisource-pliny-nh-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_11"
+ },
+ "source:wikisource-pliny-nh-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_13"
+ },
+ "source:wikisource-pliny-nh-21": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_21"
+ },
+ "source:wikisource-pliny-nh-34": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_34"
+ }
+}

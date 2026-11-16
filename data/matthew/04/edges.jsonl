@@ -1,0 +1,143 @@
+{"from": "passage:mt-04-01", "type": "asserts", "to": "claim:mt-04-01-wilderness-retreat"}
+{"from": "passage:mt-04-02", "type": "asserts", "to": "claim:mt-04-02-forty-days-fasting"}
+{"from": "passage:mt-04-03", "type": "asserts", "to": "claim:mt-04-03-stones-to-bread"}
+{"from": "passage:mt-04-05", "type": "asserts", "to": "claim:mt-04-05-pinnacle-of-temple"}
+{"from": "passage:mt-04-08", "type": "asserts", "to": "claim:mt-04-08-high-mountain-kingdoms"}
+{"from": "passage:mt-04-12", "type": "asserts", "to": "claim:mt-04-12-john-arrested"}
+{"from": "passage:mt-04-13", "type": "asserts", "to": "claim:mt-04-13-capernaum-home"}
+{"from": "passage:mt-04-15", "type": "asserts", "to": "claim:mt-04-15-isaiah-9-quoted"}
+{"from": "passage:mt-04-17", "type": "asserts", "to": "claim:mt-04-17-preaching-repentance"}
+{"from": "passage:mt-04-18", "type": "asserts", "to": "claim:mt-04-18-fishermen-called"}
+{"from": "passage:mt-04-21", "type": "asserts", "to": "claim:mt-04-21-james-john-called"}
+{"from": "passage:mt-04-23", "type": "asserts", "to": "claim:mt-04-23-teaching-synagogues"}
+{"from": "passage:mt-04-24", "type": "asserts", "to": "claim:mt-04-24-report-to-syria"}
+{"from": "passage:mt-04-25", "type": "asserts", "to": "claim:mt-04-25-crowds-followed"}
+{"from": "claim:mt-04-01-wilderness-retreat", "type": "mentions", "to": "place:judaean-desert"}
+{"from": "claim:mt-04-02-forty-days-fasting", "type": "mentions", "to": "place:judaean-desert"}
+{"from": "claim:mt-04-05-pinnacle-of-temple", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-04-05-pinnacle-of-temple", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:mt-04-12-john-arrested", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-04-12-john-arrested", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-04-13-capernaum-home", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:mt-04-13-capernaum-home", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-04-13-capernaum-home", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-04-13-capernaum-home", "type": "mentions", "to": "place:zebulun"}
+{"from": "claim:mt-04-13-capernaum-home", "type": "mentions", "to": "place:naphtali"}
+{"from": "claim:mt-04-15-isaiah-9-quoted", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:mt-04-15-isaiah-9-quoted", "type": "mentions", "to": "place:zebulun"}
+{"from": "claim:mt-04-15-isaiah-9-quoted", "type": "mentions", "to": "place:naphtali"}
+{"from": "claim:mt-04-15-isaiah-9-quoted", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-04-18-fishermen-called", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-04-18-fishermen-called", "type": "mentions", "to": "person:andrew"}
+{"from": "claim:mt-04-18-fishermen-called", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-04-21-james-john-called", "type": "mentions", "to": "person:james-son-of-zebedee"}
+{"from": "claim:mt-04-21-james-john-called", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:mt-04-21-james-john-called", "type": "mentions", "to": "person:zebedee"}
+{"from": "claim:mt-04-23-teaching-synagogues", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-04-24-report-to-syria", "type": "mentions", "to": "place:syria"}
+{"from": "claim:mt-04-25-crowds-followed", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-04-25-crowds-followed", "type": "mentions", "to": "place:decapolis"}
+{"from": "claim:mt-04-25-crowds-followed", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-04-25-crowds-followed", "type": "mentions", "to": "place:judea"}
+{"from": "claim:mt-04-25-crowds-followed", "type": "mentions", "to": "place:beyond-the-jordan"}
+{"from": "site:capernaum", "type": "attests", "to": "claim:mt-04-13-capernaum-home", "grade": "B", "note": "Excavations show Capernaum was a Hasmonean-period fishing village on the north-western shore of the lake, with basalt houses - the town the verse names, settled centuries before Jesus moved there."}
+{"from": "site:capernaum", "type": "attests", "to": "claim:mt-04-18-fishermen-called", "grade": "C", "note": "Fish hooks and weights for fish nets were found in the first-century town - the equipment of fishermen like Peter and Andrew."}
+{"from": "site:capernaum-peter-house", "type": "attests", "to": "claim:mt-04-13-capernaum-home", "grade": "B", "note": "A first-century dwelling under the octagonal church confirms domestic housing in Capernaum in the period."}
+{"from": "site:capernaum-synagogue", "type": "attests", "to": "claim:mt-04-23-teaching-synagogues", "grade": "D", "note": "The standing white synagogue is 4th-5th century; Loffreda suggests the basalt foundation beneath is the 1st-century synagogue, but others read the same floor as an open paved market area - the first-century date is disputed."}
+{"from": "site:migdal-synagogue", "type": "attests", "to": "claim:mt-04-23-teaching-synagogues", "grade": "B", "note": "A first-century synagogue at Magdala, discovered in a 2009 Israel Antiquities Authority salvage dig - one of only seven known synagogues from the Second Temple period - confirms Galilean synagogue worship in Jesus' lifetime."}
+{"from": "site:magdala", "type": "attests", "to": "claim:mt-04-18-fishermen-called", "grade": "C", "note": "Excavations at Magdala found a needle and lead weights for repairing and holding down fishing nets - the net fishing of the verse in a neighbouring shore town."}
+{"from": "site:magdala", "type": "complicates", "to": "claim:mt-04-18-fishermen-called", "note": "The identification of Magdala with Josephus's Tarichaea, whose Greek name derives from tarichos, 'fish preserved by salting or drying', remains disputed, so the fish-salting industry at this specific town cannot be secured from the fetched sources."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:mt-04-18-fishermen-called", "grade": "C", "note": "A fishing boat from the 1st century AD, recovered from the Sea of Galilee in 1986 - the kind of boat Peter, Andrew, James and John worked from; the source states no evidence connects it to Jesus or his disciples."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "place:sea-of-galilee", "grade": "C", "note": "An ancient fishing boat recovered from the lake itself confirms first-century navigation on the Sea of Galilee."}
+{"from": "artifact:magdala-fishing-gear", "type": "attests", "to": "claim:mt-04-18-fishermen-called", "grade": "C", "note": "A needle and lead weights for repairing and holding down fishing nets, excavated at Magdala - the nets and their repair of 4:18-21 as excavated equipment."}
+{"from": "site:monastery-of-temptation", "type": "attests", "to": "claim:mt-04-02-forty-days-fasting", "grade": "D", "note": "A 6th-century monastery built above the cave traditionally said to be where Jesus spent forty days fasting while tempted - it attests the commemorative tradition, not the event."}
+{"from": "artifact:place-of-trumpeting", "type": "attests", "to": "place:temple-mount", "grade": "A", "note": "A 1st-century inscribed stone reading 'to the place of trumpeting', found in situ in 1968 in the excavations of the Temple Mount's southern wall by Benjamin Mazar."}
+{"from": "artifact:place-of-trumpeting", "type": "attests", "to": "claim:mt-04-05-pinnacle-of-temple", "grade": "B", "note": "The stone confirms the Herodian Temple Mount's corner parapets and the priests who trumpeted from them; it does not name the 'pinnacle' of the temptation."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-04-12-john-arrested", "grade": "A", "note": "Josephus records that Herod (Antipas) slew John, called the Baptist, sending him a prisoner to Macherus, where he was put to death; Josephus ties the death to the war with Aretas (36 CE), later than Matthew's sequence."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:john-the-baptist", "grade": "A", "note": "Josephus names 'John, that was called the Baptist' and describes his teaching and baptism of crowds."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "The passage names 'Herod, who had slain him' - Herod the tetrarch - and his execution of John at Macherus; the identification of that Herod with Herod Antipas, tetrarch of Galilee and Perea, rests on context, which Wikipedia (John the Baptist) states explicitly. Downgraded A to B by reviewer 1 (2026-11-11): the text names the tetrarch, not Antipas by name."}
+{"from": "site:machaerus", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Upon Herod the Great's death the fortress passed to Herod Antipas, who ruled from 4 BC until 39 AD; John the Baptist was imprisoned and beheaded there during this time."}
+{"from": "site:machaerus", "type": "attests", "to": "claim:mt-04-12-john-arrested", "grade": "B", "note": "The excavated Herodian fortress east of the Dead Sea is the place where Josephus and the tradition locate John's imprisonment and beheading - the setting of 4:12's 'delivered up'. The site attests the event, not the person (retargeted from person:john-the-baptist by review 2 per the architect's site-to-person rule)."}
+{"from": "site:machaerus", "type": "attests", "to": "place:beyond-the-jordan", "grade": "C", "note": "A fortress Herod the Great rebuilt as a base to safeguard his territories east of the Jordan - the 'beyond the Jordan' region of 4:25 and of John's later imprisonment (cf. Matt 11)."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Coins struck under Antipas are attested; Wikipedia notes his coins carried no images (aniconic), so they confirm his minting rule without naming him."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-04-15-isaiah-9-quoted", "grade": "B", "note": "The Great Isaiah Scroll, ca. 125 BCE, preserves the entire Book of Isaiah in Hebrew, including chapter 9, centuries before Matthew quoted it."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-04-25"}
+{"from": "site:capernaum", "type": "documented_by", "to": "source:wikipedia-capernaum"}
+{"from": "site:capernaum", "type": "documented_by", "to": "source:wikipedia-capernaum-finds"}
+{"from": "site:capernaum-synagogue", "type": "documented_by", "to": "source:wikipedia-capernaum-synagogue"}
+{"from": "site:capernaum-peter-house", "type": "documented_by", "to": "source:wikipedia-capernaum-peter-house"}
+{"from": "site:capernaum-peter-house", "type": "documented_by", "to": "source:wikipedia-capernaum-peter-house-doubts"}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-tarichaea"}
+{"from": "site:migdal-synagogue", "type": "documented_by", "to": "source:wikipedia-migdal-synagogue"}
+{"from": "site:migdal-synagogue", "type": "documented_by", "to": "source:wikipedia-migdal-synagogue-seven"}
+{"from": "site:monastery-of-temptation", "type": "documented_by", "to": "source:wikipedia-monastery-temptation"}
+{"from": "site:monastery-of-temptation", "type": "documented_by", "to": "source:wikipedia-monastery-temptation-tradition"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus-john"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat-no-link"}
+{"from": "artifact:place-of-trumpeting", "type": "documented_by", "to": "source:wikipedia-trumpeting-place"}
+{"from": "artifact:magdala-fishing-gear", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herod-antipas-coins"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:isaiah-scroll-wiki"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-john"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-machaerus"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikipedia-john-baptist-josephus"}
+{"from": "person:john-the-baptist", "type": "documented_by", "to": "source:wikipedia-john-the-baptist"}
+{"from": "person:herod-antipas", "type": "documented_by", "to": "source:wikipedia-herod-antipas"}
+{"from": "place:judaean-desert", "type": "documented_by", "to": "source:wikipedia-judaean-desert-fortresses"}
+{"from": "place:decapolis", "type": "documented_by", "to": "source:wikipedia-decapolis"}
+{"from": "place:decapolis", "type": "documented_by", "to": "source:wikipedia-decapolis-union"}
+{"from": "place:sea-of-galilee", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-fishing"}
+{"from": "place:naphtali", "type": "documented_by", "to": "source:wikipedia-tribe-naphtali-territory"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-04-25"}

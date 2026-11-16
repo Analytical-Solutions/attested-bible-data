@@ -1,0 +1,207 @@
+{
+ "source:bible-api-deuteronomy-21-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+21:20?translation=web"
+ },
+ "source:bible-api-genesis-19-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+19:24?translation=web"
+ },
+ "source:bible-api-isaiah-35-5-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+35:5-6?translation=web"
+ },
+ "source:bible-api-isaiah-61-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+61:1?translation=web"
+ },
+ "source:bible-api-malachi-3-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/malachi+3:1?translation=web"
+ },
+ "source:bible-api-malachi-4-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/malachi+4:5?translation=web"
+ },
+ "source:perseus-pliny-5-asphaltites": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D15"
+ },
+ "source:perseus-pliny-5-julias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D15"
+ },
+ "source:perseus-pliny-5-sidon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D17"
+ },
+ "source:perseus-pliny-5-tyre": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D17"
+ },
+ "source:sefaria-avot-3-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Avot.3.5"
+ },
+ "source:sefaria-eduyot-8-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Eduyot.8.7"
+ },
+ "source:sefaria-ketubot-4-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Ketubot.4.5"
+ },
+ "source:wikipedia-4q521": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/4Q521"
+ },
+ "source:wikipedia-4q521-blind": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/4Q521"
+ },
+ "source:wikipedia-al-maghtas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Al-Maghtas"
+ },
+ "source:wikipedia-bethsaida": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-bethsaida-elaraj": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-bethsaida-elaraj-bathhouse": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-bethsaida-etell": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethsaida"
+ },
+ "source:wikipedia-capernaum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-chorazin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Chorazin"
+ },
+ "source:wikipedia-chorazin-millstones": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Chorazin"
+ },
+ "source:wikipedia-chorazin-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Chorazin"
+ },
+ "source:wikipedia-chorazin-synagogue-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Chorazin"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-washingtonianus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Washingtonianus"
+ },
+ "source:wikipedia-herod-antipas-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Antipas"
+ },
+ "source:wikipedia-herodian-coinage": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodian_coinage"
+ },
+ "source:wikipedia-herodium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodium"
+ },
+ "source:wikipedia-herodium-loggia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodium"
+ },
+ "source:wikipedia-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-machaerus-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-sea-of-galilee-boat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikipedia-sidon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sidon"
+ },
+ "source:wikipedia-sodom-identification": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sodom_and_Gomorrah"
+ },
+ "source:wikipedia-tyre": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyre,_Lebanon"
+ },
+ "source:wikisource-ant-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant18-bethsaida": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ }
+}

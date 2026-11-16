@@ -1,0 +1,22 @@
+{
+ "source:bible-api-deuteronomy-20-5-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+20:5-7?translation=web"
+ },
+ "source:wikipedia-herodium-banquet-halls": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodium"
+ },
+ "source:wikipedia-tower-of-david": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tower_of_David"
+ },
+ "source:wikisource-prognostics": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Prognostics"
+ }
+}

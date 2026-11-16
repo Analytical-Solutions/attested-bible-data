@@ -1,0 +1,56 @@
+anchor,label,category,status,findings,note
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,manuscript,found,artifact:great-isaiah-scroll,"The Great Isaiah Scroll (ca. 125 BCE) carries Isaiah 40:3, the second half of Mark's combined quotation - grade B under the Isaiah rule. Malachi 3:1, the first half, is a biblical cross-reference recorded as related_to."
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,jewish-literary,none-found,,"Malachi 3:1 and Isaiah 40:3 are the quoted texts themselves (biblical, related_to only, not evidence); no Jewish literary evidence about the combined citation was fetched; searched Wikipedia (Great Isaiah Scroll, John the Baptist) and bible-api texts."
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-02-mixed-quotation,Mark 1:2-3 combined quotation under Isaiah's name,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,documentary-papyrus,none-found,,"No Judean desert documentary papyrus mentioning sandals was fetched; searched Wikipedia (Cave of Letters, Judean Desert, Special:Search for Judean desert leather sandals)."
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,jewish-literary,none-found,,"No rabbinic text on loosening sandals was fetched; searched Wikipedia (Cave of Letters, Biblical clothing) - the Mishnah tractates on footwear were not entered without a fetched page."
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,greco-roman-literary,none-found,,No classical source on sandal-loosening as a servant's task was fetched; searched Wikipedia.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,material-culture,found,artifact:cave-of-letters-sandals,"A pair of woman's sandals from the Cave of Letters (1961 dig, c. 135 CE) - leather sandals were ordinary Judean footwear. Grade C: later than the 20s CE and attests the object, not the untying custom."
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-07-sandal-thong,John unworthy to loosen the sandal's thong,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",structure-or-site,found,site:monastery-of-temptation,"Grade D: the 6th-century Monastery of the Temptation above the cave attests the commemorative tradition of the wilderness temptation, not the event."
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",jewish-literary,none-found,,"No Jewish literary parallel to the wild-animals detail was fetched; searched Wikipedia (Judaean Desert, John the Baptist) and the Matthew 4 corpus."
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",greco-roman-literary,none-found,,No classical source on the temptation was fetched; searched this run's corpus.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",geography-or-nature,found,observation:judean-desert-wild-animals,Rock hyraxes and Nubian ibex live on the Judaean desert plateau and Arabian leopards were there until quite recently - grade C for the wild-animals setting; the observation says nothing about the temptation.
+claim:mk-01-13-forty-days-tempted,"Forty days tempted by Satan, with the wild animals",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,inscription,none-found,,"No inscription naming a Capernaum synagogue occasion or officer was fetched; searched Wikipedia (Capernaum, Capernaum synagogue)."
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,structure-or-site,found,site:capernaum-synagogue,"Grade D: the standing limestone synagogue is 4th-5th century; Loffreda suggests the basalt foundation beneath is the 1st-century synagogue, but others read that floor as a paved market area - the first-century date is disputed."
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,jewish-literary,found,text:josephus-war-1-pompey-sabbath,"Josephus, War 1.145-147: at Pompey's siege the Jews abstained from work on the seventh days - grade C for the Sabbath setting of the visit; it attests the institution, not the teaching."
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,greco-roman-literary,none-found,,"No classical source on Galilean synagogue teaching was fetched; searched this run's corpus (Capernaum, Capernaum synagogue)."
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-21-taught-capernaum-synagogue,Sabbath teaching in the Capernaum synagogue,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,structure-or-site,found,site:capernaum-synagogue,"Grade D (same dispute as the synagogue cell): the 1st-century date of the basalt foundation beneath the 4th-5th-century limestone synagogue is contested - it is the setting of the exorcism, not evidence for the event."
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,jewish-literary,found,text:josephus-ant-8-eleazar,"Josephus, Ant. 8.45-48: Eleazar 'releasing people that were demoniacal in the presence of Vespasian' - grade C; Jewish demon-expulsion was a living 1st-century practice. It attests the practice, not this exorcism."
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,greco-roman-literary,none-found,,"No classical source on Judean exorcism was fetched; searched this run's corpus (Capernaum, Beelzebub)."
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-01-23-synagogue-exorcism,Exorcism of an unclean spirit in the Capernaum synagogue,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

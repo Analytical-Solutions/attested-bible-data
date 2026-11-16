@@ -1,0 +1,33 @@
+{
+ "book": "acts",
+ "chapter": 22,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    21
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:1 \"Brothers and fathers, listen to the defense which I now make to you\" - the speech is from the stairs of 21:40 to the Jerusalem crowd; Tarsus, Damascus and the temple trance are memories, never settings"
+  },
+  {
+   "verses": [
+    22,
+    29
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:24 \"the commanding officer commanded him to be brought into the barracks, ordering him to be examined by scourging\" - the riot and the barracks name no place; they continue the Jerusalem arrest"
+  },
+  {
+   "verses": [
+    30,
+    30
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:30 \"he freed him from the bonds, and commanded the chief priests and all the council to come together, and brought Paul down and set him before them\" - the council is the Jerusalem Sanhedrin"
+  }
+ ]
+}

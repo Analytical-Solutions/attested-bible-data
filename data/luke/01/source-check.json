@@ -1,0 +1,77 @@
+{
+ "source:bible-api-1ch-24-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+chronicles+24:10?translation=web"
+ },
+ "source:bible-api-dan-8-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+8:16?translation=web"
+ },
+ "source:bible-api-lev-12-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+12:3?translation=web"
+ },
+ "source:bible-api-num-6-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/numbers+6:3?translation=web"
+ },
+ "source:sefaria-shabbat-19-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shabbat.19.5"
+ },
+ "source:sefaria-tamid-5-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Tamid.5.2"
+ },
+ "source:wikipedia-ein-kerem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ein_Kerem"
+ },
+ "source:wikipedia-omitted-verses": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_omitted_Bible_verses"
+ },
+ "source:wikipedia-papyrus-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_4"
+ },
+ "source:wikipedia-priestly-divisions-abijah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Priestly_divisions"
+ },
+ "source:wikipedia-priestly-divisions-caesarea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Priestly_divisions"
+ },
+ "source:wikipedia-qumran-calendrical": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Qumran_calendrical_texts"
+ },
+ "source:wikipedia-wax-tablet": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Wax_tablet"
+ },
+ "source:wikisource-enoch-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_20"
+ },
+ "source:wikisource-josephus-life": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Life_of_Flavius_Josephus"
+ }
+}

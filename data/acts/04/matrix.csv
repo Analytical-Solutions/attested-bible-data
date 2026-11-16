@@ -1,0 +1,188 @@
+anchor,label,category,status,findings,note
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",inscription,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",coin,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",structure-or-site,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",burial-or-ossuary,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",documentary-papyrus,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",jewish-literary,found,text:josephus-war-6-288-300,Josephus names the captain of the temple as the officer over the temple watch (grade B for the event's setting; the office's A edge moved to claim:ac-04-01-captain-of-the-temple by reviewer 10).
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",greco-roman-literary,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",material-culture,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",geography-or-nature,n/a,,
+claim:ac-04-01-arrest-captain-sadducees,"The priests, the captain of the temple and the Sadducees arrested Peter and John and held them in custody",astronomy-or-calendar,n/a,,
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,inscription,none-found,,No inscription naming a captain of the temple was found; searched the graph's inscription nodes and Wikipedia (Captain of the Temple).
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,coin,n/a,,No coin claim.
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,structure-or-site,none-found,,No structure evidence for the office itself; searched Wikipedia (Captain of the Temple).
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,documentary-papyrus,none-found,,No papyrus or document names the office; searched Wikipedia (Captain of the Temple).
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,jewish-literary,found,text:josephus-war-6-288-300,"A: the temple watchmen ran 'to the captain of the temple' (War 6.5.3, of the temple before 70 CE) - the office attested. Reviewer 10 moved this A edge from the arrest claim (bundled-claim split, per the Acts 17 politarchs model)."
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,greco-roman-literary,none-found,,No classical author names the office; searched Wikipedia (Captain of the Temple).
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,material-culture,n/a,,No object claimed.
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-04-01-captain-of-the-temple,The captain of the temple was the officer over the temple watch,astronomy-or-calendar,n/a,,No date.
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,inscription,none-found,,No inscription states Sadducean doctrine; searched Wikipedia (Sadducees).
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,coin,n/a,,No coin claim.
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,jewish-literary,found,text:josephus-ant-18-sects,"A: Josephus, Ant. 18.1.4, 'the doctrine of the Sadducees is this: That souls die with the bodies' - the denial of resurrection attested. Reviewer 10 moved this A edge from the upset claim (bundled-claim split, per the Acts 17 politarchs model)."
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,greco-roman-literary,none-found,,No classical passage states the doctrine; searched Wikipedia (Sadducees).
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,material-culture,n/a,,No object claimed.
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-04-02-sadducees-deny-resurrection,The Sadducees deny the resurrection,astronomy-or-calendar,n/a,,No date.
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,inscription,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,coin,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,structure-or-site,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,burial-or-ossuary,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,documentary-papyrus,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,jewish-literary,found,text:josephus-ant-18-sects,"Josephus, Ant. 18.16: the Sadducees' doctrine that 'souls die with the bodies' (grade B for the event's setting; the doctrine's A edge moved to claim:ac-04-02-sadducees-deny-resurrection by reviewer 10)."
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,greco-roman-literary,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,material-culture,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,geography-or-nature,n/a,,
+claim:ac-04-02-sadducees-upset-resurrection,The Sadducees were upset because Peter and John proclaimed in Jesus the resurrection of the dead,astronomy-or-calendar,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,inscription,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,coin,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,structure-or-site,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,burial-or-ossuary,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,documentary-papyrus,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,jewish-literary,none-found,,Searched Josephus and rabbinic literature via Wikipedia and Sefaria for any count of believers or messianic-movement size in Jerusalem; nothing external attests this number.
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,greco-roman-literary,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,material-culture,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,geography-or-nature,n/a,,
+claim:ac-04-04-five-thousand-men,The number of the men who believed came to be about five thousand,astronomy-or-calendar,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",inscription,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",coin,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",structure-or-site,none-found,,"Searched Wikipedia (Sanhedrin, Chamber of Hewn Stone) for an excavated council chamber in the temple; the traditional 'Chamber of Hewn Stone' has not been identified in excavations."
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",burial-or-ossuary,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",documentary-papyrus,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",jewish-literary,found,text:josephus-ant-20-199-sanhedrin,Josephus: Ananus 'assembled the sanhedrim of judges' in Jerusalem (grade B for the institution and setting; linked to the claim).
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",greco-roman-literary,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",material-culture,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",geography-or-nature,n/a,,
+claim:ac-04-05-rulers-elders-scribes-gathered,"The rulers, elders and scribes were gathered together in Jerusalem the next morning",astronomy-or-calendar,n/a,,
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",inscription,found,artifact:caiaphas-ossuary,"The ossuary is twice inscribed 'Joseph, son of Caiaphas' (grade A for Caiaphas among those named)."
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",coin,n/a,,
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",structure-or-site,n/a,,
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",burial-or-ossuary,found,artifact:caiaphas-ossuary,"The excavated Caiaphas ossuary, Israel Museum (grade A for the person)."
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",documentary-papyrus,n/a,,
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",jewish-literary,found,text:josephus-ant-18-annas-gratus;text:josephus-ant-18-95,Josephus names Ananus son of Seth and Joseph Caiaphas in the high-priestly succession (grade A) and Jonathan son of Ananus (grade D for the disputed 'John' identification).
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",greco-roman-literary,none-found,,"Searched Tacitus, Suetonius and other classical authors via Wikipedia for notices of Annas, Caiaphas, John or Alexander as priestly figures; nothing found."
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",material-culture,n/a,,
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",geography-or-nature,n/a,,
+claim:ac-04-06-annas-caiaphas-john-alexander,"Annas the high priest, Caiaphas, John, Alexander and the high priest's relatives were gathered",astronomy-or-calendar,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,inscription,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,coin,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,structure-or-site,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,burial-or-ossuary,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,documentary-papyrus,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,jewish-literary,none-found,,"Searched Josephus and rabbinic procedure texts (Mishnah Sanhedrin) via Sefaria and Wikipedia for examination-before-the-council procedure matching this inquiry; no fetched passage names a healing inquiry, and the Sanhedrin procedure texts concern capital charges, so none was linked."
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,greco-roman-literary,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,material-culture,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,geography-or-nature,n/a,,
+claim:ac-04-07-09-inquiry-by-what-power,The council stood Peter and John in the middle and inquired by what power or name they had acted,astronomy-or-calendar,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,inscription,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,coin,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,structure-or-site,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,burial-or-ossuary,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,manuscript,none-found,,"Searched the Dead Sea Scrolls via Wikipedia for a Psalms manuscript whose published contents include Psalm 118:22 (as the Great Isaiah Scroll does for Isaiah); 11Q5 begins at Psalm 101 and no fetched page lists that verse, so none entered."
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,documentary-papyrus,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,jewish-literary,n/a,,"The quotation is a biblical cross-reference (text:psalm-118-22, linked related_to)."
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,greco-roman-literary,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,material-culture,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,geography-or-nature,n/a,,
+claim:ac-04-11-stone-quotation,Peter quoted the stone the builders rejected to the council,astronomy-or-calendar,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,inscription,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,coin,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,structure-or-site,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,burial-or-ossuary,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,documentary-papyrus,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,jewish-literary,none-found,,Searched Josephus and rabbinic literature for any notice of Peter's and John's education; nothing external attests how the council perceived them.
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,greco-roman-literary,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,material-culture,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,geography-or-nature,n/a,,
+claim:ac-04-13-unlearned-men,The council perceived Peter and John as unlearned and ignorant men and recognized they had been with Jesus,astronomy-or-calendar,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,inscription,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,coin,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,structure-or-site,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,burial-or-ossuary,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,documentary-papyrus,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,jewish-literary,none-found,,Searched Josephus for any report of a council ban on preaching in Jesus' name; nothing found.
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,greco-roman-literary,none-found,,Searched classical authors via Wikipedia for any notice of the council's warning to the apostles; nothing found.
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,material-culture,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,geography-or-nature,n/a,,
+claim:ac-04-18-21-commanded-not-to-speak,The council commanded Peter and John not to speak or teach in the name of Jesus and let them go,astronomy-or-calendar,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,inscription,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,coin,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,structure-or-site,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,burial-or-ossuary,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,documentary-papyrus,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,jewish-literary,none-found,,The healed man is not named in any external source; searched Josephus and rabbinic literature via Sefaria and Wikipedia for any notice of him or his age.
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,greco-roman-literary,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,material-culture,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,geography-or-nature,n/a,,
+claim:ac-04-22-over-forty,The man who was healed was more than forty years old,astronomy-or-calendar,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,inscription,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,coin,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,structure-or-site,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,burial-or-ossuary,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,manuscript,none-found,,"Searched the Dead Sea Scrolls via Wikipedia for a Psalms manuscript whose published contents include Psalm 2:1-2; no fetched page lists those verses, so none entered."
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,documentary-papyrus,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,jewish-literary,n/a,,"The quotation is a biblical cross-reference (text:psalm-2-1-2, linked related_to)."
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,greco-roman-literary,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,material-culture,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,geography-or-nature,n/a,,
+claim:ac-04-25-26-psalm-2-quotation,The believers' prayer quoted Psalm 2 against the nations and rulers,astronomy-or-calendar,n/a,,
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",inscription,found,artifact:pilate-stone,The Pilate stone names Pontius Pilate prefect of Judea - one of the two named Passion officials (grade B for this retrospective claim).
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",coin,found,artifact:pilate-prutahs,Pilate's dated prutahs (29/30-31/32 CE) fix his governorship inside which the Passion the prayer recalls is placed.
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",structure-or-site,n/a,,
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",burial-or-ossuary,n/a,,
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",documentary-papyrus,n/a,,
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",jewish-literary,found,text:josephus-ant-18-116-119,Josephus (Testimonium): Pilate condemned Jesus to the cross at the accusation of the leading men; Herod Antipas is separately attested as tetrarch in the same book (grade B for the Pilate part of the list).
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",greco-roman-literary,found,text:tacitus-annals-15-44,Tacitus: Christus suffered the extreme penalty at the hands of Pontius Pilatus in the reign of Tiberius (grade B for this claim).
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",material-culture,n/a,,
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",geography-or-nature,n/a,,
+claim:ac-04-27-herod-pilate-gathered,"Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered against Jesus in this city",astronomy-or-calendar,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,inscription,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,coin,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,structure-or-site,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,burial-or-ossuary,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,documentary-papyrus,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,jewish-literary,found,text:josephus-war-2-122-123,"Josephus on the Essenes: possessions 'common to the whole order', 'one patrimony among all the brethren' (grade C: the same custom known in the same period and region; a parallel, not evidence about the Jerusalem believers)."
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,greco-roman-literary,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,material-culture,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,geography-or-nature,n/a,,
+claim:ac-04-32-35-all-things-in-common,The believers were of one heart and soul and held all things in common,astronomy-or-calendar,n/a,,
+person:barnabas,Barnabas (Joses),inscription,none-found,,No inscription names Barnabas; searched Wikipedia.
+person:barnabas,Barnabas (Joses),coin,n/a,,
+person:barnabas,Barnabas (Joses),structure-or-site,none-found,,"Only later reception sites (St Barnabas monastery, Salamis) exist; searched Wikipedia."
+person:barnabas,Barnabas (Joses),burial-or-ossuary,none-found,,No first-century burial attests Barnabas; searched Wikipedia.
+person:barnabas,Barnabas (Joses),manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+person:barnabas,Barnabas (Joses),documentary-papyrus,n/a,,
+person:barnabas,Barnabas (Joses),jewish-literary,none-found,,Josephus never mentions Barnabas; searched via Wikipedia.
+person:barnabas,Barnabas (Joses),greco-roman-literary,none-found,,No classical author mentions Barnabas; searched via Wikipedia.
+person:barnabas,Barnabas (Joses),material-culture,n/a,,
+person:barnabas,Barnabas (Joses),geography-or-nature,n/a,,
+person:barnabas,Barnabas (Joses),astronomy-or-calendar,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),inscription,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),coin,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),structure-or-site,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),burial-or-ossuary,none-found,,"No ossuary or burial of Jonathan son of Ananus is known; searched Wikipedia (Jonathan (High Priest), Caiaphas ossuary cave)."
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),manuscript,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),documentary-papyrus,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),jewish-literary,found,text:josephus-ant-18-95,"Josephus, Ant. 18.95: Vitellius 'appointed Jonathan the son of Ananus, the former high priest' - the man himself, named by an independent source (grade A for the person; grade D only for the disputed identification with Acts' 'John')."
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),greco-roman-literary,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),material-culture,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),geography-or-nature,n/a,,
+person:jonathan-son-of-annas,Jonathan son of Ananus (Annas),astronomy-or-calendar,n/a,,

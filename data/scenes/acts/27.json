@@ -1,0 +1,69 @@
+{
+ "book": "acts",
+ "chapter": 27,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    2
+   ],
+   "setting": "place:caesarea",
+   "confidence": "inferred",
+   "basis": "27:1 \"When it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius\"; 27:2 \"Embarking in a ship of Adramyttium, which was about to sail to places on the coast of Asia, we put to sea\" - the embarkation port is not named; Paul sails from the custody of Caesarea (23:33-35; 25:13)"
+  },
+  {
+   "verses": [
+    3,
+    3
+   ],
+   "setting": "place:sidon",
+   "confidence": "stated",
+   "basis": "27:3 \"The next day, we touched at Sidon. Julius treated Paul kindly, and gave him permission to go to his friends and refresh himself\""
+  },
+  {
+   "verses": [
+    4,
+    6
+   ],
+   "setting": "place:myra",
+   "confidence": "stated",
+   "basis": "27:5 \"we came to Myra, a city of Lycia\"; 27:6 \"There the centurion found a ship of Alexandria sailing for Italy\" - the lee of Cyprus and the sea off Cilicia and Pamphylia (27:4-5) are the route, not stops"
+  },
+  {
+   "verses": [
+    7,
+    13
+   ],
+   "setting": "place:fair-havens",
+   "confidence": "stated",
+   "basis": "27:8 \"With difficulty sailing along it we came to a certain place called Fair Havens, near the city of Lasea\"; 27:12 \"Because the haven was not suitable to winter in\" - the deliberation happens at the haven; 27:13 weighing anchor is the departure leg"
+  },
+  {
+   "verses": [
+    14,
+    17
+   ],
+   "setting": "place:cauda",
+   "confidence": "stated",
+   "basis": "27:16 \"Running under the lee of a small island called Clauda, we were able, with difficulty, to secure the boat\" - the storm drives the ship from Crete to Cauda"
+  },
+  {
+   "verses": [
+    18,
+    38
+   ],
+   "setting": "place:sea-of-adria",
+   "confidence": "stated",
+   "basis": "27:27 \"as we were driven back and forth in the Adriatic Sea\" - the storm drifting between Cauda and the fourteenth night, the soundings and the anchors are on the open sea; the Syrtis fear (27:17) is a fear, not a position"
+  },
+  {
+   "verses": [
+    39,
+    44
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "27:39 \"they didn’t recognize the land, but they noticed a certain bay with a beach, and they decided to try to drive the ship onto it\" - the wreck site is an unnamed bay; the island is named Malta only after the landing (28:1)"
+  }
+ ]
+}

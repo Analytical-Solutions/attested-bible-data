@@ -1,0 +1,82 @@
+{
+ "source:archive-ryle-james-psolomon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia800803.us.archive.org/35/items/psalmoisolomnto00jamegoog/psalmoisolomnto00jamegoog_djvu.txt"
+ },
+ "source:schechter-damascus-creation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:schechter-damascus-divorce-note": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:sefaria-gittin-9-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Gittin.9.10"
+ },
+ "source:sefaria-gittin-9-10-shammai": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Gittin.9.10"
+ },
+ "source:wikipedia-crucifixion-heel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion"
+ },
+ "source:wikipedia-elephantine-papyri": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Elephantine_papyri_and_ostraca"
+ },
+ "source:wikipedia-jericho": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jericho-elevation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jericho-herod": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jericho-netzer": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jerusalem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jerusalem"
+ },
+ "source:wikipedia-messiah-in-judaism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Messiah_in_Judaism"
+ },
+ "source:wikipedia-women-in-judaism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Women_in_Judaism"
+ },
+ "source:wikisource-ant15-salome": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ },
+ "source:wikisource-ant15-salome-law": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ }
+}

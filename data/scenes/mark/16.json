@@ -1,0 +1,51 @@
+{
+  "book": "mark",
+  "chapter": 16,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        8
+      ],
+      "setting": null,
+      "basis": "16:1-8 the tomb scene - \"the tomb\" (15:46) has no id of its own and is not placed by name",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        9,
+        11
+      ],
+      "setting": null,
+      "basis": "16:9-11 the appearance to Mary Magdalene - no place named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        12,
+        13
+      ],
+      "setting": null,
+      "basis": "16:12-13 \"to two of them, as they walked, on their way into the country\" - the road is not named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        14,
+        18
+      ],
+      "setting": null,
+      "basis": "16:14-18 \"he was revealed to the eleven themselves as they sat at the table\" - no place named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        19,
+        20
+      ],
+      "setting": null,
+      "basis": "16:19-20 \"he was received up into heaven\" - no earthly place named",
+      "confidence": "stated"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+anchor,label,category,status,findings,note
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,structure-or-site,found,site:mount-of-beatitudes,"Grade D on the event: the hill is 'the traditional site of Jesus' Sermon on the Mount' (venerated since a 4th-century Byzantine church); identification is disputed (Mount Arbel, Horns of Hattin)."
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,jewish-literary,none-found,,"No Jewish source records the Sermon or the mountain teaching; searched Wikipedia (Mount of Beatitudes, Salt and light)."
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,greco-roman-literary,none-found,,No classical author mentions the Sermon on the Mount; searched Wikipedia (Mount of Beatitudes).
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,geography-or-nature,found,site:mount-of-beatitudes,"Grade B geography only: 'a hill in northern Israel, in the Korazim Plateau' on the northwestern shore of the Sea of Galilee, between Capernaum and Tel Kinrot - plausible open-air teaching terrain."
+claim:mt-05-01-taught-on-mountain,Jesus taught the disciples on a mountain,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-13-salt,Household salt that could lose its flavor,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-13-salt,Household salt that could lose its flavor,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-13-salt,Household salt that could lose its flavor,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-13-salt,Household salt that could lose its flavor,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-13-salt,Household salt that could lose its flavor,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-13-salt,Household salt that could lose its flavor,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-13-salt,Household salt that could lose its flavor,jewish-literary,none-found,,"No Second Temple or rabbinic text on savorless salt was fetched; searched Wikipedia (Salt in the Bible, Matthew 5:13)."
+claim:mt-05-13-salt,Household salt that could lose its flavor,greco-roman-literary,none-found,,No classical passage on Judaea's salt trade was fetched; searched Wikipedia (Salt in the Bible).
+claim:mt-05-13-salt,Household salt that could lose its flavor,material-culture,found,site:mount-sodom,"Grade C: the Dead Sea ridge 'is about 80% salt'; its salt was harvested 'for seasoning and as a preservative' (Wikipedia, Salt in the Bible)."
+claim:mt-05-13-salt,Household salt that could lose its flavor,geography-or-nature,found,site:mount-sodom,"Grade C: 'the main source of salt in the region was the area of the Dead Sea, especially the massive salt cliffs of Jebel Usdum' (Wikipedia, Salt in the Bible)."
+claim:mt-05-13-salt,Household salt that could lose its flavor,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-14-city-on-hill,Cities set on hills,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-14-city-on-hill,Cities set on hills,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-14-city-on-hill,Cities set on hills,structure-or-site,found,site:sepphoris,"Grade C: the excavated Galilean city stands on a hill ('a fort and watchtower atop the hill overlooking the town'); Jerusalem too sits on a plateau in the Judaean Mountains (seen, not nodefetched)."
+claim:mt-05-14-city-on-hill,Cities set on hills,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-14-city-on-hill,Cities set on hills,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-14-city-on-hill,Cities set on hills,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-14-city-on-hill,Cities set on hills,jewish-literary,none-found,,"Josephus describes Sepphoris but that passage was not fetched; searched Wikipedia (Sepphoris, Jerusalem)."
+claim:mt-05-14-city-on-hill,Cities set on hills,greco-roman-literary,none-found,,No classical description of Galilean hill towns was fetched; searched Wikipedia (Sepphoris).
+claim:mt-05-14-city-on-hill,Cities set on hills,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-14-city-on-hill,Cities set on hills,geography-or-nature,found,site:sepphoris,Grade C: the hill setting of an excavated first-century Galilean city matches the saying's image of a visible hilltop town.
+claim:mt-05-14-city-on-hill,Cities set on hills,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,jewish-literary,none-found,,No Jewish text on household lighting was fetched; searched Wikipedia (Oil lamp).
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,greco-roman-literary,none-found,,No classical description of Judean household lighting was fetched; searched Wikipedia (Oil lamp).
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,material-culture,found,artifact:herodian-oil-lamp,"Grade C: the Herodian oil lamp - wheel-made, undecorated, 'very common throughout all of Judea' from the 1st century BC to the end of the 1st century AD - is the household lamp of the saying."
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-15-lamp-and-stand,Oil lamps set on lamp stands,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,manuscript,found,artifact:great-isaiah-scroll,"Grade C: Hebrew scripture circulated as a complete written text (c. 125 BCE) whose transmission guarded every letter; the scroll carries Isaiah, not the Torah."
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,jewish-literary,found,text:josephus-against-apion-1,"Grade C: Josephus - over the ages 'no one has been so bold as either to add any thing to them, to take any thing from them, or to make any change in them'."
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,greco-roman-literary,none-found,,"No classical author on Hebrew scribal exactness was fetched; searched Wikipedia (Tittle, Yodh)."
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-18-law-transmitted-exactly,The written law and its smallest letters,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,inscription,none-found,,No inscription naming the Pharisees or scribes was fetched; searched Wikipedia (Sanhedrin) and the chapter's corpus.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,jewish-literary,found,text:josephus-ant-18-sects,Grade C: Josephus names the Pharisees as one of the three sects 'peculiar' to the Jews; his fuller account of their teaching authority was not fetched this run.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,greco-roman-literary,none-found,,"No classical author on the Pharisees' teaching role was fetched; searched Wikipedia (Pharisees via Sanhedrin, John the Baptist chapters)."
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-19-20-scribes-pharisees,Scribes and Pharisees as religious teachers,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,inscription,none-found,,"No Second Temple inscription naming the Sanhedrin was fetched; searched Wikipedia (Sanhedrin, Temple Warning inscription)."
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,structure-or-site,found,site:second-temple,"Grade B/C: per Wikipedia (Sanhedrin), in the Second Temple period the Great Sanhedrin met in the Temple in Jerusalem, in the Hall of Hewn Stones."
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,jewish-literary,found,text:josephus-antiquities-20,Grade A (recalibrated by reviewer 1): c. 62 CE Ananus 'assembled the sanhedrim of judges' in Jerusalem and put James and others on trial before it.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,greco-roman-literary,none-found,,No classical author describing the Sanhedrin was fetched; searched Wikipedia (Sanhedrin).
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-21-22-council-judgment,The council (Sanhedrin) as a court,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",inscription,none-found,,No inscription naming Gehenna or the valley was fetched; searched Wikipedia (Gehenna).
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",coin,none-found,,No coin naming the valley was fetched; searched Wikipedia (Gehenna).
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",structure-or-site,found,site:akeldama-tombs,Grade B: 'rock-cut Second Temple period burial caves known as the Akeldama tombs on the southern slope' of the Valley of Hinnom.
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",burial-or-ossuary,found,site:akeldama-tombs,Grade B: Second Temple period burial caves line the valley; the fire-judgment association itself rests on the Targum tradition (grade C).
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",manuscript,none-found,,No Dead Sea scroll on Gehenna was fetched; searched Wikipedia (Gehenna).
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",jewish-literary,found,text:targum-jonathan-isaiah-66-24,Grade C: 'the evildoers shall be judged in Gehenna' (Targum Jonathan to Isaiah 66:24); the Targum's final form postdates the Second Temple period.
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",greco-roman-literary,none-found,,No classical author on the valley's fiery reputation was fetched; searched Wikipedia (Gehenna).
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",geography-or-nature,found,site:akeldama-tombs,"Grade B: the tombs sit 'on the southern slope of the west-east section' of the valley south-west of the Old City - the valley is real, mappable geography."
+claim:mt-05-22-gehenna-fire,"Gehenna, the valley of fire",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,inscription,found,artifact:temple-warning-inscription,Grade C: the balustrade inscription (c. 23 BCE - 70 CE) attests the regulated Temple precinct worshippers crossed to bring offerings; it does not name the gifts.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,structure-or-site,found,site:second-temple,"Grade B: 'the chief place of worship, ritual sacrifice (korban), and communal gathering... regularly attracted pilgrims for the Three Pilgrimage Festivals'."
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,jewish-literary,none-found,,"Josephus's sacrificial-law passages fetched (Ant. 3-4) describe wilderness-era laws, not Second Temple worship; searched Wikisource (Antiquities III-IV), Wikipedia (Korban, Second Temple)."
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,greco-roman-literary,none-found,,"No classical author on Temple offerings was fetched; searched Wikipedia (Second Temple, Korban)."
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-23-24-altar-gift,Gifts offered at the Temple altar,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,documentary-papyrus,found,artifact:babatha-archive,"Grade C: the archive documents debts and legal contracts among Judean Jews (96-134 CE); it shows debt handled by contract and courts, and does not itself evidence imprisonment for debt."
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,jewish-literary,none-found,,"Josephus (Ant. 20) mentions prisons emptied of robbers, not debtors; no source on imprisonment for debt was fetched; searched Wikisource (Ant. XX), Wikipedia (Debtors' prison)."
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,greco-roman-literary,none-found,,"Roman nexum was checked (Wikipedia): early-Republican debt bondage, a different period and practice; no classical passage on Judean debt prison was fetched."
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-25-26-imprisoned-for-debt,Imprisonment of debtors until payment,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",coin,found,artifact:quadrans-coin,"Grade C: 'a low-value Roman bronze coin worth one quarter of an as', issued from the Republic and produced sporadically until Antoninus Pius (AD 138-161)."
+claim:mt-05-26-quadrans,"The quadrans, the last penny",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",jewish-literary,none-found,,No Jewish text mentioning the kodrantes was fetched; searched Wikipedia (Quadrans).
+claim:mt-05-26-quadrans,"The quadrans, the last penny",greco-roman-literary,none-found,,No classical numismatic text was fetched; searched Wikipedia (Quadrans).
+claim:mt-05-26-quadrans,"The quadrans, the last penny",material-culture,found,artifact:quadrans-coin,Grade C: the smallest bronze denomination of daily low-value transactions; its Greek name kodrantes is Matthew's word.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-26-quadrans,"The quadrans, the last penny",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,documentary-papyrus,found,artifact:babatha-archive,"Grade C: Jewish legal contracts concerning marriage (ketubot), property and guardianship (96-134 CE) show the documentary practice; the archive contains no get itself."
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,jewish-literary,found,text:erusin-betrothal-law,"Grade C: rabbinic law requires 'a divorce document must be written... in the presence of two witnesses'; codified after 200 CE, describing the practice the verse assumes."
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,greco-roman-literary,none-found,,No classical author on Jewish divorce documents was fetched; searched Wikipedia (Get (divorce document)).
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-31-32-certificate-of-divorce,The written certificate of divorce,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",jewish-literary,found,text:mishnah-nedarim-1-3,"Mishnah Nedarim 1:3 (added by reviewer 4, from ch 23): vows by the altar, the Sanctuary or Jerusalem are binding - the oath practice 5:34-35 addresses; redacted c. 200 CE."
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",greco-roman-literary,none-found,,"No classical passage on Jewish oath formulas was fetched; searched Wikipedia (Oath, Matthew 5:34)."
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-34-35-oaths,"Oaths by heaven, earth and Jerusalem",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,jewish-literary,found,text:josephus-ant-4-injuries,"Grade C: Josephus renders the law 'he that maimeth any one, let him undergo the like himself'; his continuation (money accepted instead) is recorded as a complicates edge."
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,greco-roman-literary,none-found,,"No classical author on the lex talionis in Judea was fetched; searched Wikisource (Antiquities IV), Wikipedia (Nexum as a comparison)."
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-38-eye-for-eye,An eye for an eye in the law,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,burial-or-ossuary,found,artifact:judean-desert-textiles,"Grade C: the textiles wrapped skeletons in the refuge cave, dated around 135 CE."
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,jewish-literary,none-found,,"No rabbinic passage on the tunic-and-cloak ensemble was fetched; searched Wikipedia (Biblical clothing, Cave of Letters)."
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,greco-roman-literary,none-found,,No classical author on Judean dress was fetched; searched Wikipedia (Biblical clothing).
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,material-culture,found,artifact:judean-desert-textiles,"Grade C: 'the remains of a child dressed in a tunic' and 'a complete set of clothes', dated c. 135 CE (Cave of Letters) - ordinary dress a generation after the Sermon."
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-40-tunic-and-cloak,Tunic and cloak as ordinary dress,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),inscription,none-found,,Roman milestones from Judea were not fetched; searched Wikipedia (Angaria (Roman law)).
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),jewish-literary,none-found,,No Josephus passage on requisitioned civilians was fetched; searched Wikipedia (Angaria (Roman law)).
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),greco-roman-literary,found,text:roman-angaria,"Grade C: the fetched article cites Xenophon (Cyropaedia 8.6) for the staged requisition couriers and states Rome adopted the angaria system from the Persians, with horse supply and maintenance 'a compulsory duty from which the emperor alone could grant exemption'; Xenophon was not fetched directly."
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),geography-or-nature,none-found,,Roman roads and milestone distances in Galilee were not fetched; searched Wikipedia (Angaria (Roman law)).
+claim:mt-05-41-angaria-mile,Compelled carriage of burdens (angaria),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),inscription,none-found,,"No first-century inscription naming Jesus was encountered; searched the chapter's Wikipedia corpus (Jesus-related pages via Mount of Beatitudes, Josephus)."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),coin,none-found,,No coin naming Jesus exists or was searched beyond the chapter corpus; no coin evidence was fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),structure-or-site,none-found,,"No site attests the person: the Mount of Beatitudes is only the traditional (disputed) site of the Sermon, so its attests edge to the person was removed by reviewer 1 (2026-11-11); the tradition is recorded on the claim mt-05-01 instead."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),burial-or-ossuary,none-found,,Burial traditions belong to Matt 27-28; nothing was fetched for Jesus's burial this run (searched none).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),jewish-literary,found,text:josephus-antiquities-20,"Grade A (edge recorded in data/matthew/01, recalibrated by reviewer 1): Josephus names 'the brother of Jesus, who was called Christ, whose name was James'."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),greco-roman-literary,none-found,,Tacitus and Suetonius on Christ/Chrestus were not fetched this run; searched none beyond Wikipedia corpus.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),material-culture,none-found,,No object tied to Jesus was fetched; searched Wikipedia (Mount of Beatitudes).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),geography-or-nature,none-found,,The Galilean hill landscape is attested only through the traditional site; no independent geography source was fetched for the person anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,inscription,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,coin,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,structure-or-site,found,site:sepphoris;site:mount-of-beatitudes,"Grade B/C: Sepphoris, the excavated hilltop city of first-century Galilee, and the Mount of Beatitudes hill between Capernaum and Tel Kinrot."
+place:galilee,Galilee,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,jewish-literary,none-found,,"Josephus on Galilee was not fetched this run; searched Wikipedia (Sepphoris, Mount of Beatitudes)."
+place:galilee,Galilee,greco-roman-literary,none-found,,No classical author on Galilee was fetched; searched Wikipedia (Sepphoris).
+place:galilee,Galilee,material-culture,none-found,,"Herodian lamps are sourced to Judea and Jordan in the fetched source, not Galilee; no Galilean object was fetched."
+place:galilee,Galilee,geography-or-nature,found,site:mount-of-beatitudes,"Grade B: 'a hill in northern Israel, in the Korazim Plateau' on the northwestern shore of the Sea of Galilee - the hill country of the Sermon's setting."
+place:galilee,Galilee,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,inscription,none-found,,The Temple Warning inscription was fetched but does not name the city; no inscription naming Jerusalem was fetched; searched Wikipedia (Jerusalem).
+place:jerusalem,Jerusalem,coin,none-found,,"No coin naming Jerusalem was fetched; searched Wikipedia (Gehenna, Jerusalem)."
+place:jerusalem,Jerusalem,structure-or-site,found,site:second-temple,Grade B: the Second Temple stood in Jerusalem and was the chief place of worship and pilgrimage; the Akeldama tombs line its Hinnom valley.
+place:jerusalem,Jerusalem,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,jewish-literary,found,text:josephus-antiquities-20,Grade B: Josephus's account of Ananus assembling the sanhedrim is set in Jerusalem (c. 62 CE).
+place:jerusalem,Jerusalem,greco-roman-literary,none-found,,"No classical author on Jerusalem was fetched this run; searched Wikipedia (Jerusalem, Sanhedrin)."
+place:jerusalem,Jerusalem,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,geography-or-nature,none-found,,"Jerusalem's hill setting was seen (Wikipedia: 'on a plateau in the Judaean Mountains', c. 760 m) but no evidence node was created for it; searched Wikipedia (Jerusalem)."
+place:jerusalem,Jerusalem,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),inscription,none-found,,No inscription naming the valley or Gehenna was fetched; searched Wikipedia (Gehenna).
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),coin,none-found,,No coin naming the valley was fetched; searched Wikipedia (Gehenna).
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),structure-or-site,found,site:akeldama-tombs,Grade B: Second Temple period rock-cut burial caves on the valley's southern slope.
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),burial-or-ossuary,found,site:akeldama-tombs,Grade B: the Akeldama tombs are burial caves in the valley itself.
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),manuscript,none-found,,No manuscript connected to the valley's fire tradition was fetched; searched Wikipedia (Gehenna).
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),jewish-literary,found,text:targum-jonathan-isaiah-66-24,Grade C: the Targum's 'the evildoers shall be judged in Gehenna' carries the judgment tradition attached to the valley.
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),greco-roman-literary,none-found,,No classical author on the valley was fetched; searched Wikipedia (Gehenna).
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),geography-or-nature,found,site:akeldama-tombs,Grade B: the valley section ('the southern slope of the west-east section') is fixed geography south-west of the Old City.
+place:valley-of-hinnom,Valley of Hinnom (Gehenna),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

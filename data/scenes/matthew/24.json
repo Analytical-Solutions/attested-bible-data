@@ -1,0 +1,24 @@
+{
+  "book": "matthew",
+  "chapter": 24,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        2
+      ],
+      "setting": "site:second-temple",
+      "basis": "24:1 \"Jesus went out from the temple... His disciples came to him to show him the buildings of the temple\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        3,
+        51
+      ],
+      "setting": "place:mount-of-olives",
+      "basis": "24:3 \"As he sat on the Mount of Olives, the disciples came to him privately\"",
+      "confidence": "stated"
+    }
+  ]
+}

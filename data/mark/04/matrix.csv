@@ -1,0 +1,56 @@
+anchor,label,category,status,findings,note
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,manuscript,found,artifact:great-isaiah-scroll,"Grade B: the Great Isaiah Scroll (ca. 125 BCE) preserves Isaiah 6:9-10, the quoted text; it attests the wording behind the citation, not that Jesus applied it (reused from ch 13)."
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,jewish-literary,none-found,,"No ancient Jewish exposition of Isaiah 6:9-10 as wilful deafness was fetched; searched Wikipedia Language of Jesus, textual-variants article, and the reused ch 13 corpus (Targum nodes cover Isaiah 66 only)."
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,greco-roman-literary,none-found,,No classical text on the passage fetched.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-11-12-mystery-isaiah-6,Parables hide the mystery; Isaiah 6 quoted,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",structure-or-site,none-found,,"No excavated site attests the sowing-and-growth sequence; searched Wikipedia Sickle, Feekes/BBCH scale, terra rossa in this run."
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",jewish-literary,none-found,,No rabbinic text on the growth stages was fetched this run; searched the reused Sefaria corpus (agricultural tractates on other subjects) and Wikipedia.
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",greco-roman-literary,none-found,,"Pliny, Natural History 18, on grain growth and harvest was not fetched this run (the graph's reused NH 18 node covers yields and Babylonian practice is Herodotus); searched Wikipedia Sickle."
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",material-culture,none-found,,"The fetched Sickle article's Levantine finds are Epipaleolithic/Neolithic sickle blades near Mt. Carmel (~10,000 years old) - too early to show first-century harvest practice, so not entered."
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",geography-or-nature,found,observation:cereal-growth-stages-bbch,"Grade C: modern agronomy stages cereals from leaf development through heading (ear emergence) to ripe grain - 'first the blade, then the ear, then the full grain' is real cereal phenology; a modern observation, not a first-century witness."
+claim:mk-04-26-29-seed-grows-secretly,"The seed grows by itself: blade, ear, full grain, sickle",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-36-other-boats,Other small boats on the crossing,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-36-other-boats,Other small boats on the crossing,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-36-other-boats,Other small boats on the crossing,structure-or-site,none-found,,"No harbour excavation fetched; searched Wikipedia Sea of Galilee Boat, Magdala."
+claim:mk-04-36-other-boats,Other small boats on the crossing,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-36-other-boats,Other small boats on the crossing,manuscript,n/a,,"A manuscript of Mark preserves the passage but cannot attest its own claim. Papyrus 45 preserves vv. 36-40 (extant-verses list, fetched)."
+claim:mk-04-36-other-boats,Other small boats on the crossing,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-36-other-boats,Other small boats on the crossing,jewish-literary,none-found,,Josephus's 230 fishing boats (Vita ~65) is quoted on fetched Wikipedia pages but was not fetched from the primary text this run.
+claim:mk-04-36-other-boats,Other small boats on the crossing,greco-roman-literary,none-found,,No classical passage on the lake's boat traffic fetched this run.
+claim:mk-04-36-other-boats,Other small boats on the crossing,material-culture,found,artifact:galilee-boat,"Grade C: the 1st-century Ginosar boat shows small fishing boats crowded the lake; context for 'other small boats', not the event."
+claim:mk-04-36-other-boats,Other small boats on the crossing,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-36-other-boats,Other small boats on the crossing,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,structure-or-site,none-found,,No site evidence; searched Wikipedia Sea of Galilee Boat.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,jewish-literary,none-found,,Nothing fetched on sleeping arrangements aboard lake boats.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,greco-roman-literary,none-found,,No classical passage on shipboard sleeping or cushions fetched this run.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,material-culture,found,artifact:galilee-boat,"Grade C: the 8.2 m excavated hull shows room in the stern to lie down out of the rowers' way; it shows the setting, not the cushion, for which no fetched evidence exists."
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-38-asleep-in-stern,Asleep in the stern on a cushion,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",manuscript,n/a,,A manuscript of Mark preserves the passage but cannot attest its own claim.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",jewish-literary,none-found,,"No Jewish text on stilling storms fetched; the sudden-storms meteorology bears on the storm (claim:mt-08-24), never on the stilling."
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",greco-roman-literary,none-found,,No classical parallel fetched this run.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",geography-or-nature,none-found,,"The Sea of Galilee sudden-storms observation (reused from ch 8) attests the storm, not its stilling; recorded no evidence for the miracle itself, per the miracles rule."
+claim:mk-04-39-wind-and-sea-stilled,"""Peace! Be still!"" - the wind ceased",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

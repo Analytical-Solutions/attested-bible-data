@@ -1,0 +1,142 @@
+{
+ "source:bible-api-1-corinthians-16-1-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+corinthians+16:1-4?translation=web"
+ },
+ "source:bible-api-daniel-12-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+12:2?translation=web"
+ },
+ "source:bible-api-romans-15-25-26": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/romans+15:25-26?translation=web"
+ },
+ "source:wikipedia-acts-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_24"
+ },
+ "source:wikipedia-acts-24-manuscripts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_24"
+ },
+ "source:wikipedia-antonius-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonius_Felix"
+ },
+ "source:wikipedia-antonius-felix-coin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonius_Felix"
+ },
+ "source:wikipedia-birkat-haminim": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Birkat_haMinim"
+ },
+ "source:wikipedia-drusilla": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Drusilla_(daughter_of_Herod_Agrippa_I)"
+ },
+ "source:wikipedia-nazarene-sect": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nazarene_(sect)"
+ },
+ "source:wikipedia-papyrus-74": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_74"
+ },
+ "source:wikipedia-porcius-festus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Porcius_Festus"
+ },
+ "source:wikipedia-porcius-festus-coin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Porcius_Festus"
+ },
+ "source:wikipedia-tertullus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tertullus"
+ },
+ "source:wikipedia-variants-acts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Acts_of_the_Apostles"
+ },
+ "source:wikisource-annals-12-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_12"
+ },
+ "source:wikisource-ant-20-drusilla-azizus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-drusilla-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-egyptian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-felix-procurator": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-felix-punished": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-festus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-impostors-wilderness": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant18-sects": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant20-ananias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant20-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-histories-5-drusilla": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_5"
+ },
+ "source:wikisource-histories-5-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_5"
+ }
+}

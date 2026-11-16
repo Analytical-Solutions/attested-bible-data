@@ -1,0 +1,199 @@
+anchor,label,category,status,findings,note
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",inscription,none-found,,"Searched the fetched inscription material (Pilate stone, Titulus Crucis, Herodian coins pages); no inscription bears on the charge list."
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",coin,found,artifact:tiberius-denarius,
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",structure-or-site,n/a,,
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",burial-or-ossuary,n/a,,
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",documentary-papyrus,none-found,,"No census or tax record fetchable bears on tribute obligations in Judea; the census of Quirinius is known only through Josephus (Ant. 18.1, recorded in the jewish-literary cell)."
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",jewish-literary,found,text:josephus-ant-18-1-taxation,
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",greco-roman-literary,none-found,,"Searched the classical material fetched on the Pontius Pilate page (Philo, Tacitus, Suetonius); none bears on this accusation."
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",material-culture,n/a,,
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",geography-or-nature,n/a,,
+claim:lk-23-02-charges,"The charges before Pilate: perverting the nation, forbidding tribute to Caesar",astronomy-or-calendar,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,inscription,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,coin,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,structure-or-site,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,burial-or-ossuary,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,documentary-papyrus,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,jewish-literary,none-found,,"Searched the fetched Josephus pages (War 2, Antiquities 18) and Philo on Pilate's conduct in Jerusalem; nothing on this verdict."
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,greco-roman-literary,none-found,,Searched the Pontius Pilate article's classical sources; no Roman record of a verdict in Jesus's trial exists on the fetched pages.
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,material-culture,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,geography-or-nature,n/a,,
+claim:lk-23-04-pilate-no-basis,Pilate declares Jesus innocent three times,astronomy-or-calendar,n/a,,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,inscription,none-found,,No inscription naming Antipas tetrarch of Galilee was located; his rule is carried by his coins and by Josephus (recorded in the other cells).
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,coin,found,artifact:antipas-coins,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,structure-or-site,n/a,,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,burial-or-ossuary,n/a,,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,documentary-papyrus,n/a,,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,jewish-literary,found,text:josephus-war-2-perea,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,greco-roman-literary,none-found,,Searched the Herod Antipas article's classical material; Strabo and the other fetched authors do not detail his jurisdiction.
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,material-culture,n/a,,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,geography-or-nature,n/a,,
+claim:lk-23-06-galilee-antipas,Galilee was under Herod Antipas's jurisdiction,astronomy-or-calendar,n/a,,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",inscription,n/a,,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",coin,n/a,,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",structure-or-site,none-found,,"Searched for Antipas's residence in Jerusalem (Hasmonean/Herodian palace, Antonia material); nothing fetchable locates him in the city at the feast."
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",burial-or-ossuary,n/a,,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",documentary-papyrus,n/a,,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",jewish-literary,found,text:josephus-war-6-422-425,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",greco-roman-literary,none-found,,The Pontius Pilate and Herod Antipas articles cite no classical witness for the referral or for Antipas's Passover presence in Jerusalem.
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",material-culture,n/a,,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",geography-or-nature,n/a,,
+claim:lk-23-07-sent-to-herod,"Pilate sent Jesus to Herod Antipas, who was in Jerusalem",astronomy-or-calendar,none-found,,"The visit fits the Passover season; searched festival dating, but no calendar evidence specific to this year was fetchable (the Passover crowd count of War 6.422-425 is recorded in the jewish-literary cell)."
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,inscription,n/a,,
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,coin,n/a,,
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,structure-or-site,none-found,,"Searched for the palace of the scene (Herod's palace, Antonia); nothing fetchable bears on the mockery itself."
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,burial-or-ossuary,n/a,,
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,documentary-papyrus,n/a,,
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,jewish-literary,found,text:josephus-war-7-29-purple-cloak,
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,greco-roman-literary,none-found,,"The classical mockery precedents fetched for Matthew 27 (Suetonius on placards) involve Roman magistrates, not Herod Antipas."
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,material-culture,none-found,,Searched for excavated fine/royal garments from Early Roman Jerusalem; nothing fetchable.
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,geography-or-nature,n/a,,
+claim:lk-23-11-herod-mocks,Herod and his soldiers mocked Jesus and dressed him in splendid clothing,astronomy-or-calendar,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,inscription,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,coin,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,structure-or-site,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,burial-or-ossuary,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,documentary-papyrus,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,jewish-literary,found,text:philo-embassy-38-pilate,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,greco-roman-literary,none-found,,"Searched the classical material on the Pontius Pilate page (Tacitus, Suetonius, Philo); nothing on the two men's relationship beyond the Gospel note (Schwartz's discussion is recorded by documented_by on the claim)."
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,material-culture,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,geography-or-nature,n/a,,
+claim:lk-23-12-herod-pilate-friends,Herod and Pilate became friends that day,astronomy-or-calendar,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,inscription,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,coin,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,structure-or-site,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,burial-or-ossuary,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,documentary-papyrus,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,jewish-literary,found,text:josephus-war-2-florus;text:josephus-war-5-crucified,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,greco-roman-literary,none-found,,"The Digest material fetched for Matthew 27 covers the clothing and burial of the condemned, not pre-crucifixion flogging; nothing further fetchable."
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,material-culture,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,geography-or-nature,n/a,,
+claim:lk-23-16-chastise-release,Pilate proposed to chastise Jesus and release him,astronomy-or-calendar,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,inscription,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,coin,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,structure-or-site,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,burial-or-ossuary,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,documentary-papyrus,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,jewish-literary,found,text:mishnah-ketubot-4-5,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,greco-roman-literary,none-found,,Searched the fetched classical material on mourning customs; nothing on lamenting processions in Judea.
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,material-culture,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,geography-or-nature,n/a,,
+claim:lk-23-27-31-women-lament,The lamenting women of Jerusalem followed him,astronomy-or-calendar,n/a,,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",inscription,n/a,,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",coin,n/a,,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",structure-or-site,found,site:arch-of-titus,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",burial-or-ossuary,n/a,,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",documentary-papyrus,n/a,,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",jewish-literary,found,text:josephus-war-6-city-burned,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",greco-roman-literary,none-found,,Tacitus Histories 5 on the fall of Jerusalem was not fetchable in this run; the destruction of 70 CE is attested in the jewish-literary and structure-or-site cells.
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",material-culture,n/a,,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",geography-or-nature,n/a,,
+claim:lk-23-28-31-days-coming,"Days are coming: blessed are the barren, the mountains fall on us",astronomy-or-calendar,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",inscription,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",coin,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",structure-or-site,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",burial-or-ossuary,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages. For this saying specifically, P75, Sinaiticus and Vaticanus omit the sentence (and P75 and Vaticanus omit 23:17) - recorded as variants on passage:lk-23-34 and passage:lk-23-17, never as attests."
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",documentary-papyrus,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",jewish-literary,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",greco-roman-literary,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",material-culture,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",geography-or-nature,n/a,,
+claim:lk-23-34-forgive-them,"'Father, forgive them, for they don't know what they are doing'",astronomy-or-calendar,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,inscription,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,coin,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,structure-or-site,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,burial-or-ossuary,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,documentary-papyrus,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,jewish-literary,found,text:talmud-sanhedrin-43a,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,greco-roman-literary,none-found,,Searched for posca (sour wine) as a soldiers' drink in the fetched classical material; nothing fetchable connects it to executions in Judea.
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,material-culture,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,geography-or-nature,n/a,,
+claim:lk-23-36-37-soldiers-vinegar,The soldiers mocked him and offered sour wine,astronomy-or-calendar,n/a,,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",inscription,found,artifact:titulus-crucis,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",coin,n/a,,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",structure-or-site,n/a,,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",burial-or-ossuary,n/a,,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages. Note: the trilingual detail is the Byzantine reading; the Alexandrian text lacks it (variant on passage:lk-23-38)."
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",documentary-papyrus,n/a,,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",jewish-literary,none-found,,Searched the fetched Josephus material on the crucifixion and the temple; no ancient description of a trilingual charge placard.
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",greco-roman-literary,none-found,,Searched Suetonius's placard precedents (fetched for Matthew 27) and the Pilate material; nothing trilingual.
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",material-culture,n/a,,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",geography-or-nature,n/a,,
+claim:lk-23-38-trilingual-inscription,"The inscription in Greek, Latin and Hebrew letters",astronomy-or-calendar,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",inscription,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",coin,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",structure-or-site,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",burial-or-ossuary,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages. The dialogue itself varies: Luke 23:42 Alexandrian reads 'Jesus, remember me', Byzantine 'Remember me, Lord' (variant on passage:lk-23-42)."
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",documentary-papyrus,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",jewish-literary,none-found,,Searched the fetched Josephus and rabbinic material on crucified men; nothing on a dialogue between the condemned.
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",greco-roman-literary,none-found,,Searched the classical crucifixion material fetched (Josephus's crucifixion passages are in the jewish-literary cells of Matthew 27); no parallel dialogue.
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",material-culture,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",geography-or-nature,n/a,,
+claim:lk-23-39-43-criminals-dialogue,"The two criminals: one blasphemed, one asked to be remembered",astronomy-or-calendar,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,inscription,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,coin,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,structure-or-site,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,burial-or-ossuary,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages. The wording varies: Alexandrian 'the sun's light failed' (eklipontos) against Byzantine 'the sun was darkened' (variant on passage:lk-23-45)."
+claim:lk-23-45-sun-light-failed,The sun's light failed,documentary-papyrus,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,jewish-literary,none-found,,"Searched the fetched Josephus and rabbinic portents material (War 6 prodigies, Yoma 39b); neither mentions a darkness at Jesus's death."
+claim:lk-23-45-sun-light-failed,The sun's light failed,greco-roman-literary,found,text:phlegon-chronicle,
+claim:lk-23-45-sun-light-failed,The sun's light failed,material-culture,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,geography-or-nature,n/a,,
+claim:lk-23-45-sun-light-failed,The sun's light failed,astronomy-or-calendar,found,observation:solar-eclipse-impossible-passover,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",inscription,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",coin,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",structure-or-site,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",burial-or-ossuary,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",documentary-papyrus,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",jewish-literary,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",greco-roman-literary,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",material-culture,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",geography-or-nature,n/a,,
+claim:lk-23-46-dying-words,"'Father, into your hands I commit my spirit'",astronomy-or-calendar,n/a,,
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',inscription,none-found,,Searched for a centurion inscription from Judea in the period; nothing fetchable bearing on this acclamation.
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',coin,n/a,,
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',structure-or-site,n/a,,
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',burial-or-ossuary,n/a,,
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',documentary-papyrus,none-found,,"No military document (roster, discharge, diploma) fetchable names a centurion of this cohort in Judea in the 30s CE."
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',jewish-literary,none-found,,Searched the fetched Josephus material on Roman officers in Judea; nothing bearing on this centurion's words.
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',greco-roman-literary,none-found,,Searched the classical material fetched on the Pilate page; no independent witness to the acclamation.
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',material-culture,n/a,,
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',geography-or-nature,n/a,,
+claim:lk-23-47-centurion-righteous,The centurion: 'Certainly this was a righteous man',astronomy-or-calendar,n/a,,
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,inscription,none-found,,Searched for an ossuary or inscription naming Joseph of Arimathea; the fetched Arimathea material records none.
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,coin,n/a,,
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,structure-or-site,n/a,,
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,burial-or-ossuary,none-found,,No burial find names Joseph of Arimathea; the fetched Arimathea and Holy Sepulchre pages record no inscription.
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,documentary-papyrus,n/a,,
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,jewish-literary,none-found,,Searched the fetched Josephus material on the sanhedrin (Ant. 20.9.1 is used in Mark 15 for the institution); nothing on this member or his vote.
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,greco-roman-literary,n/a,,
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,material-culture,n/a,,
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,geography-or-nature,none-found,,Arimathea's location is disputed (the Onomasticon identification is recorded on place:arimathea); nothing bears on Joseph's non-consent.
+claim:lk-23-51-joseph-not-consented,Joseph of Arimathea had not consented to their counsel,astronomy-or-calendar,n/a,,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,inscription,n/a,,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,coin,n/a,,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,structure-or-site,n/a,,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,burial-or-ossuary,n/a,,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and Papyrus 75 preserves edges are recorded on the passages."
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,documentary-papyrus,none-found,,No burial-contract or spice-purchase papyrus from Judea in the period was fetchable.
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,jewish-literary,found,text:josephus-war-1-673-spices,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,greco-roman-literary,n/a,,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,material-culture,none-found,,Searched for excavated spice vessels or mortars from first-century Judean tombs; the fetched material records none usable here.
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,geography-or-nature,n/a,,
+claim:lk-23-56-spices-rest,The women prepared spices and rested on the Sabbath,astronomy-or-calendar,none-found,,"The Sabbath rest is calendar practice; the only fetched witness is the biblical commandment itself (Exodus 20:8, a cross-reference recorded by related_to on the claim), which cannot count as evidence."

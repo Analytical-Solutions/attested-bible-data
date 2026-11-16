@@ -1,0 +1,117 @@
+{
+ "source:wikipedia-akeldama": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Akeldama"
+ },
+ "source:wikipedia-calming-storm": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Calming_the_storm"
+ },
+ "source:wikipedia-capernaum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-gerasene-demoniac": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-gerasene-demoniac-decapolis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-gerasene-demoniac-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-gerasene-demoniac-gadara": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-gerasene-demoniac-hippos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-kursi": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Kursi,_Israel"
+ },
+ "source:wikipedia-kursi-excavation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Kursi,_Israel"
+ },
+ "source:wikipedia-matthew-8-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Matthew_8:5"
+ },
+ "source:wikipedia-matthew-8-5-gundry": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Matthew_8:5"
+ },
+ "source:wikipedia-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ossuary"
+ },
+ "source:wikipedia-pork": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Religious_restrictions_on_the_consumption_of_pork"
+ },
+ "source:wikipedia-pork-bones": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Religious_restrictions_on_the_consumption_of_pork"
+ },
+ "source:wikipedia-red-fox": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Red_fox"
+ },
+ "source:wikipedia-red-fox-range": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Red_fox"
+ },
+ "source:wikipedia-tv-matt-8-28": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikipedia-ummqais": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Umm_Qais"
+ },
+ "source:wikipedia-ummqais-tombs": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Umm_Qais"
+ },
+ "source:wikisource-ant18-aretas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-isaiah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Isaiah"
+ },
+ "source:wikisource-leviticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Leviticus"
+ }
+}

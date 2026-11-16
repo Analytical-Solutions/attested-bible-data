@@ -1,0 +1,188 @@
+anchor,label,category,status,findings,note
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,inscription,n/a,,
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,coin,n/a,,
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,structure-or-site,n/a,,
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,burial-or-ossuary,n/a,,
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,documentary-papyrus,n/a,,
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,jewish-literary,none-found,,The ointment/nard background is already evidenced in the graph from Matthew 26 (Pliny on the price of nard) and Mark 14; nothing new was fetched for this back-reference.
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,greco-roman-literary,none-found,,No classical locus fetched beyond the Matthew 26 nard material already in the graph.
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,material-culture,none-found,,Alabaster ointment vessels are evidenced in the graph from Matthew 26; no new evidence fetched.
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,geography-or-nature,n/a,,
+claim:jn-11-02-mary-anointed,Mary of Bethany anointed the Lord with ointment,astronomy-or-calendar,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,inscription,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,coin,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,structure-or-site,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,burial-or-ossuary,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,documentary-papyrus,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,jewish-literary,none-found,,"Josephus records crowd violence and stoning attempts in Jerusalem (e.g., Ant. 20 material already in the graph for James), but nothing of an attempt on Jesus; nothing new fetched."
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,greco-roman-literary,none-found,,No classical author fetched records an attempt to stone Jesus.
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,material-culture,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,geography-or-nature,n/a,,
+claim:jn-11-08-stoning-attempt,The Jews had recently tried to stone Jesus,astronomy-or-calendar,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,inscription,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,coin,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,structure-or-site,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,burial-or-ossuary,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,documentary-papyrus,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,jewish-literary,found,text:mishnah-pesachim-5-1,"Mishnah Pesachim 5:1 counts daylight in hours from dawn ('slaughtered at eight and a half hours of the day'), the reckoning behind 'twelve hours of daylight'; redacted c. 200 CE caveat on the edge."
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,greco-roman-literary,none-found,,"The twelve-hour day is standard ancient Mediterranean timekeeping, but no classical page stating it was fetched this run; searched Wikipedia (Hour, Roman timekeeping) which are modern summaries only."
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,material-culture,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,geography-or-nature,n/a,,
+claim:jn-11-09-twelve-hours,The daylight was reckoned as twelve hours,astronomy-or-calendar,none-found,,Actual daylight varies seasonally (roughly 10-14 hours at this latitude); the twelve-hour reckoning is a convention. No computation was entered.
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,inscription,n/a,,
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,coin,n/a,,
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,structure-or-site,n/a,,
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,burial-or-ossuary,n/a,,
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,documentary-papyrus,n/a,,
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,jewish-literary,none-found,,The later rabbinic tradition that the soul hovers over the body for three days (Genesis Rabbah 100:7 and parallels) is post-Second Temple midrash and was not verified on a fetched page this run; nothing entered.
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,greco-roman-literary,none-found,,No classical page on Judean burial timing was fetched.
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,material-culture,n/a,,
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,geography-or-nature,n/a,,
+claim:jn-11-17-four-days,Lazarus had been in the tomb four days,astronomy-or-calendar,n/a,,
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,inscription,n/a,,
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,coin,n/a,,
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,structure-or-site,n/a,,
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,burial-or-ossuary,none-found,,No burial evidence bears on consolation visits.
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,documentary-papyrus,n/a,,
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,jewish-literary,found,text:mishnah-ketubot-4-5,"Mishnah Ketubot 4:5: even the poorest man may not provide fewer than two flutes and a lamenting woman - organized mourning was customary and expected; redacted c. 200 CE caveat. It attests the funeral-mourning custom, not house consolation visits specifically."
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,greco-roman-literary,none-found,,No classical locus on Judean consolation customs was fetched.
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,material-culture,none-found,,The hired flutes and lamenting women are the Mishnah's content; no material find fetched.
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,geography-or-nature,n/a,,
+claim:jn-11-19-consolation-mourners,Many Jews came to console Martha and Mary,astronomy-or-calendar,n/a,,
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,inscription,n/a,,
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,coin,n/a,,
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,structure-or-site,n/a,,
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,burial-or-ossuary,none-found,,Ossuaries and tombs cannot attest belief in resurrection; searched the graph's burial material.
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,manuscript,none-found,,"4Q521 is itself a Dead Sea manuscript, but it carries no Gospel text and is recorded under jewish-literary; the Gospel codices only preserve the passage."
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,documentary-papyrus,n/a,,
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,jewish-literary,found,text:4q521-2;text:josephus-ant-18-sects,"4Q521 (pre-Christian) expects God's agent to 'heal the badly wounded and make the dead live' (C); Josephus, Ant. 18.1.3 gives the Pharisees' afterlife belief with rewards and punishments (C, not bodily resurrection at the last day). Daniel 12:2 is a biblical cross-reference only."
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,greco-roman-literary,none-found,,No classical page fetched bears on Judean resurrection belief.
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,material-culture,n/a,,
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,geography-or-nature,n/a,,
+claim:jn-11-24-resurrection-last-day,Martha believes in the resurrection at the last day,astronomy-or-calendar,n/a,,"The 'last day' is eschatological, not a calendar datum."
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,inscription,n/a,,
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,coin,n/a,,
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,structure-or-site,none-found,,The rock-cut tombs of al-Eizariya are recorded under claim:jn-11-18 and 11:38; nothing fetched attests the custom of weeping at the tomb itself.
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,burial-or-ossuary,n/a,,
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,documentary-papyrus,n/a,,
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,jewish-literary,found,text:mishnah-ketubot-4-5,"The same Ketubot 4:5 passage: professional lamenting women were hired even for the poor, so weeping mourners around the bereaved family are the expected scene; redacted c. 200 CE caveat, and the Mishnah does not state tomb-visiting."
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,greco-roman-literary,none-found,,No classical locus fetched.
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,material-culture,n/a,,
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,geography-or-nature,n/a,,
+claim:jn-11-31-tomb-weeping,The mourners followed Mary to the tomb to weep,astronomy-or-calendar,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,inscription,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,coin,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,structure-or-site,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,burial-or-ossuary,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,documentary-papyrus,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,jewish-literary,none-found,,"A back-reference to John 9, whose claims (spittle, Siloam, Sabbath clay) already carry their evidence in data/john/09; nothing new fetched."
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,greco-roman-literary,none-found,,Tacitus's Vespasian spittle parallel is already on the John 9 claims; nothing new fetched.
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,material-culture,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,geography-or-nature,n/a,,
+claim:jn-11-37-opened-blind-eyes,Jesus had opened the eyes of a man born blind,astronomy-or-calendar,n/a,,
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,inscription,n/a,,
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,coin,n/a,,
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,structure-or-site,found,site:tombs-of-the-kings,"The Tombs of the Kings (1st-century CE Jerusalem, Queen Helena of Adiabene) preserve an in-situ round rolling stone sealing the access - the same closure practice in the same city and period; reuse of the Matthew 28 evidence at its grade B."
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,burial-or-ossuary,found,site:tomb-of-lazarus,"The cave shown at al-Eizariya has been identified as the tomb since at least the 4th century, but the identification of this particular cave is 'merely possible; it has no strong intrinsic or extrinsic authority' (Catholic Encyclopedia, on the fetched page) - grade D reception; archaeology confirms a 1st-century AD cemetery in the area."
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,documentary-papyrus,n/a,,
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,jewish-literary,none-found,,The rock-cut-tomb closure practice is evidenced from the Wikipedia material attached to the claim (documented_by); no rabbinic or Josephus passage was fetched this run.
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,greco-roman-literary,none-found,,No classical page fetched on Judean tomb closure.
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,material-culture,none-found,,"The blocking/rolling stone is evidenced within the structure record (Tombs of the Kings, in situ); no separate artifact."
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,geography-or-nature,n/a,,
+claim:jn-11-38-cave-tomb-stone,The tomb was a cave with a stone across it,astronomy-or-calendar,n/a,,
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,inscription,none-found,,No inscription bears on the event; searched Wikipedia (Lazarus of Bethany) and the graph's inscription material.
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,coin,n/a,,No coinage could bear on the miracle claim.
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,structure-or-site,none-found,,The tomb setting is recorded under claim:jn-11-38; setting evidence never attests the miracle itself.
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,burial-or-ossuary,none-found,,"No remains of Lazarus exist; the Tomb of Lazarus cave is a D-grade tradition recorded under claim:jn-11-38. Searched Wikipedia (Tomb of Lazarus, Lazarus of Bethany)."
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,documentary-papyrus,n/a,,
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,jewish-literary,none-found,,Josephus and the fetched rabbinic pages record no raising of Lazarus. The later Babylonian Talmud story of a 'Lazarus' (Sanhedrin material) is a distinct late tradition and was not verified on a fetched page this run.
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,greco-roman-literary,none-found,,No classical author mentions the event; searched the fetched Wikipedia pages' references.
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,material-culture,none-found,,"Burial wrappings of the period are known (ossuary burials with shrouds), but no fetched page states the binding custom; nothing entered."
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,geography-or-nature,n/a,,
+claim:jn-11-43-44-raising,Jesus raised Lazarus by calling him from the tomb,astronomy-or-calendar,n/a,,
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,inscription,n/a,,
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,coin,n/a,,
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,structure-or-site,none-found,,"No excavation identifies the council chamber of the 30s; the priestly mansions of the Wohl Museum are already in the graph from Matthew 26 and were reused there, not here."
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,burial-or-ossuary,n/a,,
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,documentary-papyrus,n/a,,
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,jewish-literary,found,text:josephus-ant-18-sects;text:josephus-ant-20-199-sanhedrin,"Josephus names the Pharisees among the three real Jewish parties (C) and records the sanhedrim assembling in Jerusalem under Ananus in 62 CE (C) - the groups and the institution, not this session."
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,greco-roman-literary,none-found,,No classical author fetched records this council.
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,material-culture,n/a,,
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,geography-or-nature,n/a,,
+claim:jn-11-47-council,The chief priests and Pharisees gathered a council,astronomy-or-calendar,n/a,,
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,inscription,n/a,,
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,coin,n/a,,
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,structure-or-site,none-found,,'Our place' (the Temple) is already evidenced in the graph from John 2 and Matthew 24; nothing new fetched for this fear-condition claim.
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,burial-or-ossuary,n/a,,
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,documentary-papyrus,n/a,,
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,jewish-literary,found,text:josephus-ant-18-55-64;text:josephus-war-2-varus,"Josephus: Pilate's soldiers killed Jerusalem crowds during unrest over his standards and aqueduct (Ant. 18.55-62, B - the same city and governorship); Varus crucified about two thousand after the disturbances at Herod's death (War 2.5.2, C - a generation earlier). The 70 CE destruction is the later event and never evidence for the prediction."
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,greco-roman-literary,none-found,,Roman reprisal policy is evidenced from Josephus (recorded under jewish-literary per chapter practice); no other classical page fetched.
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,material-culture,n/a,,
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,geography-or-nature,n/a,,
+claim:jn-11-48-roman-fear,The council feared the Romans would take away their place and nation,astronomy-or-calendar,n/a,,
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',inscription,found,artifact:caiaphas-ossuary,"The ossuary is twice inscribed 'Joseph, son of Caiaphas' (Yehosef bar Qayafa); it names the family, not the office, so B on the office claim with the identification dispute recorded (reuse of the Matthew 26 practice)."
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',coin,n/a,,
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',structure-or-site,n/a,,
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',burial-or-ossuary,found,artifact:caiaphas-ossuary,"The ossuary (excavated 1990, Peace Forest burial cave, Israel Museum) gives a first-century Jerusalem burial of the Caiaphas family; B for the office because the inscription carries no high-priestly title."
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',documentary-papyrus,n/a,,
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',jewish-literary,found,text:josephus-ant-18-caiaphas,"Josephus, Ant. 18.35 and 18.95: Joseph called Caiaphas appointed by Gratus (c. 18 CE), removed by Vitellius (36 CE) - A for the office; a complicates edge records that the ~18-year tenure makes 'that year' a date-marker, not an annual appointment."
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',greco-roman-literary,none-found,,Josephus is recorded under jewish-literary; no other classical author fetched names Caiaphas.
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',material-culture,n/a,,
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',geography-or-nature,n/a,,
+claim:jn-11-49-caiaphas-that-year,Caiaphas was high priest 'that year',astronomy-or-calendar,none-found,,'That year' dates nothing independently; the tenure c. 18-36 CE (Josephus) brackets the early 30s. No regnal computation was entered.
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,inscription,n/a,,
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,coin,n/a,,
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,structure-or-site,none-found,,Ritual immersion installations are known across Judaea (the Gethsemane mikveh is in the graph from Matthew 26); nothing new was fetched for the pre-Passover purification.
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,burial-or-ossuary,n/a,,
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,documentary-papyrus,none-found,,No documentary papyrus bears on Judean festival purity this run.
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,jewish-literary,found,text:mishnah-mikvaot-1-1,"Mishnah Mikvaot 1:1 grades immersion pools - ritual immersion for purity was a standing institution; redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly. The going-up custom is asserted to the existing claim:jn-02-13-passover-pilgrimage."
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,greco-roman-literary,none-found,,No classical page fetched.
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,material-culture,none-found,,Stone purification vessels are in the graph from John 2; no new evidence fetched.
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,geography-or-nature,n/a,,
+claim:jn-11-55-purify-before-passover,Many went up before the Passover to purify themselves,astronomy-or-calendar,none-found,,The Passover's calendar date follows the lunar reckoning; no computation for this year was entered (the John 2/6 chapters carry the calendar material).
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,inscription,n/a,,
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,coin,n/a,,
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,structure-or-site,n/a,,
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,burial-or-ossuary,n/a,,
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,documentary-papyrus,none-found,,No documentary papyrus bears on a warrant by the Jerusalem authorities this run.
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,jewish-literary,none-found,,"Josephus records orders by high-priestly authorities (e.g., the James episode already in the graph), but nothing of a report order for Jesus; nothing new fetched."
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,greco-roman-literary,none-found,,No classical author fetched records the order.
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,material-culture,n/a,,
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,geography-or-nature,n/a,,
+claim:jn-11-57-report-order,The leaders ordered that Jesus's whereabouts be reported,astronomy-or-calendar,n/a,,
+person:lazarus-of-bethany,Lazarus of Bethany,inscription,none-found,,"No inscription or ossuary naming Lazarus was located; searched Wikipedia (Lazarus of Bethany, Tomb of Lazarus) and the ossuary material already in the graph."
+person:lazarus-of-bethany,Lazarus of Bethany,coin,n/a,,No coinage names private persons.
+person:lazarus-of-bethany,Lazarus of Bethany,structure-or-site,none-found,,"The Tomb of Lazarus cave is a named tradition (recorded at D under claim:jn-11-38); a site tradition is not evidence for the person, and a site never attests a person. The village name al-Eizariya ('place of Lazarus') is the later reception (source on the person node)."
+person:lazarus-of-bethany,Lazarus of Bethany,burial-or-ossuary,none-found,,"The traditional tomb cave has no published 1st-century remains; the fetched page records only a 1st-century AD cemetery 'in the area'. Searched Wikipedia (Tomb of Lazarus, Lazarus of Bethany)."
+person:lazarus-of-bethany,Lazarus of Bethany,manuscript,n/a,,The Gospel manuscripts only preserve the text; they cannot attest the person.
+person:lazarus-of-bethany,Lazarus of Bethany,documentary-papyrus,n/a,,No documentary papyrus could bear on a private villager of Bethany.
+person:lazarus-of-bethany,Lazarus of Bethany,jewish-literary,none-found,,"The Josephus passages fetched this run (War 4, Ant. 18 material) name no Lazarus; the Mishnah mourning material is generic. Searched Wikipedia (Lazarus of Bethany) for rabbinic mentions."
+person:lazarus-of-bethany,Lazarus of Bethany,greco-roman-literary,none-found,,No classical author fetched names Lazarus.
+person:lazarus-of-bethany,Lazarus of Bethany,material-culture,n/a,,
+person:lazarus-of-bethany,Lazarus of Bethany,geography-or-nature,n/a,,
+person:lazarus-of-bethany,Lazarus of Bethany,astronomy-or-calendar,n/a,,
+place:ephraim,Ephraim (city near the wilderness),inscription,none-found,,"No inscription naming the village was located; searched Wikipedia (Ephraim in the wilderness, Taybeh, Ramallah)."
+place:ephraim,Ephraim (city near the wilderness),coin,n/a,,No coinage bears on the village.
+place:ephraim,Ephraim (city near the wilderness),structure-or-site,found,site:taybeh,"Taybeh (et-Taiyibeh), the hill-country village NE of Jerusalem, is identified by the SWP (1882) and later scholars with ancient Ophrah and traditionally with John's Ephraim; the identification is a modern-tradition proposal, graded D."
+place:ephraim,Ephraim (city near the wilderness),burial-or-ossuary,n/a,,
+place:ephraim,Ephraim (city near the wilderness),manuscript,none-found,,"The Gospel manuscripts (Sinaiticus, Vaticanus, P66, P75, P45) preserve the passages (preserves edges); a copy of the text never attests its claim. The fetched 'Textual variants in the Gospel of John' lists no variant in John 11 and the fetched 'List of omitted Bible verses' none in the chapter."
+place:ephraim,Ephraim (city near the wilderness),documentary-papyrus,none-found,,No documentary papyrus bearing on the village was located this run.
+place:ephraim,Ephraim (city near the wilderness),jewish-literary,found,text:josephus-war-4-ephraim;text:eusebius-onomasticon-ephraim,"Josephus, War 4.9.1: Vespasian took and garrisoned 'Bethel and Ephraim, two small cities' (B); Eusebius, Onomasticon 458 locates the Gospel village via Ephron 418 (D, reception and disputed)."
+place:ephraim,Ephraim (city near the wilderness),greco-roman-literary,none-found,,Josephus is the classical-period source and is recorded under jewish-literary (chapter practice); no other classical author fetched names the village.
+place:ephraim,Ephraim (city near the wilderness),material-culture,n/a,,
+place:ephraim,Ephraim (city near the wilderness),geography-or-nature,none-found,,"The 'country near the wilderness' NE of Jerusalem toward the Jordan descent fits the Taybeh position, but no fetched page states a wilderness boundary; searched the Ephraim and Taybeh articles."
+place:ephraim,Ephraim (city near the wilderness),astronomy-or-calendar,n/a,,

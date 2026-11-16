@@ -1,0 +1,127 @@
+{
+ "source:sefaria-nedarim-1-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Nedarim.1"
+ },
+ "source:wikipedia-angaria": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Angaria_(Roman_law)"
+ },
+ "source:wikipedia-babatha": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Babatha"
+ },
+ "source:wikipedia-cave-of-letters": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cave_of_Letters"
+ },
+ "source:wikipedia-gehenna": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gehenna"
+ },
+ "source:wikipedia-gehenna-identity": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gehenna"
+ },
+ "source:wikipedia-gehenna-targum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gehenna"
+ },
+ "source:wikipedia-get": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Get_(divorce_document)"
+ },
+ "source:wikipedia-korban": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Korban"
+ },
+ "source:wikipedia-matthew5-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Matthew_5:13"
+ },
+ "source:wikipedia-mount-of-beatitudes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mount_of_Beatitudes"
+ },
+ "source:wikipedia-mount-of-beatitudes-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mount_of_Beatitudes"
+ },
+ "source:wikipedia-mount-sodom": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mount_Sodom"
+ },
+ "source:wikipedia-oil-lamp": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Oil_lamp"
+ },
+ "source:wikipedia-quadrans": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Quadrans"
+ },
+ "source:wikipedia-quadrans-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Quadrans"
+ },
+ "source:wikipedia-salt-in-the-bible": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Salt_in_the_Bible"
+ },
+ "source:wikipedia-salt-in-the-bible-use": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Salt_in_the_Bible"
+ },
+ "source:wikipedia-second-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple"
+ },
+ "source:wikipedia-sepphoris": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sepphoris"
+ },
+ "source:wikipedia-temple-warning": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Temple_Warning_inscription"
+ },
+ "source:wikisource-ant-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_IV"
+ },
+ "source:wikisource-apion-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Against_Apion/Book_I"
+ },
+ "source:wikisource-psalms-web": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Psalms"
+ }
+}

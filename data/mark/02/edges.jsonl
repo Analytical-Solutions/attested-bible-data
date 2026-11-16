@@ -1,0 +1,142 @@
+{"from": "passage:mk-02-03", "type": "asserts", "to": "claim:mt-09-02-paralytic-carried"}
+{"from": "passage:mk-02-04", "type": "asserts", "to": "claim:mt-09-02-paralytic-carried"}
+{"from": "passage:mk-02-04", "type": "asserts", "to": "claim:mk-02-04-roof-dug-through"}
+{"from": "passage:mk-02-06", "type": "asserts", "to": "claim:mt-09-03-scribes-blasphemy"}
+{"from": "passage:mk-02-07", "type": "asserts", "to": "claim:mt-09-03-scribes-blasphemy"}
+{"from": "passage:mk-02-10", "type": "asserts", "to": "claim:mt-09-06-son-of-man-authority"}
+{"from": "passage:mk-02-11", "type": "asserts", "to": "claim:mt-09-06-son-of-man-authority"}
+{"from": "passage:mk-02-14", "type": "asserts", "to": "claim:mk-02-14-levi-alphaeus-tax-office"}
+{"from": "passage:mk-02-15", "type": "asserts", "to": "claim:mt-09-10-11-eating-sinners"}
+{"from": "passage:mk-02-16", "type": "asserts", "to": "claim:mt-09-10-11-eating-sinners"}
+{"from": "passage:mk-02-18", "type": "asserts", "to": "claim:mt-09-14-15-fasting"}
+{"from": "passage:mk-02-19", "type": "asserts", "to": "claim:mt-09-14-15-fasting"}
+{"from": "passage:mk-02-21", "type": "asserts", "to": "claim:mt-09-16-unshrunk-cloth"}
+{"from": "passage:mk-02-22", "type": "asserts", "to": "claim:mt-09-17-wineskins"}
+{"from": "passage:mk-02-23", "type": "asserts", "to": "claim:mt-12-01-sabbath-grain-plucking"}
+{"from": "passage:mk-02-24", "type": "asserts", "to": "claim:mt-12-02-sabbath-reaping-contested"}
+{"from": "passage:mk-02-25", "type": "asserts", "to": "claim:mk-02-26-abiathar-high-priest"}
+{"from": "passage:mk-02-26", "type": "asserts", "to": "claim:mk-02-26-abiathar-high-priest"}
+{"from": "passage:mk-02-25", "type": "asserts", "to": "claim:mt-12-03-david-showbread"}
+{"from": "passage:mk-02-01", "type": "parallels", "to": "passage:mt-09-01", "note": "Both place the scene in Capernaum; Mark says 'after some days' and 'he was in the house', Matthew says he crossed by boat to 'his own city'."}
+{"from": "passage:mk-02-03", "type": "parallels", "to": "passage:mt-09-02", "note": "A paralytic carried to Jesus on a mat/bed."}
+{"from": "passage:mk-02-04", "type": "parallels", "to": "passage:mt-09-02", "note": "The paralytic let down before Jesus; Mark alone has the roof dug open."}
+{"from": "passage:mk-02-05", "type": "parallels", "to": "passage:mt-09-02", "note": "'Son, your sins are forgiven you.'"}
+{"from": "passage:mk-02-06", "type": "parallels", "to": "passage:mt-09-03", "note": "Scribes sitting there reason that claiming to forgive sins is blasphemy."}
+{"from": "passage:mk-02-07", "type": "parallels", "to": "passage:mt-09-03", "note": "'Who can forgive sins but God alone?'"}
+{"from": "passage:mk-02-10", "type": "parallels", "to": "passage:mt-09-06", "note": "'The Son of Man has authority on earth to forgive sins.'"}
+{"from": "passage:mk-02-11", "type": "parallels", "to": "passage:mt-09-06", "note": "'Arise, take up your mat, and go to your house.'"}
+{"from": "passage:mk-02-12", "type": "parallels", "to": "passage:mt-09-08", "note": "The paralytic rises and the crowds glorify God."}
+{"from": "passage:mk-02-14", "type": "parallels", "to": "passage:mt-09-09", "note": "The same call of the tax collector at the tax office; Mark names Levi son of Alphaeus, Matthew names Matthew."}
+{"from": "passage:mk-02-15", "type": "parallels", "to": "passage:mt-09-10", "note": "Many tax collectors and sinners recline at table with Jesus."}
+{"from": "passage:mk-02-16", "type": "parallels", "to": "passage:mt-09-11", "note": "Scribes and Pharisees object that he eats with tax collectors and sinners."}
+{"from": "passage:mk-02-18", "type": "parallels", "to": "passage:mt-09-14", "note": "John's disciples and the Pharisees are fasting and ask why Jesus' disciples do not."}
+{"from": "passage:mk-02-19", "type": "parallels", "to": "passage:mt-09-15", "note": "The bridegroom saying: the groomsmen cannot fast while the bridegroom is with them."}
+{"from": "passage:mk-02-21", "type": "parallels", "to": "passage:mt-09-16", "note": "No one sews unshrunk cloth on an old garment."}
+{"from": "passage:mk-02-22", "type": "parallels", "to": "passage:mt-09-17", "note": "New wine into fresh wineskins, not old ones."}
+{"from": "passage:mk-02-23", "type": "parallels", "to": "passage:mt-12-01", "note": "On the Sabbath through the grain fields the disciples pluck ears of grain."}
+{"from": "passage:mk-02-24", "type": "parallels", "to": "passage:mt-12-02", "note": "The Pharisees call the plucking on the Sabbath unlawful."}
+{"from": "passage:mk-02-25", "type": "parallels", "to": "passage:mt-12-03", "note": "'Have you not read what David did, when he had need, and was hungry?'"}
+{"from": "passage:mk-02-26", "type": "parallels", "to": "passage:mt-12-04", "note": "David entered God's house and ate the showbread; Mark dates it 'in the days of Abiathar the high priest'."}
+{"from": "claim:mk-02-04-roof-dug-through", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-02-04-roof-dug-through", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mk-02-14-levi-alphaeus-tax-office", "type": "mentions", "to": "person:levi-son-of-alphaeus"}
+{"from": "claim:mk-02-26-abiathar-high-priest", "type": "mentions", "to": "person:abiathar"}
+{"from": "claim:mk-02-26-abiathar-high-priest", "type": "mentions", "to": "person:david"}
+{"from": "site:capernaum-peter-house", "type": "attests", "to": "claim:mk-02-04-roof-dug-through", "grade": "C", "note": "The excavated 1st-century Capernaum dwelling shows the town's housing: coarse basalt-block walls, a courtyard with stairs leading to the roof, and (per the fetched Wikipedia article) a roof 'constructed of light wooden beams and thatch mixed with mud' - a roof that could be dug open. The excavation shows the construction custom, not this digging."}
+{"from": "claim:mk-02-04-roof-dug-through", "type": "documented_by", "to": "source:wikipedia-capernaum-roof"}
+{"from": "claim:mk-02-14-levi-alphaeus-tax-office", "type": "documented_by", "to": "source:wikipedia-matthew-levi"}
+{"from": "claim:mk-02-14-levi-alphaeus-tax-office", "type": "documented_by", "to": "source:wikipedia-calling-matthew-telonion"}
+{"from": "claim:mk-02-26-abiathar-high-priest", "type": "documented_by", "to": "source:wikipedia-abiathar-mark"}
+{"from": "person:levi-son-of-alphaeus", "type": "documented_by", "to": "source:wikipedia-matthew-levi"}
+{"from": "person:abiathar", "type": "documented_by", "to": "source:wikipedia-abiathar-mark"}
+{"from": "claim:mk-02-04-roof-dug-through", "type": "related_to", "to": "claim:mt-09-02-paralytic-carried", "note": "Difference: Mark 2:4 records digging through the roof and lowering the mat; Matthew 9:2 simply has the paralytic brought to Jesus. The Wikipedia Capernaum article notes 'the narrative in Matthew 9:2-7 does not mention the paralytic being lowered through the roof'."}
+{"from": "claim:mk-02-14-levi-alphaeus-tax-office", "type": "related_to", "to": "claim:mt-09-09-matthew-tax-office", "note": "Name difference: Mark 2:14 names the tax collector Levi son of Alphaeus; Matthew 9:9 names Matthew at the telonion. The fetched Wikipedia article states the parallel passages 'do not associate it with the name Matthew'."}
+{"from": "person:levi-son-of-alphaeus", "type": "related_to", "to": "person:matthew-the-apostle", "note": "Traditional identification, not made by the texts: Mark 2:14 calls him Levi son of Alphaeus, Matthew 9:9 calls him Matthew; the fetched article says the passages 'do not associate it with the name Matthew'."}
+{"from": "claim:mk-02-26-abiathar-high-priest", "type": "related_to", "to": "claim:mt-12-03-david-showbread", "note": "Priest-name difference: Mark 2:26 dates the showbread episode to 'Abiathar the high priest'; Matthew 12:4 follows 1 Samuel 21, where the priest at Nob is Ahimelech, Abiathar's father. The fetched Wikipedia article calls it 'a similar confusion', noting suggestions (double names, or Abiathar officiating in his father's stead) that 'have not been fully accepted'."}
+{"from": "text:1-samuel-21-showbread", "type": "related_to", "to": "claim:mk-02-26-abiathar-high-priest", "note": "1 Samuel 21:1-6, the account Jesus cites, names Ahimelech son of Ahitub as the priest at Nob, not Abiathar. Biblical cross-reference, recorded as related_to."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-02-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-02-28"}
+{"from": "artifact:arch-of-titus-showbread-table", "type": "attests", "to": "claim:mk-02-26-abiathar-high-priest", "grade": "C", "note": "The Arch of Titus relief (71 CE) depicts the showbread table carried in the triumph over Judea - the showbread practice was an institutional Second Temple custom. It attests the practice in the 1st century CE, not David's 10th-century-BCE episode, hence C."}
+{"from": "artifact:arch-of-titus-showbread-table", "type": "documented_by", "to": "source:wikipedia-showbread"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-01"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-02"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-03"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-04"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-05"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-06"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-07"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-08"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-09"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-10"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-11"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-12"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-13"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-14"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-15"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-16"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-17"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-18"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-19"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-20"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-21"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-22"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-23"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-24"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-25"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-26"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-27"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-02-28"}

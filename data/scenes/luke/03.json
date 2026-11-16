@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 3,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    20
+   ],
+   "setting": "place:jordan-river",
+   "confidence": "stated",
+   "basis": "3:3 \"He came into all the region around the Jordan, preaching the baptism of repentance for remission of sins\""
+  },
+  {
+   "verses": [
+    21,
+    22
+   ],
+   "setting": "place:jordan-river",
+   "confidence": "stated",
+   "basis": "3:21 \"when all the people were baptized, Jesus also had been baptized\" - at the Jordan of 3:3"
+  },
+  {
+   "verses": [
+    23,
+    38
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "Genealogy only; \"being the son (as was supposed) of Joseph\" (3:23) is a genealogical note, not a scene"
+  }
+ ]
+}

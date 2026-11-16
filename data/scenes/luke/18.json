@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 18,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    14
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "18:1 \"He also spoke a parable to them\" - the two parables name no place"
+  },
+  {
+   "verses": [
+    15,
+    34
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "18:15 \"They were also bringing their babies to him\"; \"we are going up to Jerusalem\" (18:31) is speech on the unnamed road"
+  },
+  {
+   "verses": [
+    35,
+    43
+   ],
+   "setting": "place:jericho",
+   "confidence": "stated",
+   "basis": "18:35 \"As he came near Jericho, a certain blind man sat by the road, begging\""
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "book": "matthew",
+  "chapter": 16,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        4
+      ],
+      "setting": "place:magdala",
+      "basis": "16:1 \"The Pharisees and Sadducees came\" to Jesus with no movement of Jesus; continuing 15:39 \"the borders of Magdala\"",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        5,
+        12
+      ],
+      "setting": null,
+      "basis": "16:5 \"The disciples came to the other side\" - the landing place is unnamed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        13,
+        28
+      ],
+      "setting": "place:caesarea-philippi",
+      "basis": "16:13 \"when Jesus came into the parts of Caesarea Philippi\"",
+      "confidence": "stated"
+    }
+  ]
+}

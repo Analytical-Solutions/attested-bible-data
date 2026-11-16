@@ -1,0 +1,104 @@
+{"from": "passage:mt-03-01", "type": "asserts", "to": "claim:mt-03-01-john-preached-wilderness"}
+{"from": "passage:mt-03-02", "type": "asserts", "to": "claim:mt-03-02-repentance-kingdom"}
+{"from": "passage:mt-03-03", "type": "asserts", "to": "claim:mt-03-03-isaiah-40-3-applied"}
+{"from": "passage:mt-03-04", "type": "asserts", "to": "claim:mt-03-04-camel-hair-garment"}
+{"from": "passage:mt-03-04", "type": "asserts", "to": "claim:mt-03-04-locusts-wild-honey"}
+{"from": "passage:mt-03-05", "type": "asserts", "to": "claim:mt-03-05-crowds-from-judea"}
+{"from": "passage:mt-03-06", "type": "asserts", "to": "claim:mt-03-06-baptized-in-jordan"}
+{"from": "passage:mt-03-07", "type": "asserts", "to": "claim:mt-03-07-pharisees-sadducees"}
+{"from": "passage:mt-03-13", "type": "asserts", "to": "claim:mt-03-13-jesus-baptized"}
+{"from": "claim:mt-03-01-john-preached-wilderness", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-01-john-preached-wilderness", "type": "mentions", "to": "place:judaean-desert"}
+{"from": "claim:mt-03-01-john-preached-wilderness", "type": "mentions", "to": "place:judea"}
+{"from": "claim:mt-03-02-repentance-kingdom", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-03-isaiah-40-3-applied", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-04-camel-hair-garment", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-04-locusts-wild-honey", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-05-crowds-from-judea", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-05-crowds-from-judea", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-03-05-crowds-from-judea", "type": "mentions", "to": "place:judea"}
+{"from": "claim:mt-03-05-crowds-from-judea", "type": "mentions", "to": "place:jordan-river"}
+{"from": "claim:mt-03-06-baptized-in-jordan", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-06-baptized-in-jordan", "type": "mentions", "to": "place:jordan-river"}
+{"from": "claim:mt-03-07-pharisees-sadducees", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-13-jesus-baptized", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-03-13-jesus-baptized", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-03-13-jesus-baptized", "type": "mentions", "to": "place:jordan-river"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-john"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-john-baptism"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-john-crowds"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-sects"}
+{"from": "text:1qs-8-13-14", "type": "documented_by", "to": "source:wikipedia-john-1-23"}
+{"from": "text:leviticus-11-locusts", "type": "documented_by", "to": "source:wikipedia-entomophagy"}
+{"from": "text:2-kings-1-8", "type": "documented_by", "to": "source:wikipedia-john-the-baptist"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:wikipedia-great-isaiah-scroll"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:wikipedia-great-isaiah-scroll-found"}
+{"from": "site:qumran", "type": "documented_by", "to": "source:wikipedia-qumran"}
+{"from": "site:qumran", "type": "documented_by", "to": "source:wikipedia-mikveh"}
+{"from": "site:qumran", "type": "documented_by", "to": "source:wikipedia-judaean-desert"}
+{"from": "site:bethany-beyond-jordan", "type": "documented_by", "to": "source:wikipedia-al-maghtas"}
+{"from": "site:bethany-beyond-jordan", "type": "documented_by", "to": "source:wikipedia-al-maghtas-pools"}
+{"from": "site:bethany-beyond-jordan", "type": "documented_by", "to": "source:wikipedia-al-maghtas-historicity"}
+{"from": "site:bethany-beyond-jordan", "type": "documented_by", "to": "source:wikipedia-al-maghtas-origen"}
+{"from": "site:bethany-beyond-jordan", "type": "documented_by", "to": "source:wikipedia-jordan-river"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:john-the-baptist", "grade": "A", "note": "Josephus names 'John, that was called the Baptist', a good man who commanded the Jews to exercise virtue and come to baptism, and records Herod Antipas putting him to death."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-03-01-john-preached-wilderness", "grade": "B", "note": "Josephus confirms John the Baptist as a real preacher who drew crowds and was executed by Herod; he never mentions the wilderness of Judea, so the verse's location stays unconfirmed."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-03-02-repentance-kingdom", "grade": "C", "note": "Josephus says John 'commanded the Jews to exercise virtue, both as to righteousness towards one another, and piety towards God' - a preacher of repentance, though he says nothing of the Kingdom of Heaven."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-03-05-crowds-from-judea", "grade": "C", "note": "'Now when [many] others came in crowds about him, for they were very greatly moved [or pleased] by hearing his words' - mass crowds gathered to John, though Josephus names no originating regions."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-03-06-baptized-in-jordan", "grade": "C", "note": "Josephus confirms that John administered a washing with water to Jews who came to him; he does not state the place, so the Jordan setting rests on the gospel text."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-03-13-jesus-baptized", "grade": "C", "note": "Josephus attests John's fame and his crowds, the setting into which Matthew places Jesus' journey to the Jordan; he never mentions Jesus' baptism."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "place:judea", "grade": "C", "note": "Josephus situates John's movement among the Jews under Herod Antipas and Aretas; the general Judean setting is contextual, not a naming of the wilderness of Judea."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-03-07-pharisees-sadducees", "grade": "A", "note": "Josephus: 'The Jews had for a great while had three sects of philosophy peculiar to themselves; the sect of the Essens, and the sect of the Sadducees, and the third sort of opinions was that of those called Pharisees' - both parties of Matt 3:7 named as real groups."}
+{"from": "text:1qs-8-13-14", "type": "attests", "to": "claim:mt-03-03-isaiah-40-3-applied", "grade": "C", "note": "Wikipedia (John 1:23, citing Keener): 'the Qumran community applied Isaiah 40:3 to its own mission, using it to justify a total withdrawal into the wilderness (1QS 8:13-14)' - the same scriptural use Matthew makes, in John's environment."}
+{"from": "text:1qs-8-13-14", "type": "attests", "to": "place:judaean-desert", "grade": "C", "note": "1QS 8.13-14 shows a Jewish community of the period justifying total withdrawal into the wilderness by Isaiah 40:3 - the wilderness of Judea as a living religious setting."}
+{"from": "text:leviticus-11-locusts", "type": "related_to", "to": "claim:mt-03-04-locusts-wild-honey", "note": "Biblical cross-reference, not independent evidence: Wikipedia (Entomophagy in humans): 'for the ancient Israelites, Leviticus 11 prescribes allowing the consumption of four types of locusts' - locusts were permitted food in John's culture."}
+{"from": "text:2-kings-1-8", "type": "related_to", "to": "claim:mt-03-04-camel-hair-garment", "note": "Biblical cross-reference, not independent evidence: Wikipedia (John the Baptist): 'Matthew and Mark describe John's attire in a way reminiscent of the description of Elijah in 2 Kings 1:8, who also wore a garment of hair and a leather belt' - the costume signals an Elijah-like prophet."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-03-03-isaiah-40-3-applied", "grade": "B", "note": "The Great Isaiah Scroll, dated ca. 125 BCE, contains the entire Book of Isaiah including chapter 40 - the prophecy Matthew quotes existed in Hebrew a century and a half before John. Graded B by architect decision: the scroll shows the quoted Isaiah text existed before Jesus, which is the specific point of a quotation claim."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "place:judaean-desert", "grade": "C", "note": "The scroll was found in Qumran Cave 1 in the Judaean desert - the wilderness was a landscape of manuscripts and ascetic communities."}
+{"from": "site:bethany-beyond-jordan", "type": "attests", "to": "claim:mt-03-06-baptized-in-jordan", "grade": "B", "note": "Al-Maghtas, a UNESCO site on the east bank of the Jordan, contains buildings 'with both aspects of a Jewish mikveh (ritual bath) resembling Second Temple period pools from Qumran', and has been venerated as John's baptism place since at least the Byzantine period."}
+{"from": "site:bethany-beyond-jordan", "type": "attests", "to": "claim:mt-03-13-jesus-baptized", "grade": "D", "note": "The site is 'reputed to be the location of the Baptism of Jesus by John the Baptist and venerated as such since at least the Byzantine period'; its identification is disputed - the page quotes the Washington Post: 'There is no archaeological evidence of Jesus ever having been baptized in these waters', and Origen knew no Bethany east of the Jordan."}
+{"from": "site:bethany-beyond-jordan", "type": "attests", "to": "place:jordan-river", "grade": "B", "note": "The site lies on the east bank of the Jordan River, fixing the river's course and its role as the baptism frontier between Judea and Perea."}
+{"from": "site:qumran", "type": "attests", "to": "claim:mt-03-06-baptized-in-jordan", "grade": "C", "note": "At Qumran, 'Jewish ritual baths' were found among the excavated structures, and hundreds of Second Temple-period mikvot are known across the land - water-immersion was an established Jewish custom in John's region and period."}
+{"from": "site:qumran", "type": "attests", "to": "place:judaean-desert", "grade": "C", "note": "Wikipedia (Judaean Desert): 'The desert also attracted religious sects, including the classical-era Jewish ascetics of Qumran (likely Essenes)' - the wilderness was inhabited by ascetic communities."}
+{"from": "site:bethany-beyond-jordan", "type": "complicates", "to": "claim:mt-03-13-jesus-baptized", "note": "The Al-Maghtas historicity section quotes the Washington Post: 'There is no archaeological evidence of Jesus ever having been baptized in these waters'; the identification rests on Byzantine-era veneration."}
+{"from": "site:bethany-beyond-jordan", "type": "complicates", "to": "claim:mt-03-06-baptized-in-jordan", "note": "Origen, in the 3rd century, noticed 'there was no place called Bethany east of the Jordan' and suggested amending the name to Bethabara - the gospel place-name was already unstable."}
+{"from": "text:josephus-ant-18-116-119", "type": "complicates", "to": "claim:mt-03-06-baptized-in-jordan", "note": "Josephus's John baptises 'not in order to the putting away [or the remission] of some sins [only], but for the purification of the body' - unlike Matthew's 'baptism of repentance' for confessed sins."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-03-17"}
+{"from": "text:pliny-nh-5-essenes", "type": "documented_by", "to": "source:perseus-pliny-5-essenes"}
+{"from": "text:pliny-nh-5-essenes", "type": "attests", "to": "place:judaean-desert", "grade": "C", "note": "Pliny (NH 5.73) locates the Esseni 'on the west of Asphaltites' (the Dead Sea), a settled ascetic Jewish community in the Judaean wilderness, 'marvellous beyond all others throughout the whole earth'."}
+{"from": "text:pliny-nh-5-essenes", "type": "attests", "to": "claim:mt-03-01-john-preached-wilderness", "grade": "C", "note": "Pliny does not mention John, but the Dead Sea wilderness he describes was home to the ascetic Esseni - contextual support for the wilderness of Judea as a living religious setting in the first century."}
+{"from": "site:bethany-beyond-jordan", "type": "related_to", "to": "place:beyond-the-jordan", "note": "Al-Maghtas lies on the east bank of the Jordan, the 'beyond the Jordan' region that Matt 4:25 names as a source of the crowds; John's earlier activity at the Jordan ford (Matt 3) drew from the same region."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-03-17"}

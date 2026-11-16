@@ -1,0 +1,186 @@
+{"from": "passage:mt-16-01", "type": "asserts", "to": "claim:mt-16-01-seek-sign"}
+{"from": "passage:mt-16-01", "type": "asserts", "to": "claim:mt-16-01-pharisees-sadducees"}
+{"from": "passage:mt-16-02", "type": "asserts", "to": "claim:mt-16-02-weather-lore"}
+{"from": "passage:mt-16-03", "type": "asserts", "to": "claim:mt-16-02-weather-lore"}
+{"from": "passage:mt-16-04", "type": "asserts", "to": "claim:mt-16-04-sign-of-jonah"}
+{"from": "passage:mt-16-05", "type": "asserts", "to": "claim:mt-16-05-forgot-bread"}
+{"from": "passage:mt-16-05", "type": "asserts", "to": "claim:mt-16-06-leaven-warning"}
+{"from": "passage:mt-16-06", "type": "asserts", "to": "claim:mt-16-06-leaven-warning"}
+{"from": "passage:mt-16-07", "type": "asserts", "to": "claim:mt-16-05-forgot-bread"}
+{"from": "passage:mt-16-08", "type": "asserts", "to": "claim:mt-16-05-forgot-bread"}
+{"from": "passage:mt-16-09", "type": "asserts", "to": "claim:mt-16-09-five-loaves-recalled"}
+{"from": "passage:mt-16-09", "type": "asserts", "to": "claim:mt-16-06-leaven-warning"}
+{"from": "passage:mt-16-10", "type": "asserts", "to": "claim:mt-16-10-seven-loaves-recalled"}
+{"from": "passage:mt-16-11", "type": "asserts", "to": "claim:mt-16-06-leaven-warning"}
+{"from": "passage:mt-16-12", "type": "asserts", "to": "claim:mt-16-06-leaven-warning"}
+{"from": "passage:mt-16-13", "type": "asserts", "to": "claim:mt-16-13-caesarea-philippi"}
+{"from": "passage:mt-16-13", "type": "asserts", "to": "claim:mt-16-13-son-of-man-question"}
+{"from": "passage:mt-16-14", "type": "asserts", "to": "claim:mt-16-14-popular-identifications"}
+{"from": "passage:mt-16-15", "type": "asserts", "to": "claim:mt-16-16-peters-confession"}
+{"from": "passage:mt-16-16", "type": "asserts", "to": "claim:mt-16-16-peters-confession"}
+{"from": "passage:mt-16-17", "type": "asserts", "to": "claim:mt-16-17-simon-bar-jonah"}
+{"from": "passage:mt-16-18", "type": "asserts", "to": "claim:mt-16-18-petros-petra"}
+{"from": "passage:mt-16-18", "type": "asserts", "to": "claim:mt-16-18-gates-of-hades"}
+{"from": "passage:mt-16-19", "type": "asserts", "to": "claim:mt-16-19-keys-of-kingdom"}
+{"from": "passage:mt-16-19", "type": "asserts", "to": "claim:mt-16-19-binding-loosing"}
+{"from": "passage:mt-16-21", "type": "asserts", "to": "claim:mt-16-21-jerusalem-suffering"}
+{"from": "passage:mt-16-24", "type": "asserts", "to": "claim:mt-16-24-take-up-cross"}
+{"from": "passage:mt-16-27", "type": "asserts", "to": "claim:mt-16-27-son-of-man-glory"}
+{"from": "passage:mt-16-28", "type": "asserts", "to": "claim:mt-16-28-coming-in-kingdom"}
+{"from": "claim:mt-16-04-sign-of-jonah", "type": "mentions", "to": "person:jonah-the-prophet"}
+{"from": "claim:mt-16-04-sign-of-jonah", "type": "mentions", "to": "place:nineveh"}
+{"from": "claim:mt-16-13-caesarea-philippi", "type": "mentions", "to": "place:caesarea-philippi"}
+{"from": "claim:mt-16-13-caesarea-philippi", "type": "mentions", "to": "person:philip-the-tetrarch"}
+{"from": "claim:mt-16-13-caesarea-philippi", "type": "mentions", "to": "person:herod-the-great"}
+{"from": "claim:mt-16-13-son-of-man-question", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-16-13-son-of-man-question", "type": "mentions", "to": "place:caesarea-philippi"}
+{"from": "claim:mt-16-14-popular-identifications", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-16-14-popular-identifications", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-16-16-peters-confession", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-16-16-peters-confession", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-16-17-simon-bar-jonah", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-16-21-jerusalem-suffering", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-16-21-jerusalem-suffering", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-16-24-take-up-cross", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-16-27-son-of-man-glory", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-16-01-pharisees-sadducees", "grade": "A", "note": "Josephus: 'The Jews had for a great while had three sects of philosophy peculiar to themselves; the sect of the Essens, and the sect of the Sadducees, and the third sort of opinions was that of those called Pharisees' - both parties of Matt 16:1 named as real groups (reuse of the ch 03/12 evidence at its grade)."}
+{"from": "observation:red-sky-weather-wisdom", "type": "attests", "to": "claim:mt-16-02-weather-lore", "grade": "C", "note": "At middle latitudes the prevailing winds travel west to east, so an evening red sky (high pressure from the west) precedes fair weather and a morning red sky warns of an approaching low-pressure storm - the meteorology behind Matt 16:2-3's two-line weather rule."}
+{"from": "site:nineveh", "type": "attests", "to": "claim:mt-16-04-sign-of-jonah", "grade": "C", "note": "The excavated mounds of Kuyunjik and Nebi Yunus, identified as the great city of Jonah's preaching (reused from ch 12 at contextual strength for the Jonah sign the generation sought)."}
+{"from": "artifact:tabun-oven", "type": "attests", "to": "claim:mt-16-05-forgot-bread", "grade": "C", "note": "The clay tabun oven, the household baking installation in use since antiquity: bread baked in such ovens was the daily staple the disciples had forgotten to carry (reused from ch 13)."}
+{"from": "artifact:tabun-oven", "type": "attests", "to": "claim:mt-16-06-leaven-warning", "grade": "C", "note": "Household breadmaking with leavened dough in clay ovens was ordinary village practice in Galilee and Judaea - the everyday practice behind the 'leaven of the Pharisees and Sadducees' figure (reused from ch 13)."}
+{"from": "artifact:tabgha-loaves-mosaic", "type": "attests", "to": "claim:mt-16-09-five-loaves-recalled", "grade": "D", "note": "The 5th-century Tabgha altar mosaic depicting 'two fish flanking a basket containing four loaves of bread' is a later commemoration of the feeding tradition Jesus recalls here (it shows four loaves, not five) - tradition evidence only, not evidence of the event (reuse of the ch 14 grade)."}
+{"from": "text:josephus-ant-18-bethsaida", "type": "attests", "to": "place:caesarea-philippi", "grade": "A", "note": "Josephus (Ant. 18.28, the same passage as the Bethsaida/Julias note): 'When Philip also had built Paneas, a city at the fountains of Jordan, he named it Cesarea' - Philip the Tetrarch refounded Paneas as Caesarea, the 'Caesarea Philippi' of Matt 16:13."}
+{"from": "site:banias", "type": "identified_as", "to": "place:caesarea-philippi", "note": "The excavated town of Paneas/Banias with the sanctuary of Pan is identified as the Caesarea Philippi of the Gospels; the identification of Herod's temple to Augustus with nearby Omrit is separately debated."}
+{"from": "site:banias", "type": "attests", "to": "place:caesarea-philippi", "grade": "A", "note": "Excavations (Maoz, Area A temples; Tzaferis, Area B civic centre) uncovered the shrine of Pan and the remains of the Hellenistic-Roman city Philip made his capital as Caesarea Philippi - the excavated town itself."}
+{"from": "site:banias", "type": "attests", "to": "claim:mt-16-13-caesarea-philippi", "grade": "B", "note": "The excavated Pan sanctuary - grotto, temple at the mouth of the cave, courtyards and statue niches on the 80 m terrace - confirms the specific pagan setting of the region Jesus visited."}
+{"from": "text:josephus-ant-15-panion", "type": "attests", "to": "claim:mt-16-13-caesarea-philippi", "grade": "B", "note": "Josephus (Ant. 15.363): Herod built a temple 'of the whitest stone' at the cave and Jordan springs near 'the place called Panlure' [Panium], 'which he dedicated to Caesar' - the Augusteum and the Pan grotto at the site, before Philip's refounding."}
+{"from": "text:josephus-war-1-panion", "type": "attests", "to": "claim:mt-16-13-caesarea-philippi", "grade": "B", "note": "Josephus (War 1.404): 'a temple of white marble, hard by the fountains of Jordan: the place is called Panium', with the mountain-top and the dark cave below - the same sanctuary and grotto setting (reuse-grade B, as in ch 14 for War texts)."}
+{"from": "artifact:augusteum-panion", "type": "attests", "to": "claim:mt-16-13-caesarea-philippi", "grade": "D", "note": "Herod's temple to Augustus at Panion (Josephus Ant. 15.363; War 1.404) is attested in text, and its remains are reported 'found in the nearby site of Omrit' - the exact location is disputed, so the excavated temple is graded D."}
+{"from": "artifact:banias-pan-echo-inscription", "type": "attests", "to": "claim:mt-16-13-caesarea-philippi", "grade": "B", "note": "A four-line niche inscription from the sanctuary 'relates to Pan and Echo, the mountain nymph, and was dated to 87 BCE' - excavated evidence of the Pan cult at the grotto two centuries before Jesus."}
+{"from": "artifact:philip-tetrarch-coins", "type": "attests", "to": "person:philip-the-tetrarch", "grade": "A", "note": "Philip's bronze coins carry the Greek inscription 'ΦΙΛΙΠΠΟΥ ΤΕΤΡΑΡΧΟΥ' ('of Philip the Tetrarch') beside portraits of Augustus and Tiberius - coins naming the tetrarch himself."}
+{"from": "artifact:philip-tetrarch-coins", "type": "attests", "to": "place:caesarea-philippi", "grade": "B", "note": "Coins of the tetrarch whose capital this city was: he 'developed the city, resided there, and struck coins with images of its buildings' (Encyclopaedia Judaica via JVL); his dated coins (years 5-37) also fixed the length of his reign against Josephus."}
+{"from": "text:1-enoch-62-son-of-man", "type": "attests", "to": "claim:mt-16-27-son-of-man-glory", "grade": "C", "note": "1 Enoch 62:5-9 expects 'that Son of Man Sitting on the throne of his glory', before whom kings and the mighty fall down - a pre-Christian Jewish expectation of an exalted, glorious Son of Man (context for Matt 16:27)."}
+{"from": "text:josephus-war-1-bind-loose", "type": "attests", "to": "claim:mt-16-19-binding-loosing", "grade": "C", "note": "Josephus (War 1.110) says the Pharisees under Queen Alexandra 'became themselves the real administrators of the public affairs... they bound and loosed [men] at their pleasure' - the bind/loose idiom applied to Pharisaic halakhic authority in exactly this period."}
+{"from": "text:mishnah-eduyot-8-7", "type": "attests", "to": "claim:mt-16-14-popular-identifications", "grade": "C", "note": "Rabbinic tradition expects Elijah to return before the day of the Lord ('Behold I send to you Elijah the prophet...'), the living expectation behind the 'some say Elijah' answer (reuse of the ch 11 grade). Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "claim:mt-16-21-jerusalem-suffering", "grade": "C", "note": "Josephus shows the sanhedrim of judges sitting at Jerusalem and condemning 'breakers of the law' (Ananus, c. 62 CE) - the council establishment of elders, chief priests and scribes that could kill (reuse from ch 05 at contextual strength for this prediction)."}
+{"from": "text:josephus-ant-17-death", "type": "attests", "to": "claim:mt-16-21-jerusalem-suffering", "grade": "C", "note": "Josephus shows Herod appointing and deposing high priests in his last days, confirming the priestly establishment in Jerusalem (reuse of the ch 02 grade-C context for 'chief priests')."}
+{"from": "artifact:yehohanan-heel-bone", "type": "attests", "to": "claim:mt-16-24-take-up-cross", "grade": "B", "note": "The excavated (1968, Giv'at ha-Mivtar) heel bone of Yehohanan, crucified in the 1st century CE, with a nail driven through it: crucifixion was physically practiced in Judaea in the exact period, so 'take up his cross' pointed to a known death (reuse of the ch 10 grade)."}
+{"from": "text:josephus-war-2-varus", "type": "attests", "to": "claim:mt-16-24-take-up-cross", "grade": "B", "note": "Josephus (War 2.5.2) records Varus crucifying 'about two thousand' after the disturbances at Herod's death - mass Roman crucifixion in Judaea a generation before Matt 16 (reuse of the ch 10 grade)."}
+{"from": "artifact:lachish-reliefs", "type": "attests", "to": "claim:mt-16-04-sign-of-jonah", "grade": "C", "note": "Sennacherib's palace reliefs were excavated in the South-West Palace at Nineveh (Kuyunjik) - royal monuments from the city of Jonah's preaching (reuse of the ch 12 evidence)."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:john-the-baptist", "grade": "A", "note": "Josephus names 'John, that was called the Baptist: for Herod slew him, who was a good man' - the same person, his death at Herod's hand (18.116-119; reuse of the ch 03/11/14 evidence at its grade)."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "The passage names 'Herod, who feared lest the great influence John had over the people...' and 'Herod slew him'; the identification of that tetrarch with Antipas rests on context (reuse of the ch 14 grade)."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Coins struck under Antipas are attested; Wikipedia notes his coins carried no images (aniconic), so they confirm his minting rule without portrait (reuse of the ch 04 grade)."}
+{"from": "text:mishnah-eduyot-8-7", "type": "attests", "to": "claim:mt-11-14-elijah-to-come", "grade": "C", "note": "Rabbinic tradition expects Elijah to come before the day of the Lord (reuse of the ch 11 evidence at its grade). Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "artifact:tabgha-loaves-mosaic", "type": "attests", "to": "claim:mt-14-17-five-loaves-two-fish", "grade": "D", "note": "The 5th-century altar mosaic 'depicts two fish flanking a basket containing four loaves of bread' - a later commemoration of the feeding tradition, not evidence of the event itself (reuse of the ch 14 grade)."}
+{"from": "artifact:tabun-oven", "type": "attests", "to": "claim:mt-13-33-leaven-three-measures", "grade": "C", "note": "The clay tabun oven, used since antiquity, is the household baking installation in which a leavened batch would be baked (reuse of the ch 13 grade)."}
+{"from": "observation:banias-spring-cave", "type": "attests", "to": "claim:mt-16-13-caesarea-philippi", "grade": "C", "note": "The spring at Banias initially originated in a large cave carved out of the sheer cliff face - the natural grotto-and-spring setting Josephus describes (War 1.404) and around which the sanctuary was built."}
+{"from": "observation:banias-spring-cave", "type": "attests", "to": "claim:mt-16-18-gates-of-hades", "grade": "C", "note": "The 'dark cave' at Panium (War 1.404) is the physical feature behind the site's underworld associations; the observation confirms the cave, not any 'gate of the underworld' identification, which no fetched source states."}
+{"from": "observation:banias-spring-cave", "type": "documented_by", "to": "source:wikipedia-banias-cave"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:wikisource-ant-20"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant-18-sects-three"}
+{"from": "text:jonah-nineveh", "type": "documented_by", "to": "source:wikisource-jonah"}
+{"from": "site:nineveh", "type": "documented_by", "to": "source:wikipedia-nineveh"}
+{"from": "site:nineveh", "type": "documented_by", "to": "source:wikipedia-nineveh-mounds"}
+{"from": "place:nineveh", "type": "documented_by", "to": "source:wikipedia-nineveh"}
+{"from": "artifact:lachish-reliefs", "type": "documented_by", "to": "source:lachish-reliefs-wiki"}
+{"from": "text:mishnah-eduyot-8-7", "type": "documented_by", "to": "source:sefaria-eduyot-8-7"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-john"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herod-antipas-coins"}
+{"from": "artifact:tabgha-loaves-mosaic", "type": "documented_by", "to": "source:wikipedia-church-of-multiplication-mosaic"}
+{"from": "artifact:tabun-oven", "type": "documented_by", "to": "source:wikipedia-tabun-oven"}
+{"from": "artifact:yehohanan-heel-bone", "type": "documented_by", "to": "source:wikipedia-crucifixion-heel"}
+{"from": "text:josephus-war-2-varus", "type": "documented_by", "to": "source:wikisource-jw-2"}
+{"from": "text:josephus-ant-17-death", "type": "documented_by", "to": "source:wikisource-ant17-herod-death"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "site:banias", "type": "documented_by", "to": "source:wikipedia-banias-cave"}
+{"from": "place:caesarea-philippi", "type": "documented_by", "to": "source:wikipedia-banias-cave"}
+{"from": "text:josephus-ant-18-bethsaida", "type": "complicates", "to": "claim:mt-16-13-caesarea-philippi", "note": "Josephus dates Philip's building activity at Paneas/Caesarea to his tetrarchy and the fetched Wikipedia dates the founding of his capital to 3 BCE, while Josephus's own regnal figures for Philip vary (32, 36 or 37 years) - the dating of the refounding is not fixed."}
+{"from": "claim:mt-16-04-sign-of-jonah", "type": "related_to", "to": "text:jonah-nineveh", "note": "Cross-reference: Jonah 1:2; 3:3-5, the book behind the sign of Jonah. A biblical text is not independent evidence."}
+{"from": "claim:mt-16-04-sign-of-jonah", "type": "related_to", "to": "claim:mt-12-39-sign-of-jonah", "note": "The same sign saying as Matt 12:39; the ch 12 Nineveh evidence is reused at its grades."}
+{"from": "claim:mt-16-06-leaven-warning", "type": "related_to", "to": "claim:mt-13-33-leaven-three-measures", "note": "The leaven figure of the parables (Matt 13:33) is reused for the leaven of the Pharisees and Sadducees."}
+{"from": "claim:mt-16-09-five-loaves-recalled", "type": "related_to", "to": "claim:mt-14-17-five-loaves-two-fish", "note": "In-graph recall: the five loaves and two fish of Matt 14:17 that Jesus tells the disciples to remember."}
+{"from": "claim:mt-16-09-five-loaves-recalled", "type": "related_to", "to": "claim:mt-14-21-five-thousand-men", "note": "In-graph recall: the about five thousand men of Matt 14:21."}
+{"from": "claim:mt-16-10-seven-loaves-recalled", "type": "related_to", "to": "claim:mt-14-21-five-thousand-men", "note": "The seven-loaves feeding of Matt 15:32-39 (chapter 15, in flight) parallels the five-thousand feeding of ch 14."}
+{"from": "claim:mt-16-14-popular-identifications", "type": "related_to", "to": "text:malachi-4-5", "note": "Cross-reference: Malachi 4:5, 'I will send you Elijah the prophet', the scriptural basis of the Elijah expectation. A biblical text is not independent evidence."}
+{"from": "claim:mt-16-14-popular-identifications", "type": "related_to", "to": "claim:mt-11-14-elijah-to-come", "note": "The Elijah-who-is-to-come expectation of ch 11 is reused for the 'some say Elijah' answer."}
+{"from": "claim:mt-16-18-gates-of-hades", "type": "related_to", "to": "claim:mt-05-22-gehenna-fire", "note": "Both sayings draw on the geography of the underworld (Hades / Gehenna); see ch 05 for the Gehenna evidence."}
+{"from": "claim:mt-16-19-keys-of-kingdom", "type": "related_to", "to": "text:isaiah-22-22", "note": "Cross-reference: Isaiah 22:22, 'the key of the house of David... he will open, and no one will shut' - the key-of-David background of the keys saying. A biblical text is not independent evidence."}
+{"from": "claim:mt-16-19-binding-loosing", "type": "related_to", "to": "claim:mt-05-19-20-scribes-pharisees", "note": "The bind/loose idiom belongs to the halakhic authority of the scribes and Pharisees ('sit on Moses' seat'); see ch 05."}
+{"from": "claim:mt-16-27-son-of-man-glory", "type": "related_to", "to": "text:daniel-7-13", "note": "Cross-reference: Daniel 7:13, 'one like a son of man' coming with the clouds of the sky - the scriptural background of the coming Son of Man. A biblical text is not independent evidence."}
+{"from": "claim:mt-16-16-peters-confession", "type": "documented_by", "to": "source:wikipedia-banias-philip"}
+{"from": "claim:mt-16-18-petros-petra", "type": "documented_by", "to": "source:wikipedia-confession-peter-rock"}
+{"from": "claim:mt-16-18-gates-of-hades", "type": "documented_by", "to": "source:wikipedia-confession-peter"}
+{"from": "claim:mt-16-19-keys-of-kingdom", "type": "documented_by", "to": "source:wikipedia-confession-peter"}
+{"from": "claim:mt-16-19-binding-loosing", "type": "documented_by", "to": "source:wikipedia-binding-loosing"}
+{"from": "observation:red-sky-weather-wisdom", "type": "documented_by", "to": "source:wikipedia-red-sky"}
+{"from": "place:caesarea-philippi", "type": "documented_by", "to": "source:wikipedia-banias-philip"}
+{"from": "person:philip-the-tetrarch", "type": "documented_by", "to": "source:wikipedia-philip-tetrarch"}
+{"from": "site:banias", "type": "documented_by", "to": "source:wikipedia-banias-sanctuary"}
+{"from": "site:banias", "type": "documented_by", "to": "source:wikipedia-banias-excavators"}
+{"from": "artifact:augusteum-panion", "type": "documented_by", "to": "source:wikipedia-banias-augusteum"}
+{"from": "artifact:augusteum-panion", "type": "documented_by", "to": "source:wikipedia-banias-omrit"}
+{"from": "artifact:philip-tetrarch-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage-philip"}
+{"from": "artifact:philip-tetrarch-coins", "type": "documented_by", "to": "source:wikipedia-philip-tetrarch-coins-dating"}
+{"from": "artifact:banias-pan-echo-inscription", "type": "documented_by", "to": "source:wikipedia-banias-echo"}
+{"from": "text:josephus-ant-15-panion", "type": "documented_by", "to": "source:wikisource-ant-15-panion"}
+{"from": "text:josephus-ant-15-panion", "type": "documented_by", "to": "source:wikisource-ant-15-panion-dedication"}
+{"from": "text:josephus-war-1-panion", "type": "documented_by", "to": "source:wikisource-war1-panion"}
+{"from": "text:josephus-war-1-panion", "type": "documented_by", "to": "source:wikisource-war1-cave"}
+{"from": "text:josephus-war-1-bind-loose", "type": "documented_by", "to": "source:wikisource-war1-bind-loose"}
+{"from": "text:josephus-ant-18-bethsaida", "type": "documented_by", "to": "source:wikisource-ant18-paneas"}
+{"from": "text:1-enoch-62-son-of-man", "type": "documented_by", "to": "source:wikisource-enoch-62"}
+{"from": "text:isaiah-22-22", "type": "documented_by", "to": "source:bible-api-isaiah-22-22"}
+{"from": "text:daniel-7-13", "type": "documented_by", "to": "source:bible-api-daniel-7-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-16-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-16-28"}

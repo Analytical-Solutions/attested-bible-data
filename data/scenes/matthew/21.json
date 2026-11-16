@@ -1,0 +1,60 @@
+{
+  "book": "matthew",
+  "chapter": 21,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        9
+      ],
+      "setting": "place:bethphage",
+      "basis": "21:1 \"came near to Jerusalem, and came to Bethsphage, to the Mount of Olives\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        10,
+        11
+      ],
+      "setting": "place:jerusalem",
+      "basis": "21:10 \"When he had come into Jerusalem, all the city was stirred up\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        12,
+        16
+      ],
+      "setting": "site:second-temple",
+      "basis": "21:12 \"Jesus entered into the temple of God, and drove out all of those who sold and bought in the temple\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        17,
+        17
+      ],
+      "setting": "place:bethany",
+      "basis": "21:17 \"He left them, and went out of the city to Bethany, and camped there\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        18,
+        22
+      ],
+      "setting": null,
+      "basis": "21:18 \"in the morning, as he returned to the city... a fig tree by the road\" - the roadside between Bethany and Jerusalem has no id",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        23,
+        46
+      ],
+      "setting": "site:second-temple",
+      "basis": "21:23 \"When he had come into the temple, the chief priests and the elders of the people came to him as he was teaching\"",
+      "confidence": "stated"
+    }
+  ]
+}

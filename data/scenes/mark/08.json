@@ -1,0 +1,51 @@
+{
+  "book": "mark",
+  "chapter": 8,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        9
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "8:1-9 the feeding continues at the sea (7:31) - \"here in a deserted place\" (8:4); no movement of Jesus",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        10,
+        12
+      ],
+      "setting": "place:dalmanutha",
+      "basis": "8:10 \"he entered into the boat with his disciples, and came into the region of Dalmanutha\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        13,
+        21
+      ],
+      "setting": null,
+      "basis": "8:13 \"again entering into the boat, departed to the other side\" - the landing place is unnamed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        22,
+        26
+      ],
+      "setting": "place:bethsaida",
+      "basis": "8:22 \"He came to Bethsaida. They brought a blind man to him\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        27,
+        38
+      ],
+      "setting": "place:caesarea-philippi",
+      "basis": "8:27 \"Jesus went out, with his disciples, into the villages of Caesarea Philippi\"",
+      "confidence": "stated"
+    }
+  ]
+}

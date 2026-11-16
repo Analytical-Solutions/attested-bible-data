@@ -1,0 +1,137 @@
+{
+ "source:bible-api-daniel-7-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+7:13?translation=web"
+ },
+ "source:bible-api-deuteronomy-24-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+24:1?translation=web"
+ },
+ "source:bible-api-exodus-20-13-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/exodus+20:13-16?translation=web"
+ },
+ "source:bible-api-genesis-1-27": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+1:27?translation=web"
+ },
+ "source:bible-api-genesis-2-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+2:24?translation=web"
+ },
+ "source:bible-api-leviticus-19-18": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+19:18?translation=web"
+ },
+ "source:bible-api-tobit-4-7-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/tobit+4:7-11?translation=web"
+ },
+ "source:schechter-damascus-creation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:schechter-damascus-divorce-note": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:sefaria-bava-metzia-38b": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Bava_Metzia.38b"
+ },
+ "source:sefaria-berakhot-55b": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Berakhot.55b"
+ },
+ "source:sefaria-gittin-9-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Gittin.9.10"
+ },
+ "source:sefaria-gittin-9-10-shammai": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Gittin.9.10"
+ },
+ "source:sefaria-tamid-5-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Tamid.5.1"
+ },
+ "source:wikipedia-eunuch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Eunuch"
+ },
+ "source:wikipedia-eye-of-a-needle": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Eye_of_a_needle"
+ },
+ "source:wikipedia-get": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Get_(divorce_document)"
+ },
+ "source:wikipedia-herod-antipas-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Antipas"
+ },
+ "source:wikipedia-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-tv-matthew-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikipedia-wadi-murabbaat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Wadi_Murabba%27at"
+ },
+ "source:wikipedia-wadi-murabbaat-excavation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Wadi_Murabba%27at"
+ },
+ "source:wikisource-ant16-eunuchs": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVI"
+ },
+ "source:wikisource-enoch-62": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_62"
+ },
+ "source:wikisource-war2-julias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war2-perea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war3-perea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_III"
+ }
+}

@@ -1,0 +1,284 @@
+{"from": "passage:ac-13-01", "type": "asserts", "to": "claim:ac-13-01-antioch-prophets-teachers"}
+{"from": "passage:ac-13-02", "type": "asserts", "to": "claim:ac-13-02-03-commissioning"}
+{"from": "passage:ac-13-03", "type": "asserts", "to": "claim:ac-13-02-03-commissioning"}
+{"from": "passage:ac-13-04", "type": "asserts", "to": "claim:ac-13-04-sailed-from-seleucia"}
+{"from": "passage:ac-13-05", "type": "asserts", "to": "claim:ac-13-05-salamis-synagogues"}
+{"from": "passage:ac-13-05", "type": "asserts", "to": "claim:ac-13-05-john-attendant"}
+{"from": "passage:ac-13-06", "type": "asserts", "to": "claim:ac-13-06-bar-jesus-sorcerer"}
+{"from": "passage:ac-13-08", "type": "asserts", "to": "claim:ac-13-06-bar-jesus-sorcerer"}
+{"from": "passage:ac-13-07", "type": "asserts", "to": "claim:ac-13-07-sergius-paulus-proconsul"}
+{"from": "passage:ac-13-07", "type": "asserts", "to": "claim:ac-13-07-cyprus-proconsular-province"}
+{"from": "passage:ac-13-09", "type": "asserts", "to": "claim:ac-13-09-paul-named-paul"}
+{"from": "passage:ac-13-11", "type": "asserts", "to": "claim:ac-13-11-elymas-blinded"}
+{"from": "passage:ac-13-12", "type": "asserts", "to": "claim:ac-13-12-proconsul-believed"}
+{"from": "passage:ac-13-13", "type": "asserts", "to": "claim:ac-13-13-sailed-to-perga"}
+{"from": "passage:ac-13-13", "type": "asserts", "to": "claim:ac-13-13-john-departed"}
+{"from": "passage:ac-13-14", "type": "asserts", "to": "claim:ac-13-14-antioch-pisidia-sabbath"}
+{"from": "passage:ac-13-15", "type": "asserts", "to": "claim:ac-13-15-reading-law-prophets"}
+{"from": "passage:ac-13-16", "type": "asserts", "to": "claim:ac-13-16-god-fearers"}
+{"from": "passage:ac-13-26", "type": "asserts", "to": "claim:ac-13-16-god-fearers"}
+{"from": "passage:ac-13-22", "type": "asserts", "to": "claim:ac-13-22-david-king"}
+{"from": "passage:ac-13-28", "type": "asserts", "to": "claim:ac-13-28-pilate-death"}
+{"from": "passage:ac-13-29", "type": "asserts", "to": "claim:ac-13-29-tomb-burial"}
+{"from": "passage:ac-13-31", "type": "asserts", "to": "claim:ac-13-31-galilee-witnesses"}
+{"from": "passage:ac-13-33", "type": "asserts", "to": "claim:ac-13-33-psalm-2-quoted"}
+{"from": "passage:ac-13-34", "type": "asserts", "to": "claim:ac-13-34-isaiah-55-3-quoted"}
+{"from": "passage:ac-13-35", "type": "asserts", "to": "claim:ac-13-35-psalm-16-10-quoted"}
+{"from": "passage:ac-13-41", "type": "asserts", "to": "claim:ac-13-41-habakkuk-1-5-quoted"}
+{"from": "passage:ac-13-43", "type": "asserts", "to": "claim:ac-13-43-proselytes"}
+{"from": "passage:ac-13-47", "type": "asserts", "to": "claim:ac-13-47-isaiah-49-6-quoted"}
+{"from": "passage:ac-13-50", "type": "asserts", "to": "claim:ac-13-50-expulsion"}
+{"from": "passage:ac-13-51", "type": "asserts", "to": "claim:ac-13-51-shook-dust"}
+{"from": "passage:ac-13-51", "type": "asserts", "to": "claim:ac-13-51-iconium"}
+{"from": "claim:ac-13-01-antioch-prophets-teachers", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-13-01-antioch-prophets-teachers", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-13-01-antioch-prophets-teachers", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-13-01-antioch-prophets-teachers", "type": "mentions", "to": "person:simeon-niger"}
+{"from": "claim:ac-13-01-antioch-prophets-teachers", "type": "mentions", "to": "person:lucius-of-cyrene"}
+{"from": "claim:ac-13-01-antioch-prophets-teachers", "type": "mentions", "to": "person:manaen"}
+{"from": "claim:ac-13-01-antioch-prophets-teachers", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:ac-13-02-03-commissioning", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-13-02-03-commissioning", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-13-04-sailed-from-seleucia", "type": "mentions", "to": "place:seleucia-pieria"}
+{"from": "claim:ac-13-04-sailed-from-seleucia", "type": "mentions", "to": "place:cyprus"}
+{"from": "claim:ac-13-05-salamis-synagogues", "type": "mentions", "to": "place:salamis-cyprus"}
+{"from": "claim:ac-13-05-john-attendant", "type": "mentions", "to": "person:john-mark"}
+{"from": "claim:ac-13-06-bar-jesus-sorcerer", "type": "mentions", "to": "person:bar-jesus-elymas"}
+{"from": "claim:ac-13-06-bar-jesus-sorcerer", "type": "mentions", "to": "place:paphos"}
+{"from": "claim:ac-13-06-bar-jesus-sorcerer", "type": "mentions", "to": "person:sergius-paulus"}
+{"from": "claim:ac-13-07-sergius-paulus-proconsul", "type": "mentions", "to": "person:sergius-paulus"}
+{"from": "claim:ac-13-07-sergius-paulus-proconsul", "type": "mentions", "to": "place:cyprus"}
+{"from": "claim:ac-13-07-cyprus-proconsular-province", "type": "mentions", "to": "place:cyprus"}
+{"from": "claim:ac-13-09-paul-named-paul", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-13-11-elymas-blinded", "type": "mentions", "to": "person:bar-jesus-elymas"}
+{"from": "claim:ac-13-11-elymas-blinded", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-13-12-proconsul-believed", "type": "mentions", "to": "person:sergius-paulus"}
+{"from": "claim:ac-13-13-sailed-to-perga", "type": "mentions", "to": "place:paphos"}
+{"from": "claim:ac-13-13-sailed-to-perga", "type": "mentions", "to": "place:perga"}
+{"from": "claim:ac-13-13-sailed-to-perga", "type": "mentions", "to": "place:pamphylia"}
+{"from": "claim:ac-13-13-john-departed", "type": "mentions", "to": "person:john-mark"}
+{"from": "claim:ac-13-13-john-departed", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-13-14-antioch-pisidia-sabbath", "type": "mentions", "to": "place:antioch-pisidia"}
+{"from": "claim:ac-13-15-reading-law-prophets", "type": "mentions", "to": "place:antioch-pisidia"}
+{"from": "claim:ac-13-16-god-fearers", "type": "mentions", "to": "place:antioch-pisidia"}
+{"from": "claim:ac-13-22-david-king", "type": "mentions", "to": "person:david"}
+{"from": "claim:ac-13-28-pilate-death", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:ac-13-29-tomb-burial", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-13-31-galilee-witnesses", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:ac-13-31-galilee-witnesses", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-13-35-psalm-16-10-quoted", "type": "mentions", "to": "person:david"}
+{"from": "claim:ac-13-43-proselytes", "type": "mentions", "to": "place:antioch-pisidia"}
+{"from": "claim:ac-13-47-isaiah-49-6-quoted", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-13-47-isaiah-49-6-quoted", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-13-50-expulsion", "type": "mentions", "to": "place:antioch-pisidia"}
+{"from": "claim:ac-13-50-expulsion", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-13-50-expulsion", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-13-51-shook-dust", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-13-51-shook-dust", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-13-51-iconium", "type": "mentions", "to": "place:iconium"}
+{"from": "site:salamis-cyprus", "type": "attests", "to": "place:salamis-cyprus", "grade": "A", "note": "The excavated city of Salamis (Cyprus Exploration Fund from the late 19th century; 1952-1974 campaigns) - the place is a documented, excavated site."}
+{"from": "site:paphos-nea-paphos", "type": "attests", "to": "place:paphos", "grade": "A", "note": "Excavated Nea Paphos, the Roman provincial capital with Roman villas, agora, Asklepion, theatre and the Tombs of the Kings - the place named in 13:6-13."}
+{"from": "site:antioch-pisidia", "type": "attests", "to": "place:antioch-pisidia", "grade": "A", "note": "The excavated Roman colony Colonia Caesarea at Yalvac (Michigan 1924; Ramsay; Taslialan): Augusteum, Propylon, Tiberia Platea, western gate - the city of 13:14-50."}
+{"from": "site:perga", "type": "attests", "to": "place:perga", "grade": "A", "note": "Excavations at Perge from 1946 uncovered a theatre, stadium, palaestra, temple of Artemis and two churches - the city of 13:13-14."}
+{"from": "site:seleucia-pieria", "type": "attests", "to": "place:seleucia-pieria", "grade": "A", "note": "Seleucia in Pieria, the Hellenistic seaport of Antioch ad Orontes, survives in ruins with inner and outer Roman harbours - the port of 13:4."}
+{"from": "artifact:sergius-paulus-boundary-stone", "type": "attests", "to": "claim:ac-13-07-sergius-paulus-proconsul", "grade": "D", "note": "Disputed identification: the stone names a L. Sergius Paulus, ex-consul, appointed curator alvei Tiberis in AD 47 - it does not name Cyprus. Mitford: identification with the proconsul of Cyprus is 'at best a conjecture, now somewhat weakened by Myres' reading of IGR iii, 935'."}
+{"from": "artifact:sergius-paulus-boundary-stone", "type": "attests", "to": "person:sergius-paulus", "grade": "D", "note": "Names a L. Sergius Paulus (curator of the Tiber banks, AD 47); the identification with the Cyprus proconsul of Acts 13:7 is a conjecture (Mitford), not established."}
+{"from": "artifact:soli-proconsul-paulus-inscription", "type": "attests", "to": "claim:ac-13-07-sergius-paulus-proconsul", "grade": "D", "note": "Disputed: the Soli (Cyprus) inscription mentions a proconsul Paulus, but Hogarth dated it to the mid-1st century and Mitford argued on epigraphic grounds that it 'cannot be dated earlier than this and is probably considerably later', so it cannot be pinned to the Claudian proconsul of Acts 13."}
+{"from": "text:cassius-dio-54-4-1", "type": "attests", "to": "claim:ac-13-07-cyprus-proconsular-province", "grade": "B", "note": "Dio 54.4.1: Augustus in 22 BCE 'restored to the people both Cyprus and Gallia Narbonensis... and thus proconsuls began to be sent to those provinces also' - Cyprus as a public (senatorial) province under a proconsul, the office-title of 13:7."}
+{"from": "artifact:miletus-godfearers-inscription", "type": "attests", "to": "claim:ac-13-16-god-fearers", "grade": "C", "note": "A Miletus theatre seat inscription (CIJ 748) reserves a place 'of the Jews who are also (called) God-fearers' (theosebeis): Gentile sympathizers attached to a Jewish community in Roman Asia Minor. Later than Acts 13 and from a different province - context, not the Antioch congregation."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:ac-13-15-reading-law-prophets", "grade": "C", "note": "The Theodotos inscription (Jerusalem, 1st century BCE-70 CE) records a synagogue built for 'the reading of the Law' and the teaching of the commandments - synagogue Torah reading as an institution in the period; Jerusalem, not Pisidia, and it does not record the Prophets reading or the invitation."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:ac-13-34-isaiah-55-3-quoted", "grade": "B", "note": "The pre-Christian Great Isaiah Scroll (c. 125 BCE) contains the entire Book of Isaiah, including the quoted Isaiah 55:3 - the calibration's B case for a quoted passage; it attests the pre-Christian form of the quotation, not the speech."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:ac-13-47-isaiah-49-6-quoted", "grade": "B", "note": "The pre-Christian Great Isaiah Scroll (c. 125 BCE) contains the entire Book of Isaiah, including the quoted Isaiah 49:6 - the calibration's B case; it attests the pre-Christian form of the quotation, not the mission application."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:ac-13-28-pilate-death", "grade": "B", "note": "Tacitus, Annals 15.44: Christus 'suffered the extreme penalty... at the hands of one of our procurators, Pontius Pilatus' - confirms the execution under Pilate that 13:28 presupposes; the 'found no cause for death' detail is beyond it."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-13-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-13-52"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-06"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-07"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-08"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-09"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-10"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-11"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-12"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-16"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-25"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-26"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-27"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-28"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-29"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-30"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-31"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-32"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-33"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-34"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-35"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-36"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-46"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-47"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-48"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-49"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-50"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-51"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-13-52"}
+{"from": "claim:ac-13-28-pilate-death", "type": "related_to", "to": "claim:mt-27-02-11-pilate-governor", "note": "Same event told differently: Acts 13:28 adds that the Jerusalem rulers found no cause for death yet asked Pilate to have him killed; Matthew 27:2, 11 records the delivery to and judgment by the governor Pilate."}
+{"from": "claim:ac-13-15-reading-law-prophets", "type": "related_to", "to": "claim:lk-04-16-sabbath-synagogue-custom", "note": "Same Sabbath-synagogue custom in the diaspora (Antioch of Pisidia) and in Nazareth: standing readings of the Law and Prophets; Acts 13:15 adds the rulers' invitation to a visiting speaker."}
+{"from": "claim:ac-13-15-reading-law-prophets", "type": "related_to", "to": "claim:lk-13-14-archisynagogos", "note": "Both passages presuppose the archisynagogos (ruler of the synagogue) officiating; Acts 13:15 has the rulers (plural) send the invitation."}
+{"from": "claim:ac-13-51-shook-dust", "type": "related_to", "to": "claim:mt-10-14-shake-dust", "note": "The same gesture Jesus instructed for rejecting towns in Matthew 10:14 is carried out by Paul and Barnabas leaving Pisidian Antioch (Acts 13:51)."}
+{"from": "claim:ac-13-43-proselytes", "type": "related_to", "to": "claim:ac-13-16-god-fearers", "note": "Two distinct sympathizer groups in one synagogue audience: proselytes (13:43) had become converts, while 'you who fear God' (13:16, 26) names uncircumcised God-fearers."}
+{"from": "claim:ac-13-35-psalm-16-10-quoted", "type": "related_to", "to": "claim:ac-02-25-31-psalm-16-quoted", "note": "The same Psalm 16 'decay' argument made twice in Acts: by Peter at Pentecost (2:25-31) and by Paul at Pisidian Antioch (13:35-37)."}
+{"from": "passage:ac-13-22", "type": "related_to", "to": "text:1-samuel-13-14", "note": "Acts 13:22 quotes/combines 1 Samuel 13:14 ('a man after my heart') in the speech's retelling. Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "passage:ac-13-33", "type": "related_to", "to": "text:psalm-2-7", "note": "Acts 13:33 quotes Psalm 2:7 ('You are my Son. Today I have become your father.'). Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "passage:ac-13-34", "type": "related_to", "to": "text:isaiah-55-3", "note": "Acts 13:34 quotes Isaiah 55:3 ('the holy and sure blessings of David'). Cross-reference, not evidence; the Great Isaiah Scroll carries the passage (B)."}
+{"from": "passage:ac-13-35", "type": "related_to", "to": "text:psalm-16-8-11", "note": "Acts 13:35 quotes Psalm 16:10 ('You will not allow your Holy One to see decay'). Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "passage:ac-13-41", "type": "related_to", "to": "text:habakkuk-1-5", "note": "Acts 13:41 quotes Habakkuk 1:5 as the closing warning. Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "passage:ac-13-47", "type": "related_to", "to": "text:isaiah-49-6", "note": "Acts 13:47 quotes Isaiah 49:6 ('a light for the Gentiles'). Cross-reference, not evidence; the Great Isaiah Scroll carries the passage (B)."}
+{"from": "passage:ac-13-28", "type": "parallels", "to": "passage:lk-23-04", "note": "Luke 23:4: Pilate finds no basis for a charge; Acts 13:28 retells it as 'they found no cause for death'."}
+{"from": "passage:ac-13-28", "type": "parallels", "to": "passage:mt-27-02", "note": "Matthew 27:2: Jesus handed over to Pilate the governor; Acts 13:28 retells the delivery to Pilate."}
+{"from": "passage:ac-13-29", "type": "parallels", "to": "passage:mt-27-59", "note": "Matthew 27:59: Joseph takes the body and lays it in his own tomb; Acts 13:29 retells 'they took him down from the tree, and laid him in a tomb'."}
+{"from": "passage:ac-13-51", "type": "parallels", "to": "passage:mt-10-14", "note": "Matthew 10:14: shake the dust off your feet against a rejecting town; Acts 13:51 shows the gesture performed."}
+{"from": "passage:ac-13-15", "type": "parallels", "to": "passage:lk-04-16", "note": "Luke 4:16: Sabbath synagogue attendance 'as was his custom'; Acts 13:14-15 shows the same custom at Pisidian Antioch with the invitation to speak."}
+{"from": "artifact:sergius-paulus-boundary-stone", "type": "documented_by", "to": "source:wikipedia-sergius-paulus"}
+{"from": "artifact:sergius-paulus-boundary-stone", "type": "documented_by", "to": "source:wikipedia-sergius-paulus-mitford"}
+{"from": "artifact:soli-proconsul-paulus-inscription", "type": "documented_by", "to": "source:wikipedia-sergius-paulus-soli"}
+{"from": "artifact:miletus-godfearers-inscription", "type": "documented_by", "to": "source:wikipedia-godfearers"}
+{"from": "artifact:miletus-godfearers-inscription", "type": "documented_by", "to": "source:wikipedia-godfearers-cij"}
+{"from": "text:cassius-dio-54-4-1", "type": "documented_by", "to": "source:lacuscurtius-dio-54-4-1"}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}
+{"from": "site:salamis-cyprus", "type": "documented_by", "to": "source:wikipedia-salamis-cyprus"}
+{"from": "site:paphos-nea-paphos", "type": "documented_by", "to": "source:wikipedia-paphos-nea-paphos"}
+{"from": "site:antioch-pisidia", "type": "documented_by", "to": "source:wikipedia-antioch-pisidia"}
+{"from": "site:perga", "type": "documented_by", "to": "source:wikipedia-perga"}
+{"from": "site:seleucia-pieria", "type": "documented_by", "to": "source:wikipedia-seleucia-pieria"}
+{"from": "artifact:papyrus-45", "type": "documented_by", "to": "source:wikipedia-papyrus-45-acts-list"}
+{"from": "text:psalm-2-7", "type": "documented_by", "to": "source:bible-api-psalm-2-7"}
+{"from": "text:isaiah-55-3", "type": "documented_by", "to": "source:bible-api-isaiah-55-3"}
+{"from": "text:isaiah-49-6", "type": "documented_by", "to": "source:bible-api-isaiah-49-6"}
+{"from": "text:habakkuk-1-5", "type": "documented_by", "to": "source:bible-api-habakkuk-1-5"}
+{"from": "text:1-samuel-13-14", "type": "documented_by", "to": "source:bible-api-1-samuel-13-14"}
+{"from": "text:psalm-16-8-11", "type": "documented_by", "to": "source:bible-api-psalm-16-8-11"}
+{"from": "person:sergius-paulus", "type": "documented_by", "to": "source:wikipedia-sergius-paulus"}
+{"from": "person:john-mark", "type": "documented_by", "to": "source:wikipedia-john-mark"}
+{"from": "claim:ac-13-07-sergius-paulus-proconsul", "type": "documented_by", "to": "source:wikipedia-sergius-paulus"}
+{"from": "claim:ac-13-07-cyprus-proconsular-province", "type": "documented_by", "to": "source:wikipedia-cyprus-roman-province"}
+{"from": "claim:ac-13-05-salamis-synagogues", "type": "documented_by", "to": "source:wikipedia-salamis-cyprus"}
+{"from": "claim:ac-13-16-god-fearers", "type": "documented_by", "to": "source:wikipedia-godfearers"}
+{"from": "claim:ac-13-43-proselytes", "type": "documented_by", "to": "source:wikipedia-godfearers"}
+{"from": "place:salamis-cyprus", "type": "documented_by", "to": "source:wikipedia-salamis-cyprus"}
+{"from": "place:paphos", "type": "documented_by", "to": "source:wikipedia-paphos-nea-paphos"}
+{"from": "place:perga", "type": "documented_by", "to": "source:wikipedia-perga"}
+{"from": "place:pamphylia", "type": "documented_by", "to": "source:wikipedia-perga"}
+{"from": "place:antioch-pisidia", "type": "documented_by", "to": "source:wikipedia-antioch-pisidia"}
+{"from": "place:seleucia-pieria", "type": "documented_by", "to": "source:wikipedia-seleucia-pieria"}
+{"from": "place:antioch-on-the-orontes", "type": "documented_by", "to": "source:wikipedia-seleucia-pieria"}
+{"from": "place:cyprus", "type": "documented_by", "to": "source:wikipedia-cyprus-roman-province"}
+{"from": "place:iconium", "type": "documented_by", "to": "source:wikipedia-konya"}
+{"from": "person:sergius-paulus", "type": "related_to", "to": "site:antioch-pisidia", "note": "The fetched Sergius Paulus article reports a family of senators named Lucius Sergius Paullus 'of Antioch, Pisidia' (one consul suffectus c. 70, one twice consul); a family connection, not evidence that the proconsul of Cyprus came from the colony."}
+{"from": "site:perga", "type": "documented_by", "to": "source:wikipedia-perga-excavations"}
+{"from": "site:antioch-pisidia", "type": "documented_by", "to": "source:wikipedia-antioch-pisidia-excavations"}
+{"from": "place:pamphylia", "type": "documented_by", "to": "source:wikipedia-perga-excavations"}
+{"from": "site:antioch-pisidia", "type": "documented_by", "to": "source:wikipedia-antioch-pisidia-colony"}
+{"from": "text:cassius-dio-54-4-1", "type": "attests", "to": "place:cyprus", "grade": "A", "note": "Dio 54.4.1 names Cyprus among the provinces Augustus restored to the people and began sending proconsuls to in 22 BCE - the island as a named Roman province (A for the place; B for the office-title on the claim)."}

@@ -1,0 +1,89 @@
+anchor,label,category,status,findings,note
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,inscription,n/a,,
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,coin,n/a,,
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,structure-or-site,found,artifact:western-wall-ashlars;site:second-temple,"Herodian ashlars of the Temple Mount retaining wall, exposed by the Western Wall tunnel excavations, stand in situ from the same complex whose 'beautiful stones' the speakers admired"
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,burial-or-ossuary,n/a,,
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,manuscript,n/a,,
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,documentary-papyrus,n/a,,
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,jewish-literary,none-found,,War 5.5's description of the great stones was not excerpted as a separate node; the fetched Book V excerpts cover the gold and the golden vine only
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,greco-roman-literary,none-found,,Tacitus Hist. 5.8 (in the graph) names Jerusalem's temple but the fetched excerpt does not describe its stones; no other classical description fetched
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,material-culture,n/a,,
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,geography-or-nature,n/a,,
+claim:lk-21-05-temple-beautiful-stones,The Temple of Jesus' day was adorned with beautiful stones,astronomy-or-calendar,n/a,,
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,inscription,n/a,,
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,coin,n/a,,
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,structure-or-site,none-found,,"the excavated Temple Mount (site:second-temple, in the graph) confirms the building; no excavated votive gift from the pre-70 sanctuary on the fetched pages (the gold leaf fragments reported for the Temple Mount are not on fetched pages)"
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,burial-or-ossuary,n/a,,
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,manuscript,n/a,,
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,documentary-papyrus,n/a,,
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,jewish-literary,found,text:josephus-war-5-207-213-temple-gold;source:wikisource-war-5-temple-gold,"Josephus (an eyewitness) describes the sanctuary gate 'all over covered with gold... it had also golden vines above it, from which clusters of grapes hung as tall as a man's height' - consecrated adornment of the temple of Jesus' day"
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,greco-roman-literary,none-found,,no classical author on the fetched pages describes the temple's votive gifts (Tacitus Hist. 5.8 names the temple only)
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,material-culture,none-found,,"searched Wikipedia 'Second Temple', 'Temple Mount' and 'Arch of Titus' for an excavated or surviving temple treasure of the pre-70 sanctuary; the arch reliefs are Roman art, not the objects"
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,geography-or-nature,n/a,,
+claim:lk-21-05-temple-votive-gifts,The Temple was adorned with consecrated (votive) gifts,astronomy-or-calendar,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,inscription,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,coin,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,structure-or-site,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,burial-or-ossuary,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,manuscript,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,documentary-papyrus,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,jewish-literary,found,text:josephus-war-6-288-300,"the prodigies before the war: 'a star resembling a sword... and a comet, that continued a whole year' and 'chariots and troops of soldiers in their armor were seen running about among the clouds' (War 6.288-300); it attests that signs from heaven were reported, not that the prediction was made"
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,greco-roman-literary,found,text:tacitus-histories-5-13,"Tacitus independently lists prodigies of the same years - hosts fighting in the skies, the temple lit from the clouds"
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,material-culture,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,geography-or-nature,n/a,,
+claim:lk-21-11-signs-from-heaven,Terrors and great signs from heaven appeared in the period,astronomy-or-calendar,found,observation:halley-comet-66,"Halley's Comet's computed 66 CE apparition (perihelion 26 January) was a great heavenly sign in the revolt's first year; the article only says it 'may be' Josephus's comet, so the computed apparition alone is used"
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,inscription,n/a,,
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,coin,found,artifact:judaea-capta-coins,"Judaea Capta coinage issued from 71 CE celebrates the capture of Judaea and the destruction of the temple - the siege's outcome as imperial propaganda, though it does not picture the encirclement"
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,structure-or-site,none-found,,searched the Wikipedia Siege of Jerusalem (70 CE) article for excavated remains of Titus's circumvallation wall; the article reports destruction debris across the city but no excavated segment of the siege wall
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,burial-or-ossuary,n/a,,
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,manuscript,n/a,,
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,documentary-papyrus,n/a,,
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,jewish-literary,found,text:josephus-war-5-12-1-2;source:wikisource-war5-circumvallation,"Titus resolved to 'build a wall round about the whole city'; the forty-furlong wall with thirteen garrison posts was 'completed in three days', 'all hope of escaping was now cut off from the Jews' - the encirclement of Jerusalem by armies, 70 CE (node merged into text:josephus-war-5-12-1-2 by reviewer 7)"
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,greco-roman-literary,none-found,,"Tacitus Hist. 5.12-13 and Suetonius Titus 5 are known to describe the siege, but no fetched page gave an excerpt stating the encirclement; only the prodigies excerpt (Hist. 5.13, in the graph) was fetched"
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,material-culture,n/a,,
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,geography-or-nature,n/a,,
+claim:lk-21-20-jerusalem-surrounded,Jerusalem was surrounded by armies and its desolation was at hand,astronomy-or-calendar,n/a,,
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,inscription,n/a,,
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,coin,found,artifact:judaea-capta-coins,Judaea Capta coinage shows Judaea seated mourning beneath Roman trophies - the captive land advertised across the empire
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,structure-or-site,found,site:arch-of-titus;artifact:arch-of-titus-showbread-table,"the Arch of Titus (c. 81 CE) depicts the 71 CE triumphal procession carrying the temple spoils, including the showbread table - the leading away of Jerusalem's people and treasure in Roman state art"
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,burial-or-ossuary,n/a,,
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,manuscript,n/a,,
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,documentary-papyrus,n/a,,
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,jewish-literary,found,text:josephus-war-6-418-421-captives;source:wikisource-war-6-captives,"'the number of those that were carried captive during this whole war was collected to be ninety-seven thousand': the young sent to the Egyptian mines, 'a great number into the provinces... to be destroyed upon their theatres', the rest 'sold for slaves'"
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,greco-roman-literary,none-found,,"Suetonius, Titus 5-6 and Tacitus, Hist. 5 are known to cover the war and triumph, but no fetched page gave a usable excerpt on the captives"
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,material-culture,n/a,,
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,geography-or-nature,n/a,,
+claim:lk-21-24-captives-nations,Jerusalem's inhabitants fell by the sword and survivors were led captive into all the nations,astronomy-or-calendar,n/a,,
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,inscription,n/a,,
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,coin,found,artifact:judaea-capta-coins,"Judaea Capta imagery - Judaea weeping beneath Roman trophies and a soldier - is the Gentile master's image of the defeated land, struck from 71 CE"
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,structure-or-site,none-found,,"Aelia Capitolina, the later Gentile city, was not entered this run (no fetched page on its founding reached the 21st-chapter claim); the excavated destruction layers (Western Wall street, Burnt House, Herodian Quarter) attest the destruction entered above"
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,burial-or-ossuary,n/a,,
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,manuscript,n/a,,
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,documentary-papyrus,n/a,,
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,jewish-literary,found,text:josephus-war-7-1-4,"Titus ordered the Romans to 'demolish the entire city and temple', leaving towers and a stretch of the west wall with a garrison - the captured city razed and held by a Gentile army of occupation"
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,greco-roman-literary,none-found,,no fetched classical excerpt describes Jerusalem after its capture; Tacitus Hist. 5.12 and Suetonius Titus 5 not fetched
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,material-culture,found,artifact:burnt-house,"a priestly house of the Upper City destroyed in a great fire during the siege, one month after the Temple, found with its destruction debris - the city under Roman destruction as excavated"
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,geography-or-nature,n/a,,
+claim:lk-21-24-trodden-by-gentiles,Jerusalem was trampled down by the Gentiles,astronomy-or-calendar,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",inscription,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",coin,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",structure-or-site,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",burial-or-ossuary,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",manuscript,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",documentary-papyrus,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",jewish-literary,none-found,,"searched the graph's Sefaria/Mishnah sources and Wikipedia for a period text on carousing or drunkenness as an eschatological pitfall; the drinking warnings of Proverbs 23 are biblical cross-reference only, and nothing rabbinic on the fetched pages matches the saying"
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",greco-roman-literary,none-found,,no fetched classical text on carousing (kraipale) in Judea or the empire was reached; the saying rests on the verse alone
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",material-culture,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",geography-or-nature,n/a,,
+claim:lk-21-34-carousing-drunkenness,"The teaching warns against hearts weighed down with carousing, drunkenness and anxieties",astronomy-or-calendar,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,inscription,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,coin,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,structure-or-site,none-found,,site:mount-of-olives-necropolis (in the graph) attests the mount's use in the period but not overnight lodging; no excavated camp or lodging installation on the fetched pages
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,burial-or-ossuary,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,manuscript,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,documentary-papyrus,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,jewish-literary,found,text:josephus-war-2-261-263;text:josephus-ant-20-169-172,"Josephus twice names the Mount of Olives as the place where the Egyptian prophet's crowd encamped over against the city - the same mountain Luke names as the nightly lodging; the texts attest the named place, not the lodging itself"
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,greco-roman-literary,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,material-culture,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,geography-or-nature,n/a,,
+claim:lk-21-37-38-olivet-lodging,Every day he taught in the temple; every night he lodged on the Mount of Olives,astronomy-or-calendar,n/a,,

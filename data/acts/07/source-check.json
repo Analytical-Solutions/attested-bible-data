@@ -1,0 +1,32 @@
+{
+ "source:bible-api-genesis-11-32": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+11:32?translation=web"
+ },
+ "source:bible-api-genesis-12-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+12:4?translation=web"
+ },
+ "source:bible-api-genesis-23-19-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+23:19-20?translation=web"
+ },
+ "source:bible-api-genesis-46-27": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+46:27?translation=web"
+ },
+ "source:bible-api-joshua-24-32": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/joshua+24:32?translation=web"
+ },
+ "source:sefaria-sanhedrin-6-1-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sanhedrin.6.1-6.4"
+ }
+}

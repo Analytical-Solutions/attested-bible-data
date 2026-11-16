@@ -1,0 +1,69 @@
+{
+  "book": "matthew",
+  "chapter": 4,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        4
+      ],
+      "setting": "place:judaean-desert",
+      "basis": "4:1 \"Jesus was led up by the Spirit into the wilderness to be tempted\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        5,
+        7
+      ],
+      "setting": "place:temple-mount",
+      "basis": "4:5 \"the devil took him into the holy city. He set him on the pinnacle of the temple\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        8,
+        11
+      ],
+      "setting": null,
+      "basis": "4:8 \"the devil took him to an exceedingly high mountain\" - the mountain is not named or placed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        12,
+        12
+      ],
+      "setting": "place:galilee",
+      "basis": "4:12 \"he withdrew into Galilee\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        13,
+        17
+      ],
+      "setting": "place:capernaum",
+      "basis": "4:13 \"Leaving Nazareth, he came and lived in Capernaum, which is by the sea\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        18,
+        22
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "4:18 \"Walking by the sea of Galilee, he saw two brothers\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        23,
+        25
+      ],
+      "setting": "place:galilee",
+      "basis": "4:23 \"Jesus went about in all Galilee, teaching in their synagogues\"",
+      "confidence": "stated"
+    }
+  ]
+}

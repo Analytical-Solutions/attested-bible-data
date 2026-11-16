@@ -1,0 +1,122 @@
+anchor,label,category,status,findings,note
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,coin,n/a,,No coinage bears on the saying.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,jewish-literary,none-found,,"Searched Mishnah Shabbat leads (the 39 primary labours, Shabbat 7:2) and DSS Sabbath texts: they document the Sabbath-law framework the saying addresses (already recorded on claim:mt-12-02), but nothing external attests the saying itself."
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,greco-roman-literary,none-found,,No classical passage could bear on the saying.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,material-culture,n/a,,No object could bear on the saying.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,geography-or-nature,n/a,,Geography cannot bear on the saying.
+claim:lk-06-lord-of-sabbath,The Son of Man is lord of the Sabbath,astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,coin,n/a,,No coinage bears on the saying.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,jewish-literary,found,text:mishnah-yoma-8-6,"Mishnah Yoma 8:6: 'A case of uncertainty concerning a life-threatening situation overrides Shabbat' - the life-over-Sabbath principle inside the same legal culture; grade C, redacted c. 200 CE."
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,greco-roman-literary,none-found,,No classical passage could bear on the Sabbath question.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,material-culture,n/a,,No object could bear on the question.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,geography-or-nature,n/a,,Geography cannot bear on the question.
+claim:lk-06-save-life-sabbath,Is it lawful on the Sabbath to save a life or to kill?,astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.
+person:judas-son-of-james,Judas son of James (not Iscariot),inscription,none-found,,Searched for ossuary/inscription evidence for a Judas son of James; the Caiaphas-family and James ossuaries name no such apostle.
+person:judas-son-of-james,Judas son of James (not Iscariot),coin,n/a,,No coinage could name the apostle.
+person:judas-son-of-james,Judas son of James (not Iscariot),structure-or-site,n/a,,No site could bear on the person.
+person:judas-son-of-james,Judas son of James (not Iscariot),burial-or-ossuary,none-found,,Searched the ossuary leads; no ossuary names Judas son of James.
+person:judas-son-of-james,Judas son of James (not Iscariot),manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+person:judas-son-of-james,Judas son of James (not Iscariot),documentary-papyrus,n/a,,No documentary papyrus could name him.
+person:judas-son-of-james,Judas son of James (not Iscariot),jewish-literary,none-found,,Searched Josephus and the Papias lead (text:papias-expositions-judas concerns Judas Iscariot); nothing names Judas son of James.
+person:judas-son-of-james,Judas son of James (not Iscariot),greco-roman-literary,none-found,,No classical author names him.
+person:judas-son-of-james,Judas son of James (not Iscariot),material-culture,n/a,,No object could bear on the person.
+person:judas-son-of-james,Judas son of James (not Iscariot),geography-or-nature,n/a,,Geography cannot bear on the person.
+person:judas-son-of-james,Judas son of James (not Iscariot),astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",inscription,n/a,,No inscription could record this event.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",coin,n/a,,No coinage bears on the event.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",structure-or-site,none-found,,"Searched Wikipedia Sermon on the Plain and Gennesaret; the traditional Mount of Beatitudes sites are pilgrim traditions (reception), not evidence."
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",documentary-papyrus,n/a,,No documentary papyrus could record the sermon.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",jewish-literary,none-found,,Searched Josephus on the region; nothing on the assembly.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",greco-roman-literary,none-found,,No classical passage fetched.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",material-culture,n/a,,No object could bear on the assembly.
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",geography-or-nature,none-found,,"Searched Wikipedia Tyre, Sidon and Galilee; the coast-to-Galilee travel is uncontested but states no evidence for this crowd."
+claim:lk-06-level-place,"Sermon on a level place; crowds from Judea, Jerusalem and the coast of Tyre and Sidon",astronomy-or-calendar,n/a,,'In these days' is not datable.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,inscription,n/a,,No inscription could record this event.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,coin,n/a,,No coinage bears on the event.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,structure-or-site,none-found,,Searched Capernaum/Corazin pages; nothing bears on the healings.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,documentary-papyrus,n/a,,No documentary papyrus could record it.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,jewish-literary,none-found,,"Searched Josephus and DSS leads; 4Q521 expects such healing (recorded on claim:lk-06-blessed-poor) but attests the expectation, not the events."
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,greco-roman-literary,none-found,,No classical passage fetched.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,material-culture,n/a,,No object could bear on the healings.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,geography-or-nature,n/a,,Geography cannot bear on the healings.
+claim:lk-06-power-healed-all,The multitude sought to touch him; power came out of him and healed all,astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",coin,n/a,,No coinage bears on the saying.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",jewish-literary,found,text:4q521-2,"4Q521 (pre-Christian Qumran): 'he will proclaim good news to the poor... enrich the hungry' - the expectation that the poor are blessed in the coming age; grade C for the expectation, not the saying."
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",greco-roman-literary,none-found,,No classical passage could bear on the beatitude.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",material-culture,n/a,,No object could bear on the beatitude.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",geography-or-nature,n/a,,Geography cannot bear on the beatitude.
+claim:lk-06-blessed-poor,"Blessed are you who are poor, for God's Kingdom is yours",astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,coin,n/a,,No coinage bears on the saying.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,jewish-literary,none-found,,"Searched Wikipedia (Sermon on the Plain, Beatitudes, Love your enemies) and the Dead Sea Scrolls/Mishnah leads in docs/seed-leads-luke.md; no fetched page states independent evidence for the saying. 4Q521's 'enrich the hungry' is recorded on claim:lk-06-blessed-poor."
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,greco-roman-literary,none-found,,No classical passage could bear on the beatitude.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,material-culture,n/a,,No object could bear on the beatitude.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,geography-or-nature,n/a,,Geography cannot bear on the beatitude.
+claim:lk-06-blessed-hunger-weep,Blessed are you who hunger now... who weep now,astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",coin,n/a,,No coinage bears on the saying.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",jewish-literary,none-found,,"Searched Wikipedia (Sermon on the Plain, Beatitudes, Love your enemies) and the Dead Sea Scrolls/Mishnah leads in docs/seed-leads-luke.md; no fetched page states independent evidence for the saying."
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",greco-roman-literary,none-found,,No classical passage could bear on the beatitude.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",material-culture,n/a,,No object could bear on the beatitude.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",geography-or-nature,n/a,,Geography cannot bear on the beatitude.
+claim:lk-06-blessed-hated,"Blessed when hated, excluded and mocked for the Son of Man's sake",astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",coin,n/a,,No coinage bears on the saying.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",jewish-literary,none-found,,"Searched Wikipedia (Sermon on the Plain, Beatitudes, Love your enemies) and the Dead Sea Scrolls/Mishnah leads in docs/seed-leads-luke.md; no fetched page states independent evidence for the saying. The woes have no Matthean parallel; no external evidence was fetchable."
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",greco-roman-literary,none-found,,No classical passage could bear on the woes.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",material-culture,n/a,,No object could bear on the woes.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",geography-or-nature,n/a,,Geography cannot bear on the woes.
+claim:lk-06-woes,"Woes on the rich, the full, those who laugh, the well-spoken-of",astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",coin,n/a,,No coinage bears on the saying.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",jewish-literary,none-found,,"Searched the DSS and Mishnah leads for love-of-enemies; the Hillel negative golden rule is recorded on claim:mt-07-12-golden-rule, and no fetched text parallels loving enemies positively."
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",greco-roman-literary,none-found,,No classical passage fetched on loving enemies in this setting.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",material-culture,n/a,,No object could bear on the teaching.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",geography-or-nature,n/a,,Geography cannot bear on the teaching.
+claim:lk-06-love-enemies,"Love your enemies, do good to those who hate you",astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,inscription,n/a,,No inscription could carry a teaching.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,coin,n/a,,No coinage bears on the saying.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,jewish-literary,none-found,,Searched DSS/Mishnah leads for the blind-guide proverb; nothing fetchable.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,greco-roman-literary,none-found,,"The blind-leading-the-blind proverb has classical analogues, but no fetchable passage matches."
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,material-culture,n/a,,No object could bear on the proverb.
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,geography-or-nature,none-found,,"Pits were common hazards (recorded on claim:mt-12-11-sheep-in-pit's evidence), but nothing bears on the proverb itself."
+claim:lk-06-blind-guide,Can the blind guide the blind? A disciple is not above his teacher,astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.

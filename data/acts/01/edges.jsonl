@@ -1,0 +1,108 @@
+{"from": "passage:ac-01-02", "type": "asserts", "to": "claim:ac-01-02-09-ascension"}
+{"from": "passage:ac-01-03", "type": "asserts", "to": "claim:ac-01-03-appearances-forty-days"}
+{"from": "passage:ac-01-09", "type": "asserts", "to": "claim:ac-01-02-09-ascension"}
+{"from": "passage:ac-01-11", "type": "asserts", "to": "claim:ac-01-02-09-ascension"}
+{"from": "passage:ac-01-12", "type": "asserts", "to": "claim:ac-01-12-olivet-near-jerusalem"}
+{"from": "passage:ac-01-12", "type": "asserts", "to": "claim:ac-01-12-sabbath-journey-2000-cubits"}
+{"from": "passage:ac-01-13", "type": "asserts", "to": "claim:ac-01-13-upper-room"}
+{"from": "passage:ac-01-15", "type": "asserts", "to": "claim:ac-01-15-one-hundred-twenty"}
+{"from": "passage:ac-01-16", "type": "asserts", "to": "claim:ac-01-16-17-judas-guide"}
+{"from": "passage:ac-01-17", "type": "asserts", "to": "claim:ac-01-16-17-judas-guide"}
+{"from": "passage:ac-01-18", "type": "asserts", "to": "claim:ac-01-18-19-judas-bought-field-akeldama"}
+{"from": "passage:ac-01-19", "type": "asserts", "to": "claim:ac-01-18-19-judas-bought-field-akeldama"}
+{"from": "passage:ac-01-20", "type": "asserts", "to": "claim:ac-01-20-psalms-quoted"}
+{"from": "passage:ac-01-23", "type": "asserts", "to": "claim:ac-01-23-26-matthias-chosen"}
+{"from": "passage:ac-01-24", "type": "asserts", "to": "claim:ac-01-23-26-matthias-chosen"}
+{"from": "passage:ac-01-25", "type": "asserts", "to": "claim:ac-01-23-26-matthias-chosen"}
+{"from": "passage:ac-01-26", "type": "asserts", "to": "claim:ac-01-23-26-matthias-chosen"}
+{"from": "claim:ac-01-02-09-ascension", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-01-03-appearances-forty-days", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-01-12-olivet-near-jerusalem", "type": "mentions", "to": "place:mount-of-olives"}
+{"from": "claim:ac-01-12-olivet-near-jerusalem", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-01-13-upper-room", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-01-15-one-hundred-twenty", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-01-16-17-judas-guide", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:ac-01-16-17-judas-guide", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-01-18-19-judas-bought-field-akeldama", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:ac-01-18-19-judas-bought-field-akeldama", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-01-20-psalms-quoted", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:ac-01-23-26-matthias-chosen", "type": "mentions", "to": "person:matthias"}
+{"from": "claim:ac-01-23-26-matthias-chosen", "type": "mentions", "to": "person:joseph-barsabbas"}
+{"from": "observation:olivet-temple-distance", "type": "attests", "to": "claim:ac-01-12-olivet-near-jerusalem", "grade": "B", "note": "Computed great-circle distance Mount of Olives to the Temple Mount = 960 m, inside the 2,000-cubit Sabbath limit of 920-1,200 m - the 'near Jerusalem, a Sabbath day's journey away' setting checks out numerically."}
+{"from": "observation:olivet-temple-distance", "type": "attests", "to": "claim:ac-01-12-sabbath-journey-2000-cubits", "grade": "C", "note": "Shows only that the 2,000-cubit limit gives a plausible real-world distance for the Olivet setting; it does not attest the halakhic rule itself."}
+{"from": "text:mishnah-eruvin-4-3-5-7", "type": "attests", "to": "claim:ac-01-12-sabbath-journey-2000-cubits", "grade": "B", "note": "Eruvin 4:3 and 5:7 fix the Sabbath limit at 2,000 cubits ('another two thousand cubits beyond it'). Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly; the tannaitic material it preserves is Second Temple halakha."}
+{"from": "site:cenacle", "type": "attests", "to": "claim:ac-01-13-upper-room", "grade": "D", "note": "The Cenacle on Mount Zion is the traditional Upper Room; the identification is Christian tradition (the building is Gothic, on a site venerated since late antiquity), so D."}
+{"from": "site:akeldama-tombs", "type": "attests", "to": "claim:ac-01-18-19-judas-bought-field-akeldama", "grade": "D", "note": "The Akeldama tombs in the Hinnom Valley mark the traditional Field of Blood named in 1:19; the identification of the field with this site is tradition, so D (the Aramaic name itself is what the verse explains)."}
+{"from": "text:mishnah-tamid-3-7", "type": "attests", "to": "claim:ac-01-23-26-matthias-chosen", "grade": "C", "note": "Attests only the practice of casting lots to assign duties, a standing Temple custom (four daily lotteries); it cannot attest that this lot fell on Matthias. Redacted c. 200 CE, so it may not describe the 30s CE practice exactly."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:ac-01-03-appearances-forty-days", "grade": "D", "note": "The disputed Testimonium says 'he appeared to them alive again the third day' - an appearance claim, but no forty-day period, and the passage's authenticity is disputed (parts likely Christian interpolation), so D."}
+{"from": "claim:ac-01-18-19-judas-bought-field-akeldama", "type": "related_to", "to": "claim:mt-27-03-05-judas-returned-silver", "note": "Difference: Matthew 27:3-5 has Judas return the thirty pieces and hang himself; Acts 1:18 has Judas himself buy the field with the reward and fall headlong, his body bursting open."}
+{"from": "claim:ac-01-18-19-judas-bought-field-akeldama", "type": "related_to", "to": "claim:mt-27-06-08-field-of-blood", "note": "Difference: Matthew 27:6-8 has the chief priests buy the potter's field, which became the Field of Blood; Acts 1:18-19 has Judas obtain the field, and gives the Aramaic name Akeldama."}
+{"from": "text:papias-expositions-judas", "type": "related_to", "to": "claim:ac-01-18-19-judas-bought-field-akeldama", "note": "Reception (not evidence): Papias hands on a third, legendary death of Judas (a bloated body bursting on his own land), told in competition with both Matthew and Acts."}
+{"from": "claim:ac-01-16-17-judas-guide", "type": "related_to", "to": "claim:lk-22-03-satan-entered-judas", "note": "Luke 22:3-6 tells the betrayal's origin (Satan entered Judas); Acts 1:16-17, by the same author, adds that Judas was guide to those who took Jesus and was counted with the Twelve."}
+{"from": "claim:ac-01-02-09-ascension", "type": "related_to", "to": "claim:lk-24-50-51-ascension-bethany", "note": "Difference: Luke 24:50-51 places the ascension at Bethany; Acts 1:9-12, by the same author, places it at the mount called Olivet, a Sabbath day's journey from Jerusalem."}
+{"from": "passage:ac-01-09", "type": "parallels", "to": "passage:lk-24-50", "note": "The same ascension event told in Luke's Gospel; Luke 24:50-51 places it at Bethany, Acts 1:9-12 at the mount called Olivet (difference recorded on the claim-level related_to)."}
+{"from": "passage:ac-01-20", "type": "related_to", "to": "text:psalm-69-25", "note": "Acts 1:20 quotes Psalm 69:25 (WEB: 'Let their habitation be desolate. Let no one dwell in their tents.'). Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "passage:ac-01-20", "type": "related_to", "to": "text:psalm-109-8", "note": "Acts 1:20 quotes Psalm 109:8 (WEB: 'Let his days be few. Let another take his office.'). Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-01-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-01-26"}
+{"from": "claim:ac-01-12-sabbath-journey-2000-cubits", "type": "documented_by", "to": "source:wikipedia-sabbath-days-journey"}
+{"from": "claim:ac-01-18-19-judas-bought-field-akeldama", "type": "documented_by", "to": "source:wikipedia-akeldama-judas-accounts"}
+{"from": "claim:ac-01-12-olivet-near-jerusalem", "type": "documented_by", "to": "source:wikipedia-mount-of-olives"}
+{"from": "observation:olivet-temple-distance", "type": "documented_by", "to": "source:wikipedia-mount-of-olives"}
+{"from": "observation:olivet-temple-distance", "type": "documented_by", "to": "source:wikipedia-sabbath-days-journey"}
+{"from": "text:mishnah-eruvin-4-3-5-7", "type": "documented_by", "to": "source:sefaria-mishnah-eruvin-5-7"}
+{"from": "text:mishnah-eruvin-4-3-5-7", "type": "documented_by", "to": "source:sefaria-mishnah-eruvin-4-3"}
+{"from": "text:mishnah-tamid-3-7", "type": "documented_by", "to": "source:sefaria-mishnah-tamid-3-7"}
+{"from": "text:psalm-69-25", "type": "documented_by", "to": "source:bible-api-psalm-69-25"}
+{"from": "text:psalm-109-8", "type": "documented_by", "to": "source:bible-api-psalm-109-8"}
+{"from": "site:cenacle", "type": "documented_by", "to": "source:wikipedia-cenacle"}

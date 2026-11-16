@@ -1,0 +1,227 @@
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "artifact:temple-warning-inscription", "type": "documented_by", "to": "source:wikipedia-temple-warning"}
+{"from": "artifact:tyrian-shekel", "type": "documented_by", "to": "source:wikipedia-tyrian-shekel"}
+{"from": "text:mishnah-shekalim-1-3", "type": "documented_by", "to": "source:sefaria-shekalim-1-3"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:isaiah-scroll-wiki"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-john"}
+{"from": "passage:mt-21-01", "type": "asserts", "to": "claim:mt-21-01-approach-to-jerusalem"}
+{"from": "passage:mt-21-02", "type": "asserts", "to": "claim:mt-21-02-03-donkey-and-colt-fetched"}
+{"from": "passage:mt-21-03", "type": "asserts", "to": "claim:mt-21-02-03-donkey-and-colt-fetched"}
+{"from": "passage:mt-21-04", "type": "asserts", "to": "claim:mt-21-04-05-zechariah-9-9-quoted"}
+{"from": "passage:mt-21-05", "type": "asserts", "to": "claim:mt-21-04-05-zechariah-9-9-quoted"}
+{"from": "passage:mt-21-06", "type": "asserts", "to": "claim:mt-21-02-03-donkey-and-colt-fetched"}
+{"from": "passage:mt-21-07", "type": "asserts", "to": "claim:mt-21-07-garments-as-mount"}
+{"from": "passage:mt-21-08", "type": "asserts", "to": "claim:mt-21-08-branches-cloaks-on-road"}
+{"from": "passage:mt-21-09", "type": "asserts", "to": "claim:mt-21-09-hosanna-acclamation"}
+{"from": "passage:mt-21-10", "type": "asserts", "to": "claim:mt-21-10-11-city-stirred"}
+{"from": "passage:mt-21-11", "type": "asserts", "to": "claim:mt-21-10-11-city-stirred"}
+{"from": "passage:mt-21-12", "type": "asserts", "to": "claim:mt-21-12-cleansing-the-temple"}
+{"from": "passage:mt-21-12", "type": "asserts", "to": "claim:mt-21-12-money-changers"}
+{"from": "passage:mt-21-12", "type": "asserts", "to": "claim:mt-21-12-sellers-of-doves"}
+{"from": "passage:mt-21-13", "type": "asserts", "to": "claim:mt-21-13-house-of-prayer-quote"}
+{"from": "passage:mt-21-14", "type": "asserts", "to": "claim:mt-21-14-blind-lame-healed"}
+{"from": "passage:mt-21-15", "type": "asserts", "to": "claim:mt-21-15-16-children-hosanna"}
+{"from": "passage:mt-21-16", "type": "asserts", "to": "claim:mt-21-15-16-children-hosanna"}
+{"from": "passage:mt-21-17", "type": "asserts", "to": "claim:mt-21-17-bethany-lodging"}
+{"from": "passage:mt-21-18", "type": "asserts", "to": "claim:mt-21-18-20-fig-tree-withered"}
+{"from": "passage:mt-21-19", "type": "asserts", "to": "claim:mt-21-18-20-fig-tree-withered"}
+{"from": "passage:mt-21-20", "type": "asserts", "to": "claim:mt-21-18-20-fig-tree-withered"}
+{"from": "passage:mt-21-23", "type": "asserts", "to": "claim:mt-21-23-authority-questioned"}
+{"from": "passage:mt-21-24", "type": "asserts", "to": "claim:mt-21-23-authority-questioned"}
+{"from": "passage:mt-21-25", "type": "asserts", "to": "claim:mt-21-25-27-john-held-a-prophet"}
+{"from": "passage:mt-21-26", "type": "asserts", "to": "claim:mt-21-25-27-john-held-a-prophet"}
+{"from": "passage:mt-21-27", "type": "asserts", "to": "claim:mt-21-23-authority-questioned"}
+{"from": "passage:mt-21-27", "type": "asserts", "to": "claim:mt-21-25-27-john-held-a-prophet"}
+{"from": "passage:mt-21-28", "type": "asserts", "to": "claim:mt-21-28-31-two-sons-parable"}
+{"from": "passage:mt-21-29", "type": "asserts", "to": "claim:mt-21-28-31-two-sons-parable"}
+{"from": "passage:mt-21-30", "type": "asserts", "to": "claim:mt-21-28-31-two-sons-parable"}
+{"from": "passage:mt-21-31", "type": "asserts", "to": "claim:mt-21-28-31-two-sons-parable"}
+{"from": "passage:mt-21-32", "type": "asserts", "to": "claim:mt-21-25-27-john-held-a-prophet"}
+{"from": "passage:mt-21-33", "type": "asserts", "to": "claim:mt-21-33-vineyard-fittings"}
+{"from": "passage:mt-21-33", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-34", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-35", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-36", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-37", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-38", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-39", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-40", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-41", "type": "asserts", "to": "claim:mt-21-33-40-absentee-landlord-tenancy"}
+{"from": "passage:mt-21-42", "type": "asserts", "to": "claim:mt-21-42-stone-rejected-quote"}
+{"from": "passage:mt-21-45", "type": "asserts", "to": "claim:mt-21-45-46-leaders-perceived"}
+{"from": "passage:mt-21-46", "type": "asserts", "to": "claim:mt-21-45-46-leaders-perceived"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-21-46"}
+{"from": "claim:mt-21-01-approach-to-jerusalem", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-21-01-approach-to-jerusalem", "type": "mentions", "to": "place:bethphage"}
+{"from": "claim:mt-21-01-approach-to-jerusalem", "type": "mentions", "to": "place:mount-of-olives"}
+{"from": "claim:mt-21-02-03-donkey-and-colt-fetched", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-04-05-zechariah-9-9-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-09-hosanna-acclamation", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-10-11-city-stirred", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-21-10-11-city-stirred", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:mt-21-10-11-city-stirred", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-12-cleansing-the-temple", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:mt-21-12-cleansing-the-temple", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-21-12-cleansing-the-temple", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-14-blind-lame-healed", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-15-16-children-hosanna", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-17-bethany-lodging", "type": "mentions", "to": "place:bethany"}
+{"from": "claim:mt-21-17-bethany-lodging", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-21-18-20-fig-tree-withered", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-23-authority-questioned", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-23-authority-questioned", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:mt-21-25-27-john-held-a-prophet", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-21-45-46-leaders-perceived", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "text:eusebius-onomasticon-bethphage", "type": "documented_by", "to": "source:wikipedia-bethphage-eusebius"}
+{"from": "text:eusebius-onomasticon-bethphage", "type": "attests", "to": "place:bethphage", "grade": "A", "note": "Eusebius' Onomasticon names Bethphage and locates it on the Mount of Olives, as reported by the fetched Wikipedia article; this attests the place's identification, not the Gospel episode."}
+{"from": "place:bethphage", "type": "documented_by", "to": "source:wikipedia-bethphage"}
+{"from": "site:mount-of-olives-necropolis", "type": "documented_by", "to": "source:wikipedia-mount-of-olives"}
+{"from": "site:mount-of-olives-necropolis", "type": "attests", "to": "place:mount-of-olives", "grade": "C", "note": "The slopes facing Jerusalem carry an ancient Jewish necropolis (about 150,000 graves per the fetched article), confirming the Mount of Olives as settled Jewish ground at Jerusalem's east edge; the article does not date the earliest graves precisely."}
+{"from": "site:bethany-al-eizariya", "type": "documented_by", "to": "source:wikipedia-bethany"}
+{"from": "site:bethany-al-eizariya", "type": "attests", "to": "place:bethany", "grade": "C", "note": "Saller's recorded excavations (1949-1953) at al-Eizariya unearthed tombs, houses, wine-presses, cisterns and silos with Persian and Hellenistic pottery, confirming an ancient village at the traditional location; the fetched article's cited pottery stops short of the 1st century CE."}
+{"from": "site:bethany-al-eizariya", "type": "complicates", "to": "place:bethany", "note": "The fetched article records scholars (per the Catholic Encyclopedia of 1913) who questioned whether the present village of al-Eizariya occupies the exact site of the ancient village of Bethany."}
+{"from": "artifact:bar-kokhba-palm-coins", "type": "documented_by", "to": "source:wikipedia-bar-kokhba-coins"}
+{"from": "artifact:bar-kokhba-palm-coins", "type": "attests", "to": "claim:mt-21-08-branches-cloaks-on-road", "grade": "C", "note": "Jewish coinage a century after the entry still used the lulav and palm branch as emblematic imagery (Bar Kokhba, 132-135 CE), confirming the palm as a Jewish national-victory symbol in the region; it is later than 21:8 and does not attest the road scene itself."}
+{"from": "observation:fig-breba-crop", "type": "documented_by", "to": "source:wikipedia-fig-breba"}
+{"from": "observation:fig-breba-crop", "type": "attests", "to": "claim:mt-21-18-20-fig-tree-withered", "grade": "C", "note": "A fig tree's early (breba) crop forms in spring on the previous year's shoots, months before the main crop ripens in late summer; a leafy tree bearing neither early figs nor unripe fruit before Passover would yield nothing until the main crop, so 'nothing but leaves' is a botanically coherent state."}
+{"from": "artifact:zenon-papyri", "type": "documented_by", "to": "source:wikipedia-zenon"}
+{"from": "artifact:zenon-papyri", "type": "documented_by", "to": "source:wikipedia-philadelphia-zenon"}
+{"from": "artifact:zenon-papyri", "type": "attests", "to": "claim:mt-21-33-40-absentee-landlord-tenancy", "grade": "C", "note": "The Zenon Archive documents a Ptolemaic finance minister's absentee agricultural estate managed through written records and officials, including letters from a 258-259 BCE tour of Palestine - confirming the absentee-magnate estate economy the parable assumes. No fetched page states vineyard leases to tenant farmers specifically; that part of the claim stays unevidenced (see notes.md)."}
+{"from": "text:josephus-war-6-422-425", "type": "documented_by", "to": "source:wikisource-war-6-census"}
+{"from": "text:josephus-war-6-422-425", "type": "attests", "to": "claim:mt-21-10-11-city-stirred", "grade": "C", "note": "Josephus reports that the high priests counted 256,500 Passover lambs and 2,700,000 eligible worshippers at the festival (Cestius' count) - first-century Jerusalem's Passover crowds on a scale that makes 'all the city was stirred' plausible. The figures are Josephus' own computation from a lamb count, not a verified census."}
+{"from": "text:josephus-ant-15-411-416", "type": "documented_by", "to": "source:wikisource-ant-15-royal-stoa"}
+{"from": "text:josephus-ant-15-411-416", "type": "attests", "to": "claim:mt-21-12-cleansing-the-temple", "grade": "C", "note": "Josephus describes Herod's vast royal cloister on the Temple's south side - the immense open courts in which the commerce of 21:12 could take place; it confirms the setting, not the event."}
+{"from": "text:mishnah-shekalim-1-6", "type": "documented_by", "to": "source:sefaria-shekalim-1-6"}
+{"from": "text:mishnah-shekalim-1-6", "type": "attests", "to": "claim:mt-21-12-money-changers", "grade": "B", "note": "The Mishnah records money changers sitting at tables, first in the provinces and then (from 25 Adar) inside the Temple, for the half-shekel collection - the very tables overturned in 21:12, in rabbinic memory of the Temple's practice. Regraded C to B by reviewer 4: the mishna itself has the money changers sitting in the Temple for the half-shekel collection - the specific institution, place and practice the claim states, the same B the architect gave Shekalim 1:3 for the temple-tax claim (review 3) and Pesachim 10:1 and 10:7 for the seder customs (ch 26). Redacted c. 200 CE, so it may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-keritot-1-7", "type": "documented_by", "to": "source:sefaria-keritot-1-7"}
+{"from": "text:mishnah-keritot-1-7", "type": "attests", "to": "claim:mt-21-12-sellers-of-doves", "grade": "B", "note": "The Mishnah preserves a Jerusalem incident in which pairs of sacrificial birds ('nests') rose to a gold dinar and Rabban Shimon ben Gamliel drove the price down to a quarter silver dinar by a ruling - dove selling for purifying offers as a real, price-sensitive Jerusalem market, matching the 'seats of those who sold the doves'. Regraded C to B by reviewer 4: the mishna records the Jerusalem price of the purification bird-pairs and the nasi's intervention - the same dove-market institution and period the claim states, the architect's B pattern for Mishnah-institution edges (Pesachim 10:1, 10:7). Redacted c. 200 CE, so it may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-sukkah-4-5", "type": "documented_by", "to": "source:sefaria-sukkah-4-5"}
+{"from": "text:mishnah-sukkah-4-5", "type": "attests", "to": "claim:mt-21-09-hosanna-acclamation", "grade": "C", "note": "'Hosanna' is Hebrew hoshia-na, 'save now' (Psalm 118:25); the Mishnah records the words sung daily in the Temple's Sukkot altar rite - the acclamation vocabulary of 21:9 was live Temple liturgy. Redacted c. 200 CE, so it may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-sukkah-4-5", "type": "complicates", "to": "claim:mt-21-09-hosanna-acclamation", "note": "The Mishnah attests the 'save us' cry in the Sukkot liturgy, not at a Passover-season entry; the acclamation as a crowd welcome to a man at Passover is not itself attested in the rabbinic material fetched. Redacted c. 200 CE, so it may not describe 30 CE practice exactly."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-21-25-27-john-held-a-prophet", "grade": "C", "note": "Josephus confirms John the Baptist's enormous popular influence - crowds 'greatly moved by hearing his words' and Herod fearing 'the great influence John had over the people' - the crowd power 21:26 says made John untouchable; Josephus calls John 'a good man' but never a prophet."}
+{"from": "artifact:tyrian-shekel", "type": "attests", "to": "claim:mt-21-12-money-changers", "grade": "C", "note": "Tyrian shekels of exceptional silver purity were specifically required for the Temple tax (per the fetched article), so pilgrims arriving with other coin had to exchange it - the economic role of the money changers of 21:12."}
+{"from": "text:mishnah-shekalim-1-3", "type": "attests", "to": "claim:mt-21-12-money-changers", "grade": "B", "note": "Shekalim 1:3 records the court's proclamation for the yearly half-shekel collection from every adult male - the tax for which the money changers of 21:12 exchanged pilgrims' coin. Redacted c. 200 CE, so it may not describe 30 CE practice exactly. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-21-12-cleansing-the-temple", "grade": "B", "note": "Herod's Temple with its great courts stood in Jerusalem in the 20s CE, the specific stage on which 21:12 is set; the site attests the setting, not the event itself."}
+{"from": "site:second-temple", "type": "attests", "to": "place:jerusalem", "grade": "B", "note": "The Temple Mount in Jerusalem was the site of the Second Temple, confirmed by excavation and the standing platform."}
+{"from": "site:second-temple", "type": "attests", "to": "place:temple-mount", "grade": "B", "note": "The excavated platform and remains identify the Temple Mount as the site of Herod's Temple, the 'temple' of 21:12 and 21:23."}
+{"from": "artifact:temple-warning-inscription", "type": "attests", "to": "claim:mt-21-12-cleansing-the-temple", "grade": "B", "note": "The excavated warning inscription hung along the balustrade outside the Sanctuary, showing the Temple's courts were strictly graded sacred space in which commercial activity was regulated - the specific setting of 21:12's protest."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-21-13-house-of-prayer-quote", "grade": "B", "note": "The Great Isaiah Scroll (1QIsa-a, ca. 125 BCE) contains the entire Book of Isaiah, including chapter 56 - the scroll carries Isaiah 56:7 ('my house shall be called a house of prayer') in a pre-Christian manuscript, confirming the quotation's source text in the period."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-21-33-vineyard-fittings", "grade": "B", "note": "The same scroll carries Isaiah 5:1-2, the vineyard song with its tower and winepress, in a pre-Christian manuscript - the textual source of the parable's vineyard fittings is attested at Qumran."}
+{"from": "observation:grape-fig-cultivation-levant", "type": "attests", "to": "claim:mt-21-33-vineyard-fittings", "grade": "C", "note": "Viticulture with vines, winepresses and vineyard structures is part of the documented agriculture of ancient Israel, the practice the parable's fittings presuppose."}
+{"from": "text:zechariah-9-9", "type": "documented_by", "to": "source:bible-api-zechariah-9-9"}
+{"from": "text:psalm-118-25-26", "type": "documented_by", "to": "source:bible-api-psalm-118-25-26"}
+{"from": "text:psalm-8-2", "type": "documented_by", "to": "source:bible-api-psalm-8-2"}
+{"from": "text:jeremiah-7-11", "type": "documented_by", "to": "source:bible-api-jeremiah-7-11"}
+{"from": "text:isaiah-56-7", "type": "documented_by", "to": "source:bible-api-isaiah-56-7"}
+{"from": "text:isaiah-5-1-2", "type": "documented_by", "to": "source:bible-api-isaiah-5-1-2"}
+{"from": "text:1-maccabees-13-51", "type": "documented_by", "to": "source:bible-api-1-maccabees-13-51"}
+{"from": "text:zechariah-9-9", "type": "related_to", "to": "passage:mt-21-05", "note": "Matthew 21:5 quotes Zechariah 9:9; biblical cross-reference, not independent evidence."}
+{"from": "text:psalm-118-25-26", "type": "related_to", "to": "passage:mt-21-09", "note": "Matthew 21:9 echoes Psalm 118:25-26; biblical cross-reference."}
+{"from": "text:psalm-8-2", "type": "related_to", "to": "passage:mt-21-16", "note": "Matthew 21:16 quotes Psalm 8:2; biblical cross-reference."}
+{"from": "text:jeremiah-7-11", "type": "related_to", "to": "passage:mt-21-13", "note": "Matthew 21:13 quotes Jeremiah 7:11 ('den of robbers'); biblical cross-reference."}
+{"from": "text:isaiah-56-7", "type": "related_to", "to": "passage:mt-21-13", "note": "Matthew 21:13 quotes Isaiah 56:7; biblical cross-reference. The Great Isaiah Scroll carries Isaiah 56 and attests the quotation as a manuscript."}
+{"from": "text:isaiah-5-1-2", "type": "related_to", "to": "passage:mt-21-33", "note": "Matthew 21:33 draws its vineyard fittings (hedge, winepress, tower) from Isaiah 5:1-2, 5:5; biblical cross-reference."}
+{"from": "text:1-maccabees-13-51", "type": "related_to", "to": "claim:mt-21-08-branches-cloaks-on-road", "note": "1 Maccabees 13:51 records Simon's entry into the Jerusalem citadel 'with praise and palm branches' - the closest Jewish literary parallel to a branch-strewn triumphal entry; biblical-era cross-reference, not independent evidence."}
+{"from": "claim:mt-21-04-05-zechariah-9-9-quoted", "type": "documented_by", "to": "source:wikipedia-greek-minor-prophets", "note": "Manuscript search: the 8HevXII gr Minor Prophets scroll from Nahal Hever identifies fragments of Zechariah but none in chapter 9 verse 9; Wadi Murabba'at's Hebrew Minor Prophets scroll (Mur88) is listed without specified contents, so no manuscript attests the quotation yet."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-21-46"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-21-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-21-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-21-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-21-16"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-21-17"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-21-18"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:mt-21-19"}
+{"from": "passage:mt-21-12", "type": "asserts", "to": "claim:mt-21-12-tables-overturned"}
+{"from": "passage:mk-11-15", "type": "asserts", "to": "claim:mt-21-12-tables-overturned"}
+{"from": "text:mishnah-shekalim-1-6", "type": "attests", "to": "claim:mt-21-12-tables-overturned", "grade": "C", "note": "The same Mishnah passage has the money changers sitting at their tables in the Temple - the tables the verse says were overturned; it attests the tables' presence in the Temple commerce, not the overturning. Split from the bundled cleansing claim per the architect's bundled-claims ruling (2026-11-15). Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}

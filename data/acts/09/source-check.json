@@ -1,0 +1,62 @@
+{
+ "source:bible-api-2-corinthians-11-32-33": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2%20corinthians+11:32-33?translation=web"
+ },
+ "source:bible-api-galatians-1-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/galatians+1:17?translation=web"
+ },
+ "source:perseus-strabo-14-5-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D14%3Achapter%3D5%3Asection%3D13"
+ },
+ "source:sefaria-bava-batra-2-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Batra_2:9?context=0"
+ },
+ "source:wikipedia-aretas-iv-damascus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Aretas_IV_Philopatris"
+ },
+ "source:wikipedia-damascus-nabataean": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Damascus"
+ },
+ "source:wikipedia-eshmunazar-sarcophagus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sarcophagus_of_Eshmunazar_II"
+ },
+ "source:wikipedia-street-called-straight": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Street_Called_Straight"
+ },
+ "source:wikisource-ant15-caesarea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ },
+ "source:wikisource-ant16-letters": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVI"
+ },
+ "source:wikisource-war2-damascus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war2-lydda-joppa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ }
+}

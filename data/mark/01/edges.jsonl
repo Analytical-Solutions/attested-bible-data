@@ -1,0 +1,215 @@
+{"from": "passage:mk-01-01", "type": "asserts", "to": "claim:mt-01-01-jesus-is-the-christ"}
+{"from": "passage:mk-01-02", "type": "asserts", "to": "claim:mk-01-02-mixed-quotation"}
+{"from": "passage:mk-01-03", "type": "asserts", "to": "claim:mk-01-02-mixed-quotation"}
+{"from": "passage:mk-01-04", "type": "asserts", "to": "claim:mt-03-01-john-preached-wilderness"}
+{"from": "passage:mk-01-04", "type": "asserts", "to": "claim:mt-03-06-baptized-in-jordan"}
+{"from": "passage:mk-01-05", "type": "asserts", "to": "claim:mt-03-06-baptized-in-jordan"}
+{"from": "passage:mk-01-05", "type": "asserts", "to": "claim:mt-03-05-crowds-from-judea"}
+{"from": "passage:mk-01-06", "type": "asserts", "to": "claim:mt-03-04-camel-hair-garment"}
+{"from": "passage:mk-01-06", "type": "asserts", "to": "claim:mt-03-04-locusts-wild-honey"}
+{"from": "passage:mk-01-07", "type": "asserts", "to": "claim:mk-01-07-sandal-thong"}
+{"from": "passage:mk-01-12", "type": "asserts", "to": "claim:mt-04-01-wilderness-retreat"}
+{"from": "passage:mk-01-13", "type": "asserts", "to": "claim:mk-01-13-forty-days-tempted"}
+{"from": "passage:mk-01-14", "type": "asserts", "to": "claim:mt-04-12-john-arrested"}
+{"from": "passage:mk-01-14", "type": "asserts", "to": "claim:mt-04-17-preaching-repentance"}
+{"from": "passage:mk-01-15", "type": "asserts", "to": "claim:mt-04-17-preaching-repentance"}
+{"from": "passage:mk-01-16", "type": "asserts", "to": "claim:mt-04-18-fishermen-called"}
+{"from": "passage:mk-01-19", "type": "asserts", "to": "claim:mt-04-21-james-john-called"}
+{"from": "passage:mk-01-20", "type": "asserts", "to": "claim:mt-04-21-james-john-called"}
+{"from": "passage:mk-01-21", "type": "asserts", "to": "claim:mk-01-21-taught-capernaum-synagogue"}
+{"from": "passage:mk-01-22", "type": "asserts", "to": "claim:mk-01-21-taught-capernaum-synagogue"}
+{"from": "passage:mk-01-23", "type": "asserts", "to": "claim:mk-01-23-synagogue-exorcism"}
+{"from": "passage:mk-01-26", "type": "asserts", "to": "claim:mk-01-23-synagogue-exorcism"}
+{"from": "passage:mk-01-27", "type": "asserts", "to": "claim:mk-01-23-synagogue-exorcism"}
+{"from": "passage:mk-01-29", "type": "asserts", "to": "claim:mt-08-14-mother-in-law-fever"}
+{"from": "passage:mk-01-30", "type": "asserts", "to": "claim:mt-08-14-mother-in-law-fever"}
+{"from": "passage:mk-01-31", "type": "asserts", "to": "claim:mt-08-14-mother-in-law-fever"}
+{"from": "passage:mk-01-32", "type": "asserts", "to": "claim:mt-08-16-evening-exorcisms"}
+{"from": "passage:mk-01-34", "type": "asserts", "to": "claim:mt-08-16-evening-exorcisms"}
+{"from": "passage:mk-01-39", "type": "asserts", "to": "claim:mt-04-23-teaching-synagogues"}
+{"from": "passage:mk-01-40", "type": "asserts", "to": "claim:mt-08-02-leper-came"}
+{"from": "passage:mk-01-41", "type": "asserts", "to": "claim:mt-08-03-jesus-touched-leper"}
+{"from": "passage:mk-01-44", "type": "asserts", "to": "claim:mt-08-04-offering-moses-commanded"}
+{"from": "passage:mk-01-01", "type": "parallels", "to": "passage:mt-01-01", "note": "Opening titles; Matthew 1:1 heads the genealogy of Jesus the Christ, Mark 1:1 the 'beginning of the Good News of Jesus Christ, the Son of God'."}
+{"from": "passage:mk-01-04", "type": "parallels", "to": "passage:mt-03-01", "note": "John baptizing and preaching in the wilderness; Matthew 3:1-6 condenses the same ministry."}
+{"from": "passage:mk-01-05", "type": "parallels", "to": "passage:mt-03-05", "note": "Judeans and Jerusalemites going out to John and being baptized in the Jordan."}
+{"from": "passage:mk-01-06", "type": "parallels", "to": "passage:mt-03-04", "note": "John's camel-hair garment, leather belt, locusts and wild honey."}
+{"from": "passage:mk-01-09", "type": "parallels", "to": "passage:mt-03-13", "note": "Jesus comes from Galilee (Mark adds Nazareth) to be baptized by John in the Jordan."}
+{"from": "passage:mk-01-10", "type": "parallels", "to": "passage:mt-03-16", "note": "The Spirit descending like a dove as Jesus comes up from the water."}
+{"from": "passage:mk-01-11", "type": "parallels", "to": "passage:mt-03-17", "note": "The voice from the sky, 'You are my beloved Son, in whom I am well pleased.'"}
+{"from": "passage:mk-01-12", "type": "parallels", "to": "passage:mt-04-01", "note": "The Spirit leads/drives Jesus into the wilderness after the baptism."}
+{"from": "passage:mk-01-13", "type": "parallels", "to": "passage:mt-04-02", "note": "Partial: Mark's forty days with the wild animals; Matthew adds forty nights of fasting and the dialogued temptations."}
+{"from": "passage:mk-01-14", "type": "parallels", "to": "passage:mt-04-12", "note": "After John's arrest Jesus comes into Galilee."}
+{"from": "passage:mk-01-15", "type": "parallels", "to": "passage:mt-04-17", "note": "Jesus preaches that the kingdom is at hand and calls for repentance."}
+{"from": "passage:mk-01-16", "type": "parallels", "to": "passage:mt-04-18", "note": "Simon and Andrew called while casting a net into the sea."}
+{"from": "passage:mk-01-19", "type": "parallels", "to": "passage:mt-04-21", "note": "James and John called while mending nets in their father Zebedee's boat."}
+{"from": "passage:mk-01-20", "type": "parallels", "to": "passage:mt-04-22", "note": "They leave Zebedee in the boat with the hired servants and follow."}
+{"from": "passage:mk-01-29", "type": "parallels", "to": "passage:mt-08-14", "note": "Jesus enters Simon's house in Capernaum; Matthew names Peter's house."}
+{"from": "passage:mk-01-30", "type": "parallels", "to": "passage:mt-08-14", "note": "Simon's mother-in-law sick with a fever."}
+{"from": "passage:mk-01-31", "type": "parallels", "to": "passage:mt-08-15", "note": "He raises her, the fever leaves, and she serves them."}
+{"from": "passage:mk-01-32", "type": "parallels", "to": "passage:mt-08-16", "note": "At evening after sunset the sick and demon-possessed are brought to him."}
+{"from": "passage:mk-01-34", "type": "parallels", "to": "passage:mt-08-16", "note": "He heals many and casts out many demons."}
+{"from": "passage:mk-01-39", "type": "parallels", "to": "passage:mt-04-23", "note": "Preaching in the synagogues throughout Galilee."}
+{"from": "passage:mk-01-40", "type": "parallels", "to": "passage:mt-08-02", "note": "A leper kneels and asks to be made clean."}
+{"from": "passage:mk-01-41", "type": "parallels", "to": "passage:mt-08-03", "note": "Jesus touches the leper and the leprosy departs."}
+{"from": "passage:mk-01-44", "type": "parallels", "to": "passage:mt-08-04", "note": "Show yourself to the priest and offer what Moses commanded."}
+{"from": "claim:mk-01-02-mixed-quotation", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:mk-01-07-sandal-thong", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mk-01-13-forty-days-tempted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-01-21-taught-capernaum-synagogue", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-01-21-taught-capernaum-synagogue", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mk-01-23-synagogue-exorcism", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-01-23-synagogue-exorcism", "type": "mentions", "to": "place:capernaum"}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mk-01-02-mixed-quotation", "grade": "B", "note": "The Great Isaiah Scroll (ca. 125 BCE) carries Isaiah 40:3, the second half of Mark's combined quotation - the quoted Isaiah text existed in Hebrew long before Mark. Graded B under the Isaiah rule for quotation claims; the scroll says nothing about the mixed attribution to Isaiah's name. Regraded B to C by architect review: a grade covers the whole claim, and the scroll carries only the Isaiah half of the combined quotation, not Malachi 3:1. Aligned C to B in consolidation B: the parallel quotation claims (jn-01-23, mt-03-03, lk-03-04-06) carry B from the same scroll, and the calibration's Isaiah-scroll example grades the exact quoted passage B; Mark's mixed attribution is the narrative's own, not what the grade asserts."}
+{"from": "artifact:cave-of-letters-sandals", "type": "attests", "to": "claim:mk-01-07-sandal-thong", "grade": "C", "note": "A pair of woman's sandals was found in the Cave of Letters (1961 dig, c. 135 CE) - leather sandals were ordinary Judean footwear. The find is Bar Kokhba era, two generations after John, and attests the object, not the untying custom or John's saying."}
+{"from": "observation:judean-desert-wild-animals", "type": "attests", "to": "claim:mk-01-13-forty-days-tempted", "grade": "C", "note": "Rock hyraxes and Nubian ibex live on the Judaean desert plateau, and Arabian leopards were there until quite recently - the wilderness region supports wild animals. This attests the setting only; it says nothing about the temptation event."}
+{"from": "site:capernaum-synagogue", "type": "attests", "to": "claim:mk-01-21-taught-capernaum-synagogue", "grade": "D", "note": "A synagogue stood at Capernaum: the standing limestone building is 4th-5th century, and Loffreda suggests the basalt foundation beneath is the 1st-century synagogue, but others read that floor as a paved market area - the first-century date is disputed, so the grade is D."}
+{"from": "text:josephus-ant-8-eleazar", "type": "attests", "to": "claim:mk-01-23-synagogue-exorcism", "grade": "C", "note": "Josephus saw Eleazar, 'a certain man of my own country', releasing people that were demoniacal before Vespasian, his sons and his soldiers (Ant. 8.45-48) - Jewish demon-expulsion was a living practice in the 1st century. It attests the practice, not this exorcism."}
+{"from": "text:isaiah-40-3", "type": "documented_by", "to": "source:bible-api-isaiah-40-3"}
+{"from": "text:josephus-ant-8-eleazar", "type": "documented_by", "to": "source:wikisource-ant-8-eleazar"}
+{"from": "observation:judean-desert-wild-animals", "type": "documented_by", "to": "source:wikipedia-judean-desert"}
+{"from": "artifact:cave-of-letters-sandals", "type": "documented_by", "to": "source:wikipedia-cave-of-letters"}
+{"from": "claim:mk-01-02-mixed-quotation", "type": "documented_by", "to": "source:wikipedia-great-isaiah-scroll"}
+{"from": "claim:mk-01-21-taught-capernaum-synagogue", "type": "documented_by", "to": "source:wikipedia-capernaum-mark-only"}
+{"from": "claim:mk-01-23-synagogue-exorcism", "type": "documented_by", "to": "source:wikipedia-capernaum-mark-only"}
+{"from": "claim:mk-01-02-mixed-quotation", "type": "related_to", "to": "claim:mt-03-03-isaiah-40-3-applied", "note": "Attribution difference: Matthew 3:3 quotes Isaiah 40:3 alone and names Isaiah; Mark 1:2-3 combines Malachi 3:1 with Isaiah 40:3 but still says 'as it is written in Isaiah the prophet'."}
+{"from": "text:malachi-3-1", "type": "related_to", "to": "claim:mk-01-02-mixed-quotation", "note": "Malachi 3:1 ('Behold, I send my messenger before your face, who will prepare your way') is the first half of Mark's combined quotation, though Mark attributes both halves to Isaiah."}
+{"from": "claim:mk-01-13-forty-days-tempted", "type": "related_to", "to": "claim:mt-04-02-forty-days-fasting", "note": "Mark has forty days tempted by Satan, with the wild animals and serving angels, and no fasting; Matthew 4:2 has forty days and nights of fasting and three dialogued temptations."}
+{"from": "claim:mk-01-21-taught-capernaum-synagogue", "type": "related_to", "to": "claim:mt-07-28-29-scribes", "note": "The same amazement formula - teaching 'with authority, and not as the scribes' - ends the Sermon on the Mount in Matthew 7:28-29; Mark places it at the Capernaum synagogue, an occasion Matthew does not narrate (Wikipedia, Capernaum: the story 'is not contained in the Gospel of Matthew')."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-01-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-01-45"}
+{"from": "site:monastery-of-temptation", "type": "attests", "to": "claim:mk-01-13-forty-days-tempted", "grade": "D", "note": "The 6th-century monastery above the cave 'traditionally said to be that where Jesus spent forty days and forty nights fasting' attests the commemorative tradition of the wilderness temptation, not the event (reception, grade D; it also commemorates Matthew's fasting, which Mark does not mention)."}
+{"from": "text:josephus-war-1-pompey-sabbath", "type": "attests", "to": "claim:mk-01-21-taught-capernaum-synagogue", "grade": "C", "note": "Josephus, War 1.145-147 (Whiston): at Pompey's siege the Jews abstained from work on the seventh days - Sabbath observance was a firm 1st-century institution. It attests the Sabbath setting of the synagogue visit, not the teaching event."}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-01"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-02"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-03"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-04"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-05"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-06"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-07"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-08"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-09"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-10"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-11"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-12"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-13"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-14"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-15"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-16"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-17"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-18"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-19"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-20"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-21"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-22"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-23"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-24"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-25"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-26"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-27"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-28"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-29"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-30"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-31"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-32"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-33"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-34"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-35"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-36"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-37"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-38"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-39"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-40"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-41"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-42"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-43"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-44"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-01-45"}

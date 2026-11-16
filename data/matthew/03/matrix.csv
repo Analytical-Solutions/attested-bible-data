@@ -1,0 +1,166 @@
+anchor,label,category,status,findings,note
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,inscription,n/a,,
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,coin,n/a,,
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,structure-or-site,none-found,,"No site of John's wilderness preaching was excavated or identified beyond the traditional Jordan baptism area; searched Wikipedia (John the Baptist, Al-Maghtas)."
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,burial-or-ossuary,n/a,,
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,manuscript,n/a,,
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,documentary-papyrus,n/a,,
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,jewish-literary,found,text:josephus-ant-18-116-119,
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,greco-roman-literary,found,text:pliny-nh-5-essenes,"Pliny does not mention John's preaching, but his Dead Sea description of the ascetic Esseni (NH 5.73, fetched this run) makes the wilderness a living religious setting; still no classical source on John."
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,material-culture,n/a,,
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,geography-or-nature,found,site:qumran,"The wilderness of Judea is real desert terrain east of Jerusalem that hosted ascetic preachers (Wikipedia, Judaean Desert)."
+claim:mt-03-01-john-preached-wilderness,John preached in the wilderness of Judea,astronomy-or-calendar,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,inscription,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,coin,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,structure-or-site,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,burial-or-ossuary,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,manuscript,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,documentary-papyrus,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,jewish-literary,found,text:josephus-ant-18-116-119,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,greco-roman-literary,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,material-culture,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,geography-or-nature,n/a,,
+claim:mt-03-02-repentance-kingdom,John's preaching of repentance and the near Kingdom,astronomy-or-calendar,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,inscription,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,coin,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,structure-or-site,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,burial-or-ossuary,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,manuscript,found,artifact:great-isaiah-scroll,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,documentary-papyrus,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,jewish-literary,found,text:1qs-8-13-14,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,greco-roman-literary,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,material-culture,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,geography-or-nature,n/a,,
+claim:mt-03-03-isaiah-40-3-applied,Isaiah 40:3 applied to John,astronomy-or-calendar,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,inscription,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,coin,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,structure-or-site,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,burial-or-ossuary,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,manuscript,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,documentary-papyrus,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,jewish-literary,none-found,,Only a biblical cross-reference was found (text:2-kings-1-8); no extra-biblical evidence.
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,greco-roman-literary,none-found,,"No classical author describes John's clothing; searched Wikipedia (John the Baptist, Entomophagy in humans)."
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,material-culture,none-found,,No camel-hair garment or leather belt from first-century Judea was fetched; searched Wikipedia (John the Baptist).
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,geography-or-nature,n/a,,
+claim:mt-03-04-camel-hair-garment,John's garment of camel's hair and leather belt,astronomy-or-calendar,n/a,,
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,inscription,n/a,,
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,coin,n/a,,
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,structure-or-site,n/a,,
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,burial-or-ossuary,n/a,,
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,manuscript,n/a,,
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,documentary-papyrus,n/a,,
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,jewish-literary,none-found,,Only a biblical cross-reference was found (text:leviticus-11-locusts); no extra-biblical evidence.
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,greco-roman-literary,none-found,,"Wikipedia (Entomophagy in humans) notes that 'Greco-Roman writers attest to locust-eating' in the study of John's diet it cites, but no classical passage was fetched this run."
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,material-culture,none-found,,"No food remains or vessels tied to John's diet were fetched; searched Wikipedia (Entomophagy in humans, John the Baptist)."
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,geography-or-nature,none-found,,Locusts and wild honey as wilderness produce of the Jordan valley were not verified against a fetched source; searched Wikipedia (Entomophagy in humans).
+claim:mt-03-04-locusts-wild-honey,John's diet of locusts and wild honey,astronomy-or-calendar,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",inscription,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",coin,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",structure-or-site,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",burial-or-ossuary,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",manuscript,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",documentary-papyrus,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",jewish-literary,found,text:josephus-ant-18-116-119,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",greco-roman-literary,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",material-culture,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",geography-or-nature,n/a,,
+claim:mt-03-05-crowds-from-judea,"Crowds from Jerusalem, Judea and the Jordan went out to John",astronomy-or-calendar,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,inscription,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,coin,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,structure-or-site,found,site:bethany-beyond-jordan;site:qumran,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,burial-or-ossuary,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,manuscript,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,documentary-papyrus,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,jewish-literary,found,text:josephus-ant-18-116-119,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,greco-roman-literary,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,material-culture,n/a,,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,geography-or-nature,found,site:bethany-beyond-jordan,
+claim:mt-03-06-baptized-in-jordan,Baptism of confessing crowds in the Jordan,astronomy-or-calendar,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,inscription,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,coin,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,structure-or-site,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,burial-or-ossuary,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,manuscript,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,documentary-papyrus,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,jewish-literary,found,text:josephus-ant-18-sects,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,greco-roman-literary,none-found,,"Pliny on the Essenes was noted (Wikipedia, Judaean Desert) but no classical passage on Pharisees/Sadducees was fetched; searched Wikipedia (Pharisees, Sadducees via John the Baptist)."
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,material-culture,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,geography-or-nature,n/a,,
+claim:mt-03-07-pharisees-sadducees,Pharisees and Sadducees came to John's baptism,astronomy-or-calendar,n/a,,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,inscription,n/a,,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,coin,n/a,,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,structure-or-site,found,site:bethany-beyond-jordan,Grade D on the event: the site is the traditional baptism place (venerated since Byzantine times) but its identification is disputed (see complicates edge).
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,burial-or-ossuary,n/a,,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,manuscript,n/a,,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,documentary-papyrus,n/a,,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,jewish-literary,found,text:josephus-ant-18-116-119,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,greco-roman-literary,none-found,,"No classical author mentions Jesus' baptism; the disputed Testimonium Flavianum was not fetched this run. Searched Wikipedia (John the Baptist, Josephus on Jesus via search)."
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,material-culture,n/a,,
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,geography-or-nature,found,site:bethany-beyond-jordan,Grade B geography only: the site fixes the east-bank Jordan setting; the event itself carries grade D.
+claim:mt-03-13-jesus-baptized,Jesus came from Galilee to be baptized by John,astronomy-or-calendar,n/a,,
+person:john-the-baptist,John the Baptist,inscription,none-found,,"No inscription naming John the Baptist is known; searched Wikipedia (John the Baptist) and the relics literature it cites, which lists no epigraphic find."
+person:john-the-baptist,John the Baptist,coin,n/a,,
+person:john-the-baptist,John the Baptist,structure-or-site,none-found,,"No site names John himself: Al-Maghtas attests the Jordan setting (3:6, grade B) and the baptism tradition (3:13, grade D) at claim level. Review 2 removed the site-to-person edge per the architect's rule (a place does not attest a person)."
+person:john-the-baptist,John the Baptist,burial-or-ossuary,none-found,,"Relic traditions for John's head and hand exist (Wikipedia, John the Baptist, 'Relics') but are medieval and unverified; no excavated burial was fetched."
+person:john-the-baptist,John the Baptist,manuscript,n/a,,
+person:john-the-baptist,John the Baptist,documentary-papyrus,n/a,,
+person:john-the-baptist,John the Baptist,jewish-literary,found,text:josephus-ant-18-116-119,
+person:john-the-baptist,John the Baptist,greco-roman-literary,none-found,,Josephus is the only near-contemporary literary source; searched Wikipedia (John the Baptist): no classical pagan author mentions John.
+person:john-the-baptist,John the Baptist,material-culture,n/a,,
+person:john-the-baptist,John the Baptist,geography-or-nature,found,site:bethany-beyond-jordan,Wikipedia (John the Baptist): John 'was active in the area of the Jordan River in the early 1st century AD'; the site fixes that landscape.
+person:john-the-baptist,John the Baptist,astronomy-or-calendar,n/a,,
+place:galilee,Galilee,inscription,n/a,,
+place:galilee,Galilee,coin,n/a,,
+place:galilee,Galilee,structure-or-site,none-found,,"Galilee appears in Matt 3 only as Jesus' point of departure; searched Wikipedia (Galilee, John the Baptist): no structure fetched bears on this verse."
+place:galilee,Galilee,burial-or-ossuary,n/a,,
+place:galilee,Galilee,manuscript,n/a,,
+place:galilee,Galilee,documentary-papyrus,n/a,,
+place:galilee,Galilee,jewish-literary,none-found,,"No source fetched connects Galilee to John's baptism episode; searched Wikipedia (John the Baptist, Galilee)."
+place:galilee,Galilee,greco-roman-literary,n/a,,
+place:galilee,Galilee,material-culture,n/a,,
+place:galilee,Galilee,geography-or-nature,none-found,,The route from Galilee down the Jordan valley was not verified against a fetched source this run; searched Wikipedia (Jordan River).
+place:galilee,Galilee,astronomy-or-calendar,n/a,,
+place:jerusalem,Jerusalem,inscription,n/a,,
+place:jerusalem,Jerusalem,coin,n/a,,
+place:jerusalem,Jerusalem,structure-or-site,none-found,,"Jerusalem appears as the origin of crowds (3:5); Wikipedia (Mikveh) notes Second Temple mikvot 'including in Jerusalem', but no Jerusalem site node was created this run."
+place:jerusalem,Jerusalem,burial-or-ossuary,n/a,,
+place:jerusalem,Jerusalem,manuscript,n/a,,
+place:jerusalem,Jerusalem,documentary-papyrus,n/a,,
+place:jerusalem,Jerusalem,jewish-literary,none-found,,"Josephus does not link Jerusalem's population to John's movement; searched Wikipedia (John the Baptist, Mikveh)."
+place:jerusalem,Jerusalem,greco-roman-literary,n/a,,
+place:jerusalem,Jerusalem,material-culture,n/a,,
+place:jerusalem,Jerusalem,geography-or-nature,n/a,,
+place:jerusalem,Jerusalem,astronomy-or-calendar,n/a,,
+place:jordan-river,Jordan River,inscription,n/a,,
+place:jordan-river,Jordan River,coin,n/a,,
+place:jordan-river,Jordan River,structure-or-site,found,site:bethany-beyond-jordan,
+place:jordan-river,Jordan River,burial-or-ossuary,n/a,,
+place:jordan-river,Jordan River,manuscript,n/a,,
+place:jordan-river,Jordan River,documentary-papyrus,n/a,,
+place:jordan-river,Jordan River,jewish-literary,none-found,,"Josephus's John passage (Ant. 18.116-119) never names the Jordan; searched Wikipedia (Jordan River, John the Baptist): no Jewish source fetched locates John's baptising at the river outside the gospels."
+place:jordan-river,Jordan River,greco-roman-literary,none-found,,No classical author fetched describes the lower Jordan in connection with John; searched Wikipedia (Jordan River).
+place:jordan-river,Jordan River,material-culture,n/a,,
+place:jordan-river,Jordan River,geography-or-nature,found,site:bethany-beyond-jordan,"Wikipedia (Al-Maghtas): the site is 'on the east bank of the Jordan River' - the river's course and fords are real, mappable geography."
+place:jordan-river,Jordan River,astronomy-or-calendar,n/a,,
+place:judea,Judea,inscription,n/a,,
+place:judea,Judea,coin,n/a,,
+place:judea,Judea,structure-or-site,n/a,,
+place:judea,Judea,burial-or-ossuary,n/a,,
+place:judea,Judea,manuscript,n/a,,
+place:judea,Judea,documentary-papyrus,n/a,,
+place:judea,Judea,jewish-literary,found,text:josephus-ant-18-116-119,
+place:judea,Judea,greco-roman-literary,n/a,,
+place:judea,Judea,material-culture,n/a,,
+place:judea,Judea,geography-or-nature,none-found,,"'All Judea' as the catchment of John's crowds is not corroborated; Josephus names no regions; searched Wikipedia (John the Baptist, Judea)."
+place:judea,Judea,astronomy-or-calendar,n/a,,
+place:judaean-desert,Judaean Desert (the wilderness),inscription,n/a,,
+place:judaean-desert,Judaean Desert (the wilderness),coin,n/a,,
+place:judaean-desert,Judaean Desert (the wilderness),structure-or-site,found,site:qumran,"Qumran, an excavated ascetic settlement, lies in this desert region east of Jerusalem."
+place:judaean-desert,Judaean Desert (the wilderness),burial-or-ossuary,n/a,,
+place:judaean-desert,Judaean Desert (the wilderness),manuscript,found,artifact:great-isaiah-scroll,"The Great Isaiah Scroll was found in Qumran Cave 1, in the Judaean desert - the wilderness yielded a major manuscript culture."
+place:judaean-desert,Judaean Desert (the wilderness),documentary-papyrus,n/a,,
+place:judaean-desert,Judaean Desert (the wilderness),jewish-literary,found,text:1qs-8-13-14,
+place:judaean-desert,Judaean Desert (the wilderness),greco-roman-literary,found,text:pliny-nh-5-essenes,"Pliny, NH 5.73 (fetched this run): the Esseni live 'on the west of Asphaltites', apart from the world, by the Dead Sea - the wilderness hosted an ascetic Jewish community."
+place:judaean-desert,Judaean Desert (the wilderness),material-culture,n/a,,
+place:judaean-desert,Judaean Desert (the wilderness),geography-or-nature,found,site:qumran,"Wikipedia (Judaean Desert): the desert east of Jerusalem, descending to the Dead Sea, 'attracted religious sects, including the classical-era Jewish ascetics of Qumran'."
+place:judaean-desert,Judaean Desert (the wilderness),astronomy-or-calendar,n/a,,

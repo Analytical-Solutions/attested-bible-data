@@ -1,0 +1,111 @@
+anchor,label,category,status,findings,note
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,inscription,n/a,,No inscription could bear on the construction of sheepfolds.
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,coin,n/a,,No coinage bears on sheepfold construction.
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,structure-or-site,none-found,,Searched Wikipedia (Pen (enclosure)) for a published excavated sheepfold in Judea; only the general ancient dry stone form is documented (the observation node).
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,burial-or-ossuary,n/a,,No burial could bear on sheepfolds.
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,documentary-papyrus,none-found,,"Searched the existing documentary-papyrus nodes (Babatha archive, Zenon papyri); none mentions sheepfold doors or gatekeepers."
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,jewish-literary,none-found,,"Searched Wikipedia and the Mishnah nodes for rabbinic rules on folds, doors and gatekeepers; nothing fetched bears on the fold's single door."
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,greco-roman-literary,none-found,,No classical text on Judean sheepfolds was found in the searches made.
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,material-culture,found,observation:sheepfold-dry-stone,"Most ancient sheepfolds are dry stone enclosures with restricted access - the shepherd economy of the fold; general observation, graded C."
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,geography-or-nature,n/a,,"The claim is about a structure, not terrain or nature."
+claim:jn-10-01-02-sheepfold-door,Sheep were kept in a sheepfold entered through a door,astronomy-or-calendar,n/a,,Nothing in this anchor is datable.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",inscription,n/a,,No inscription could bear on flock-leading customs.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",coin,n/a,,No coinage bears on shepherding customs.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",structure-or-site,n/a,,No excavated structure could attest how sheep were led.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",burial-or-ossuary,n/a,,No burial could bear on shepherding customs.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",documentary-papyrus,none-found,,Searched the existing documentary-papyrus nodes; none bears on flock management or hired shepherds.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",jewish-literary,none-found,,Searched Wikipedia and the Mishnah nodes for texts on flocks and hired shepherds; nothing fetched bears on sheep following the shepherd's voice.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",greco-roman-literary,none-found,,No classical text on Near Eastern flock-leading was found in the searches made.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",material-culture,none-found,,No artifact could bear on voice-led flock management.
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",geography-or-nature,found,observation:sheep-flock-behavior,"Sheep have a strong tendency to follow, and shepherds have trained a wether to lead the flock on voice command - general ethology behind the custom; graded C."
+claim:jn-10-03-05-shepherd-voice,"The sheep knew and followed the shepherd's voice, not a stranger's",astronomy-or-calendar,n/a,,Nothing in this anchor is datable.
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,inscription,n/a,,No inscription could attest the festival's observance.
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,coin,n/a,,No coinage bears on the festival's observance.
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,structure-or-site,found,site:second-temple,"The Second Temple stood in Jerusalem as the festival's focal site through the 30s CE; it attests the 'at Jerusalem' setting, not the date."
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,burial-or-ossuary,n/a,,No burial could bear on a festival.
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,documentary-papyrus,none-found,,Searched the existing documentary-papyrus nodes; none mentions the Feast of the Dedication.
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,jewish-literary,found,text:josephus-ant-12-316-325,"Josephus: the eight-day festival of the temple's restoration, 'from that time to this we celebrate this festival, and call it Lights' - the same festival in the period, under another name; grade B."
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,greco-roman-literary,none-found,,Searched Wikipedia (Hanukkah) for classical descriptions of the feast; Josephus is the only ancient narrative fetched and no Greco-Roman author describes it.
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,material-culture,none-found,,Searched Wikipedia (Hanukkah) for first-century lamp-lighting evidence; the menorah depictions are later; nothing entered.
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,geography-or-nature,n/a,,"The claim is about a festival, not terrain or nature."
+claim:jn-10-22-feast-dedication,The Feast of the Dedication was kept at Jerusalem,astronomy-or-calendar,none-found,,"The 25 Kislev date comes from the biblical cross-reference (1 Maccabees 4:52, related_to) and a modern calendar source (documented_by); no independent ancient witness gives the month."
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,inscription,none-found,,Searched Wikipedia (Solomon's Porch) and the existing temple-inscription nodes; no inscription labels the eastern portico.
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,coin,n/a,,No coinage bears on a temple colonnade.
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,structure-or-site,found,site:second-temple,"Herod's temple stood in Jerusalem through the 30s CE with its porticoes; it attests the setting, not this particular walk."
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,burial-or-ossuary,n/a,,No burial could bear on a temple portico.
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,documentary-papyrus,none-found,,Searched the existing documentary-papyrus nodes; none mentions the temple porticoes.
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,jewish-literary,found,text:josephus-ant-20-220-221,"Josephus: the eastern cloisters of the temple court were 'the work of king Solomon' - the portico John 10:23 names, confirmed in the period; grade B."
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,greco-roman-literary,none-found,,No classical author describes the eastern portico in the searches made.
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,material-culture,none-found,,The temple-warning inscription and the western-wall ashlars document other parts of the enclosure; nothing fetched names the eastern cloister's fabric.
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,geography-or-nature,found,text:josephus-ant-20-220-221,Josephus: the eastern cloisters were 'situated in a deep valley' - the temple's east side overlooking the Kidron valley; the same text bears on the terrain.
+claim:jn-10-23-solomons-porch,Jesus was walking in the temple in Solomon's porch,astronomy-or-calendar,n/a,,Nothing in this anchor is datable.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,inscription,n/a,,No inscription could bear on the season.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,coin,n/a,,No coinage bears on the season.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,structure-or-site,n/a,,No structure could attest the season.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,burial-or-ossuary,n/a,,No burial could bear on the season.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,documentary-papyrus,n/a,,No documentary papyrus could bear on the season of a festival.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,jewish-literary,none-found,,Josephus names the festival but gives no month (Ant. 12.322); 1 Maccabees' Chislev date is a cross-reference; no other ancient text found in the searches.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,greco-roman-literary,none-found,,"Searched Wikipedia (Hanukkah, Climate of Israel) for ancient seasonal testimony; none found."
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,material-culture,n/a,,No artifact could bear on the season.
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,geography-or-nature,found,observation:galilee-rainy-season,"Israel's rains fall between November and March - the cold rainy season into which 25 Kislev falls; it attests the season, not that any particular Dedication was wintry; grade C."
+claim:jn-10-23-winter,It was winter at the Feast of the Dedication,astronomy-or-calendar,none-found,,The Kislev-to-November/December mapping rests on 1 Maccabees (cross-reference) and the modern calendar source (documented_by); no independent ancient calendrical witness found.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,inscription,n/a,,No inscription could bear on this incident.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,coin,n/a,,No coinage bears on this incident.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,structure-or-site,none-found,,"No excavated site or find is tied to this stone-taking; searched Wikipedia (Solomon's Porch, John 10)."
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,burial-or-ossuary,n/a,,No burial could bear on an attempted stoning.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,documentary-papyrus,n/a,,No documentary papyrus could bear on this incident.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,jewish-literary,none-found,,Josephus nowhere reports this stone-taking; searched Wikipedia and the Josephus nodes.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,greco-roman-literary,none-found,,No classical author reports the incident; searched.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,material-culture,n/a,,No artifact could bear on this incident.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,geography-or-nature,n/a,,No terrain claim is made.
+claim:jn-10-31-stoning-attempt,The Jews took up stones again to stone him,astronomy-or-calendar,n/a,,Nothing in this anchor is datable.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,inscription,n/a,,No inscription could bear on the blasphemy procedure.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,coin,n/a,,No coinage bears on the blasphemy procedure.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,structure-or-site,none-found,,Searched Wikipedia for a published stoning site tied to blasphemy executions; none found.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,burial-or-ossuary,n/a,,No burial could bear on the blasphemy procedure.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,documentary-papyrus,n/a,,No documentary papyrus could bear on the blasphemy procedure.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,jewish-literary,found,text:mishnah-sanhedrin-7-5;text:josephus-ant-20-199-sanhedrin,"Mishnah Sanhedrin 7:5 tries blasphemy as a capital charge (stoning first among the four executions, 7:1), with the c. 200 CE redaction caveat; Josephus: the sanhedrim delivered James 'to be stoned' in 62 CE for breaking the law. Grade C."
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,greco-roman-literary,none-found,,No classical author on Jewish blasphemy procedure was fetched; the Josephus sanhedrin passage is counted under jewish-literary.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,material-culture,n/a,,No artifact could bear on the blasphemy procedure.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,geography-or-nature,n/a,,No terrain claim is made.
+claim:jn-10-33-blasphemy-stoning,Blasphemy was the charge for which stoning was invoked,astronomy-or-calendar,n/a,,Nothing in this anchor is datable.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",inscription,n/a,,No inscription could bear on a scripture quotation.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",coin,n/a,,No coinage bears on a scripture quotation.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",structure-or-site,n/a,,No structure could bear on a scripture quotation.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",burial-or-ossuary,n/a,,No burial could bear on a scripture quotation.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",manuscript,none-found,,"Searched the Great Psalms Scroll (11Q5, copied c. 30-50 CE) on Wikipedia: its contents begin at Psalm 101 and do not include Psalm 82; no pre-Christian manuscript of Psalm 82:6 was found in the searches made."
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",documentary-papyrus,n/a,,No documentary papyrus could bear on a scripture quotation.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",jewish-literary,n/a,,"The quotation is verified by the biblical cross-reference itself (text:psalm-82, related_to); other texts cannot strengthen it."
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",greco-roman-literary,n/a,,No classical text could bear on the quotation.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",material-culture,n/a,,No artifact could bear on the quotation.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",geography-or-nature,n/a,,No terrain claim is made.
+claim:jn-10-34-psalm-82-quote,"Psalm 82:6 quoted from the law ('I said, you are gods')",astronomy-or-calendar,n/a,,Nothing in this anchor is datable.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",inscription,n/a,,No inscription could bear on this incident.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",coin,n/a,,No coinage bears on this incident.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",structure-or-site,none-found,,No excavated site or find is tied to this seizure attempt; searched Wikipedia (John 10).
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",burial-or-ossuary,n/a,,No burial could bear on this incident.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",documentary-papyrus,n/a,,No documentary papyrus could bear on this incident.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",jewish-literary,none-found,,No ancient report of this seizure attempt outside the Gospel; searched the Josephus nodes and Wikipedia.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",greco-roman-literary,none-found,,No classical author reports the incident; searched.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",material-culture,n/a,,No artifact could bear on this incident.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",geography-or-nature,n/a,,No terrain claim is made.
+claim:jn-10-39-seizure-attempt,"They sought again to seize him, and he went out of their hand",astronomy-or-calendar,n/a,,Nothing in this anchor is datable.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",inscription,n/a,,No inscription could bear on this journey.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",coin,n/a,,No coinage bears on this journey.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",structure-or-site,found,site:bethany-beyond-jordan,Al-Maghtas on the east bank preserves Second Temple-period pools and buildings in a baptizing landscape - the place 10:40 recalls as 'where John was baptizing at first'; grade B.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",burial-or-ossuary,n/a,,No burial could bear on this journey.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",manuscript,n/a,,A manuscript of John only preserves the passages it carries and never attests a claim (calibration rule).
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",documentary-papyrus,n/a,,No documentary papyrus could bear on this journey.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",jewish-literary,found,text:josephus-ant-18-116-119,"Josephus: John commanded the Jews to come to baptism and crowds came together about him - John's baptizing activity in the region, independent of the Gospels; grade C."
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",greco-roman-literary,none-found,,No classical author reports Jesus's movements beyond the Jordan; searched.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",material-culture,n/a,,No artifact could bear on this journey.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",geography-or-nature,n/a,,The location evidence is the site node (structure-or-site); no terrain claim is made.
+claim:jn-10-40-beyond-jordan-return,"Jesus went away again beyond the Jordan, where John was baptizing at first",astronomy-or-calendar,n/a,,Nothing in this anchor is datable.

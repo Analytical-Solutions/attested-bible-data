@@ -1,0 +1,24 @@
+{
+  "book": "matthew",
+  "chapter": 13,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        53
+      ],
+      "setting": "place:capernaum",
+      "basis": "13:1 \"Jesus went out of the house, and sat by the seaside\" - the house and shore of the Capernaum ministry (4:13; 8:14)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        54,
+        58
+      ],
+      "setting": "place:nazareth",
+      "basis": "13:54 \"Coming into his own country, he taught them in their synagogue\" - his country is Nazareth (2:23); \"Isn't this the carpenter's son?\" (13:55)",
+      "confidence": "inferred"
+    }
+  ]
+}

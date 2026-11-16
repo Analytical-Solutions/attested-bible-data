@@ -1,0 +1,42 @@
+{
+ "book": "acts",
+ "chapter": 17,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    9
+   ],
+   "setting": "place:thessalonica",
+   "confidence": "stated",
+   "basis": "17:1 \"they came to Thessalonica, where there was a Jewish synagogue\"; 17:2 \"Paul, as was his custom, went in to them, and for three Sabbath days reasoned with them from the Scriptures\""
+  },
+  {
+   "verses": [
+    10,
+    14
+   ],
+   "setting": "place:beroea",
+   "confidence": "stated",
+   "basis": "17:10 \"The brothers immediately sent Paul and Silas away by night to Beroea. When they arrived, they went into the Jewish synagogue\""
+  },
+  {
+   "verses": [
+    15,
+    18
+   ],
+   "setting": "place:athens",
+   "confidence": "stated",
+   "basis": "17:15 \"those who escorted Paul brought him as far as Athens\"; 17:16 \"Now while Paul waited for them at Athens, his spirit was provoked within him\""
+  },
+  {
+   "verses": [
+    19,
+    34
+   ],
+   "setting": "site:areopagus",
+   "confidence": "stated",
+   "basis": "17:19 \"They took hold of him, and brought him to the Areopagus\"; 17:22 \"Paul stood in the middle of the Areopagus, and said\""
+  }
+ ]
+}

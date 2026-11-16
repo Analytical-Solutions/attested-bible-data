@@ -1,0 +1,168 @@
+{"from": "passage:mt-19-01", "type": "asserts", "to": "claim:mt-19-01-journey-beyond-jordan"}
+{"from": "passage:mt-19-02", "type": "asserts", "to": "claim:mt-19-02-healed-multitudes"}
+{"from": "passage:mt-19-03", "type": "asserts", "to": "claim:mt-19-03-divorce-question"}
+{"from": "passage:mt-19-03", "type": "asserts", "to": "claim:mt-19-03-any-cause-debate"}
+{"from": "passage:mt-19-04", "type": "asserts", "to": "claim:mt-19-04-male-female-quote"}
+{"from": "passage:mt-19-05", "type": "asserts", "to": "claim:mt-19-05-one-flesh-quote"}
+{"from": "passage:mt-19-06", "type": "asserts", "to": "claim:mt-19-05-one-flesh-quote"}
+{"from": "passage:mt-19-07", "type": "asserts", "to": "claim:mt-19-07-bill-of-divorce"}
+{"from": "passage:mt-19-08", "type": "asserts", "to": "claim:mt-19-07-bill-of-divorce"}
+{"from": "passage:mt-19-08", "type": "asserts", "to": "claim:mt-19-09-divorce-adultery"}
+{"from": "passage:mt-19-09", "type": "asserts", "to": "claim:mt-19-09-divorce-adultery"}
+{"from": "passage:mt-19-12", "type": "asserts", "to": "claim:mt-19-12-eunuchs"}
+{"from": "passage:mt-19-13", "type": "asserts", "to": "claim:mt-19-13-children-blessing"}
+{"from": "passage:mt-19-14", "type": "asserts", "to": "claim:mt-19-13-children-blessing"}
+{"from": "passage:mt-19-15", "type": "asserts", "to": "claim:mt-19-13-children-blessing"}
+{"from": "passage:mt-19-16", "type": "asserts", "to": "claim:mt-19-16-rich-young-man"}
+{"from": "passage:mt-19-17", "type": "asserts", "to": "claim:mt-19-16-rich-young-man"}
+{"from": "passage:mt-19-17", "type": "asserts", "to": "claim:mt-19-18-commandments"}
+{"from": "passage:mt-19-18", "type": "asserts", "to": "claim:mt-19-18-commandments"}
+{"from": "passage:mt-19-19", "type": "asserts", "to": "claim:mt-19-18-commandments"}
+{"from": "passage:mt-19-20", "type": "asserts", "to": "claim:mt-19-16-rich-young-man"}
+{"from": "passage:mt-19-21", "type": "asserts", "to": "claim:mt-19-21-sell-give-poor"}
+{"from": "passage:mt-19-22", "type": "asserts", "to": "claim:mt-19-16-rich-young-man"}
+{"from": "passage:mt-19-22", "type": "asserts", "to": "claim:mt-19-21-sell-give-poor"}
+{"from": "passage:mt-19-23", "type": "asserts", "to": "claim:mt-19-24-camel-needle"}
+{"from": "passage:mt-19-24", "type": "asserts", "to": "claim:mt-19-24-camel-needle"}
+{"from": "passage:mt-19-27", "type": "asserts", "to": "claim:mt-19-29-hundredfold"}
+{"from": "passage:mt-19-28", "type": "asserts", "to": "claim:mt-19-28-twelve-thrones"}
+{"from": "passage:mt-19-29", "type": "asserts", "to": "claim:mt-19-29-hundredfold"}
+{"from": "passage:mt-19-30", "type": "asserts", "to": "claim:mt-19-30-first-last"}
+{"from": "claim:mt-19-01-journey-beyond-jordan", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-01-journey-beyond-jordan", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-19-01-journey-beyond-jordan", "type": "mentions", "to": "place:judea"}
+{"from": "claim:mt-19-01-journey-beyond-jordan", "type": "mentions", "to": "place:beyond-the-jordan"}
+{"from": "claim:mt-19-02-healed-multitudes", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-03-divorce-question", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-04-male-female-quote", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-05-one-flesh-quote", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-07-bill-of-divorce", "type": "mentions", "to": "person:moses"}
+{"from": "claim:mt-19-07-bill-of-divorce", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-09-divorce-adultery", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-12-eunuchs", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-13-children-blessing", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-16-rich-young-man", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-18-commandments", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-21-sell-give-poor", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-24-camel-needle", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-28-twelve-thrones", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-28-twelve-thrones", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-19-29-hundredfold", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-19-29-hundredfold", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-19-04-male-female-quote", "type": "related_to", "to": "text:genesis-1-27", "note": "Cross-reference: Genesis 1:27 (WEB), 'male and female he created them' - the verse Jesus quotes. A biblical text is not independent evidence."}
+{"from": "claim:mt-19-05-one-flesh-quote", "type": "related_to", "to": "text:genesis-2-24", "note": "Cross-reference: Genesis 2:24 (WEB), 'the two shall become one flesh' - the verse Jesus quotes. A biblical text is not independent evidence."}
+{"from": "claim:mt-19-07-bill-of-divorce", "type": "related_to", "to": "text:deuteronomy-24-1", "note": "Cross-reference: Deuteronomy 24:1 (WEB), the Mosaic statute of the bill of divorce that 19:7 invokes. A biblical text is not independent evidence."}
+{"from": "claim:mt-19-09-divorce-adultery", "type": "related_to", "to": "text:deuteronomy-24-1", "note": "Cross-reference: Deuteronomy 24:1 (WEB), the statute whose interpretation Jesus tightens. A biblical text is not independent evidence."}
+{"from": "claim:mt-19-18-commandments", "type": "related_to", "to": "text:exodus-20-13-16", "note": "Cross-reference: Exodus 20:13-16 (WEB), the Decalogue commandments Jesus lists. A biblical text is not independent evidence."}
+{"from": "claim:mt-19-18-commandments", "type": "related_to", "to": "text:leviticus-19-18", "note": "Cross-reference: Leviticus 19:18 (WEB), 'love your neighbor as yourself', the commandment Jesus appends. A biblical text is not independent evidence."}
+{"from": "claim:mt-19-21-sell-give-poor", "type": "related_to", "to": "text:tobit-4-7-11", "note": "Cross-reference: Tobit 4:7-11 (WEB), 'you lay up a good treasure for yourself' through alms - the Jewish almsgiving tradition behind 'treasure in heaven'. A biblical text is not independent evidence."}
+{"from": "claim:mt-19-28-twelve-thrones", "type": "related_to", "to": "text:daniel-7-13", "note": "Cross-reference: Daniel 7:13 (WEB), 'one like a son of man' coming with the clouds - the scriptural background of the coming Son of Man. A biblical text is not independent evidence."}
+{"from": "text:josephus-war-2-perea", "type": "attests", "to": "place:beyond-the-jordan", "grade": "A", "note": "Josephus names the region and its ruler: Herod's kingdom 'he divided it into two tetrarchies... to that Antipas... Under this last was Perea and Galilee' - Perea, the region beyond the Jordan, as Antipas's tetrarchy."}
+{"from": "text:josephus-war-2-perea", "type": "attests", "to": "person:herod-antipas", "grade": "A", "note": "Josephus names Antipas as tetrarch of 'Perea and Galilee, with a revenue of two hundred talents' at Herod's death."}
+{"from": "text:josephus-war-2-perea", "type": "attests", "to": "claim:mt-19-01-journey-beyond-jordan", "grade": "B", "note": "Confirms the specific setting of 19:1: the region beyond the Jordan was Perea, ruled by Antipas, when Jesus 'came into the borders of Judea beyond the Jordan'."}
+{"from": "text:josephus-war-2-julias", "type": "attests", "to": "person:herod-antipas", "grade": "C", "note": "Josephus records Antipas's own building in the region: 'Herod also built the city Tiberius in Galilee, and in Perea [beyond Jordan] another that was also called Julias.'"}
+{"from": "text:josephus-war-2-julias", "type": "attests", "to": "place:beyond-the-jordan", "grade": "B", "note": "A named Herodian foundation inside Perea: Antipas 'in Perea [beyond Jordan]... built... Julias' - the built landscape of the region in the period."}
+{"from": "text:josephus-war-3-perea", "type": "attests", "to": "place:beyond-the-jordan", "grade": "C", "note": "Josephus describes Perea itself: 'the length of Perea is from Macherus to Pella, and its breadth from Philadelphia to Jordan', 'the greater part of it is desert and rough', planted with olive, vine and palm."}
+{"from": "text:josephus-war-3-perea", "type": "attests", "to": "claim:mt-19-01-journey-beyond-jordan", "grade": "C", "note": "Confirms the character of the region Jesus entered: Perea east of the Jordan, extending from Machaerus to Pella, part desert and rough, part fruitful."}
+{"from": "site:machaerus", "type": "attests", "to": "place:beyond-the-jordan", "grade": "C", "note": "The excavated Herodian fortress of Machaerus stands at the southern end of Josephus's Perea ('the length of Perea is from Macherus to Pella'): a first-century fortified site in the region (reused from ch 14)."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Antipas's bronze coins name him 'Herod the Tetrarch' (ΗΡΩΔΟΥ ΤΕΤΡΑΡΧΟΥ); the same office Matthew presupposes for the ruler of the region (reused from ch 14)."}
+{"from": "text:mishnah-gittin-9-10", "type": "attests", "to": "claim:mt-19-03-any-cause-debate", "grade": "B", "note": "The Mishnah records the very dispute: 'Beit Shammai say: A man may not divorce his wife unless... forbidden sexual intercourse'; 'Beit Hillel say: He may divorce her even due to a minor issue, e.g., because she burned or over-salted his dish'; 'Rabbi Akiva says: even if he found another woman... better looking' - divorce 'for any cause' was exactly the live question of 19:3. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:mishnah-gittin-9-10", "type": "attests", "to": "claim:mt-19-03-divorce-question", "grade": "C", "note": "The Hillelite position the Pharisees' 'for any cause' echoes was a named school's halakhah, recorded as a debate between the Houses - the testing question had a real institutional background. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:mishnah-gittin-9-10", "type": "attests", "to": "claim:mt-19-09-divorce-adultery", "grade": "C", "note": "The Mishnah confirms the permissive divorce-and-remarriage practice Jesus addresses (Hillel: divorce 'even due to a minor issue'); his ruling is stricter than the norm it answers. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:erusin-betrothal-law", "type": "attests", "to": "claim:mt-19-07-bill-of-divorce", "grade": "C", "note": "Jewish law of divorce: 'A divorce document must be written... in the presence of two witnesses' - rabbinic law codified after 200 CE describing the written get the verse assumes (reused from ch 05)."}
+{"from": "artifact:murabbaat-writ-of-divorce", "type": "attests", "to": "claim:mt-19-07-bill-of-divorce", "grade": "C", "note": "A writ of divorce is among the ~120 legal documents from the Judean desert found at Wadi Murabba'at, officially excavated by Harding and de Vaux in 1952 - the physical get of the period (dated decades after 19:7, so contextual)."}
+{"from": "text:damascus-document-4-20-5-1", "type": "attests", "to": "claim:mt-19-04-male-female-quote", "grade": "B", "note": "The same exegetical move at Qumran: CD 4.20-5.1 rules out 'taking two wives during their lifetimes' because 'the foundation of the creation is, Male and female created He them' - Genesis 1:27 cited as the creation norm governing marriage in the same period and region."}
+{"from": "text:damascus-document-4-20-5-1", "type": "attests", "to": "claim:mt-19-09-divorce-adultery", "grade": "C", "note": "Qumran's anti-divorce discipline: Schechter notes of this CD passage that the prohibition 'extends also to divorce, or rather to marrying a second wife, as long as the first wife is alive' - a contemporaneous strict-marriage movement Jesus's saying stands near."}
+{"from": "text:josephus-ant-16-eunuchs", "type": "attests", "to": "claim:mt-19-12-eunuchs", "grade": "C", "note": "Josephus describes real eunuchs in Herod's court - 'certain eunuchs which the king had... the care of bringing him drink was intrusted to one of them... of putting him to bed, to the third' - the 'made by men' class in the very court world of the chapter."}
+{"from": "text:mishnah-tamid-5-1", "type": "attests", "to": "claim:mt-19-18-commandments", "grade": "C", "note": "The Mishnah records the Temple liturgy: the priestly watch 'recited the Ten Commandments, Shema' daily in the Chamber of Hewn Stone - the commandments Jesus lists were the recited core of Jewish instruction. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:talmud-berakhot-55b", "type": "attests", "to": "claim:mt-19-24-camel-needle", "grade": "C", "note": "The same hyperbole in rabbinic idiom: 'one is neither shown a golden palm tree nor an elephant going through the eye of a needle in a dream' (Rava, Berakhot 55b) - the impossibility figure was native to Jewish speech."}
+{"from": "text:talmud-bava-metzia-38b", "type": "attests", "to": "claim:mt-19-24-camel-needle", "grade": "C", "note": "Rav Sheshet's mockery: 'Perhaps you are from Pumbedita, where people pass an elephant through the eye of a needle' (Bava Metzia 38b) - the parallel idiom with the largest land animal."}
+{"from": "text:1-enoch-62-son-of-man", "type": "attests", "to": "claim:mt-19-28-twelve-thrones", "grade": "C", "note": "1 Enoch 62 expects 'that Son of Man Sitting on the throne of his glory', before whom kings and the mighty fall down - a pre-Christian Jewish throne-of-glory judgement scene (reused from ch 16)."}
+{"from": "text:mishnah-gittin-9-10", "type": "complicates", "to": "claim:mt-19-04-male-female-quote", "note": "The same Mishnah page shows the debate did not turn on Genesis 1:27: all three schools argued from 'some unseemly matter' in Deuteronomy 24:1, not from the creation texts - the creation-norm argument of 19:4 is the Qumran-style move, not the Pharisaic one."}
+{"from": "text:josephus-war-2-perea", "type": "documented_by", "to": "source:wikisource-war2-perea"}
+{"from": "text:josephus-war-2-julias", "type": "documented_by", "to": "source:wikisource-war2-julias"}
+{"from": "text:josephus-war-3-perea", "type": "documented_by", "to": "source:wikisource-war3-perea"}
+{"from": "text:josephus-ant-16-eunuchs", "type": "documented_by", "to": "source:wikisource-ant16-eunuchs"}
+{"from": "text:mishnah-gittin-9-10", "type": "documented_by", "to": "source:sefaria-gittin-9-10"}
+{"from": "text:mishnah-gittin-9-10", "type": "documented_by", "to": "source:sefaria-gittin-9-10-shammai"}
+{"from": "artifact:murabbaat-writ-of-divorce", "type": "documented_by", "to": "source:wikipedia-wadi-murabbaat"}
+{"from": "artifact:murabbaat-writ-of-divorce", "type": "documented_by", "to": "source:wikipedia-wadi-murabbaat-excavation"}
+{"from": "text:damascus-document-4-20-5-1", "type": "documented_by", "to": "source:schechter-damascus-creation"}
+{"from": "text:damascus-document-4-20-5-1", "type": "documented_by", "to": "source:schechter-damascus-divorce-note"}
+{"from": "text:mishnah-tamid-5-1", "type": "documented_by", "to": "source:sefaria-tamid-5-1"}
+{"from": "text:talmud-berakhot-55b", "type": "documented_by", "to": "source:sefaria-berakhot-55b"}
+{"from": "text:talmud-bava-metzia-38b", "type": "documented_by", "to": "source:sefaria-bava-metzia-38b"}
+{"from": "claim:mt-19-24-camel-needle", "type": "documented_by", "to": "source:wikipedia-eye-of-a-needle"}
+{"from": "claim:mt-19-12-eunuchs", "type": "documented_by", "to": "source:wikipedia-eunuch"}
+{"from": "text:1-enoch-62-son-of-man", "type": "documented_by", "to": "source:wikisource-enoch-62"}
+{"from": "text:daniel-7-13", "type": "documented_by", "to": "source:bible-api-daniel-7-13"}
+{"from": "text:erusin-betrothal-law", "type": "documented_by", "to": "source:wikipedia-get"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herod-antipas-coins"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus"}
+{"from": "text:genesis-1-27", "type": "documented_by", "to": "source:bible-api-genesis-1-27"}
+{"from": "text:genesis-2-24", "type": "documented_by", "to": "source:bible-api-genesis-2-24"}
+{"from": "text:deuteronomy-24-1", "type": "documented_by", "to": "source:bible-api-deuteronomy-24-1"}
+{"from": "text:exodus-20-13-16", "type": "documented_by", "to": "source:bible-api-exodus-20-13-16"}
+{"from": "text:leviticus-19-18", "type": "documented_by", "to": "source:bible-api-leviticus-19-18"}
+{"from": "text:tobit-4-7-11", "type": "documented_by", "to": "source:bible-api-tobit-4-7-11"}
+{"from": "claim:mt-19-16-rich-young-man", "type": "documented_by", "to": "source:wikipedia-tv-matthew-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-19-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-19-30"}

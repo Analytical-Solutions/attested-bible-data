@@ -1,0 +1,17 @@
+{
+ "source:biblehub-pulpit-luke-12-54": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://biblehub.com/luke/12-54.htm"
+ },
+ "source:wikipedia-erastus-oikonomos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Erastus_of_Corinth"
+ },
+ "source:wikipedia-khamsin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Khamsin"
+ }
+}

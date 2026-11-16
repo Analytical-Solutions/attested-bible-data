@@ -1,0 +1,210 @@
+{"from": "passage:ac-27-01", "type": "asserts", "to": "claim:ac-27-01-paul-to-italy"}
+{"from": "passage:ac-27-01", "type": "asserts", "to": "claim:ac-27-01-augustan-cohort"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-01"}
+{"from": "passage:ac-27-02", "type": "asserts", "to": "claim:ac-27-02-adramyttium-ship"}
+{"from": "passage:ac-27-02", "type": "asserts", "to": "claim:ac-27-02-aristarchus-accompanied"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-02"}
+{"from": "passage:ac-27-03", "type": "asserts", "to": "claim:ac-27-03-sidon-stay"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-03"}
+{"from": "passage:ac-27-04", "type": "asserts", "to": "claim:ac-27-04-lee-of-cyprus"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-04"}
+{"from": "passage:ac-27-05", "type": "asserts", "to": "claim:ac-27-05-myra-call"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-05"}
+{"from": "passage:ac-27-06", "type": "asserts", "to": "claim:ac-27-06-alexandrian-ship"}
+{"from": "passage:ac-27-06", "type": "asserts", "to": "claim:ac-27-06-grain-route"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-06"}
+{"from": "passage:ac-27-07", "type": "asserts", "to": "claim:ac-27-07-cnidus-beating"}
+{"from": "passage:ac-27-07", "type": "asserts", "to": "claim:ac-27-07-salmone"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-07"}
+{"from": "passage:ac-27-08", "type": "asserts", "to": "claim:ac-27-08-fair-havens"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-08"}
+{"from": "passage:ac-27-09", "type": "asserts", "to": "claim:ac-27-09-fast-past"}
+{"from": "passage:ac-27-09", "type": "asserts", "to": "claim:ac-27-09-sailing-season"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-10"}
+{"from": "passage:ac-27-11", "type": "asserts", "to": "claim:ac-27-11-captain-over-paul"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-11"}
+{"from": "passage:ac-27-12", "type": "asserts", "to": "claim:ac-27-12-phoenix-harbor"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-13"}
+{"from": "passage:ac-27-14", "type": "asserts", "to": "claim:ac-27-14-euraquilo"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-15"}
+{"from": "passage:ac-27-16", "type": "asserts", "to": "claim:ac-27-16-cauda-shelter"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-16"}
+{"from": "passage:ac-27-17", "type": "asserts", "to": "claim:ac-27-17-undergirding"}
+{"from": "passage:ac-27-17", "type": "asserts", "to": "claim:ac-27-17-syrtis-fear"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-22"}
+{"from": "passage:ac-27-23", "type": "asserts", "to": "claim:ac-27-23-24-angel-message"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-23"}
+{"from": "passage:ac-27-24", "type": "asserts", "to": "claim:ac-27-23-24-angel-message"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-26"}
+{"from": "passage:ac-27-27", "type": "asserts", "to": "claim:ac-27-27-adria"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-27"}
+{"from": "passage:ac-27-28", "type": "asserts", "to": "claim:ac-27-28-soundings"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-28"}
+{"from": "passage:ac-27-29", "type": "asserts", "to": "claim:ac-27-29-four-anchors"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-36"}
+{"from": "passage:ac-27-37", "type": "asserts", "to": "claim:ac-27-37-276-souls"}
+{"from": "passage:ac-27-37", "type": "asserts", "to": "claim:ac-27-37-ship-capacity"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-37"}
+{"from": "passage:ac-27-38", "type": "asserts", "to": "claim:ac-27-38-wheat-cargo"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-41"}
+{"from": "passage:ac-27-42", "type": "asserts", "to": "claim:ac-27-42-kill-prisoners"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-43"}
+{"from": "passage:ac-27-44", "type": "asserts", "to": "claim:ac-27-44-all-safe"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-27-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-27-44"}
+{"from": "claim:ac-27-01-paul-to-italy", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-27-01-paul-to-italy", "type": "mentions", "to": "person:julius-the-centurion"}
+{"from": "claim:ac-27-01-augustan-cohort", "type": "mentions", "to": "person:julius-the-centurion"}
+{"from": "claim:ac-27-02-aristarchus-accompanied", "type": "mentions", "to": "person:aristarchus"}
+{"from": "claim:ac-27-02-aristarchus-accompanied", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-27-02-adramyttium-ship", "type": "mentions", "to": "place:adramyttium"}
+{"from": "claim:ac-27-03-sidon-stay", "type": "mentions", "to": "place:sidon"}
+{"from": "claim:ac-27-03-sidon-stay", "type": "mentions", "to": "person:julius-the-centurion"}
+{"from": "claim:ac-27-04-lee-of-cyprus", "type": "mentions", "to": "place:cyprus"}
+{"from": "claim:ac-27-05-myra-call", "type": "mentions", "to": "place:myra"}
+{"from": "claim:ac-27-06-alexandrian-ship", "type": "mentions", "to": "place:alexandria"}
+{"from": "claim:ac-27-06-alexandrian-ship", "type": "mentions", "to": "person:julius-the-centurion"}
+{"from": "claim:ac-27-06-grain-route", "type": "mentions", "to": "place:alexandria"}
+{"from": "claim:ac-27-06-grain-route", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-27-07-cnidus-beating", "type": "mentions", "to": "place:cnidus"}
+{"from": "claim:ac-27-07-salmone", "type": "mentions", "to": "place:cape-salmone"}
+{"from": "claim:ac-27-07-salmone", "type": "mentions", "to": "place:crete"}
+{"from": "claim:ac-27-08-fair-havens", "type": "mentions", "to": "place:fair-havens"}
+{"from": "claim:ac-27-08-fair-havens", "type": "mentions", "to": "place:lasea"}
+{"from": "claim:ac-27-12-phoenix-harbor", "type": "mentions", "to": "place:phoenix-crete"}
+{"from": "claim:ac-27-16-cauda-shelter", "type": "mentions", "to": "place:cauda"}
+{"from": "claim:ac-27-17-syrtis-fear", "type": "mentions", "to": "place:syrtis"}
+{"from": "claim:ac-27-27-adria", "type": "mentions", "to": "place:sea-of-adria"}
+{"from": "claim:ac-27-42-kill-prisoners", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "text:lucian-navigium", "type": "attests", "to": "claim:ac-27-06-grain-route", "grade": "B", "note": "The Isis, a great Egyptian corn-ship plying between Egypt and Italy, 'carried as much corn' ... 'as would feed every soul in Attica for a year' - the Alexandria-Italy grain trade in exactly this period."}
+{"from": "text:suetonius-claudius-18-19", "type": "attests", "to": "claim:ac-27-06-grain-route", "grade": "B", "note": "Claudius (41-54 CE) assumed the expense of storm losses for grain merchants and subsidized merchant-ship building - a state-run grain trade sailing to Italy, the same setting as Acts 27:6."}
+{"from": "artifact:andriake-granary-inscription", "type": "attests", "to": "claim:ac-27-06-grain-route", "grade": "B", "note": "A state granary of Hadrian (119 CE) stood at Andriake, the port of Myra where Acts puts the prisoners aboard an Alexandrian grain ship - imperial grain infrastructure on the route."}
+{"from": "text:strabo-geography-17-3-20", "type": "attests", "to": "place:syrtis", "grade": "A", "note": "Strabo names the Great Syrtis (with the Lesser Syrtis) and describes the soft-mud shallows and tides that made them rarely-recovered wrecks."}
+{"from": "text:strabo-geography-17-3-20", "type": "attests", "to": "claim:ac-27-17-syrtis-fear", "grade": "C", "note": "Documents the danger that made sailors fear these gulfs and coast at a distance; it does not attest that this ship was driven toward them."}
+{"from": "text:strabo-geography-10-4-3", "type": "attests", "to": "place:phoenix-crete", "grade": "A", "note": "Strabo names a Phoenix on the southern shore of Crete. Which Phoenix is the Acts harbor (Loutro vs Foinikas) is disputed - the identification is D, the town's existence A."}
+{"from": "text:strabo-geography-10-4-3", "type": "attests", "to": "place:cape-salmone", "grade": "A", "note": "Strabo's account of Crete ends its shore survey at 'a pointed promontory, the Samonium' - the ancient name of Cape Salmone at Crete's east end."}
+{"from": "text:mishnah-yoma", "type": "attests", "to": "claim:ac-27-09-fast-past", "grade": "C", "note": "Yoma is the Mishnah's tractate on Yom Kippur, the autumn fast. Redacted c. 200 CE, it may not describe first-century practice exactly; the identification of Luke's 'the Fast' with the Day of Atonement is the standard reading."}
+{"from": "text:vegetius-4-39", "type": "attests", "to": "claim:ac-27-09-sailing-season", "grade": "B", "note": "Vegetius 4.39: 'incerta nauigatio est et discrimini propior' (navigation is uncertain and close to danger) after mid-September, and 'Ex die igitur tertio idus Nouembres usque in diem sextum idus Martias maria clauduntur' (from the third day before the ides of November to the sixth before the ides of March the seas are closed). He writes c. 390 CE of the same sea's standing calendar."}
+{"from": "text:hesiod-works-days", "type": "attests", "to": "claim:ac-27-09-sailing-season", "grade": "C", "note": "Hesiod (8th-7th century BCE) already fixes a sailing season and warns against autumn gales of Notus that 'make the deep dangerous' - the same custom in the same sea, far earlier than Acts."}
+{"from": "observation:gregale-northeaster", "type": "attests", "to": "claim:ac-27-14-euraquilo", "grade": "C", "note": "A strong cool northeasterly wind of exactly this kind exists in the central-western Mediterranean (the gregale). It confirms the wind type the name denotes, not that this storm happened."}
+{"from": "artifact:athenian-naval-inventories", "type": "attests", "to": "claim:ac-27-17-undergirding", "grade": "C", "note": "The Athenian naval inventories record hypozomata (undergirding cables, two plus two spares) as trireme equipment - classical Athenian warship practice, context for the same device on a merchant ship in Acts 27:17."}
+{"from": "text:josephus-life-15", "type": "attests", "to": "claim:ac-27-37-ship-capacity", "grade": "B", "note": "Josephus sailed to Rome (c. 63 CE) on a ship with about six hundred aboard that foundered in the midst of the Adriatic (Adria) - grain-carrying ships on this route carried hundreds of people."}
+{"from": "text:lucian-navigium", "type": "attests", "to": "claim:ac-27-37-ship-capacity", "grade": "B", "note": "'The crew was like a small army' on the Isis, as the fetched page quotes, a mid-second-century Egyptian grain ship - large complements aboard grain ships were normal."}
+{"from": "text:josephus-life-15", "type": "attests", "to": "place:sea-of-adria", "grade": "A", "note": "Josephus (c. 100 CE, recalling c. 63 CE) uses the name Adrias for the open sea where his Rome-bound ship was lost - the same usage as Acts 27:27. Whiston's English prints 'Adriatic Sea'."}
+{"from": "text:lucian-navigium", "type": "attests", "to": "claim:ac-27-38-wheat-cargo", "grade": "B", "note": "The Isis carried grain (corn) as cargo on the Egypt-Italy run, the same trade as the Alexandrian ship of Acts 27 - confirms the cargo type grain ships of this route carried."}
+{"from": "observation:st-pauls-bay-soundings", "type": "attests", "to": "claim:ac-27-28-soundings", "grade": "B", "note": "James Smith (1848) correlated Admiralty soundings with the sequence: a ship from the eastward passes over twenty and then fifteen fathoms approaching the point of Koura at St Paul's Bay, Malta. Presupposes the traditional (disputed) Malta identification."}
+{"from": "text:digest-48-3-12", "type": "attests", "to": "claim:ac-27-42-kill-prisoners", "grade": "C", "note": "Digest 48.3.12pr (Callistratus): soldiers who lose a prisoner are themselves brought into danger - the liability that explains the soldiers' plan; Roman-law custom of the period."}
+{"from": "claim:ac-27-01-augustan-cohort", "type": "documented_by", "to": "source:wikipedia-acts-27-cohort"}
+{"from": "claim:ac-27-01-augustan-cohort", "type": "documented_by", "to": "source:wikipedia-acts-27-julius"}
+{"from": "person:julius-the-centurion", "type": "documented_by", "to": "source:wikipedia-acts-27-julius"}
+{"from": "place:adramyttium", "type": "documented_by", "to": "source:wikipedia-adramyttium"}
+{"from": "place:myra", "type": "documented_by", "to": "source:wikipedia-myra"}
+{"from": "site:andriake", "type": "documented_by", "to": "source:wikipedia-andriake"}
+{"from": "artifact:andriake-granary-inscription", "type": "documented_by", "to": "source:wikipedia-andriake-horrea"}
+{"from": "place:cnidus", "type": "documented_by", "to": "source:wikipedia-cnidus"}
+{"from": "place:cape-salmone", "type": "documented_by", "to": "source:wikipedia-cape-salmone"}
+{"from": "place:fair-havens", "type": "documented_by", "to": "source:wikipedia-kaloi-limenes"}
+{"from": "claim:ac-27-08-fair-havens", "type": "documented_by", "to": "source:wikipedia-kaloi-limenes-acts"}
+{"from": "place:lasea", "type": "documented_by", "to": "source:wikipedia-lasaea"}
+{"from": "place:lasea", "type": "documented_by", "to": "source:wikipedia-lasaea-caveat"}
+{"from": "place:phoenix-crete", "type": "documented_by", "to": "source:wikipedia-phoenix-crete"}
+{"from": "place:phoenix-crete", "type": "documented_by", "to": "source:wikipedia-phoenix-crete-strabo"}
+{"from": "claim:ac-27-12-phoenix-harbor", "type": "documented_by", "to": "source:wikipedia-phoenix-crete"}
+{"from": "place:cauda", "type": "documented_by", "to": "source:wikipedia-gavdos"}
+{"from": "claim:ac-27-16-cauda-shelter", "type": "documented_by", "to": "source:wikipedia-acts-27-clauda"}
+{"from": "place:syrtis", "type": "documented_by", "to": "source:wikipedia-gulf-of-sidra"}
+{"from": "text:strabo-geography-17-3-20", "type": "documented_by", "to": "source:perseus-strabo-17-3-20"}
+{"from": "text:strabo-geography-10-4-3", "type": "documented_by", "to": "source:perseus-strabo-10-4-3"}
+{"from": "claim:ac-27-27-adria", "type": "documented_by", "to": "source:wikipedia-acts-27-adria"}
+{"from": "claim:ac-27-14-euraquilo", "type": "documented_by", "to": "source:wikipedia-euroclydon"}
+{"from": "observation:gregale-northeaster", "type": "documented_by", "to": "source:wikipedia-gregale"}
+{"from": "claim:ac-27-09-fast-past", "type": "documented_by", "to": "source:wikipedia-cura-annonae"}
+{"from": "text:leviticus-16", "type": "documented_by", "to": "source:wikipedia-yoma"}
+{"from": "text:mishnah-yoma", "type": "documented_by", "to": "source:wikipedia-yoma"}
+{"from": "text:hesiod-works-days", "type": "documented_by", "to": "source:perseus-hesiod-wd-663"}
+{"from": "text:vegetius-4-39", "type": "documented_by", "to": "source:thelatinlibrary-vegetius-4-39"}
+{"from": "text:lucian-navigium", "type": "documented_by", "to": "source:wikipedia-cura-annonae-route"}
+{"from": "text:suetonius-claudius-18-19", "type": "documented_by", "to": "source:wikisource-suetonius-claudius-grain"}
+{"from": "text:josephus-life-15", "type": "documented_by", "to": "source:wikisource-josephus-life-15"}
+{"from": "observation:st-pauls-bay-soundings", "type": "documented_by", "to": "source:archive-james-smith-1848"}
+{"from": "claim:ac-27-28-soundings", "type": "documented_by", "to": "source:wikipedia-acts-27-stpaulsbay"}
+{"from": "claim:ac-27-29-four-anchors", "type": "documented_by", "to": "source:archive-james-smith-1848"}
+{"from": "claim:ac-27-37-276-souls", "type": "documented_by", "to": "source:wikipedia-cura-annonae"}
+{"from": "claim:ac-27-37-ship-capacity", "type": "documented_by", "to": "source:wikipedia-cura-annonae"}
+{"from": "claim:ac-27-06-grain-route", "type": "documented_by", "to": "source:wikipedia-cura-annonae-route"}
+{"from": "claim:ac-27-17-undergirding", "type": "documented_by", "to": "source:wikipedia-trireme-hypozomata"}
+{"from": "artifact:athenian-naval-inventories", "type": "documented_by", "to": "source:wikipedia-trireme-hypozomata"}
+{"from": "claim:ac-27-17-undergirding", "type": "documented_by", "to": "source:archive-james-smith-1848"}
+{"from": "claim:ac-27-01-augustan-cohort", "type": "related_to", "to": "claim:ac-10-01-cornelius-centurion", "note": "Both name a centurion of an auxiliary cohort named for its attachment (the Augustan cohort here; Cornelius's Italian cohort at Acts 10:1)."}
+{"from": "claim:ac-27-42-kill-prisoners", "type": "related_to", "to": "claim:ac-16-27-jailer-life-forfeit", "note": "Same liability custom: the Philippi jailer was about to kill himself supposing the prisoners had escaped (Acts 16:27); Digest 48.3.12pr states soldiers answer for escapes (cf. Acts 12:19)."}
+{"from": "claim:ac-27-09-fast-past", "type": "related_to", "to": "text:leviticus-16", "note": "Leviticus 16 institutes the Day of Atonement, the autumn fast Luke calls 'the Fast'; cross-reference, not independent evidence."}
+{"from": "claim:ac-27-06-alexandrian-ship", "type": "related_to", "to": "claim:ac-18-24-apollos-alexandrian", "note": "Alexandria's shipping and Jewish presence tie this grain route to the Alexandria-born Apollos of Acts 18:24."}
+{"from": "artifact:andriake-granary-inscription", "type": "found_at", "to": "site:andriake"}
+{"from": "text:lucian-navigium", "type": "documented_by", "to": "source:wikipedia-isis-ship"}
+{"from": "text:strabo-geography-10-4-3", "type": "documented_by", "to": "source:perseus-strabo-10-4-3-samonium"}
+{"from": "text:vegetius-4-39", "type": "documented_by", "to": "source:wikisource-vegetius-uncertain"}
+{"from": "text:hesiod-works-days", "type": "documented_by", "to": "source:perseus-hesiod-notus"}

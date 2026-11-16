@@ -1,0 +1,17 @@
+{
+ "source:wikipedia-pool-of-siloam": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Siloam"
+ },
+ "source:wikipedia-tower-of-siloam": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tower_of_Siloam"
+ },
+ "source:wikisource-war5-siloam": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 11,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    13
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "11:1 \"When he finished praying in a certain place\" - no place is named"
+  },
+  {
+   "verses": [
+    14,
+    36
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "11:14 \"He was casting out a demon\" - no place is named; the discourses continue the unnamed setting of 10:38-42"
+  },
+  {
+   "verses": [
+    37,
+    54
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "11:37 \"a certain Pharisee asked him to dine with him. He went in, and sat at the table\" - the city of the house is not named"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "book": "luke",
+ "chapter": 12,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    59
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "12:1 \"when a multitude of many thousands had gathered together\" - no place is named; the discourses continue the unnamed setting"
+  }
+ ]
+}

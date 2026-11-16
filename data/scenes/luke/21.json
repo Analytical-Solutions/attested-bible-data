@@ -1,0 +1,24 @@
+{
+ "book": "luke",
+ "chapter": 21,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    4
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "21:1 \"saw the rich people who were putting their gifts into the treasury\""
+  },
+  {
+   "verses": [
+    5,
+    38
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "21:5 \"As some were talking about the temple\"; 21:37 \"Every day Jesus was teaching in the temple\" - Luke never mentions the Mount of Olives here"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "source:wikipedia-antioch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch"
+ },
+ "source:wikipedia-antioch-founded": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antioch"
+ },
+ "source:wikipedia-papyrus-45-acts-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-pliny-nomen": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians"
+ },
+ "source:wikipedia-pliny-on-christians": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians"
+ },
+ "source:wikipedia-tacitus-on-christ": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tacitus_on_Christ"
+ },
+ "source:wikisource-ant-13-idumeans": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIII"
+ },
+ "source:wikisource-ant-20-famine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-famine-judea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-suetonius-claudius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars/Claudius"
+ },
+ "source:wikisource-suetonius-claudius-chrestus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars/Claudius"
+ },
+ "source:wikisource-tacitus-annals-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_12"
+ },
+ "source:wikisource-tacitus-annals-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+ }
+}

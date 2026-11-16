@@ -1,0 +1,60 @@
+{
+ "book": "luke",
+ "chapter": 22,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    6
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:1 \"the feast of unleavened bread, which is called the Passover, was approaching\"; Judas \"talked with the chief priests and captains\" (22:4) - the festival city is unnamed in Luke"
+  },
+  {
+   "verses": [
+    7,
+    13
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:10 \"when you have entered into the city\" - the unnamed city is Jerusalem, the Passover setting (22:1, 7)"
+  },
+  {
+   "verses": [
+    14,
+    38
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:14 \"he sat down with the twelve apostles\" - the upper room (22:12) in the unnamed city"
+  },
+  {
+   "verses": [
+    39,
+    53
+   ],
+   "setting": "place:mount-of-olives",
+   "confidence": "stated",
+   "basis": "22:39 \"He came out, and went, as his custom was, to the Mount of Olives\"; the arrest (22:47-53) follows there"
+  },
+  {
+   "verses": [
+    54,
+    62
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:54 \"They seized him, and led him away, and brought him into the high priest's house\" - in the city"
+  },
+  {
+   "verses": [
+    63,
+    71
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "22:63 \"The men who held Jesus mocked him\" - the high priest's house of 22:54"
+  }
+ ]
+}

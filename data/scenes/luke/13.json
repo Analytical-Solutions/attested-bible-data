@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 13,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    9
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "13:1 \"some present at the same time\" - no place is named"
+  },
+  {
+   "verses": [
+    10,
+    17
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "13:10 \"He was teaching in one of the synagogues on the Sabbath day\" - the synagogue is not named"
+  },
+  {
+   "verses": [
+    18,
+    35
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "13:22 \"He went on his way through cities and villages, teaching, and traveling on to Jerusalem\" - the journey names no stop; the lament over Jerusalem (13:34-35) is speech"
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{"from": "passage:lk-22-02", "type": "asserts", "to": "claim:mt-26-04-plot"}
+{"from": "passage:lk-22-07", "type": "asserts", "to": "claim:mk-14-12-sacrificed-passover"}
+{"from": "passage:lk-22-07", "type": "asserts", "to": "claim:mt-26-17-prepare-passover"}
+{"from": "passage:lk-22-08", "type": "asserts", "to": "claim:mt-26-17-prepare-passover"}
+{"from": "passage:lk-22-10", "type": "asserts", "to": "claim:mk-14-13-water-carrier"}
+{"from": "passage:lk-22-12", "type": "asserts", "to": "claim:mk-14-15-upper-room"}
+{"from": "passage:lk-22-13", "type": "asserts", "to": "claim:mt-26-17-prepare-passover"}
+{"from": "passage:lk-22-14", "type": "asserts", "to": "claim:mt-26-20-reclining-twelve"}
+{"from": "passage:lk-22-47", "type": "asserts", "to": "claim:mt-26-47-armed-crowd"}
+{"from": "passage:lk-22-50", "type": "asserts", "to": "claim:mt-26-51-sword-ear"}
+{"from": "passage:lk-22-53", "type": "asserts", "to": "claim:mt-26-55-taught-in-temple"}
+{"from": "passage:lk-22-54", "type": "asserts", "to": "claim:mt-26-57-led-to-caiaphas"}
+{"from": "passage:lk-22-54", "type": "asserts", "to": "claim:mt-26-58-peters-in-courtyard"}
+{"from": "passage:lk-22-55", "type": "asserts", "to": "claim:mt-26-58-peters-in-courtyard"}
+{"from": "passage:lk-22-59", "type": "asserts", "to": "claim:mt-26-73-galilean-accent"}
+{"from": "passage:lk-22-03", "type": "asserts", "to": "claim:lk-22-03-satan-entered-judas"}
+{"from": "passage:lk-22-04", "type": "asserts", "to": "claim:lk-22-04-06-money-agreed"}
+{"from": "passage:lk-22-05", "type": "asserts", "to": "claim:lk-22-04-06-money-agreed"}
+{"from": "passage:lk-22-06", "type": "asserts", "to": "claim:lk-22-04-06-money-agreed"}
+{"from": "passage:lk-22-17", "type": "asserts", "to": "claim:lk-22-17-18-cup-before-bread"}
+{"from": "passage:lk-22-18", "type": "asserts", "to": "claim:lk-22-17-18-cup-before-bread"}
+{"from": "passage:lk-22-19", "type": "asserts", "to": "claim:lk-22-19-20-bread-and-cup"}
+{"from": "passage:lk-22-20", "type": "asserts", "to": "claim:lk-22-19-20-bread-and-cup"}
+{"from": "passage:lk-22-24", "type": "asserts", "to": "claim:lk-22-24-27-greatness-dispute"}
+{"from": "passage:lk-22-25", "type": "asserts", "to": "claim:lk-22-24-27-greatness-dispute"}
+{"from": "passage:lk-22-26", "type": "asserts", "to": "claim:lk-22-24-27-greatness-dispute"}
+{"from": "passage:lk-22-27", "type": "asserts", "to": "claim:lk-22-24-27-greatness-dispute"}
+{"from": "passage:lk-22-25", "type": "asserts", "to": "claim:lk-22-25-benefactor-title"}
+{"from": "passage:lk-22-34", "type": "asserts", "to": "claim:lk-22-34-cockcrow-today"}
+{"from": "passage:lk-22-36", "type": "asserts", "to": "claim:lk-22-36-38-two-swords"}
+{"from": "passage:lk-22-37", "type": "asserts", "to": "claim:lk-22-36-38-two-swords"}
+{"from": "passage:lk-22-38", "type": "asserts", "to": "claim:lk-22-36-38-two-swords"}
+{"from": "passage:lk-22-39", "type": "asserts", "to": "claim:lk-22-39-mount-of-olives-custom"}
+{"from": "passage:lk-22-43", "type": "asserts", "to": "claim:lk-22-43-angel-strengthened"}
+{"from": "passage:lk-22-44", "type": "asserts", "to": "claim:lk-22-44-sweat-like-blood"}
+{"from": "passage:lk-22-51", "type": "asserts", "to": "claim:lk-22-51-healed-ear"}
+{"from": "passage:lk-22-52", "type": "asserts", "to": "claim:lk-22-52-captains-arrest"}
+{"from": "passage:lk-22-66", "type": "asserts", "to": "claim:lk-22-66-morning-council"}
+{"from": "passage:lk-22-69", "type": "asserts", "to": "claim:lk-22-69-son-of-man-right-hand"}
+{"from": "claim:lk-22-03-satan-entered-judas", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:lk-22-04-06-money-agreed", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:lk-22-04-06-money-agreed", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-22-17-18-cup-before-bread", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-19-20-bread-and-cup", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-24-27-greatness-dispute", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-34-cockcrow-today", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:lk-22-36-38-two-swords", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-39-mount-of-olives-custom", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-39-mount-of-olives-custom", "type": "mentions", "to": "place:mount-of-olives"}
+{"from": "claim:lk-22-43-angel-strengthened", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-44-sweat-like-blood", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-51-healed-ear", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-52-captains-arrest", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-52-captains-arrest", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-22-66-morning-council", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-22-66-morning-council", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-22-69-son-of-man-right-hand", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "artifact:tyrian-shekel", "type": "attests", "to": "claim:lk-22-04-06-money-agreed", "grade": "C", "note": "The Tyrian shekel (126 BC - AD 56) was the silver coin of Judea's economy and the Temple - the coinage of a payment like the one 'agreed' to Judas (it attests the coinage of such payments, not the promise itself)."}
+{"from": "text:mishnah-pesachim-10-1", "type": "attests", "to": "claim:lk-22-17-18-cup-before-bread", "grade": "B", "note": "Pesachim 10:1: 'The attendants poured the wine of the first cup for the leader of the seder' before the meal, and even the poorest receives four cups - a first cup taken and shared before the bread at the Passover meal, the structure of Luke 22:17-18. Compiled c. 200 CE and may not describe 30 CE practice exactly."}
+{"from": "text:mishnah-pesachim-10-7", "type": "attests", "to": "claim:lk-22-19-20-bread-and-cup", "grade": "B", "note": "Pesachim 10:7: 'They poured for the leader of the seder the third cup, and he recites the blessing over his food, Grace After Meals. Next, they pour him the fourth cup' - a cup over the after-meal blessing, the position of Luke's cup 'after supper'. Compiled c. 200 CE and may not describe 30 CE practice exactly; the Mishnah's four cups are a larger sequence than Luke's two."}
+{"from": "text:mishnah-pesachim-10-1", "type": "attests", "to": "claim:lk-22-24-27-greatness-dispute", "grade": "C", "note": "Pesachim 10:1: 'Even the poorest of Jews should not eat the meal on Passover night until he reclines on his left side, as free and wealthy people recline when they eat' - the recline-as-free, serve-as-subordinate status contrast that Luke's 'I am among you as one who serves' presupposes at table. Compiled c. 200 CE; context, not a report of this dispute."}
+{"from": "text:mishnah-bava-kamma-7-7", "type": "complicates", "to": "claim:lk-22-34-cockcrow-today", "note": "Tension: Bava Kamma 7:7 rules 'One may not raise chickens in Jerusalem, due to the sacrificial meat that is common there', so a rooster crowing in the city at Passover is not straightforward. Luke's cockcrow may be heard from the surrounding valleys, or the mishna's c. 200 CE ruling may not describe 30 CE practice."}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "attests", "to": "claim:lk-22-36-38-two-swords", "grade": "C", "note": "The 2023 Cave of the Swords cache (four iron swords in wooden scabbards and a pilum head) shows short Roman-type blades kept and hidden in Judea - the kind of object 'two swords' would be. The cache is 2nd-century Bar Kokhba-era, not 30 CE, so it attests the practice at C, not the scene."}
+{"from": "text:mishnah-sanhedrin-4-1", "type": "attests", "to": "claim:lk-22-66-morning-council", "grade": "C", "note": "Sanhedrin 4:1: 'In cases of capital law, the court judges during the daytime, and concludes the deliberations and issues the ruling only in the daytime' - Luke's morning assembly of the council conforms to the daytime rule the night hearing of Matthew/Mark violates. Compiled c. 200 CE and may not describe 30 CE practice exactly. Regraded B to C per the architect's Mishnah ruling (2026-11-15): the claim is an event claim (this morning assembly), attested by context only."}
+{"from": "text:1-enoch-62-son-of-man", "type": "attests", "to": "claim:lk-22-69-son-of-man-right-hand", "grade": "C", "note": "1 Enoch 62: 'that Son of Man Sitting on the throne of his glory' - the enthroned Son-of-Man concept behind 'seated at the right hand of the power of God'. It attests the concept in the period, not that Jesus said this; the grade covers the language's availability, as in Matthew 16/19/25 and 26."}
+{"from": "text:mishnah-pesachim-10-1", "type": "documented_by", "to": "source:sefaria-pesachim-10-1"}
+{"from": "text:mishnah-pesachim-10-1", "type": "documented_by", "to": "source:sefaria-pesachim-10-1-first-cup"}
+{"from": "text:mishnah-pesachim-10-7", "type": "documented_by", "to": "source:sefaria-pesachim-10-7"}
+{"from": "text:mishnah-bava-kamma-7-7", "type": "documented_by", "to": "source:sefaria-bava-kamma-7-7"}
+{"from": "text:mishnah-sanhedrin-4-1", "type": "documented_by", "to": "source:sefaria-sanhedrin-4-1"}
+{"from": "artifact:tyrian-shekel", "type": "documented_by", "to": "source:wikipedia-tyrian-shekel"}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "documented_by", "to": "source:wikipedia-cave-of-the-swords"}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "documented_by", "to": "source:wikipedia-cave-of-the-swords-dating"}
+{"from": "text:1-enoch-62-son-of-man", "type": "documented_by", "to": "source:wikisource-enoch-62"}
+{"from": "text:josephus-war-6-288-300", "type": "documented_by", "to": "source:wikisource-war-6-temple-captain"}
+{"from": "artifact:papyrus-69", "type": "documented_by", "to": "source:wikipedia-papyrus-69"}
+{"from": "artifact:papyrus-69", "type": "documented_by", "to": "source:wikipedia-papyrus-69-marcion"}
+{"from": "claim:lk-22-25-benefactor-title", "type": "documented_by", "to": "source:wikipedia-euergetes"}
+{"from": "claim:lk-22-44-sweat-like-blood", "type": "documented_by", "to": "source:wikipedia-hematidrosis"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-36"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-37"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-38"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-39"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-40"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-41"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-45"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-46"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-47"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-48"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-49"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-50"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-51"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-52"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-52"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-53"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-53"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-53"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-54"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-54"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-54"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-55"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-55"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-55"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-56"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-56"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-56"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-57"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-57"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-57"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-58"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-58"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-58"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-59"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-59"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-59"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-60"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-60"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-60"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-61"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-61"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-61"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-62"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-62"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-62"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-63"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-63"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-63"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-64"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-64"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-64"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-65"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-65"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-65"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-66"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-66"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-66"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-67"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-67"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-67"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-68"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-68"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-68"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-69"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-69"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-69"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-70"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-70"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-70"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-71"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-22-71"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-22-71"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-41"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-45"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-46"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-47"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-48"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-58"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-59"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-60"}
+{"from": "artifact:papyrus-69", "type": "preserves", "to": "passage:lk-22-61"}
+{"from": "passage:lk-22-01", "type": "parallels", "to": "passage:mk-14-01"}
+{"from": "passage:lk-22-02", "type": "parallels", "to": "passage:mt-26-04", "note": "Luke adds the motive 'they feared the people'; Matthew 26:5 states the not-during-the-feast motive, which Luke does not give."}
+{"from": "passage:lk-22-02", "type": "parallels", "to": "passage:mk-14-01", "note": "Luke adds the motive 'they feared the people'; Matthew 26:5 states the not-during-the-feast motive, which Luke does not give."}
+{"from": "passage:lk-22-03", "type": "parallels", "to": "passage:mt-26-14"}
+{"from": "passage:lk-22-03", "type": "parallels", "to": "passage:mk-14-10"}
+{"from": "passage:lk-22-04", "type": "parallels", "to": "passage:mt-26-14"}
+{"from": "passage:lk-22-04", "type": "parallels", "to": "passage:mk-14-10"}
+{"from": "passage:lk-22-05", "type": "parallels", "to": "passage:mt-26-15"}
+{"from": "passage:lk-22-05", "type": "parallels", "to": "passage:mk-14-11"}
+{"from": "passage:lk-22-06", "type": "parallels", "to": "passage:mt-26-16"}
+{"from": "passage:lk-22-06", "type": "parallels", "to": "passage:mk-14-11"}
+{"from": "passage:lk-22-07", "type": "parallels", "to": "passage:mt-26-17"}
+{"from": "passage:lk-22-07", "type": "parallels", "to": "passage:mk-14-12"}
+{"from": "passage:lk-22-08", "type": "parallels", "to": "passage:mk-14-13"}
+{"from": "passage:lk-22-10", "type": "parallels", "to": "passage:mk-14-13"}
+{"from": "passage:lk-22-11", "type": "parallels", "to": "passage:mt-26-18"}
+{"from": "passage:lk-22-11", "type": "parallels", "to": "passage:mk-14-14"}
+{"from": "passage:lk-22-12", "type": "parallels", "to": "passage:mk-14-15"}
+{"from": "passage:lk-22-13", "type": "parallels", "to": "passage:mt-26-19"}
+{"from": "passage:lk-22-13", "type": "parallels", "to": "passage:mk-14-16"}
+{"from": "passage:lk-22-14", "type": "parallels", "to": "passage:mt-26-20"}
+{"from": "passage:lk-22-14", "type": "parallels", "to": "passage:mk-14-17"}
+{"from": "passage:lk-22-16", "type": "parallels", "to": "passage:mt-26-29"}
+{"from": "passage:lk-22-16", "type": "parallels", "to": "passage:mk-14-25"}
+{"from": "passage:lk-22-17", "type": "parallels", "to": "passage:mt-26-27", "note": "Luke's first cup before the bread; Matthew/Mark have a single cup after the bread."}
+{"from": "passage:lk-22-17", "type": "parallels", "to": "passage:mk-14-23", "note": "Luke's first cup before the bread; Matthew/Mark have a single cup after the bread."}
+{"from": "passage:lk-22-18", "type": "parallels", "to": "passage:mt-26-29"}
+{"from": "passage:lk-22-18", "type": "parallels", "to": "passage:mk-14-25"}
+{"from": "passage:lk-22-19", "type": "parallels", "to": "passage:mt-26-26", "note": "Luke adds 'which is given for you. Do this in memory of me'; the WEB's longer text of 19b-20 is omitted by Bezae and old Latin witnesses (see the passage variant)."}
+{"from": "passage:lk-22-19", "type": "parallels", "to": "passage:mk-14-22", "note": "Luke adds 'which is given for you. Do this in memory of me'; the WEB's longer text of 19b-20 is omitted by Bezae and old Latin witnesses (see the passage variant)."}
+{"from": "passage:lk-22-20", "type": "parallels", "to": "passage:mt-26-27", "note": "Luke: 'This cup is the new covenant in my blood, which is poured out for you' after supper; Matthew: 'my blood of the new covenant... poured out for many'."}
+{"from": "passage:lk-22-20", "type": "parallels", "to": "passage:mt-26-28", "note": "Luke: 'This cup is the new covenant in my blood, which is poured out for you' after supper; Matthew: 'my blood of the new covenant... poured out for many'."}
+{"from": "passage:lk-22-20", "type": "parallels", "to": "passage:mk-14-23", "note": "Luke: 'This cup is the new covenant in my blood, which is poured out for you' after supper; Matthew: 'my blood of the new covenant... poured out for many'."}
+{"from": "passage:lk-22-20", "type": "parallels", "to": "passage:mk-14-24", "note": "Luke: 'This cup is the new covenant in my blood, which is poured out for you' after supper; Matthew: 'my blood of the new covenant... poured out for many'."}
+{"from": "passage:lk-22-21", "type": "parallels", "to": "passage:mt-26-21"}
+{"from": "passage:lk-22-21", "type": "parallels", "to": "passage:mk-14-18"}
+{"from": "passage:lk-22-22", "type": "parallels", "to": "passage:mt-26-24"}
+{"from": "passage:lk-22-22", "type": "parallels", "to": "passage:mk-14-21"}
+{"from": "passage:lk-22-23", "type": "parallels", "to": "passage:mt-26-22"}
+{"from": "passage:lk-22-23", "type": "parallels", "to": "passage:mk-14-19"}
+{"from": "passage:lk-22-33", "type": "parallels", "to": "passage:mt-26-35"}
+{"from": "passage:lk-22-33", "type": "parallels", "to": "passage:mk-14-31"}
+{"from": "passage:lk-22-34", "type": "parallels", "to": "passage:mt-26-34", "note": "Luke's crow follows the three denials ('today'); Matthew puts the crow before them, Mark has two crows."}
+{"from": "passage:lk-22-34", "type": "parallels", "to": "passage:mk-14-30", "note": "Luke's crow follows the three denials ('today'); Matthew puts the crow before them, Mark has two crows."}
+{"from": "passage:lk-22-39", "type": "parallels", "to": "passage:mt-26-30", "note": "Luke adds 'as his custom was' and omits the hymn of Matthew 26:30 / Mark 14:26."}
+{"from": "passage:lk-22-39", "type": "parallels", "to": "passage:mk-14-26", "note": "Luke adds 'as his custom was' and omits the hymn of Matthew 26:30 / Mark 14:26."}
+{"from": "passage:lk-22-40", "type": "parallels", "to": "passage:mt-26-41"}
+{"from": "passage:lk-22-40", "type": "parallels", "to": "passage:mk-14-38"}
+{"from": "passage:lk-22-41", "type": "parallels", "to": "passage:mt-26-39"}
+{"from": "passage:lk-22-41", "type": "parallels", "to": "passage:mk-14-35"}
+{"from": "passage:lk-22-42", "type": "parallels", "to": "passage:mt-26-39"}
+{"from": "passage:lk-22-42", "type": "parallels", "to": "passage:mk-14-36"}
+{"from": "passage:lk-22-45", "type": "parallels", "to": "passage:mt-26-43"}
+{"from": "passage:lk-22-45", "type": "parallels", "to": "passage:mk-14-37"}
+{"from": "passage:lk-22-46", "type": "parallels", "to": "passage:mt-26-41"}
+{"from": "passage:lk-22-46", "type": "parallels", "to": "passage:mk-14-38"}
+{"from": "passage:lk-22-47", "type": "parallels", "to": "passage:mt-26-47"}
+{"from": "passage:lk-22-47", "type": "parallels", "to": "passage:mk-14-43"}
+{"from": "passage:lk-22-48", "type": "parallels", "to": "passage:mt-26-48"}
+{"from": "passage:lk-22-48", "type": "parallels", "to": "passage:mt-26-49"}
+{"from": "passage:lk-22-48", "type": "parallels", "to": "passage:mk-14-44"}
+{"from": "passage:lk-22-48", "type": "parallels", "to": "passage:mk-14-45"}
+{"from": "passage:lk-22-50", "type": "parallels", "to": "passage:mt-26-51", "note": "Luke says the right ear; Matthew and Mark name no side and no healer."}
+{"from": "passage:lk-22-50", "type": "parallels", "to": "passage:mk-14-47", "note": "Luke says the right ear; Matthew and Mark name no side and no healer."}
+{"from": "passage:lk-22-52", "type": "parallels", "to": "passage:mt-26-55"}
+{"from": "passage:lk-22-52", "type": "parallels", "to": "passage:mk-14-48"}
+{"from": "passage:lk-22-53", "type": "parallels", "to": "passage:mt-26-55"}
+{"from": "passage:lk-22-53", "type": "parallels", "to": "passage:mk-14-49"}
+{"from": "passage:lk-22-54", "type": "parallels", "to": "passage:mt-26-57"}
+{"from": "passage:lk-22-54", "type": "parallels", "to": "passage:mk-14-53"}
+{"from": "passage:lk-22-55", "type": "parallels", "to": "passage:mt-26-58"}
+{"from": "passage:lk-22-55", "type": "parallels", "to": "passage:mk-14-54"}
+{"from": "passage:lk-22-56", "type": "parallels", "to": "passage:mt-26-69"}
+{"from": "passage:lk-22-56", "type": "parallels", "to": "passage:mk-14-66"}
+{"from": "passage:lk-22-57", "type": "parallels", "to": "passage:mt-26-70"}
+{"from": "passage:lk-22-57", "type": "parallels", "to": "passage:mk-14-68"}
+{"from": "passage:lk-22-58", "type": "parallels", "to": "passage:mt-26-71"}
+{"from": "passage:lk-22-58", "type": "parallels", "to": "passage:mk-14-69"}
+{"from": "passage:lk-22-59", "type": "parallels", "to": "passage:mt-26-73"}
+{"from": "passage:lk-22-59", "type": "parallels", "to": "passage:mk-14-70"}
+{"from": "passage:lk-22-60", "type": "parallels", "to": "passage:mt-26-74"}
+{"from": "passage:lk-22-60", "type": "parallels", "to": "passage:mk-14-71"}
+{"from": "passage:lk-22-61", "type": "parallels", "to": "passage:mt-26-75"}
+{"from": "passage:lk-22-61", "type": "parallels", "to": "passage:mk-14-72"}
+{"from": "passage:lk-22-62", "type": "parallels", "to": "passage:mt-26-75"}
+{"from": "passage:lk-22-62", "type": "parallels", "to": "passage:mk-14-72"}
+{"from": "passage:lk-22-63", "type": "parallels", "to": "passage:mt-26-67"}
+{"from": "passage:lk-22-63", "type": "parallels", "to": "passage:mk-14-65"}
+{"from": "passage:lk-22-64", "type": "parallels", "to": "passage:mt-26-67"}
+{"from": "passage:lk-22-64", "type": "parallels", "to": "passage:mk-14-65"}
+{"from": "passage:lk-22-65", "type": "parallels", "to": "passage:mk-14-65"}
+{"from": "passage:lk-22-66", "type": "parallels", "to": "passage:mt-27-01", "note": "Luke's morning assembly of the council; Matthew 27:1/Mark 15:1 have the morning consultation after their single night hearing."}
+{"from": "passage:lk-22-66", "type": "parallels", "to": "passage:mk-15-01", "note": "Luke's morning assembly of the council; Matthew 27:1/Mark 15:1 have the morning consultation after their single night hearing."}
+{"from": "passage:lk-22-67", "type": "parallels", "to": "passage:mt-26-63"}
+{"from": "passage:lk-22-67", "type": "parallels", "to": "passage:mk-14-61"}
+{"from": "passage:lk-22-69", "type": "parallels", "to": "passage:mt-26-64", "note": "Luke omits 'coming on the clouds of the sky'; he has 'seated at the right hand of the power of God'."}
+{"from": "passage:lk-22-69", "type": "parallels", "to": "passage:mk-14-62", "note": "Luke omits 'coming on the clouds of the sky'; he has 'seated at the right hand of the power of God'."}
+{"from": "passage:lk-22-70", "type": "parallels", "to": "passage:mt-26-63"}
+{"from": "passage:lk-22-70", "type": "parallels", "to": "passage:mk-14-61"}
+{"from": "passage:lk-22-71", "type": "parallels", "to": "passage:mt-26-65"}
+{"from": "passage:lk-22-71", "type": "parallels", "to": "passage:mk-14-64"}
+{"from": "claim:lk-22-04-06-money-agreed", "type": "related_to", "to": "claim:mt-26-15-thirty-silver", "note": "Luke agrees only that money was agreed to Judas; Matthew specifies thirty pieces of silver weighed out, and Luke adds the temple captains among those he talked with."}
+{"from": "claim:lk-22-34-cockcrow-today", "type": "related_to", "to": "claim:mt-26-34-cockcrow-denial", "note": "Timing differs: Matthew puts the cockcrow before the three denials ('tonight, before the rooster crows'); Luke says the rooster will not crow 'today until you deny me three times'."}
+{"from": "claim:lk-22-34-cockcrow-today", "type": "related_to", "to": "claim:mk-14-30-cockcrow-twice", "note": "Number differs: Mark has two cockcrows, the second before the third denial; Luke's prediction has one crow after all three denials, though Luke 22:61 recites 'before the rooster crows'."}
+{"from": "claim:lk-22-17-18-cup-before-bread", "type": "related_to", "to": "claim:lk-22-19-20-bread-and-cup", "note": "Luke reports a cup before the bread (22:17-18) and another 'after supper' (22:20); Matthew 26:26-28 and Mark 14:22-24 report only the single cup with the bread."}
+{"from": "claim:lk-22-39-mount-of-olives-custom", "type": "related_to", "to": "claim:mt-26-30-hymn-mount-olives", "note": "Luke omits the singing of the hymn and adds that going to the Mount of Olives was Jesus's custom; Matthew and Mark tie the Mount of Olives departure to the hymn."}
+{"from": "claim:lk-22-51-healed-ear", "type": "related_to", "to": "claim:mt-26-51-sword-ear", "note": "Luke alone reports that Jesus touched the ear and healed it; he also says it was the right ear; Matthew and Mark report only the cutting off."}
+{"from": "claim:lk-22-66-morning-council", "type": "related_to", "to": "claim:mt-26-59-council-death", "note": "Luke separates a morning assembly of the council from the arrest night; Matthew and Mark describe the council seeking testimony in a single night hearing."}
+{"from": "claim:lk-22-69-son-of-man-right-hand", "type": "related_to", "to": "claim:mt-26-64-son-of-man-clouds", "note": "Luke's saying has the enthronement ('seated at the right hand of the power of God') but omits Matthew's 'coming on the clouds of the sky'."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-43", "note": "Written by the original hand of Sinaiticus; the first corrector marked 22:43-44 for omission. Vaticanus omits the verses (see the passage variants)."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-22-44", "note": "Written by the original hand of Sinaiticus; the first corrector marked 22:43-44 for omission. Vaticanus omits the verses (see the passage variants)."}
+{"from": "text:mishnah-pesachim-10-7", "type": "documented_by", "to": "source:sefaria-pesachim-10-7-third-cup", "note": "Reviewer 7: the third-cup quotation in the attests note was not in any source excerpt; this excerpt states it verbatim."}
+{"from": "text:josephus-war-6-288-300", "type": "attests", "to": "claim:ac-04-01-captain-of-the-temple", "grade": "A", "note": "Josephus (War 6.5.3, of the temple as it stood before 70 CE): the temple watchmen ran 'to the captain of the temple', who came up and shut the gate - the same temple-captain office (strategos tou hierou) Acts 4:1 names, acting in the temple; the same institution in the same place and period. Moved by reviewer 10 from the arrest claim, which the evidence does not attest (bundled-claim split, per the Acts 17 politarchs model)."}
+{"from": "text:josephus-war-6-288-300", "type": "attests", "to": "claim:lk-22-52-captains-arrest", "grade": "B", "note": "Confirms the institutional setting of the arresting party: the temple watch and its captain, with the chief priests and elders, stood in Jerusalem in the same period; it does not attest that they came against Jesus. Regraded A to B when the office claim merged into claim:ac-04-01-captain-of-the-temple per the architect's titles-and-offices ruling (2026-11-15)."}
+{"from": "passage:lk-22-52", "type": "asserts", "to": "claim:ac-04-01-captain-of-the-temple"}

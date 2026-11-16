@@ -1,0 +1,24 @@
+{
+  "book": "mark",
+  "chapter": 4,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        34
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "4:1 \"Again he began to teach by the seaside... he entered into a boat in the sea\" - the sea of Galilee (1:16)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        35,
+        41
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "4:35 \"Let's go over to the other side\"; 4:37 \"a big wind storm arose, and the waves beat into the boat\"",
+      "confidence": "stated"
+    }
+  ]
+}

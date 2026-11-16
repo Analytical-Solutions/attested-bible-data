@@ -1,0 +1,267 @@
+{
+ "source:bible-api-acts-1-18-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/acts+1:18-19?translation=web"
+ },
+ "source:bible-api-deuteronomy-21-6-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+21:6-7?translation=web"
+ },
+ "source:bible-api-psalm-22-18": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalms+22:18?translation=web"
+ },
+ "source:latin-library-digest-48": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2024/https://www.thelatinlibrary.com/justinian/digest48.shtml"
+ },
+ "source:penelope-suetonius-caligula": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Caligula*.html"
+ },
+ "source:penelope-suetonius-domitian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Domitian*.html"
+ },
+ "source:sefaria-pesachim-8-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.8.6"
+ },
+ "source:sefaria-sanhedrin-43a": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Sanhedrin.43a"
+ },
+ "source:sefaria-yoma-39b": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Yoma.39b"
+ },
+ "source:wikipedia-akeldama": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Akeldama"
+ },
+ "source:wikipedia-angaria": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Angaria_(Roman_law)"
+ },
+ "source:wikipedia-arimathea-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Arimathea"
+ },
+ "source:wikipedia-arimathea-onomasticon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Arimathea"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-codex-vaticanus-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-crucifixion-darkness-fullmoon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion_darkness"
+ },
+ "source:wikipedia-crucifixion-darkness-phlegon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion_darkness"
+ },
+ "source:wikipedia-crucifixion-darkness-thallus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion_darkness"
+ },
+ "source:wikipedia-crucifixion-heel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion"
+ },
+ "source:wikipedia-earthquakes-levant": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_the_Levant"
+ },
+ "source:wikipedia-garden-tomb": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Garden_Tomb"
+ },
+ "source:wikipedia-gundelia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gundelia"
+ },
+ "source:wikipedia-herodium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodium"
+ },
+ "source:wikipedia-herodium-ring": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodium"
+ },
+ "source:wikipedia-herodium-ring-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodium"
+ },
+ "source:wikipedia-holy-sepulchre-quarry": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre"
+ },
+ "source:wikipedia-holy-sepulchre-walls": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre"
+ },
+ "source:wikipedia-judas-papias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judas_Iscariot"
+ },
+ "source:wikipedia-kishle": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Kishle"
+ },
+ "source:wikipedia-magdala-fishing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-magdala-tarichaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-papyrus-105": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_105"
+ },
+ "source:wikipedia-pilate-stone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pilate_stone"
+ },
+ "source:wikipedia-pontius-pilate-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pontius_Pilate"
+ },
+ "source:wikipedia-second-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple"
+ },
+ "source:wikipedia-simon-cyrene-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Simon_of_Cyrene"
+ },
+ "source:wikipedia-simon-cyrene-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Simon_of_Cyrene"
+ },
+ "source:wikipedia-ziziphus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ziziphus_spina-christi"
+ },
+ "source:wikipedia-ziziphus-native": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ziziphus_spina-christi"
+ },
+ "source:wikisource-ant18-aqueduct": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-samaritan": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-standards": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-jw-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-philo-embassy-pilate": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Embassy_to_Gaius"
+ },
+ "source:wikisource-tacitus-annals-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+ },
+ "source:wikisource-war2-corban": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war2-florus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war2-tribunal": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war4-burial": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_IV"
+ },
+ "source:wikisource-war5-crucified": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ },
+ "source:wikisource-war5-veil": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ },
+ "source:wol-corban": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://wol.jw.org/en/wol/d/r1/lp-e/1200011017"
+ }
+}

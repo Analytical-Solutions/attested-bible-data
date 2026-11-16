@@ -1,0 +1,72 @@
+{
+ "source:gutenberg-bacchae-murray": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.gutenberg.org/cache/epub/8418/pg8418.txt"
+ },
+ "source:gutenberg-gorgias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.gutenberg.org/cache/epub/1672/pg1672.txt"
+ },
+ "source:wikipedia-acts-26": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_26"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-papyrus-74": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_74"
+ },
+ "source:wikipedia-pliny-nomen": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians"
+ },
+ "source:wikipedia-pliny-on-christians": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians"
+ },
+ "source:wikisource-ant-18-pharisees": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-nero-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars/Nero"
+ },
+ "source:wikisource-tacitus-annals-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+ },
+ "source:wikisource-vakchai": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://el.wikisource.org/wiki/%CE%92%CE%AC%CE%BA%CF%87%CE%B1%CE%B9"
+ },
+ "source:wikisource-war-1-pharisees": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ },
+ "source:wikisource-war-2-pharisees": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ }
+}

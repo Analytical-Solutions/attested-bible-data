@@ -1,0 +1,165 @@
+{"from": "passage:ac-12-01", "type": "asserts", "to": "claim:ac-12-01-herod-agrippa-king"}
+{"from": "passage:ac-12-01", "type": "asserts", "to": "claim:ac-12-01-persecution"}
+{"from": "passage:ac-12-02", "type": "asserts", "to": "claim:ac-12-02-james-executed"}
+{"from": "passage:ac-12-03", "type": "asserts", "to": "claim:ac-12-03-04-unleavened-passover"}
+{"from": "passage:ac-12-04", "type": "asserts", "to": "claim:ac-12-03-04-unleavened-passover"}
+{"from": "passage:ac-12-04", "type": "asserts", "to": "claim:ac-12-04-four-squads"}
+{"from": "passage:ac-12-05", "type": "asserts", "to": "claim:ac-12-05-church-prayer"}
+{"from": "passage:ac-12-06", "type": "asserts", "to": "claim:ac-12-06-11-angel-escape"}
+{"from": "passage:ac-12-07", "type": "asserts", "to": "claim:ac-12-06-11-angel-escape"}
+{"from": "passage:ac-12-08", "type": "asserts", "to": "claim:ac-12-06-11-angel-escape"}
+{"from": "passage:ac-12-09", "type": "asserts", "to": "claim:ac-12-06-11-angel-escape"}
+{"from": "passage:ac-12-10", "type": "asserts", "to": "claim:ac-12-06-11-angel-escape"}
+{"from": "passage:ac-12-11", "type": "asserts", "to": "claim:ac-12-06-11-angel-escape"}
+{"from": "passage:ac-12-10", "type": "asserts", "to": "claim:ac-12-10-iron-gate"}
+{"from": "passage:ac-12-12", "type": "asserts", "to": "claim:ac-12-12-marys-house"}
+{"from": "passage:ac-12-13", "type": "asserts", "to": "claim:ac-12-13-rhoda"}
+{"from": "passage:ac-12-14", "type": "asserts", "to": "claim:ac-12-13-rhoda"}
+{"from": "passage:ac-12-15", "type": "asserts", "to": "claim:ac-12-13-rhoda"}
+{"from": "passage:ac-12-16", "type": "asserts", "to": "claim:ac-12-13-rhoda"}
+{"from": "passage:ac-12-17", "type": "asserts", "to": "claim:ac-12-17-james-brothers"}
+{"from": "passage:ac-12-18", "type": "asserts", "to": "claim:ac-12-18-19-guards-executed"}
+{"from": "passage:ac-12-19", "type": "asserts", "to": "claim:ac-12-18-19-guards-executed"}
+{"from": "passage:ac-12-19", "type": "asserts", "to": "claim:ac-12-19-caesarea"}
+{"from": "passage:ac-12-20", "type": "asserts", "to": "claim:ac-12-20-tyre-sidon-envoys"}
+{"from": "passage:ac-12-20", "type": "asserts", "to": "claim:ac-12-20-food-dependence"}
+{"from": "passage:ac-12-21", "type": "asserts", "to": "claim:ac-12-21-22-royal-acclaim"}
+{"from": "passage:ac-12-22", "type": "asserts", "to": "claim:ac-12-21-22-royal-acclaim"}
+{"from": "passage:ac-12-23", "type": "asserts", "to": "claim:ac-12-23-herod-death"}
+{"from": "passage:ac-12-25", "type": "asserts", "to": "claim:ac-12-25-barnabas-saul-return"}
+{"from": "claim:ac-12-01-herod-agrippa-king", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-01-persecution", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-02-james-executed", "type": "mentions", "to": "person:james-son-of-zebedee"}
+{"from": "claim:ac-12-02-james-executed", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:ac-12-02-james-executed", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-03-04-unleavened-passover", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-04-four-squads", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-05-church-prayer", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-06-11-angel-escape", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-10-iron-gate", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-12-marys-house", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-13-rhoda", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-17-james-brothers", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-18-19-guards-executed", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-12-03-04-unleavened-passover", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-04-four-squads", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-06-11-angel-escape", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-18-19-guards-executed", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-19-caesarea", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-20-tyre-sidon-envoys", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-20-food-dependence", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-21-22-royal-acclaim", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-23-herod-death", "type": "mentions", "to": "person:herod-agrippa-i"}
+{"from": "claim:ac-12-12-marys-house", "type": "mentions", "to": "person:mary-mother-of-john-mark"}
+{"from": "claim:ac-12-12-marys-house", "type": "mentions", "to": "person:john-mark"}
+{"from": "claim:ac-12-13-rhoda", "type": "mentions", "to": "person:rhoda"}
+{"from": "claim:ac-12-17-james-brothers", "type": "mentions", "to": "person:james-brother-of-jesus"}
+{"from": "claim:ac-12-19-caesarea", "type": "mentions", "to": "place:judea"}
+{"from": "claim:ac-12-19-caesarea", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-12-20-tyre-sidon-envoys", "type": "mentions", "to": "place:tyre"}
+{"from": "claim:ac-12-20-tyre-sidon-envoys", "type": "mentions", "to": "place:sidon"}
+{"from": "claim:ac-12-20-tyre-sidon-envoys", "type": "mentions", "to": "person:blastus"}
+{"from": "claim:ac-12-20-food-dependence", "type": "mentions", "to": "place:tyre"}
+{"from": "claim:ac-12-20-food-dependence", "type": "mentions", "to": "place:sidon"}
+{"from": "claim:ac-12-25-barnabas-saul-return", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-12-25-barnabas-saul-return", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-12-25-barnabas-saul-return", "type": "mentions", "to": "person:john-mark"}
+{"from": "claim:ac-12-25-barnabas-saul-return", "type": "mentions", "to": "place:jerusalem"}
+{"from": "artifact:agrippa-i-coins", "type": "attests", "to": "person:herod-agrippa-i", "grade": "A", "note": "The most common prutah of Agrippa I carries the Greek legend 'ΑΓΡΙΠΑ ΒΑΣΙΛΕΩΣ' ('of King Agrippa') - the coins name the same man as a king (fetched Wikipedia 'Herodian coinage')."}
+{"from": "artifact:agrippa-i-coins", "type": "attests", "to": "claim:ac-12-01-herod-agrippa-king", "grade": "A", "note": "Agrippa I's own coins, struck 41-44 CE, bear 'ΑΓΡΙΠΑ ΒΑΣΙΛΕΩΣ' ('of King Agrippa') - independent, contemporary documentation that a Jewish king Agrippa ruled when Acts 12 calls 'Herod the king'."}
+{"from": "text:josephus-ant-19-275-abilene", "type": "attests", "to": "claim:ac-12-01-herod-agrippa-king", "grade": "A", "note": "Josephus, Ant. 19.275: Claudius 'confirmed that kingdom to Agrippa which Caius had given him' and 'made all addition to it of all that country over which Herod, who was his grandfather, had reigned, that is, Judea and Samaria' - names Agrippa as king of Judea from 41 CE."}
+{"from": "text:josephus-ant-19-343-350", "type": "attests", "to": "claim:ac-12-19-caesarea", "grade": "A", "note": "Josephus has Agrippa 'come to the city Cesarea, which was formerly called Strato's Tower' and hold the shows there in the last days of his reign - the same stay in the royal capital Acts 12:19 reports."}
+{"from": "text:josephus-ant-19-343-350", "type": "attests", "to": "claim:ac-12-21-22-royal-acclaim", "grade": "A", "note": "Josephus, Ant. 19.346: on the second day of the shows Agrippa 'put on a garment made wholly of silver', entered the theater at Caesarea, and his flatterers 'cried out... that he was a god' - the same public acclamation of the king as a divine being that Acts 12:21-22 reports."}
+{"from": "text:josephus-ant-19-343-350", "type": "attests", "to": "claim:ac-12-23-herod-death", "grade": "A", "note": "Josephus, Ant. 19.346-350: immediately after the acclamation Agrippa saw an owl omen, 'a severe pain... arose in his belly', and 'quite worn out by the pain in his belly for five days, he departed this life' - the same sudden death at Caesarea, 44 CE, right after the acclaim as Acts 12:23. The agent and manner differ (see related_to)."}
+{"from": "site:caesarea-maritima", "type": "attests", "to": "claim:ac-12-21-22-royal-acclaim", "grade": "B", "note": "The Herodian-Roman theatre of Caesarea Maritima is excavated, and the city hosted major games and theatrical productions every five years (fetched Wikipedia 'Caesarea Maritima') - the kind of public festival venue Josephus names for Agrippa's fatal show."}
+{"from": "text:mishnah-pesachim-5-1", "type": "attests", "to": "claim:ac-12-03-04-unleavened-passover", "grade": "C", "note": "Pesachim 5:1 fixes the Temple's festival schedule: on the eve of Passover the daily offering is made early so the Passover lambs can be offered that afternoon - Passover is a dated Temple festival whose 'after' is a calendar point, as Acts 12:4 assumes. The Mishnah was compiled c. 200 CE and may not describe 44 CE practice exactly."}
+{"from": "artifact:elephantine-passover-letter", "type": "attests", "to": "claim:ac-12-03-04-unleavened-passover", "grade": "C", "note": "The Elephantine Passover Letter of 419 BCE instructs the garrison on observing the Festival of Unleavened Bread - the 'days of unleavened bread' as a defined observance period, documented centuries before Acts (caveat from the fetched page: Passover itself is not named in the extant text)."}
+{"from": "text:polybius-6-watches", "type": "attests", "to": "claim:ac-12-04-four-squads", "grade": "C", "note": "Polybius, Histories 6.35-36, describes the Roman night-watch system of rotating guard squads in camp - the practice of guarding by squads in rotation that Acts 12:4's four quaternia reflect. It shows the custom, not Agrippa's specific order."}
+{"from": "text:digest-48-3-1", "type": "attests", "to": "claim:ac-12-04-four-squads", "grade": "C", "note": "Digest 48.3.1 (Ulpian): the governor decides whether an accused 'in carcerem recipienda sit persona an militi tradenda' - military custody of prisoners was a regular Roman practice. Later imperial law (Digest compiled 533 CE), so it shows the institution, not 44 CE Jerusalem in detail."}
+{"from": "text:digest-48-3-12", "type": "attests", "to": "claim:ac-12-18-19-guards-executed", "grade": "C", "note": "Digest 48.3.12pr (Callistratus): 'Milites si amiserint custodias, ipsi in periculum deducuntur' - soldiers who lose a prisoner from custody are themselves brought into danger, and under Hadrian's rescript could be punished 'supplicio' after inquiry. The discipline Acts 12:18-19 shows Herod applying; the text is later (compiled 533 CE) and general."}
+{"from": "text:josephus-ant-15-herod-corn", "type": "attests", "to": "claim:ac-12-20-food-dependence", "grade": "C", "note": "Josephus, Ant. 15.304-306: in the great famine of Herod the Great's reign the king's grain relief fed 'foreigners' beyond his own kingdom - ten thousand cori of wheat to them - showing that neighbouring peoples in the region depended on the Judean king's country for food in hard years. An earlier famine (c. 25 BCE), so context, not 44 CE Tyre and Sidon specifically."}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "attests", "to": "claim:ac-12-20-tyre-sidon-envoys", "grade": "C", "note": "Pliny, NH 5.76, describes Tyre ('so famous in ancient times') and Sidon as standing first-century Phoenician cities - the two peoples whose envoys Acts 12:20 brings to Herod. It attests the setting, not the quarrel."}
+{"from": "claim:ac-12-03-04-unleavened-passover", "type": "related_to", "to": "claim:mk-14-12-sacrificed-passover", "note": "Same festival calendar: Mark 14:12 dates the meal to the first day of unleavened bread, 'when they sacrificed the Passover'; Acts 12:3-4 places the arrest in the days of unleavened bread with the release planned 'after the Passover'."}
+{"from": "text:josephus-ant-19-343-350", "type": "related_to", "to": "claim:ac-12-23-herod-death", "note": "Differences recorded honestly: Josephus has an owl on a rope as the omen and death 'worn out by the pain in his belly for five days'; Acts has an angel of the Lord strike him and death by worms immediately. The shared core (acclaim at Caesarea, sudden death in 44) is what the A grade covers; the agent and manner differ and are not attested by Josephus."}
+{"from": "text:josephus-ant-19-343-350", "type": "related_to", "to": "claim:ac-12-21-22-royal-acclaim", "note": "Setting details differ: Josephus has Agrippa in a silver garment in the theater at Caesarea on the second day of shows/games in honor of Caesar; Acts has royal apparel, a tribunal and an oration 'on an appointed day'. The shared core - the king displayed before the people and acclaimed as a god - is what the A grade covers."}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "related_to", "to": "claim:ac-12-02-james-executed", "note": "Do not conflate: Josephus, Ant. 20.199-203, reports the high priest Ananus executing 'the brother of Jesus, who was called Christ, whose name was James' in 62 CE - a different James, about a different death. Josephus records nothing about James the son of Zebedee."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-12-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-12-25"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-01"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-02"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-03"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-04"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-05"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-16"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-17"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-18"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-19"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-20"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-21"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-12-22"}
+{"from": "person:herod-agrippa-i", "type": "documented_by", "to": "source:wikipedia-herod-agrippa"}
+{"from": "claim:ac-12-23-herod-death", "type": "documented_by", "to": "source:wikipedia-herod-agrippa"}
+{"from": "artifact:agrippa-i-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage-agrippa"}
+{"from": "text:josephus-ant-19-343-350", "type": "documented_by", "to": "source:wikisource-ant-19-garment"}
+{"from": "text:josephus-ant-19-343-350", "type": "documented_by", "to": "source:wikisource-ant-19-god"}
+{"from": "text:josephus-ant-19-343-350", "type": "documented_by", "to": "source:wikisource-ant-19-death"}
+{"from": "text:josephus-ant-19-343-350", "type": "documented_by", "to": "source:wikisource-ant-19-caesarea"}
+{"from": "text:digest-48-3-1", "type": "documented_by", "to": "source:latin-library-digest-48-militi"}
+{"from": "text:digest-48-3-12", "type": "documented_by", "to": "source:latin-library-digest-48-custodia"}
+{"from": "site:caesarea-maritima", "type": "documented_by", "to": "source:wikipedia-caesarea-maritima"}
+{"from": "place:caesarea", "type": "documented_by", "to": "source:wikipedia-caesarea-maritima"}
+{"from": "text:pliny-nh-5-caesarea", "type": "attests", "to": "place:caesarea", "grade": "A", "note": "Pliny, NH 5.14: 'the Tower of Strato, otherwise Caesarea, built by King Herod, but now the Colony of Prima Flavia' - a first-century classical author names the same city and its Herodian founder."}
+{"from": "text:pliny-nh-5-caesarea", "type": "documented_by", "to": "source:perseus-pliny-5-caesarea"}
+{"from": "text:josephus-ant-19-275-abilene", "type": "documented_by", "to": "source:wikisource-ant-19-claudius-kingdom"}
+{"from": "site:caesarea-maritima", "type": "attests", "to": "claim:ac-12-19-caesarea", "grade": "B", "note": "The excavated Herodian port city attests the setting of Agrippa's stay in his capital; the stay itself is Josephus's account (Ant. 19.343-350, grade A on this claim)."}

@@ -1,0 +1,51 @@
+{
+  "book": "matthew",
+  "chapter": 8,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        4
+      ],
+      "setting": null,
+      "basis": "8:1 \"he came down from the mountain\" - the mountain is unnamed; the leper is healed there",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        5,
+        13
+      ],
+      "setting": "place:capernaum",
+      "basis": "8:5 \"When he came into Capernaum, a centurion came to him\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        14,
+        17
+      ],
+      "setting": "place:capernaum",
+      "basis": "8:14 \"When Jesus came into Peter's house\" - Peter's house in Capernaum (Mark 1:29), no movement away",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        18,
+        27
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "8:18 \"he gave the order to depart to the other side\"; 8:24 \"a violent storm came up on the sea\" - the sea by Capernaum",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        28,
+        34
+      ],
+      "setting": null,
+      "basis": "8:28 \"into the country of the Gergesenes\" - the text names no graphed place (Gergesa has no id)",
+      "confidence": "stated"
+    }
+  ]
+}

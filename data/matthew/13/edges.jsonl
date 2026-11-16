@@ -1,0 +1,240 @@
+{"from": "passage:mt-13-01", "type": "asserts", "to": "claim:mt-13-01-taught-from-boat"}
+{"from": "passage:mt-13-02", "type": "asserts", "to": "claim:mt-13-01-taught-from-boat"}
+{"from": "passage:mt-13-04", "type": "asserts", "to": "claim:mt-13-04-05-path-rocky-ground"}
+{"from": "passage:mt-13-05", "type": "asserts", "to": "claim:mt-13-04-05-path-rocky-ground"}
+{"from": "passage:mt-13-06", "type": "asserts", "to": "claim:mt-13-04-05-path-rocky-ground"}
+{"from": "passage:mt-13-07", "type": "asserts", "to": "claim:mt-13-07-thorns-choked"}
+{"from": "passage:mt-13-08", "type": "asserts", "to": "claim:mt-13-08-yields-thirty-sixty-hundredfold"}
+{"from": "passage:mt-13-23", "type": "asserts", "to": "claim:mt-13-08-yields-thirty-sixty-hundredfold"}
+{"from": "passage:mt-13-14", "type": "asserts", "to": "claim:mt-13-14-15-isaiah-6-quoted"}
+{"from": "passage:mt-13-15", "type": "asserts", "to": "claim:mt-13-14-15-isaiah-6-quoted"}
+{"from": "passage:mt-13-25", "type": "asserts", "to": "claim:mt-13-25-26-darnel-among-wheat"}
+{"from": "passage:mt-13-26", "type": "asserts", "to": "claim:mt-13-25-26-darnel-among-wheat"}
+{"from": "passage:mt-13-27", "type": "asserts", "to": "claim:mt-13-25-26-darnel-among-wheat"}
+{"from": "passage:mt-13-28", "type": "asserts", "to": "claim:mt-13-25-26-darnel-among-wheat"}
+{"from": "passage:mt-13-30", "type": "asserts", "to": "claim:mt-13-30-darnel-burned-bundles"}
+{"from": "passage:mt-13-31", "type": "asserts", "to": "claim:mt-13-31-mustard-sown-in-field"}
+{"from": "passage:mt-13-32", "type": "asserts", "to": "claim:mt-13-32-mustard-tree-birds"}
+{"from": "passage:mt-13-33", "type": "asserts", "to": "claim:mt-13-33-leaven-three-measures"}
+{"from": "passage:mt-13-44", "type": "asserts", "to": "claim:mt-13-44-treasure-hidden-field"}
+{"from": "passage:mt-13-45", "type": "asserts", "to": "claim:mt-13-45-46-merchant-pearls"}
+{"from": "passage:mt-13-46", "type": "asserts", "to": "claim:mt-13-45-46-merchant-pearls"}
+{"from": "passage:mt-13-47", "type": "asserts", "to": "claim:mt-13-47-dragnet-sea"}
+{"from": "passage:mt-13-48", "type": "asserts", "to": "claim:mt-13-48-good-bad-fish-sorted"}
+{"from": "passage:mt-13-52", "type": "asserts", "to": "claim:mt-13-52-scribe-new-and-old"}
+{"from": "passage:mt-13-53", "type": "asserts", "to": "claim:mt-13-54-own-country-nazareth"}
+{"from": "passage:mt-13-54", "type": "asserts", "to": "claim:mt-13-54-own-country-nazareth"}
+{"from": "passage:mt-13-54", "type": "asserts", "to": "claim:mt-13-54-nazareth-synagogue"}
+{"from": "passage:mt-13-55", "type": "asserts", "to": "claim:mt-13-55-tekton-son"}
+{"from": "passage:mt-13-55", "type": "asserts", "to": "claim:mt-13-55-mother-called-mary"}
+{"from": "passage:mt-13-55", "type": "asserts", "to": "claim:mt-13-55-brothers-named"}
+{"from": "passage:mt-13-56", "type": "asserts", "to": "claim:mt-13-56-sisters-with-us"}
+{"from": "passage:mt-13-57", "type": "asserts", "to": "claim:mt-13-57-prophet-without-honor"}
+{"from": "claim:mt-13-01-taught-from-boat", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-01-taught-from-boat", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-13-54-own-country-nazareth", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-54-own-country-nazareth", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:mt-13-54-nazareth-synagogue", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-54-nazareth-synagogue", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:mt-13-55-tekton-son", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-55-tekton-son", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:mt-13-55-tekton-son", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:mt-13-55-mother-called-mary", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "claim:mt-13-55-mother-called-mary", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-55-brothers-named", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-55-brothers-named", "type": "mentions", "to": "person:james-brother-of-jesus"}
+{"from": "claim:mt-13-55-brothers-named", "type": "mentions", "to": "person:joses-brother-of-jesus"}
+{"from": "claim:mt-13-55-brothers-named", "type": "mentions", "to": "person:simon-brother-of-jesus"}
+{"from": "claim:mt-13-55-brothers-named", "type": "mentions", "to": "person:judas-brother-of-jesus"}
+{"from": "claim:mt-13-56-sisters-with-us", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-47-dragnet-sea", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-13-48-good-bad-fish-sorted", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-13-14-15-isaiah-6-quoted", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:mt-13-57-prophet-without-honor", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-13-52-scribe-new-and-old", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:mt-13-01-taught-from-boat", "grade": "C", "note": "A 1st-century boat from the north-west shore of the Sea of Galilee: boats of exactly this kind sat offshore while crowds stood on the beach. Context for the scene, not evidence of this event."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "place:sea-of-galilee", "grade": "C", "note": "Found on the north-west shore of the Sea of Galilee; the 1st-century lake economy."}
+{"from": "observation:terra-rossa-shallow-soil", "type": "attests", "to": "claim:mt-13-04-05-path-rocky-ground", "grade": "C", "note": "Terra rossa, the Mediterranean soil type classified in Israel, 'typically occurs as a discontinuous layer... that covers limestone and dolomite bedrock': thin soil over rock that springs seed up quickly and leaves it without depth of root."}
+{"from": "observation:levantine-thorny-plants", "type": "attests", "to": "claim:mt-13-07-thorns-choked", "grade": "C", "note": "Ziziphus spina-christi grows 'in the Levant' and Gundelia tournefortii, a thistle-like plant, is 'native to the eastern Mediterranean and the Middle-East': thorny plants capable of choking a crop were part of the region's flora."}
+{"from": "text:herodotus-1-193", "type": "attests", "to": "claim:mt-13-08-yields-thirty-sixty-hundredfold", "grade": "C", "note": "Herodotus (1.193) reports the Babylonian plain yielding grain 'commonly two-hundred-fold, and when the production is the greatest, even three-hundred-fold': high multiples of seed were part of ancient agronomy's recorded range."}
+{"from": "text:pliny-nh-18-yields", "type": "attests", "to": "claim:mt-13-08-yields-thirty-sixty-hundredfold", "grade": "C", "note": "Pliny (NH 18.21) records that Leontium in Sicily, Baetica and Egypt 'yield produce a hundred-fold': a hundredfold is an attested ancient figure, so the parable's ratios are not invented hyperbole."}
+{"from": "observation:darnel-weed-of-wheat", "type": "attests", "to": "claim:mt-13-25-26-darnel-among-wheat", "grade": "C", "note": "Darnel 'usually grows in the same production zones as wheat and was a serious weed of cultivation, a Vavilovian mimic of wheat': the enemy's weed is a real wheat-field problem, invisible until the ear ripens."}
+{"from": "text:digest-9-2-27-14", "type": "attests", "to": "claim:mt-13-25-26-darnel-among-wheat", "grade": "C", "note": "Digest 9.2.27.14 (Ulpian, citing Celsus, c. 100 CE): 'si lolium aut avenam in segetem alienam inieceris, quo eam tu inquinares' - throwing darnel into another's crop so as to ruin it gave the owner an action. Sowing darnel in an enemy's field was a known malicious act."}
+{"from": "observation:mustard-botany", "type": "attests", "to": "claim:mt-13-31-mustard-sown-in-field", "grade": "C", "note": "Black mustard is 'an upright plant' reaching 'up to 1.2 metres (4 ft) tall', cultivated for its seeds: a real small-seeded field crop of the region. The Wikipedia Parable-of-the-Mustard-Seed article documents that rabbinical sources say Jews did not grow it in gardens, consistent with sowing 'in his field'."}
+{"from": "observation:mustard-botany", "type": "complicates", "to": "claim:mt-13-32-mustard-tree-birds", "note": "Black mustard is an annual herb up to about 1.2 m - 'greater than the herbs', but not a tree that birds lodge in. The 'tree' reads as hyperbole or points to a different plant."}
+{"from": "observation:salvadora-mustard-tree", "type": "attests", "to": "claim:mt-13-32-mustard-tree-birds", "grade": "D", "note": "Salvadora persica, commonly called the 'mustard tree', is a 'small evergreen tree' 6-7 m tall native to the Middle East - a tree-sized candidate for the parable's plant. Grade D because the identification of the parable's mustard is disputed: the Parable-of-the-Mustard-Seed article records the plant is 'generally considered to be black mustard', a large annual herb, not this tree."}
+{"from": "artifact:tabun-oven", "type": "attests", "to": "claim:mt-13-33-leaven-three-measures", "grade": "C", "note": "The clay tabun oven, used since antiquity, is the household baking installation that a batch of meal leavened 'until it was all leavened' would be baked in (reused from ch 06)."}
+{"from": "observation:seah-dry-measure", "type": "attests", "to": "claim:mt-13-33-leaven-three-measures", "grade": "C", "note": "The se'ah is the Hebrew dry-capacity measure (6 kab, 144 eggs) and an ephah is 3 se'ahs: 'three measures' (Greek sata) is roughly an ephah of meal, a large household baking quantity."}
+{"from": "text:copper-scroll-3q15", "type": "attests", "to": "claim:mt-13-44-treasure-hidden-field", "grade": "C", "note": "The Copper Scroll (3Q15), 1st century CE, 'is not a literary work, but a list of 64 places where various items of gold and silver were buried or hidden': hiding valuables in the ground was a real and widespread practice in the period's landscape."}
+{"from": "text:pliny-pearls", "type": "attests", "to": "claim:mt-13-45-46-merchant-pearls", "grade": "C", "note": "Pliny the Elder 'praised the pearl fishery of the Gulf as most productive in the world' (reused from ch 07): fine pearls were prized luxury goods in the 1st-century Roman economy, traded by merchants."}
+{"from": "artifact:magdala-fishing-gear", "type": "attests", "to": "claim:mt-13-47-dragnet-sea", "grade": "C", "note": "Lead net weights and a needle from the 1970s Magdala excavations: net fishing with weighted nets was part of the lake's fishery the dragnet parable assumes."}
+{"from": "observation:galilee-fish-species", "type": "attests", "to": "claim:mt-13-48-good-bad-fish-sorted", "grade": "C", "note": "The lake's fish include musht (tilapia), sardin and biny (barbel) alongside the North African sharptooth catfish: a catch 'of every kind' that genuinely required sorting, with a scaleless species in it (the kosher rule is the Leviticus cross-reference, not this observation)."}
+{"from": "site:nazareth-house", "type": "attests", "to": "claim:mt-13-54-own-country-nazareth", "grade": "C", "note": "Yardenna Alexandre's excavation found remains in Nazareth 'that date to the time of Jesus in the early Roman period' (reused from ch 02): the village existed as a small settlement in the period."}
+{"from": "site:sisters-of-nazareth", "type": "attests", "to": "claim:mt-13-54-own-country-nazareth", "grade": "C", "note": "Dark's excavation at the Sisters of Nazareth convent (2006-10) found 'well-preserved Early Roman-period and later features', including a first-century domestic building, 'the first surface-built domestic structure of this date from Nazareth to be published'. Context: Nazareth's 1st-century domestic life."}
+{"from": "site:sepphoris", "type": "attests", "to": "claim:mt-13-55-tekton-son", "grade": "C", "note": "Sepphoris, 6 km north-northwest of Nazareth, was burnt in 4 BCE and rebuilt by Antipas as the 'Ornament of the Galilee' (Josephus, Ant. 18.27): a major construction site beside the village during Jesus's presumed working years. That a tekton of Nazareth worked there is a scholars' suggestion the same source calls impossible to verify - context, not proof."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "claim:mt-13-55-brothers-named", "grade": "B", "note": "Josephus (Ant. 20.200) names 'the brother of Jesus, who was called Christ, whose name was James': James the brother of Jesus is independently known (reused from ch 12). Regraded B by architect review: Josephus names one of the four brothers (James), not the list."}
+{"from": "artifact:james-ossuary", "type": "attests", "to": "claim:mt-13-55-brothers-named", "grade": "D", "note": "Unprovenanced ossuary inscribed 'James, son of Joseph, brother of Yeshua'; the IAA concluded the inscription is a modern forgery and the 2004-2012 trial did not establish authenticity (reused from ch 12)."}
+{"from": "observation:ossuary-name-frequency", "type": "attests", "to": "claim:mt-13-55-brothers-named", "grade": "C", "note": "Ossuary statistics (Tal Ilan via Bauckham) show Simon/Simeon (9.3%) and Judah (6.2%) among the most common male Jewish names of the period: two of the four brothers' names are exactly the period's common names (reused from ch 10)."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-13-14-15-isaiah-6-quoted", "grade": "B", "note": "The Great Isaiah Scroll preserves the Hebrew text of Isaiah, including chapter 6, from ca. 125 BCE - predating Matthew and showing the wording of the passage he cites (reused from ch 01)."}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "artifact:magdala-fishing-gear", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "artifact:tabun-oven", "type": "documented_by", "to": "source:wikipedia-tabun-oven"}
+{"from": "artifact:james-ossuary", "type": "documented_by", "to": "source:wikipedia-james-ossuary"}
+{"from": "artifact:james-ossuary", "type": "documented_by", "to": "source:wikipedia-james-ossuary-dispute"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:isaiah-scroll-wiki"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "text:pliny-pearls", "type": "documented_by", "to": "source:wikipedia-pearl"}
+{"from": "text:pliny-pearls", "type": "documented_by", "to": "source:wikipedia-pearl-diving"}
+{"from": "observation:ossuary-name-frequency", "type": "documented_by", "to": "source:wikipedia-talpiot-names"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-ziziphus"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-ziziphus-native"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-gundelia"}
+{"from": "observation:terra-rossa-shallow-soil", "type": "documented_by", "to": "source:wikipedia-terra-rossa"}
+{"from": "observation:darnel-weed-of-wheat", "type": "documented_by", "to": "source:wikipedia-lolium-temulentum"}
+{"from": "observation:mustard-botany", "type": "documented_by", "to": "source:wikipedia-brassica-nigra"}
+{"from": "observation:salvadora-mustard-tree", "type": "documented_by", "to": "source:wikipedia-salvadora-persica"}
+{"from": "observation:seah-dry-measure", "type": "documented_by", "to": "source:wikipedia-units-seah"}
+{"from": "observation:seah-dry-measure", "type": "documented_by", "to": "source:wikipedia-units-ephah"}
+{"from": "observation:galilee-fish-species", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-fish"}
+{"from": "text:digest-9-2-27-14", "type": "documented_by", "to": "source:latin-library-digest-9"}
+{"from": "text:herodotus-1-193", "type": "documented_by", "to": "source:wikisource-herodotus-1-193"}
+{"from": "text:pliny-nh-18-yields", "type": "documented_by", "to": "source:perseus-pliny-18-yields"}
+{"from": "text:copper-scroll-3q15", "type": "documented_by", "to": "source:wikipedia-copper-scroll"}
+{"from": "text:genesis-18-6", "type": "documented_by", "to": "source:bible-api-genesis-18-6"}
+{"from": "text:leviticus-11-9", "type": "documented_by", "to": "source:bible-api-leviticus-11-9"}
+{"from": "text:isaiah-6-9-10", "type": "documented_by", "to": "source:wikisource-isaiah-6-9"}
+{"from": "site:nazareth-house", "type": "documented_by", "to": "source:wikipedia-nazareth"}
+{"from": "site:sisters-of-nazareth", "type": "documented_by", "to": "source:centaur-dark-nazareth"}
+{"from": "site:sepphoris", "type": "documented_by", "to": "source:wikipedia-sepphoris-antipas"}
+{"from": "site:sepphoris", "type": "documented_by", "to": "source:wikipedia-sepphoris-nazareth"}
+{"from": "site:sepphoris", "type": "documented_by", "to": "source:wikisource-ant18-sepphoris"}
+{"from": "claim:mt-13-01-taught-from-boat", "type": "documented_by", "to": "source:ferrell-jenkins-cove"}
+{"from": "claim:mt-13-31-mustard-sown-in-field", "type": "documented_by", "to": "source:wikipedia-mustard-parable"}
+{"from": "claim:mt-13-32-mustard-tree-birds", "type": "documented_by", "to": "source:wikipedia-mustard-parable"}
+{"from": "claim:mt-13-55-tekton-son", "type": "documented_by", "to": "source:wikipedia-sepphoris-nazareth"}
+{"from": "claim:mt-13-54-own-country-nazareth", "type": "documented_by", "to": "source:wikipedia-nazareth"}
+{"from": "text:genesis-18-6", "type": "related_to", "to": "claim:mt-13-33-leaven-three-measures", "note": "Cross-reference: Genesis 18:6 (WEB) has Abraham order 'three seahs of fine meal' - the same three-measure batch in the Sarah story. A biblical text is not independent evidence."}
+{"from": "text:leviticus-11-9", "type": "related_to", "to": "claim:mt-13-48-good-bad-fish-sorted", "note": "Cross-reference: Leviticus 11:9 (WEB) permits only fish 'that has fins and scales' - the kosher rule that would make a mixed Galilee catch genuinely 'good' and 'bad'. A biblical text is not independent evidence."}
+{"from": "text:isaiah-6-9-10", "type": "related_to", "to": "claim:mt-13-14-15-isaiah-6-quoted", "note": "Cross-reference: Isaiah 6:9-10 (WEB) is the passage Matthew cites as fulfilled. A biblical text is not independent evidence for the citation practice."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:james-brother-of-jesus", "grade": "A", "note": "Josephus names James as the brother of Jesus who was called Christ (reused from ch 12)."}
+{"from": "artifact:james-ossuary", "type": "attests", "to": "person:james-brother-of-jesus", "grade": "D", "note": "The ossuary is claimed to be that of James the Just, brother of Jesus; unprovenanced, and its inscription's authenticity is disputed (IAA: modern forgery; trial verdict: guilt not proven) (reused from ch 12)."}
+{"from": "artifact:james-ossuary", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "D", "note": "The inscription, if authentic, names Jesus (Yeshua) as James's brother; the ossuary is unprovenanced and its authenticity is disputed (reused from ch 12)."}
+{"from": "text:josephus-ant-18-sepphoris", "type": "attests", "to": "claim:mt-13-55-tekton-son", "grade": "C", "note": "Josephus (Ant. 18.27): 'Herod [Antipas] also built a wall about Sepphoris, (which is the security of all Galilee,) and made it the metropolis of the country' - the rebuilding that made Sepphoris a building-craftsman's work market a few kilometres from Nazareth."}
+{"from": "text:josephus-ant-18-sepphoris", "type": "documented_by", "to": "source:wikisource-ant18-sepphoris"}
+{"from": "site:sisters-of-nazareth", "type": "attests", "to": "place:nazareth", "grade": "C", "note": "Dark's stratified sequence shows first-century domestic Nazareth, published from the 2006-10 work."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-52"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-53"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-53"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-54"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-54"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-55"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-55"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-56"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-56"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-57"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-57"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-13-58"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-13-58"}

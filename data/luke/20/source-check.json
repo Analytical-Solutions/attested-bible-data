@@ -1,0 +1,17 @@
+{
+ "source:wikipedia-capital-punishment-judaism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capital_punishment_in_Judaism"
+ },
+ "source:wikipedia-textual-variants-luke": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Luke"
+ },
+ "source:wikisource-ant20-consent": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 10,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    24
+   ],
+   "setting": "place:samaria",
+   "confidence": "inferred",
+   "basis": "10:1 \"sent them two by two ahead of him into every city and place\" - no place is named; the journey inherits 9:52"
+  },
+  {
+   "verses": [
+    25,
+    37
+   ],
+   "setting": "place:samaria",
+   "confidence": "inferred",
+   "basis": "10:25 \"a certain lawyer stood up and tested him\" - discourse on the road; the road to Jericho (10:30) belongs to the parable"
+  },
+  {
+   "verses": [
+    38,
+    42
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "10:38 \"he entered into a certain village\" - the village of Mary and Martha is not named in Luke"
+  }
+ ]
+}

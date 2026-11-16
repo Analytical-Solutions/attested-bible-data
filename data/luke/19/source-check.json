@@ -1,0 +1,42 @@
+{
+ "source:bible-api-2sam-12-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2%20Samuel%2012:6?translation=web"
+ },
+ "source:wikipedia-balsam-jericho": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Balsam_of_Mecca"
+ },
+ "source:wikipedia-mina": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mina_(unit)"
+ },
+ "source:wikipedia-zacchaeus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Zacchaeus"
+ },
+ "source:wikisource-ant15-balsam": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ },
+ "source:wikisource-ant17-embassage": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-war4-balsam": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_IV"
+ },
+ "source:wikisource-war5-circumvallation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

@@ -1,0 +1,184 @@
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "artifact:denarius", "type": "documented_by", "to": "source:wikipedia-denarius-coin"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-sects"}
+{"from": "text:josephus-ant-18-zealots", "type": "documented_by", "to": "source:wikisource-ant18-zealots"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:archive-ryle-james-psolomon"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:wikipedia-messiah-in-judaism"}
+{"from": "artifact:tiberius-denarius", "type": "documented_by", "to": "source:wikipedia-tribute-penny"}
+{"from": "artifact:tiberius-denarius", "type": "documented_by", "to": "source:wikipedia-tribute-penny-inscription"}
+{"from": "artifact:tiberius-denarius", "type": "documented_by", "to": "source:wikipedia-tribute-penny-disputed"}
+{"from": "artifact:nash-papyrus", "type": "documented_by", "to": "source:wikipedia-nash-papyrus"}
+{"from": "artifact:nash-papyrus", "type": "documented_by", "to": "source:wikipedia-nash-papyrus-provenance"}
+{"from": "artifact:nash-papyrus", "type": "documented_by", "to": "source:wikipedia-nash-papyrus-dating"}
+{"from": "artifact:qumran-tefillin", "type": "documented_by", "to": "source:wikipedia-tefillin"}
+{"from": "artifact:qumran-tefillin", "type": "documented_by", "to": "source:wikipedia-tefillin-contents"}
+{"from": "text:josephus-war-6-city-burned", "type": "documented_by", "to": "source:wikisource-war6-burning"}
+{"from": "text:josephus-war-2-164-165", "type": "documented_by", "to": "source:wikisource-war2-sadducees"}
+{"from": "text:josephus-ant-18-1-taxation", "type": "documented_by", "to": "source:wikisource-ant18-taxation"}
+{"from": "text:talmud-shabbat-153a", "type": "documented_by", "to": "source:sefaria-shabbat-153a"}
+{"from": "text:mishnah-yevamot-1-1", "type": "documented_by", "to": "source:sefaria-mishnah-yevamot-1-1"}
+{"from": "text:mishnah-berakhot-1-1", "type": "documented_by", "to": "source:sefaria-mishnah-berakhot-1-1"}
+{"from": "text:deuteronomy-25-5", "type": "documented_by", "to": "source:bible-api-deuteronomy-25-5"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikipedia-sadducees"}
+{"from": "text:josephus-war-2-164-165", "type": "documented_by", "to": "source:wikipedia-sadducees"}
+{"from": "claim:mt-22-02-04-wedding-feast-invited", "type": "documented_by", "to": "source:wikipedia-wedding-feast"}
+{"from": "claim:mt-22-07-city-burned", "type": "documented_by", "to": "source:wikipedia-great-banquet"}
+{"from": "claim:mt-22-11-12-wedding-garment", "type": "documented_by", "to": "source:wikipedia-great-banquet-garment"}
+{"from": "claim:mt-22-16-pharisees-herodians", "type": "documented_by", "to": "source:wikipedia-herodians"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage-antipas"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:wikisource-ant-20"}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}
+{"from": "artifact:judaea-capta-coins", "type": "documented_by", "to": "source:wikipedia-judaea-capta"}
+{"from": "site:arch-of-titus", "type": "documented_by", "to": "source:wikipedia-arch-of-titus"}
+{"from": "passage:mt-22-01", "type": "asserts", "to": "claim:mt-22-02-04-wedding-feast-invited"}
+{"from": "passage:mt-22-02", "type": "asserts", "to": "claim:mt-22-02-04-wedding-feast-invited"}
+{"from": "passage:mt-22-03", "type": "asserts", "to": "claim:mt-22-02-04-wedding-feast-invited"}
+{"from": "passage:mt-22-04", "type": "asserts", "to": "claim:mt-22-02-04-wedding-feast-invited"}
+{"from": "passage:mt-22-07", "type": "asserts", "to": "claim:mt-22-07-city-burned"}
+{"from": "passage:mt-22-11", "type": "asserts", "to": "claim:mt-22-11-12-wedding-garment"}
+{"from": "passage:mt-22-12", "type": "asserts", "to": "claim:mt-22-11-12-wedding-garment"}
+{"from": "passage:mt-22-15", "type": "asserts", "to": "claim:mt-22-16-pharisees-herodians"}
+{"from": "passage:mt-22-16", "type": "asserts", "to": "claim:mt-22-16-pharisees-herodians"}
+{"from": "passage:mt-22-17", "type": "asserts", "to": "claim:mt-22-17-tax-to-caesar"}
+{"from": "passage:mt-22-19", "type": "asserts", "to": "claim:mt-22-19-denarius-shown"}
+{"from": "passage:mt-22-20", "type": "asserts", "to": "claim:mt-22-20-21-caesar-image-inscription"}
+{"from": "passage:mt-22-21", "type": "asserts", "to": "claim:mt-22-20-21-caesar-image-inscription"}
+{"from": "passage:mt-22-23", "type": "asserts", "to": "claim:mt-22-23-sadducees-no-resurrection"}
+{"from": "passage:mt-22-24", "type": "asserts", "to": "claim:mt-22-24-levirate-marriage"}
+{"from": "passage:mt-22-32", "type": "asserts", "to": "claim:mt-22-32-exodus-quote"}
+{"from": "passage:mt-22-36", "type": "asserts", "to": "claim:mt-22-36-37-greatest-commandment"}
+{"from": "passage:mt-22-37", "type": "asserts", "to": "claim:mt-22-36-37-greatest-commandment"}
+{"from": "passage:mt-22-42", "type": "asserts", "to": "claim:mt-22-42-son-of-david"}
+{"from": "passage:mt-22-44", "type": "asserts", "to": "claim:mt-22-43-44-psalm-110-quoted"}
+{"from": "claim:mt-22-16-pharisees-herodians", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-17-tax-to-caesar", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-19-denarius-shown", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-20-21-caesar-image-inscription", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-23-sadducees-no-resurrection", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-32-exodus-quote", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-36-37-greatest-commandment", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-42-son-of-david", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-43-44-psalm-110-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-22-20-21-caesar-image-inscription", "type": "mentions", "to": "person:tiberius"}
+{"from": "claim:mt-22-07-city-burned", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-22-17-tax-to-caesar", "type": "mentions", "to": "place:jerusalem"}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Josephus names Jesus as a historical figure, the brother of James, called the Christ - a source that names the person is grade A (reviewer-1 calibration, 2026-11-11); the minor authenticity debate over the passage does not reach grade D."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Tacitus, Annals 15.44: 'Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus' - the Roman historian names the movement's founder as Christus (the name by which the person node is called) and places his execution under Pilate in Tiberius's reign."}
+{"from": "artifact:judaea-capta-coins", "type": "attests", "to": "claim:mt-22-07-city-burned", "grade": "C", "note": "Commemorative coins issued from 71 CE celebrate the capture of Judaea and the destruction of the Second Jewish Temple in AD 70 - the Roman destruction of Jerusalem that the parable's burning-city detail is usually connected with. The coins attest the event, not that Jesus spoke the detail."}
+{"from": "site:arch-of-titus", "type": "attests", "to": "claim:mt-22-07-city-burned", "grade": "C", "note": "The triumphal panels of Titus's arch in Rome commemorate the victory 'culminating in the fall of Jerusalem' (71 CE triumph; south panel shows spoils taken from the Temple in Jerusalem) - Roman monumental evidence for the destruction the parable's detail evokes; not evidence that Jesus spoke it."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "claim:mt-22-16-pharisees-herodians", "grade": "C", "note": "Coins naming 'Herod the Tetrarch' (ΗΡΩΔΟΥ ΤΕΤΡΑΡΧΟΥ) attest the Herodian dynasty whose partisans the name 'Herodians' implies (reuse from ch 04/14). They do not attest the party itself: the fetched 'Herodians' article states 'Nothing is known of them beyond what the Gospels state', and Josephus never names the group."}
+{"from": "text:talmud-shabbat-153a", "type": "attests", "to": "claim:mt-22-02-04-wedding-feast-invited", "grade": "C", "note": "Rabban Yohanan ben Zakkai's parable of a king who invited his servants to a feast and summoned them without setting a time - the invitation motif at a royal banquet. A Babylonian Talmud text (c. 500 CE) attributing the parable to a late-1st-century sage; it attests the custom later, never that Jesus spoke Matt 22:1-14."}
+{"from": "text:talmud-shabbat-153a", "type": "attests", "to": "claim:mt-22-11-12-wedding-garment", "grade": "C", "note": "In the same parable the guests appear before the king adorned in their finest clothes and the fool enters dirty, and the king is angry - garments at a royal banquet mattered. Later text (Babylonian Talmud, c. 500 CE; the parable attributed to Rabban Yohanan ben Zakkai); it attests the custom, not Jesus' words."}
+{"from": "text:josephus-war-6-city-burned", "type": "attests", "to": "claim:mt-22-07-city-burned", "grade": "C", "note": "Josephus records that in 70 CE the Romans 'set fire to the extreme parts of the city, and burnt them down, and entirely demolished its walls'. This attests the kind of event the parable pictures (a rebellious city burned by the king's armies) in the same period and region - it is not evidence that Jesus spoke the detail."}
+{"from": "text:josephus-war-6-city-burned", "type": "complicates", "to": "claim:mt-22-07-city-burned", "note": "The fetched 'Parable of the Great Banquet' article reports that textual critics suspect Matthew's version drifted from the original precisely because this detail seems to be 'an explanation of the destruction of Jerusalem as divine punishment too closely', i.e. possibly post-70 redaction rather than Jesus' wording. The dating debate stays here and in the note, not in the grade."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-22-23-sadducees-no-resurrection", "grade": "A", "note": "Josephus, Ant. 18.1.4: 'the doctrine of the Sadducees is this: That souls die with the bodies' - the same group whose denial of life after death the fetched Wikipedia 'Sadducees' article summarizes as 'The Sadducees did not accept the idea of resurrection of the dead'."}
+{"from": "text:josephus-war-2-164-165", "type": "attests", "to": "claim:mt-22-23-sadducees-no-resurrection", "grade": "A", "note": "Josephus, War 2.8.14: the Sadducees 'take away the belief of the immortal duration of the soul, and the punishments and rewards in Hades' - the same group and the same doctrine in substance (denial of any life after death)."}
+{"from": "text:josephus-ant-18-1-taxation", "type": "attests", "to": "claim:mt-22-17-tax-to-caesar", "grade": "C", "note": "Josephus, Ant. 18.1.1: when Cyrenius came into Judea to tax it, Judas of Gamala and Sadduc the Pharisee 'said that this taxation was no better than an introduction to slavery' and drew the nation to revolt - tribute to Rome was a live controversy in first-century Judea, the background of the 22:17 question."}
+{"from": "text:josephus-ant-18-zealots", "type": "attests", "to": "claim:mt-22-17-tax-to-caesar", "grade": "C", "note": "Josephus, Ant. 18.1.6: the 'fourth philosophy' of Judas the Galilean has 'an inviolable attachment to liberty, and say that God is to be their only Ruler and Lord' - the ideological refusal of Roman tribute (reuse of the node first entered in ch 10)."}
+{"from": "artifact:denarius", "type": "attests", "to": "claim:mt-22-19-denarius-shown", "grade": "C", "note": "The denarius was the standard Roman silver coin of the period - the currency in which Caesar's tribute was reckoned (reuse from ch 20, where it is the day-labourer's wage)."}
+{"from": "artifact:tiberius-denarius", "type": "attests", "to": "claim:mt-22-20-21-caesar-image-inscription", "grade": "B", "note": "The denarius of Tiberius bears the emperor's head and the inscription 'Ti[berivs] Caesar Divi Avg[vsti] F[ilivs] Avgvstvs'; the fetched Tribute penny article states it is 'usually thought by scholars' to be the coin shown to Jesus. It confirms that a Tiberius-era coin bore Caesar's image and inscription - not that the episode happened as told."}
+{"from": "artifact:tiberius-denarius", "type": "complicates", "to": "claim:mt-22-20-21-caesar-image-inscription", "note": "The same article records that some scholars suggest denarii were not in common circulation in Judaea during Jesus' lifetime and that the coin was more probably an Antiochan tetradrachm bearing Tiberius's head, with Augustus on the reverse; denarii of Augustus, Julius Caesar, Mark Antony and Germanicus are also suggested."}
+{"from": "artifact:tiberius-denarius", "type": "attests", "to": "person:tiberius", "grade": "A", "note": "The coin names 'Ti[berivs] Caesar Divi Avg[vsti] F[ilivs] Avgvstvs' - Tiberius Caesar, son of the deified Augustus - struck during his reign (14-37 CE)."}
+{"from": "text:psalms-of-solomon-17", "type": "attests", "to": "claim:mt-22-42-son-of-david", "grade": "C", "note": "'Raise up unto them their king, the son of David' - a Jewish psalm of the first century BCE expecting a Davidic messiah: the expectation Jesus' questioners voice in 22:42 (reuse from ch 12)."}
+{"from": "artifact:nash-papyrus", "type": "attests", "to": "claim:mt-22-36-37-greatest-commandment", "grade": "D", "note": "A papyrus of about 150-100 BCE containing the Ten Commandments and the first part of the Shema Yisrael prayer (which begins at Deut 6:4). Graded D: it is unprovenanced - acquired on the Egyptian antiquities market in 1902, 'allegedly from Fayyum' - so its authenticity cannot be secured, and the dispatch brief's suggested B conflicts with the calibration rule for unprovenanced finds."}
+{"from": "artifact:qumran-tefillin", "type": "attests", "to": "claim:mt-22-36-37-greatest-commandment", "grade": "B", "note": "The fetched Tefillin article reports tefillin 'dating from the 1st century CE discovered at Qumran' (itself showing the practice 'at least as early as the 1st century CE') and that the tefillin scrolls carry the four passages including Deuteronomy 6:4-9, 'Hear, O Israel...' - the exact passage quoted in Matt 22:37. The page's discussion of the Qumran tefillin's scroll order presupposes they carry these passages."}
+{"from": "text:mishnah-berakhot-1-1", "type": "attests", "to": "claim:mt-22-36-37-greatest-commandment", "grade": "C", "note": "Mishnah Berakhot opens 'From when does one recite Shema in the evening?' (and continues to the morning recitation) - the Shema (Deut 6:4-9), containing the love command of 22:37, was recited morning and evening in Jewish liturgy. Mishnah, c. 200 CE; it attests the liturgical custom, not the episode."}
+{"from": "text:mishnah-yevamot-1-1", "type": "attests", "to": "claim:mt-22-24-levirate-marriage", "grade": "B", "note": "Mishnah Yevamot 1:1 opens the tractate on levirate marriage and halitza, reckoning 'fifteen categories of women' who 'exempt their rival wives... from halitza and from levirate marriage forever' - levirate marriage was a live institution in rabbinic law. Mishnah, c. 200 CE, a later text attesting the custom. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "text:deuteronomy-25-5", "type": "related_to", "to": "claim:mt-22-24-levirate-marriage", "note": "The Torah statute Matthew quotes ('If a man dies having no children, his brother shall marry his wife, and raise up offspring for his brother'); a book of the Bible is a cross-reference, not independent evidence."}
+{"from": "text:deuteronomy-25-5", "type": "related_to", "to": "passage:mt-22-24", "note": "Quoted in Matt 22:24; cross-reference only."}
+{"from": "site:second-temple", "type": "attests", "to": "place:jerusalem", "grade": "B", "note": "The Temple Mount in Jerusalem was the site of the Second Temple, confirmed by excavation and the standing platform."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-22-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-22-46"}

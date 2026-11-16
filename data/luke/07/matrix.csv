@@ -1,0 +1,177 @@
+anchor,label,category,status,findings,note
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,inscription,none-found,,No inscription records Jewish elders interceding for a Roman patron; searched this run's corpus.
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,documentary-papyrus,none-found,,"The Babatha archive (fetched Wikipedia, reused source) shows a Roman centurion lending to Jewish villagers at Ein Gedi - centurions embedded in Jewish communities - but no papyrus shows elders pleading a patron's case with a healer; recorded as documented_by on the claim."
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,jewish-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-03-elders-intercede,The centurion sent Jewish elders to ask Jesus to come,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,inscription,found,artifact:theodotos-inscription,Theodotos inscription (C): a named individual commemorating the construction of a synagogue complex in 1st-century Jerusalem - patron-built synagogues are attested practice; it does not name the centurion.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,structure-or-site,found,site:capernaum-synagogue,"Capernaum synagogue (C): a basalt foundation beneath the 4th-5th century building is suggested by Loffreda to be a 1st-century synagogue, perhaps the Gospel one; graded C because the dating is a suggestion and the patron cannot be confirmed. A complicates edge records the dating debate."
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,documentary-papyrus,none-found,,No papyrus records synagogue benefaction in Galilee; searched this run's corpus.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,jewish-literary,none-found,,Josephus on Galilean synagogues searched on the fetched pages; no passage naming a builder fetched.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-05-built-synagogue,The centurion built the Capernaum synagogue,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-10-servant-well,The centurion's servant was found well,inscription,none-found,,"The healing of the centurion's servant at a distance has no external attestation, as expected for a healing; searched this run's corpus (Josephus pages fetched, Wikipedia Capernaum and Matthew 8:5)."
+claim:lk-07-10-servant-well,The centurion's servant was found well,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-10-servant-well,The centurion's servant was found well,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-10-servant-well,The centurion's servant was found well,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-10-servant-well,The centurion's servant was found well,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-10-servant-well,The centurion's servant was found well,documentary-papyrus,none-found,,"The healing of the centurion's servant at a distance has no external attestation, as expected for a healing; searched this run's corpus (Josephus pages fetched, Wikipedia Capernaum and Matthew 8:5)."
+claim:lk-07-10-servant-well,The centurion's servant was found well,jewish-literary,none-found,,"The healing of the centurion's servant at a distance has no external attestation, as expected for a healing; searched this run's corpus (Josephus pages fetched, Wikipedia Capernaum and Matthew 8:5)."
+claim:lk-07-10-servant-well,The centurion's servant was found well,greco-roman-literary,none-found,,"The healing of the centurion's servant at a distance has no external attestation, as expected for a healing; searched this run's corpus (Josephus pages fetched, Wikipedia Capernaum and Matthew 8:5)."
+claim:lk-07-10-servant-well,The centurion's servant was found well,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-10-servant-well,The centurion's servant was found well,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-10-servant-well,The centurion's servant was found well,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,structure-or-site,none-found,,"Nein's rock-sunk tombs would fit a town burial ground, but they are 'probably of Christian origin' and undated, so they are not entered for this claim; see the fetched Nein page."
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,burial-or-ossuary,found,artifact:second-temple-ossuaries,Second Temple ossuaries (C): public primary burial followed by secondary burial in ossuaries was varied Second Temple practice - the community rites the procession presupposes.
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,jewish-literary,found,text:mishnah-ketubot-4-5,"Mishnah Ketubot 4:5 (C): even the poorest may not provide fewer than two flutes and a lamenting woman - hired public mourning was customary; redacted c. 200 CE, may not describe the 30s CE exactly."
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,material-culture,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-funeral-procession,The dead carried out of the town in a funeral procession,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,inscription,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,burial-or-ossuary,none-found,,No burial of this man exists; Nein's rock-cut tombs are undated ('probably of Christian origin'). Searched the fetched Nein and Raising pages.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,jewish-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-12-widow-only-son,A widow's only son had died at Nain,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,inscription,none-found,,"The Crusader and Franciscan church at Nein commemorates the tradition (fetched Nein page) - reception, not attestation; no ancient inscription. Searched."
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,structure-or-site,none-found,,"The Widow's Son church at Nein is a reception tradition site, not evidence for the event; see fetched pages."
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,burial-or-ossuary,none-found,,No tomb or body is identified; searched the fetched Nein and Raising pages.
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,jewish-literary,none-found,,"Josephus (fetched Books 18 and 20) records no raising at Nain; 1 Kings 17 and 2 Kings 4 parallels are entered as biblical related_to cross-references, never attestation. Searched this run's corpus."
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-14-raised-widows-son,Jesus raised the widow's son at Nain,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',inscription,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',jewish-literary,found,text:josephus-ant-20-theudas,"Josephus, Ant. 20.97-99 (C): Theudas 'told them he was a prophet' and persuaded 'a great part of the people' to follow him (c. 45 CE) - prophet-figures drawing crowds were a living phenomenon; attests the expectation-context, not the acclamation at Nain."
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-16-great-prophet,The crowd acclaimed 'a great prophet has arisen among us',astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-21-cured-many,In that hour Jesus cured many,inscription,none-found,,"A summary healing notice has no external attestation, as expected; the blind/healings language is crossed with Isaiah 35 and 4Q521 via Matthew 11's claims (cross-references only). Searched this run's corpus."
+claim:lk-07-21-cured-many,In that hour Jesus cured many,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-21-cured-many,In that hour Jesus cured many,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-21-cured-many,In that hour Jesus cured many,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-21-cured-many,In that hour Jesus cured many,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-21-cured-many,In that hour Jesus cured many,documentary-papyrus,none-found,,"A summary healing notice has no external attestation, as expected; the blind/healings language is crossed with Isaiah 35 and 4Q521 via Matthew 11's claims (cross-references only). Searched this run's corpus."
+claim:lk-07-21-cured-many,In that hour Jesus cured many,jewish-literary,none-found,,"A summary healing notice has no external attestation, as expected; the blind/healings language is crossed with Isaiah 35 and 4Q521 via Matthew 11's claims (cross-references only). Searched this run's corpus."
+claim:lk-07-21-cured-many,In that hour Jesus cured many,greco-roman-literary,none-found,,"A summary healing notice has no external attestation, as expected; the blind/healings language is crossed with Isaiah 35 and 4Q521 via Matthew 11's claims (cross-references only). Searched this run's corpus."
+claim:lk-07-21-cured-many,In that hour Jesus cured many,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-21-cured-many,In that hour Jesus cured many,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-21-cured-many,In that hour Jesus cured many,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,inscription,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,structure-or-site,none-found,,"Bethany beyond the Jordan (Al-Maghtas, existing site) attests John's baptism place, already linked to Matthew 3; it cannot attest the response of Pharisees and lawyers. Searched."
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,jewish-literary,found,text:josephus-ant-18-116-119,"Josephus, Ant. 18.116-119 (C, reused node): John baptized others and 'the people came in crowds' to him, with influence over the whole country - John's mass baptism movement is independently attested; Josephus says nothing of Pharisees or lawyers refusing, which stays on Luke's word."
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-29-30-baptism-response,The people baptized; Pharisees and lawyers refused,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,inscription,none-found,,"No source names Simon the Pharisee or the dinner; searched this run's corpus (Anointing of Jesus page fetched - it records debate on identity, location and timing)."
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,documentary-papyrus,none-found,,"No source names Simon the Pharisee or the dinner; searched this run's corpus (Anointing of Jesus page fetched - it records debate on identity, location and timing)."
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,jewish-literary,none-found,,"No source names Simon the Pharisee or the dinner; searched this run's corpus (Anointing of Jesus page fetched - it records debate on identity, location and timing)."
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,greco-roman-literary,none-found,,"No source names Simon the Pharisee or the dinner; searched this run's corpus (Anointing of Jesus page fetched - it records debate on identity, location and timing)."
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-36-simon-dinner,A Pharisee named Simon hosted Jesus at dinner,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,jewish-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,greco-roman-literary,found,text:pliny-nh-13-unguents;text:pliny-nh-12-nard,"Pliny (C, reused nodes): oil-based perfumes were a major industry and pure nard cost 100 denarii a pound - costly perfumed ointment is a known commodity; Luke does not name nard."
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,material-culture,none-found,,"Alabaster unguent flasks survive in collections, but no museum page with a catalogue number was secured this run; the fetched Wikipedia Alabaster article documents that 'the Greek words denoted a vase of alabaster' (recorded as documented_by on the claim)."
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-37-alabaster-ointment,A sinful woman brought an alabaster jar of ointment,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",inscription,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",jewish-literary,none-found,,Mishnah and Talmud passages on washing guests' feet were not fetchable this run; searched.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",greco-roman-literary,none-found,,"Pliny's unguent pages (fetched, reused) cover oils for the body but not a foot-anointing courtesy; the fetched Anointing of Jesus article states hair-drying of feet 'is not recorded elsewhere' and is exceptional (modern scholarship, documented_by on the claim)."
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-38-anointed-feet,"The woman wet, wiped, kissed and anointed Jesus's feet",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,coin,found,artifact:denarius,"Denarius (C, reused node): the standard Roman silver day-wage coin - 500 denarii about 20 months' and 50 about 2 months' wages; attests the coin and wage scale the parable presupposes, not the parable's figures."
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,documentary-papyrus,none-found,,"Loan documents (e.g. Babatha's 60-denarii loan, fetched source) show denarii-denominated debts, but none fetched matches the parable's figures or forgiveness; the claim is a parable."
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,jewish-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,greco-roman-literary,none-found,,Searched; no fetched classical page documents debt remission parable figures.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-41-two-debtors,Two debtors owing 500 and 50 denarii,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",jewish-literary,none-found,,Genesis 18:4 (water for feet) is entered as a biblical related_to cross-reference only; no rabbinic locus fetched. Searched.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",greco-roman-literary,found,text:pliny-nh-13-unguents,"Pliny's unguent book (C, reused node): oil-based perfumes were standard grooming - the head-oil courtesy fits; the courtesy itself is not independently documented."
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",material-culture,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:lk-07-44-46-hospitality,"The omitted courtesies: foot-water, kiss, head-oil",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),inscription,none-found,,No inscription names Simon the Pharisee; searched this run's corpus.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),coin,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),jewish-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),greco-roman-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:simon-the-pharisee,Simon the Pharisee (Luke 7),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:nain,Nain,inscription,none-found,,No inscription naming Nain fetched; searched.
+place:nain,Nain,coin,n/a,,Category cannot bear evidence for this anchor.
+place:nain,Nain,structure-or-site,found,site:nein,"Nein (C): preserves the name (also Nain/Naim) and is an ancient settlement near Endor at the foot of the Hill of Moreh, south of Mount Tabor, recognized since Eusebius; identified_as edge recorded, identification rests on tradition and topography."
+place:nain,Nain,burial-or-ossuary,found,site:nein,"Rock-sunk tombs at Nein (C): an ancient burial ground at the identified village; the tombs are 'probably of Christian origin', so the dating is uncertain and the grade stays C."
+place:nain,Nain,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:nain,Nain,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:nain,Nain,jewish-literary,none-found,,"Searched the fetched pages of this run (Wikipedia Nein, Raising of the son of the widow of Nain, Anointing of Jesus, Alabaster, Capernaum, Onomasticon translation, Wikisource Josephus 18/20, bible-api texts) for evidence in this category; nothing found."
+place:nain,Nain,greco-roman-literary,found,text:eusebius-onomasticon-nain,"Eusebius, Onomasticon 750 (D): locates Naim south of Thabor near Endor and reports the raising - names the same place; a 4th-century reception/geographic tradition, graded D per the reception rule."
+place:nain,Nain,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:nain,Nain,geography-or-nature,none-found,,"Location (14 km south of Nazareth, foot of the Hill of Moreh) is stated on the fetched Nein and Raising pages as modern scholarship (documented_by on the claim), no observation node entered."
+place:nain,Nain,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

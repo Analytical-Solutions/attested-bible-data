@@ -1,0 +1,221 @@
+anchor,label,category,status,findings,note
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,inscription,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,coin,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,structure-or-site,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,burial-or-ossuary,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,documentary-papyrus,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,jewish-literary,none-found,,"Searched Wikipedia (Judas Iscariot, Satan, Betrayal of Jesus) and the graph's Josephus/Mishnah nodes; Josephus reports Judas's betrayal but never in this supernatural form; the Gospel of Judas (reception) was not fetched."
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,greco-roman-literary,n/a,,No classical author could report this detail.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,material-culture,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,geography-or-nature,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-03-satan-entered-judas,Satan entered Judas before he went to the chief priests,astronomy-or-calendar,n/a,,No find of this category could bear on a report of Satan entering Judas.
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,inscription,n/a,,No inscription could plausibly record a private bargain with Judas.
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,coin,found,artifact:tyrian-shekel,"The Tyrian shekel (126 BC-AD 56) was the silver coin of Judea's economy and the Temple - the coinage of a payment like the one agreed (C; it attests the coinage of such payments, not the promise itself)."
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,structure-or-site,none-found,,"Searched Wikipedia (Judas Iscariot, Betrayal of Jesus) and the graph's Jerusalem sites (Wohl palace, Gallicantu); no excavated site is tied to the bargain."
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,burial-or-ossuary,n/a,,No burial or ossuary could bear on the money agreement.
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,documentary-papyrus,none-found,,Searched the graph's documentary-papyrus nodes and Wikipedia; no papyrus documents a payment to Judas.
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,jewish-literary,none-found,,Searched Wikipedia (Josephus on the trial period) and the graph's Josephus nodes; Josephus reports high-priestly intrigues (for example against Herod and in the Ananus affair) but nothing of this payment.
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,greco-roman-literary,n/a,,No classical author could report this detail.
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,material-culture,n/a,,No object class beyond the coinage itself bears on the agreement.
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,geography-or-nature,n/a,,
+claim:lk-22-04-06-money-agreed,Judas conferred with the chief priests and captains and agreed on money,astronomy-or-calendar,n/a,,
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",inscription,n/a,,
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",coin,n/a,,
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",structure-or-site,none-found,,"Searched the graph's Jerusalem sites (Cenacle in Mark 14 attests the upper-room claim, not the cup sequence) and Wikipedia (Last Supper); no excavated vessel assemblage from a Judean seder context is published on the fetched pages."
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",burial-or-ossuary,n/a,,
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages. Note: P75 and the codices carry the disputed 22:19b-20 passage; the Western omission is recorded as a passage variant."
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",documentary-papyrus,none-found,,"Searched Wikipedia (Passover seder, four cups) and the graph's documentary papyri; no papyrus records seder cups."
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",jewish-literary,found,text:mishnah-pesachim-10-1,"Pesachim 10:1: the attendants 'poured the wine of the first cup for the leader of the seder' before the meal, and even the poorest receives four cups - a first cup before the bread (B; compiled c. 200 CE, may not describe 30 CE practice exactly)."
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",greco-roman-literary,n/a,,No classical text describes the Judean Passover meal's cups.
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",material-culture,none-found,,Searched Wikipedia and museum pages for 1st-century Judean drinking vessels from a dining context; the finds are generic and bear on no cup sequence.
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",geography-or-nature,n/a,,
+claim:lk-22-17-18-cup-before-bread,"A cup was taken, blessed and shared before the bread",astronomy-or-calendar,n/a,,The meal's date (Passover night) is shared with the existing prepare-the-Passover claims; nothing new is datable here.
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,inscription,n/a,,
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,coin,n/a,,
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,structure-or-site,none-found,,"Searched Wikipedia (Last Supper, Cenacle) and the graph's sites; site:cenacle attests the room (Mark 14 claim), not the bread-and-cup sequence."
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,burial-or-ossuary,n/a,,
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages. The Bezae/old-Latin omission of 19b-20 is the manuscript story here and is recorded in the passage variants."
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,documentary-papyrus,n/a,,
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,jewish-literary,found,text:mishnah-pesachim-10-7,"Pesachim 10:7: 'They poured for the leader of the seder the third cup, and he recites the blessing over his food, Grace After Meals. Next, they pour him the fourth cup' - a cup over the after-meal blessing, the position of Luke's 'cup after supper' (B; compiled c. 200 CE, and the Mishnah's four cups are a larger sequence than Luke's two)."
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,greco-roman-literary,n/a,,
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,material-culture,none-found,,Searched Wikipedia and museum pages for 1st-century Judean bread and cup vessels from a dining context; nothing specific to this scene.
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,geography-or-nature,n/a,,
+claim:lk-22-19-20-bread-and-cup,Bread was broken and a cup taken after supper,astronomy-or-calendar,n/a,,
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,inscription,n/a,,
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,coin,n/a,,
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,structure-or-site,n/a,,
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,burial-or-ossuary,n/a,,
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,documentary-papyrus,none-found,,Searched for dining-status material in the graph's documentary papyri and Wikipedia; no papyrus on seating precedence at Judean meals was fetchable.
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,jewish-literary,found,text:mishnah-pesachim-10-1,"Pesachim 10:1: 'Even the poorest of Jews should not eat the meal on Passover night until he reclines on his left side, as free and wealthy people recline when they eat' - the recline-as-free versus serve status contrast behind 'I am among you as one who serves' (C; c. 200 CE caveat, context not a report of this dispute)."
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,greco-roman-literary,none-found,,"Searched for a classical passage on recline-versus-serve status at Judean meals; Pliny's unguent and nard books (already in the graph) bear on cost, not dining status. No fetched ancient text states the custom."
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,material-culture,n/a,,
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,geography-or-nature,n/a,,
+claim:lk-22-24-27-greatness-dispute,A dispute arose at the Passover table about who was greatest,astronomy-or-calendar,n/a,,
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',inscription,none-found,,"Searched Wikipedia (Euergetes, Euergetism) for inscriptions using the benefactor title; the article reports the title's use but cites no Judean inscription on the fetched pages; a Hellenistic honorific inscription could be entered later by a runner with a collection page."
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',coin,none-found,,Searched Wikipedia for coins with the Euergetes legend; the Ptolemaic Euergetes coinage was not fetchable with a stated benefactor legend on the pages fetched.
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',structure-or-site,n/a,,
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',burial-or-ossuary,n/a,,
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',documentary-papyrus,none-found,,Searched the graph's documentary papyri; none uses the title.
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',jewish-literary,none-found,,Searched the graph's Josephus nodes for 'benefactor' language toward Herod or Roman patrons; nothing fetchable in a stateable form.
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',greco-roman-literary,none-found,,"No classical text page fetched states the benefactor title; the evidence attached to the claim (documented_by) is the modern Euergetes summary, which is a source, not an ancient text."
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',material-culture,n/a,,
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',geography-or-nature,n/a,,
+claim:lk-22-25-benefactor-title,Kings with authority were called 'benefactors',astronomy-or-calendar,n/a,,
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,inscription,n/a,,
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,coin,n/a,,
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,structure-or-site,n/a,,
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,burial-or-ossuary,n/a,,
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,documentary-papyrus,n/a,,
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,jewish-literary,found,text:mishnah-bava-kamma-7-7,"Bava Kamma 7:7, 'One may not raise chickens in Jerusalem, due to the sacrificial meat that is common there', is recorded as complicates: a crowing rooster in the city at Passover is not straightforward (the mishna is c. 200 CE and may not describe 30 CE practice)."
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,greco-roman-literary,none-found,,"The Roman night-watch division gallicinium (cockcrow) is known only from the modern Roman-timekeeping summary (already attached to the Matthew 26 claim as a source); no ancient text page was fetched stating it, so this cell stays none-found."
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,material-culture,none-found,,Searched for excavated chicken remains from 1st-century Jerusalem; no fetched page states a find.
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,geography-or-nature,none-found,,"Searched Wikipedia (chicken, rooster) for the bird's presence in 1st-century Judea; the pages describe domestication history but nothing specific enough to enter."
+claim:lk-22-34-cockcrow-today,The rooster will not crow today until Peter has denied three times,astronomy-or-calendar,none-found,,Searched the Roman timekeeping material for cockcrow as a night division; only the modern summary exists (see greco-roman-literary).
+claim:lk-22-36-38-two-swords,The disciples produced two swords,inscription,n/a,,
+claim:lk-22-36-38-two-swords,The disciples produced two swords,coin,n/a,,
+claim:lk-22-36-38-two-swords,The disciples produced two swords,structure-or-site,none-found,,"Searched Wikipedia (Cave of the Swords, weapons of the Bar Kokhba revolt) for a hide-site context in Judea; the cave attests hidden blades (material-culture) but no site ties to the disciples' swords."
+claim:lk-22-36-38-two-swords,The disciples produced two swords,burial-or-ossuary,n/a,,
+claim:lk-22-36-38-two-swords,The disciples produced two swords,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-36-38-two-swords,The disciples produced two swords,documentary-papyrus,none-found,,Searched the graph's documentary papyri and Wikipedia for papyri on private weapon ownership in Judea; none fetchable.
+claim:lk-22-36-38-two-swords,The disciples produced two swords,jewish-literary,none-found,,Searched the graph's Josephus nodes for Josephus on armed followers or concealed weapons at festivals; Josephus reports armed crowds at festivals but no page stating private sword ownership by Galileans was fetched in a stateable form.
+claim:lk-22-36-38-two-swords,The disciples produced two swords,greco-roman-literary,none-found,,Searched for a classical text on the prohibition of weapons on the Temple Mount or in festival Jerusalem; the Mishnah Berakhot material was not fetchable; nothing entered.
+claim:lk-22-36-38-two-swords,The disciples produced two swords,material-culture,found,artifact:roman-swords-cave-of-swords,"Four Roman-type iron swords in wooden scabbards and a pilum head from the Cave of the Swords (2023): short blades were kept and hidden in Judea, the kind of object 'two swords' would be (C; the cache is 2nd-century Bar Kokhba-era, not 30 CE)."
+claim:lk-22-36-38-two-swords,The disciples produced two swords,geography-or-nature,n/a,,
+claim:lk-22-36-38-two-swords,The disciples produced two swords,astronomy-or-calendar,n/a,,
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,inscription,n/a,,
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,coin,n/a,,
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,structure-or-site,none-found,,"Searched the graph's Mount of Olives sites (necropolis, Garden of Gethsemane, mikveh) and Wikipedia (Mount of Olives); they attest burials and the later shrine, not the custom of going out to the ridge at night."
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,burial-or-ossuary,none-found,,"The graph's Mount of Olives necropolis and ossuary nodes document Second Temple burial on the ridge - context for the place, not evidence for the custom, so not entered as attestation."
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,documentary-papyrus,n/a,,
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,jewish-literary,none-found,,Searched Wikipedia (Mount of Olives) and the graph's Josephus nodes for Josephus on the ridge's use or the Passover-night practice of lodging on it; Josephus describes the crowd camping around Jerusalem but no fetched passage names the custom.
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,greco-roman-literary,n/a,,
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,material-culture,n/a,,
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,geography-or-nature,none-found,,Searched Wikipedia (Mount of Olives) for the ridge's elevation and route from the city; the geography is described but the modern summary is not ancient evidence for the custom.
+claim:lk-22-39-mount-of-olives-custom,Going to the Mount of Olives was Jesus's custom,astronomy-or-calendar,n/a,,
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",inscription,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",coin,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",structure-or-site,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",burial-or-ossuary,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages. The passage is the disputed 22:43-44: P69, P75, Sinaiticus (corrector 1) and Vaticanus omit it, the Sinaiticus original hand and Bezae include it; recorded in the passage variants, not as attestation."
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",documentary-papyrus,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",jewish-literary,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",greco-roman-literary,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",material-culture,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",geography-or-nature,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-43-angel-strengthened,"An angel from heaven appeared, strengthening Jesus",astronomy-or-calendar,n/a,,No find of this category could attest or complicate this supernatural report.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,inscription,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,coin,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,structure-or-site,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,burial-or-ossuary,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages. The verse is part of the disputed 22:43-44 (see the passage variants)."
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,documentary-papyrus,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,jewish-literary,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,greco-roman-literary,none-found,,"Searched for an ancient medical text on bloody sweat (Aretaeus, Galen pages); nothing fetchable in a stateable form; the modern Hematidrosis summary is attached to the claim as a source only."
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,material-culture,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,geography-or-nature,n/a,,No find of this category could attest the report itself.
+claim:lk-22-44-sweat-like-blood,Jesus's sweat became like great drops of blood,astronomy-or-calendar,n/a,,No find of this category could attest the report itself.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,inscription,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,coin,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,structure-or-site,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,burial-or-ossuary,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages. P69 covers Luke 22:58-61, the denial material near this verse, but not 22:51; the verse is in P75 and the codices."
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,documentary-papyrus,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,jewish-literary,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,greco-roman-literary,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,material-culture,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,geography-or-nature,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-51-healed-ear,Jesus touched the servant's ear and healed him,astronomy-or-calendar,n/a,,No find of this category could bear on the healing report.
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",inscription,none-found,,"Searched Wikipedia (Theophilus ben Ananus, temple guard, kohanim) for an inscription naming a captain or strategos of the temple; Theophilus was a high priest, not a temple captain; none fetchable."
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",coin,n/a,,
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",structure-or-site,none-found,,"Searched Wikipedia (Second Temple, Antonia Fortress) for the guard rooms and the garrison the captains commanded; the Antonia's role in temple oversight is described but the modern summary is not entered as attestation."
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",burial-or-ossuary,none-found,,"Searched the graph's priestly ossuaries (Caiaphas, Miriam); they name high-priestly family members, not temple captains."
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",documentary-papyrus,none-found,,Searched the graph's documentary papyri; none names the arrest.
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",jewish-literary,found,text:josephus-war-6-288-300,"B: the temple watch ran to 'the captain of the temple' (War 6.5.3, of the temple before 70 CE) - the office and its watch attested as the arresting party's setting; the office's A edge lives on claim:ac-04-01-captain-of-the-temple after the titles-and-offices split (2026-11-15)."
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",greco-roman-literary,n/a,,
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",material-culture,none-found,,Searched Wikipedia (temple guard) for equipment of the temple police; nothing fetchable in a stateable form.
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",geography-or-nature,n/a,,
+claim:lk-22-52-captains-arrest,"The chief priests, captains of the temple and elders came against Jesus",astronomy-or-calendar,n/a,,
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",inscription,none-found,,Searched Wikipedia (Sanhedrin) for an inscription naming the council or its sessions; no inscription exists on the fetched pages.
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",coin,n/a,,
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",structure-or-site,none-found,,"Searched Wikipedia (Sanhedrin, Chamber of Hewn Stone) and the graph's Jerusalem sites for an excavated council chamber; the council's meeting place is uncertain and no site is entered."
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",burial-or-ossuary,n/a,,
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",documentary-papyrus,n/a,,
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",jewish-literary,found,text:mishnah-sanhedrin-4-1,"Sanhedrin 4:1: 'In cases of capital law, the court judges during the daytime, and concludes the deliberations and issues the ruling only in the daytime' - Luke's morning session conforms to the daytime rule that the night hearing of Matthew/Mark violates (B; compiled c. 200 CE, may not describe 30 CE practice exactly)."
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",greco-roman-literary,none-found,,Searched for a classical text on the Sanhedrin's procedure; Josephus's council passages concern other cases and no fetched page states the council's meeting hours.
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",material-culture,n/a,,
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",geography-or-nature,n/a,,
+claim:lk-22-66-morning-council,"The assembly of elders, chief priests and scribes met as soon as it was day",astronomy-or-calendar,none-found,,The claim's 'as soon as it was day' is a narrative time marker; searched the graph's calendar nodes for festival-day timing rules; nothing beyond the Sanhedrin daytime rule (already entered).
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,inscription,none-found,,Searched for an inscription or graffiti of enthroned Son-of-Man language in 1st-century Judea; none on the fetched pages.
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,coin,n/a,,
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,structure-or-site,n/a,,
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,burial-or-ossuary,none-found,,Searched the graph's ossuary nodes for enthronement imagery; none.
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); the Sinaiticus, Vaticanus, P75 and P69 preserves edges are recorded on the passages."
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,documentary-papyrus,none-found,,Searched the graph's documentary papyri; none relevant.
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,jewish-literary,found,text:1-enoch-62-son-of-man,"1 Enoch 62, 'that Son of Man Sitting on the throne of his glory' - the enthroned Son-of-Man concept behind the saying (C; attests the concept's availability in the period, not that Jesus said this, as in Matthew 16/19/25/26)."
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,greco-roman-literary,n/a,,
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,material-culture,n/a,,
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,geography-or-nature,n/a,,
+claim:lk-22-69-son-of-man-right-hand,The Son of Man will be seated at the right hand of the power of God,astronomy-or-calendar,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),inscription,none-found,,No inscription names this person.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),coin,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),structure-or-site,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),burial-or-ossuary,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),manuscript,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),documentary-papyrus,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),jewish-literary,none-found,,"Nothing in Josephus, the Mishnah or the Talmud as fetched about this person."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),greco-roman-literary,none-found,,No classical author names this person as fetched.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),material-culture,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),geography-or-nature,n/a,,
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),astronomy-or-calendar,n/a,,
+person:judas-iscariot,Judas Iscariot,inscription,none-found,,No inscription names this person.
+person:judas-iscariot,Judas Iscariot,coin,n/a,,
+person:judas-iscariot,Judas Iscariot,structure-or-site,n/a,,
+person:judas-iscariot,Judas Iscariot,burial-or-ossuary,n/a,,
+person:judas-iscariot,Judas Iscariot,manuscript,n/a,,
+person:judas-iscariot,Judas Iscariot,documentary-papyrus,n/a,,
+person:judas-iscariot,Judas Iscariot,jewish-literary,none-found,,"Nothing in Josephus, the Mishnah or the Talmud as fetched about this person."
+person:judas-iscariot,Judas Iscariot,greco-roman-literary,none-found,,No classical author names this person as fetched.
+person:judas-iscariot,Judas Iscariot,material-culture,n/a,,
+person:judas-iscariot,Judas Iscariot,geography-or-nature,n/a,,
+person:judas-iscariot,Judas Iscariot,astronomy-or-calendar,n/a,,
+person:simon-peter,Simon Peter,inscription,none-found,,No inscription names this person.
+person:simon-peter,Simon Peter,coin,n/a,,
+person:simon-peter,Simon Peter,structure-or-site,n/a,,
+person:simon-peter,Simon Peter,burial-or-ossuary,n/a,,
+person:simon-peter,Simon Peter,manuscript,n/a,,
+person:simon-peter,Simon Peter,documentary-papyrus,n/a,,
+person:simon-peter,Simon Peter,jewish-literary,none-found,,"Nothing in Josephus, the Mishnah or the Talmud as fetched about this person."
+person:simon-peter,Simon Peter,greco-roman-literary,none-found,,No classical author names this person as fetched.
+person:simon-peter,Simon Peter,material-culture,n/a,,
+person:simon-peter,Simon Peter,geography-or-nature,n/a,,
+person:simon-peter,Simon Peter,astronomy-or-calendar,n/a,,
+place:jerusalem,Jerusalem,inscription,none-found,,No inscription relevant to this chapter names Jerusalem.
+place:jerusalem,Jerusalem,coin,n/a,,
+place:jerusalem,Jerusalem,structure-or-site,found,site:wohl-palace,The excavated Palatial Mansion of the Herodian Quarter (already attesting the courtyard claims of Matthew 26 and Mark 14) documents the late Second Temple Upper City world of the high priest's house this chapter's courtyard scene presupposes (C).
+place:jerusalem,Jerusalem,burial-or-ossuary,n/a,,
+place:jerusalem,Jerusalem,manuscript,n/a,,
+place:jerusalem,Jerusalem,documentary-papyrus,n/a,,
+place:jerusalem,Jerusalem,jewish-literary,n/a,,The city itself is attested in many chapters already.
+place:jerusalem,Jerusalem,greco-roman-literary,n/a,,
+place:jerusalem,Jerusalem,material-culture,n/a,,
+place:jerusalem,Jerusalem,geography-or-nature,n/a,,
+place:jerusalem,Jerusalem,astronomy-or-calendar,n/a,,
+place:mount-of-olives,Mount of Olives,inscription,none-found,,No inscription relevant to this chapter names Mount of Olives.
+place:mount-of-olives,Mount of Olives,coin,n/a,,
+place:mount-of-olives,Mount of Olives,structure-or-site,none-found,,"Searched the graph's Mount of Olives sites (necropolis, Gethsemane, mikveh) and Wikipedia; they document burial and the later shrine, not the ridge as Jesus's customary night retreat."
+place:mount-of-olives,Mount of Olives,burial-or-ossuary,n/a,,
+place:mount-of-olives,Mount of Olives,manuscript,n/a,,
+place:mount-of-olives,Mount of Olives,documentary-papyrus,n/a,,
+place:mount-of-olives,Mount of Olives,jewish-literary,none-found,,Searched Wikipedia (Mount of Olives) and the graph's Josephus nodes; Josephus names the ridge in his war narrative but no fetched passage states the night-retreat custom.
+place:mount-of-olives,Mount of Olives,greco-roman-literary,n/a,,
+place:mount-of-olives,Mount of Olives,material-culture,n/a,,
+place:mount-of-olives,Mount of Olives,geography-or-nature,n/a,,
+place:mount-of-olives,Mount of Olives,astronomy-or-calendar,n/a,,

@@ -1,0 +1,339 @@
+{"from": "passage:jn-19-01", "type": "asserts", "to": "claim:mt-27-26-scourged-before-crucifixion"}
+{"from": "passage:jn-19-02", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:jn-19-02", "type": "asserts", "to": "claim:mt-27-29-crown-of-thorns"}
+{"from": "passage:jn-19-02", "type": "asserts", "to": "claim:mk-15-17-purple-robe"}
+{"from": "passage:jn-19-03", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:jn-19-04", "type": "asserts", "to": "claim:jn-19-04-05-pilate-no-basis"}
+{"from": "passage:jn-19-05", "type": "asserts", "to": "claim:jn-19-04-05-pilate-no-basis"}
+{"from": "passage:jn-19-06", "type": "asserts", "to": "claim:jn-19-04-05-pilate-no-basis"}
+{"from": "passage:jn-19-07", "type": "asserts", "to": "claim:jn-19-07-death-by-law"}
+{"from": "passage:jn-19-09", "type": "asserts", "to": "claim:mt-27-27-praetorium"}
+{"from": "passage:jn-19-13", "type": "asserts", "to": "claim:jn-19-13-gabbatha"}
+{"from": "passage:jn-19-14", "type": "asserts", "to": "claim:jn-19-14-preparation-day"}
+{"from": "passage:jn-19-14", "type": "asserts", "to": "claim:jn-19-14-sixth-hour"}
+{"from": "passage:jn-19-15", "type": "asserts", "to": "claim:jn-19-15-no-king-but-caesar"}
+{"from": "passage:jn-19-16", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:jn-19-17", "type": "asserts", "to": "claim:jn-19-17-carried-cross"}
+{"from": "passage:jn-19-17", "type": "asserts", "to": "claim:mt-27-33-golgotha-outside"}
+{"from": "passage:jn-19-18", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:jn-19-19", "type": "asserts", "to": "claim:jn-19-19-titulus-pilate-wrote"}
+{"from": "passage:jn-19-19", "type": "asserts", "to": "claim:mt-27-37-charge-placard"}
+{"from": "passage:jn-19-20", "type": "asserts", "to": "claim:jn-19-20-trilingual"}
+{"from": "passage:jn-19-21", "type": "asserts", "to": "claim:jn-19-19-titulus-pilate-wrote"}
+{"from": "passage:jn-19-22", "type": "asserts", "to": "claim:jn-19-19-titulus-pilate-wrote"}
+{"from": "passage:jn-19-23", "type": "asserts", "to": "claim:jn-19-23-four-parts"}
+{"from": "passage:jn-19-23", "type": "asserts", "to": "claim:jn-19-23-seamless-tunic"}
+{"from": "passage:jn-19-23", "type": "asserts", "to": "claim:mt-27-35-garments-divided"}
+{"from": "passage:jn-19-24", "type": "asserts", "to": "claim:jn-19-23-four-parts"}
+{"from": "passage:jn-19-25", "type": "asserts", "to": "claim:jn-19-25-four-women"}
+{"from": "passage:jn-19-25", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:jn-19-26", "type": "asserts", "to": "claim:jn-19-26-27-beloved-disciple"}
+{"from": "passage:jn-19-27", "type": "asserts", "to": "claim:jn-19-26-27-beloved-disciple"}
+{"from": "passage:jn-19-29", "type": "asserts", "to": "claim:jn-19-29-vinegar-hyssop"}
+{"from": "passage:jn-19-29", "type": "asserts", "to": "claim:mt-27-48-sour-wine-posca"}
+{"from": "passage:jn-19-31", "type": "asserts", "to": "claim:jn-19-31-bodies-taken-down"}
+{"from": "passage:jn-19-31", "type": "asserts", "to": "claim:jn-19-31-33-legs-broken"}
+{"from": "passage:jn-19-32", "type": "asserts", "to": "claim:jn-19-31-33-legs-broken"}
+{"from": "passage:jn-19-33", "type": "asserts", "to": "claim:jn-19-31-33-legs-broken"}
+{"from": "passage:jn-19-34", "type": "asserts", "to": "claim:jn-19-34-spear-side"}
+{"from": "passage:jn-19-36", "type": "asserts", "to": "claim:jn-19-36-bone-unbroken"}
+{"from": "passage:jn-19-37", "type": "asserts", "to": "claim:jn-19-37-pierced"}
+{"from": "passage:jn-19-38", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:jn-19-38", "type": "asserts", "to": "claim:jn-19-38-secret-disciple"}
+{"from": "passage:jn-19-39", "type": "asserts", "to": "claim:jn-19-39-nicodemus-spices"}
+{"from": "passage:jn-19-40", "type": "asserts", "to": "claim:jn-19-40-linen-spices"}
+{"from": "passage:jn-19-41", "type": "asserts", "to": "claim:jn-19-41-new-tomb-garden"}
+{"from": "passage:jn-19-42", "type": "asserts", "to": "claim:jn-19-41-new-tomb-garden"}
+{"from": "claim:jn-19-04-05-pilate-no-basis", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-19-04-05-pilate-no-basis", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-07-death-by-law", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-12-caesar-friend", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-19-12-caesar-friend", "type": "mentions", "to": "person:tiberius"}
+{"from": "claim:jn-19-13-gabbatha", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-19-13-gabbatha", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-13-gabbatha", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-19-13-gabbatha", "type": "mentions", "to": "place:gabbatha"}
+{"from": "claim:jn-19-14-preparation-day", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-19-14-sixth-hour", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-19-15-no-king-but-caesar", "type": "mentions", "to": "person:tiberius"}
+{"from": "claim:jn-19-17-carried-cross", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-17-carried-cross", "type": "mentions", "to": "place:golgotha"}
+{"from": "claim:jn-19-17-carried-cross", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-19-19-titulus-pilate-wrote", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-19-19-titulus-pilate-wrote", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-19-titulus-pilate-wrote", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:jn-19-20-trilingual", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-19-25-four-women", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:jn-19-25-four-women", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "claim:jn-19-25-four-women", "type": "mentions", "to": "person:mary-of-clopas"}
+{"from": "claim:jn-19-29-vinegar-hyssop", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-31-bodies-taken-down", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-19-31-bodies-taken-down", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-19-31-33-legs-broken", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-34-spear-side", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-36-bone-unbroken", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-38-secret-disciple", "type": "mentions", "to": "person:joseph-of-arimathea"}
+{"from": "claim:jn-19-38-secret-disciple", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-19-39-nicodemus-spices", "type": "mentions", "to": "person:nicodemus"}
+{"from": "claim:jn-19-39-nicodemus-spices", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-40-linen-spices", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-41-new-tomb-garden", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-19-41-new-tomb-garden", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-19-04-05-pilate-no-basis", "type": "related_to", "to": "claim:lk-23-04-pilate-no-basis", "note": "Luke counts three declarations of innocence (23:4, 14-15, 22); John gives two (19:4, 6) and adds the 'Ecce homo' presentation (19:5)."}
+{"from": "claim:jn-19-07-death-by-law", "type": "related_to", "to": "claim:lk-23-02-charges", "note": "Luke's charge list before Pilate is political (perverting the nation, forbidding tribute to Caesar); John's leaders say that by their law he ought to die for making himself the Son of God."}
+{"from": "text:leviticus-24-16", "type": "related_to", "to": "claim:jn-19-07-death-by-law", "note": "Leviticus 24:16 prescribes death for the blasphemer - the law behind 'he made himself the Son of God'; biblical cross-reference, not evidence."}
+{"from": "claim:jn-19-14-preparation-day", "type": "related_to", "to": "claim:mk-15-42-preparation-day", "note": "Mark defines the paraskeue as 'the day before the Sabbath' (15:42); John says 'Preparation of the Passover' (19:14, 31, 42), read by many as Passover eve itself - the Johannine chronology difference."}
+{"from": "claim:jn-19-14-sixth-hour", "type": "related_to", "to": "claim:mk-15-25-third-hour", "note": "Mark places the crucifixion at the third hour, 9 a.m. (15:25); John says 'about the sixth hour' (noon) as Pilate's judgment concludes (19:14) - a well-known chronological tension between the Gospels."}
+{"from": "claim:jn-19-17-carried-cross", "type": "related_to", "to": "claim:mt-27-32-simon-compelled", "note": "John says Jesus carried the cross for himself (19:17); Matthew, Mark and Luke have Simon of Cyrene conscripted to carry it."}
+{"from": "claim:jn-19-19-titulus-pilate-wrote", "type": "related_to", "to": "claim:mt-27-37-charge-placard", "note": "Matthew says 'they set up' the written charge over his head; John says Pilate wrote the title 'Jesus of Nazareth, the King of the Jews' and refused to change it (19:21-22)."}
+{"from": "claim:jn-19-20-trilingual", "type": "related_to", "to": "claim:lk-23-38-trilingual-inscription", "note": "Both give three languages; Luke's trilingual detail is the Byzantine reading while John 19:20 is agreed by all witnesses; Luke's order is 'Greek, Latin, Hebrew', John's 'Hebrew, Latin, Greek'."}
+{"from": "claim:jn-19-23-four-parts", "type": "related_to", "to": "claim:mt-27-35-garments-divided", "note": "John adds the squad detail (four parts, one per soldier), the seamless tunic, and the explicit quotation of Psalm 22:18 (19:24); Matthew has simply lots for his clothing."}
+{"from": "text:psalm-22-18", "type": "related_to", "to": "claim:jn-19-23-four-parts", "note": "Psalm 22:18 ('they divide my garments... cast lots') is the Scripture John quotes in 19:24; biblical cross-reference, not evidence."}
+{"from": "claim:jn-19-25-four-women", "type": "related_to", "to": "claim:mk-15-40-41-women-named", "note": "Mark names Mary Magdalene, Mary the mother of James and Joses, and Salome; John names Jesus' mother, his mother's sister, Mary the wife of Clopas and Mary Magdalene - overlapping but different lists."}
+{"from": "claim:jn-19-29-vinegar-hyssop", "type": "related_to", "to": "claim:mt-27-48-sour-wine-posca", "note": "Matthew's sponge of vinegar is raised on a reed (27:48); John says the sponge was put on hyssop, and adds 'I am thirsty' (19:28)."}
+{"from": "text:deuteronomy-21-22-23", "type": "related_to", "to": "claim:jn-19-31-bodies-taken-down", "note": "Deuteronomy 21:22-23 requires that a hanged body be buried the same day and not remain overnight - the law behind not leaving bodies on the cross; biblical cross-reference, not evidence."}
+{"from": "claim:jn-19-36-bone-unbroken", "type": "related_to", "to": "text:psalm-34-20", "note": "John's quotation 'A bone of him will not be broken' matches Psalm 34:20 (and the Passover rule of Exodus 12:46); biblical cross-reference, not evidence."}
+{"from": "claim:jn-19-37-pierced", "type": "related_to", "to": "text:zechariah-12-10", "note": "'They will look on him whom they pierced' echoes Zechariah 12:10; biblical cross-reference, not evidence."}
+{"from": "claim:jn-19-38-secret-disciple", "type": "related_to", "to": "claim:mt-27-57-58-joseph-burial", "note": "Matthew's Joseph is a rich disciple who went to Pilate in the evening; Mark adds he was a respected council member; John alone adds that he was a disciple 'secretly, for fear of the Jews'."}
+{"from": "claim:jn-19-41-new-tomb-garden", "type": "related_to", "to": "claim:mt-27-59-60-new-rock-tomb", "note": "All agree the tomb was new and unused; Matthew has Joseph's own rock-cut tomb closed with a great rolled stone; John adds the garden setting and 'near at hand', and omits the stone."}
+{"from": "site:kishle", "type": "attests", "to": "claim:jn-19-13-gabbatha", "grade": "C", "note": "Herodian building remains excavated under the Kishle by the Tower of David may belong to Herod's palace, where Benoit and Gibson locate Pilate's judgments - the more likely setting for the judgment seat at Gabbatha."}
+{"from": "site:ecce-homo-lithostrotos", "type": "complicates", "to": "claim:jn-19-13-gabbatha", "note": "The flagstones long shown to pilgrims as the Gabbatha/Lithostrotos pavement under the Sisters of Zion convent are Hadrianic (2nd-century CE) paving laid over the Struthion Pool; the traditional Antonia identification is unlikely, though its tiles may have been reused."}
+{"from": "text:didache-8-1", "type": "attests", "to": "claim:jn-19-14-preparation-day", "grade": "D", "note": "Didache 8:1 uses 'the Preparation' as the standing name for a weekly fast day, glossed '(Friday)' by the translators - the term paraskeue as the day before the Sabbath; early Christian reception-era usage, and redaction-era rather than 30s evidence."}
+{"from": "text:mishnah-pesachim-5-1", "type": "attests", "to": "claim:jn-19-14-sixth-hour", "grade": "C", "note": "Temple rite is reckoned by daylight hours counted from sunrise ('the eighth-and-a-half hour'), so 'about the sixth hour' is about noon; Mishnah redacted c. 200 CE and may not describe 30s practice exactly."}
+{"from": "text:philo-embassy-friend-caesar", "type": "attests", "to": "claim:jn-19-12-caesar-friend", "grade": "C", "note": "Philo (c. 41 CE) has a speaker prove his standing by being 'individually a friend to Caesar, and a friend to Tiberius, since it was I who carried into execution... the downfall of Sejanus' - Caesar's friendship as a recognized status in the Tiberian era."}
+{"from": "text:mishnah-sanhedrin-7-5", "type": "attests", "to": "claim:jn-19-07-death-by-law", "grade": "C", "note": "Mishnah Sanhedrin 7:5 treats blasphemy as a capital charge (requiring the divine Name) - the law of blasphemy the leaders invoke; redacted c. 200 CE and may not describe the 30s practice exactly."}
+{"from": "artifact:titulus-crucis", "type": "attests", "to": "claim:jn-19-20-trilingual", "grade": "D", "note": "The Santa Croce titulus carries the charge in Latin, Greek and Hebrew letters, but three radiocarbon tests date it 980-1146 CE and a majority consider it medieval; authenticity is disputed."}
+{"from": "artifact:temple-warning-inscription", "type": "attests", "to": "claim:jn-19-20-trilingual", "grade": "C", "note": "Greek and Latin warning notices stood on the temple balustrade - public multilingual inscription was at home in Jerusalem in this period; no Hebrew exemplar of this notice survives, so the three-language practice is shown only in part."}
+{"from": "text:digest-48-20-6", "type": "attests", "to": "claim:jn-19-23-four-parts", "grade": "B", "note": "Ulpian defines the panniculariae - the clothing in which the condemned was dressed ('vestem qua is fuerit indutus') goes with the execution - the Roman-law background for the soldiers dividing the garments."}
+{"from": "observation:ezov-origanum-syriacum", "type": "attests", "to": "claim:jn-19-29-vinegar-hyssop", "grade": "C", "note": "Hyssop (ezov, Origanum syriacum) 'grows wild in Israel, and can easily be bunched together to be used for sprinkling' - available in the region and usable as a holder for a sponge."}
+{"from": "text:josephus-war-4-317-burial", "type": "attests", "to": "claim:jn-19-31-bodies-taken-down", "grade": "B", "note": "Even in the 70 CE siege 'they took down those that were condemned and crucified, and buried them before the going down of the sun' - the same concern for the same class of bodies under a sunset deadline."}
+{"from": "text:josephus-war-1-pompey-sabbath", "type": "attests", "to": "claim:jn-19-31-bodies-taken-down", "grade": "C", "note": "The Jews 'abstain from all sorts of work' on the seventh day (War 1.145-147) - taking down and burying bodies was work the Sabbath (here a high day) prohibited."}
+{"from": "text:digest-48-24-1", "type": "attests", "to": "claim:jn-19-31-bodies-taken-down", "grade": "B", "note": "Ulpian: bodies of the executed are not buried otherwise than on request and permission - burial of the crucified required the governor's leave, exactly the request the Jews address to Pilate."}
+{"from": "artifact:yehohanan-heel-bone", "type": "attests", "to": "claim:jn-19-31-33-legs-broken", "grade": "C", "note": "A 1st-century crucified Jerusalemite shows the practice in situ; leg-breaking (crurifragium) to hasten death is recorded Roman practice, but whether Yehohanan's own legs were broken is debated (Haas 1970 vs Zias & Sekeles 1985)."}
+{"from": "observation:tomb-of-shroud-leprae-dna", "type": "attests", "to": "claim:jn-19-40-linen-spices", "grade": "C", "note": "A first-century shrouded burial in Jerusalem (Tomb of the Shroud, Akeldama) - shrouded primary burial with textiles was practiced in the city in exactly this period."}
+{"from": "site:church-of-holy-sepulchre", "type": "attests", "to": "claim:jn-19-41-new-tomb-garden", "grade": "C", "note": "Excavation under the church found a first-century quarry with tombs, and the site lay outside the then walls - an unused tomb in a former quarry fits the setting, though no first-century tomb is identified with the burial."}
+{"from": "observation:holy-sepulchre-garden-pollen", "type": "attests", "to": "claim:jn-19-41-new-tomb-garden", "grade": "C", "note": "Archaeobotanical analysis of soil beneath the church floor found approximately 2,000-year-old olive-tree and grapevine remains (Stasolla excavation) - cultivation of the kind a 'garden' implies in the area around the first century."}
+{"from": "site:garden-tomb", "type": "attests", "to": "claim:jn-19-41-new-tomb-garden", "grade": "D", "note": "A garden tomb north of the Old City with a garden setting as the verse describes; but Barkay dates the tomb itself to the 8th-7th centuries BCE and scholars reject the identification, so it attests only generically and disputedly."}
+{"from": "text:josephus-war-1-673-spices", "type": "attests", "to": "claim:jn-19-39-nicodemus-spices", "grade": "C", "note": "At Herod the Great's burial (4 BCE) the cortege included servants 'with sweet spices in their hands' - spices carried at the funerals of Jewish grandees, the custom behind Nicodemus's myrrh-and-aloes mixture."}
+{"from": "artifact:greek-minor-prophets-scroll", "type": "attests", "to": "claim:jn-19-37-pierced", "grade": "C", "note": "A Greek scroll of the Twelve Prophets from Nahal Hever (1st century BCE-1st century CE) preserves parts of Zechariah - the book of the quotation circulated in Judea; the fetched page does not name chapter 12, so the exact-passage grade B is not established."}
+{"from": "site:ecce-homo-lithostrotos", "type": "documented_by", "to": "source:wikipedia-struthion-pavement"}
+{"from": "site:ecce-homo-lithostrotos", "type": "documented_by", "to": "source:wikipedia-sisters-of-zion"}
+{"from": "claim:jn-19-13-gabbatha", "type": "documented_by", "to": "source:wikipedia-gabbatha"}
+{"from": "place:gabbatha", "type": "documented_by", "to": "source:wikipedia-gabbatha"}
+{"from": "claim:jn-19-12-caesar-friend", "type": "documented_by", "to": "source:wikipedia-amici-principis"}
+{"from": "text:philo-embassy-friend-caesar", "type": "documented_by", "to": "source:wikisource-philo-friend-caesar"}
+{"from": "artifact:papyrus-90", "type": "documented_by", "to": "source:wikipedia-papyrus-90"}
+{"from": "artifact:greek-minor-prophets-scroll", "type": "documented_by", "to": "source:wikipedia-greek-minor-prophets"}
+{"from": "claim:jn-19-31-33-legs-broken", "type": "documented_by", "to": "source:wikipedia-crurifragium"}
+{"from": "claim:jn-19-29-vinegar-hyssop", "type": "documented_by", "to": "source:wikipedia-ezov"}
+{"from": "observation:ezov-origanum-syriacum", "type": "documented_by", "to": "source:wikipedia-ezov"}
+{"from": "observation:holy-sepulchre-garden-pollen", "type": "documented_by", "to": "source:wikipedia-holy-sepulchre-garden"}
+{"from": "claim:jn-19-39-nicodemus-spices", "type": "documented_by", "to": "source:wikipedia-myrrh-embalming"}
+{"from": "text:psalm-34-20", "type": "documented_by", "to": "source:bible-api-psalm-34-20"}
+{"from": "text:zechariah-12-10", "type": "documented_by", "to": "source:bible-api-zechariah-12-10"}
+{"from": "text:deuteronomy-21-22-23", "type": "documented_by", "to": "source:bible-api-deuteronomy-21-22-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-01"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-02"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-03"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-04"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-05"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-06"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-07"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-08"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-09"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-10"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-11"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-12"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-13"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-14"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-15"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-16"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-17"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-18"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-19"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-20"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-21"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-22"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-23"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-24"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-25"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-26"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-27"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-28"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-29"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-30"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-31"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-32"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-33"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-34"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-35"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-36"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-37"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-38"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-39"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-40"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-41"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-19-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-19-42"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-19-42"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-19-01"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-19-02"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-19-03"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-19-04"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-19-05"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-19-06"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-19-07"}
+{"from": "passage:jn-19-01", "type": "parallels", "to": "passage:mt-27-26", "note": "Matthew 27:26 flogs him before handing him over"}
+{"from": "passage:jn-19-01", "type": "parallels", "to": "passage:mk-15-15"}
+{"from": "passage:jn-19-01", "type": "parallels", "to": "passage:lk-23-16", "note": "Luke's first 'chastise and release' proposal"}
+{"from": "passage:jn-19-01", "type": "parallels", "to": "passage:lk-23-22"}
+{"from": "passage:jn-19-02", "type": "parallels", "to": "passage:mt-27-28"}
+{"from": "passage:jn-19-02", "type": "parallels", "to": "passage:mt-27-29"}
+{"from": "passage:jn-19-02", "type": "parallels", "to": "passage:mk-15-17"}
+{"from": "passage:jn-19-02", "type": "related_to", "to": "passage:lk-23-11", "note": "related_to rather than parallels: Luke 23:11 is Herod's soldiers dressing Jesus in luxurious clothing at Herod's house; John 19:2 (with Matt 27:27-31 / Mark 15:16-17) is Pilate's soldiers dressing him in purple after the flogging at the Praetorium. Different soldiers, place and clothing - a shared soldiers'-mockery motif in two different scenes. (Reviewer 9; note the Luke runner's own lk-23-11 -> mt-27-27/mk-15-16 parallels join the same two scenes.)"}
+{"from": "passage:jn-19-03", "type": "parallels", "to": "passage:mt-27-29"}
+{"from": "passage:jn-19-03", "type": "parallels", "to": "passage:mk-15-18"}
+{"from": "passage:jn-19-03", "type": "parallels", "to": "passage:mk-15-19"}
+{"from": "passage:jn-19-04", "type": "parallels", "to": "passage:lk-23-04"}
+{"from": "passage:jn-19-04", "type": "parallels", "to": "passage:lk-23-14"}
+{"from": "passage:jn-19-04", "type": "parallels", "to": "passage:lk-23-22"}
+{"from": "passage:jn-19-06", "type": "parallels", "to": "passage:mt-27-22"}
+{"from": "passage:jn-19-06", "type": "parallels", "to": "passage:mt-27-23"}
+{"from": "passage:jn-19-06", "type": "parallels", "to": "passage:mk-15-13"}
+{"from": "passage:jn-19-06", "type": "parallels", "to": "passage:mk-15-14"}
+{"from": "passage:jn-19-06", "type": "parallels", "to": "passage:lk-23-21"}
+{"from": "passage:jn-19-06", "type": "parallels", "to": "passage:lk-23-23"}
+{"from": "passage:jn-19-09", "type": "parallels", "to": "passage:mt-27-27"}
+{"from": "passage:jn-19-09", "type": "parallels", "to": "passage:mk-15-16"}
+{"from": "passage:jn-19-12", "type": "parallels", "to": "passage:mt-27-24"}
+{"from": "passage:jn-19-12", "type": "parallels", "to": "passage:lk-23-16"}
+{"from": "passage:jn-19-12", "type": "parallels", "to": "passage:lk-23-22"}
+{"from": "passage:jn-19-13", "type": "parallels", "to": "passage:mt-27-19", "note": "Pilate sat on the judgment seat when his wife sent word"}
+{"from": "passage:jn-19-15", "type": "parallels", "to": "passage:mt-27-23"}
+{"from": "passage:jn-19-15", "type": "parallels", "to": "passage:lk-23-21"}
+{"from": "passage:jn-19-15", "type": "parallels", "to": "passage:lk-23-23"}
+{"from": "passage:jn-19-16", "type": "parallels", "to": "passage:mt-27-26"}
+{"from": "passage:jn-19-16", "type": "parallels", "to": "passage:mk-15-15"}
+{"from": "passage:jn-19-16", "type": "parallels", "to": "passage:lk-23-24"}
+{"from": "passage:jn-19-16", "type": "parallels", "to": "passage:lk-23-25"}
+{"from": "passage:jn-19-17", "type": "parallels", "to": "passage:mt-27-32", "note": "Simon carries the cross instead of Jesus"}
+{"from": "passage:jn-19-17", "type": "parallels", "to": "passage:mk-15-22"}
+{"from": "passage:jn-19-17", "type": "parallels", "to": "passage:lk-23-26"}
+{"from": "passage:jn-19-18", "type": "parallels", "to": "passage:mt-27-38"}
+{"from": "passage:jn-19-18", "type": "parallels", "to": "passage:mk-15-27"}
+{"from": "passage:jn-19-18", "type": "parallels", "to": "passage:lk-23-32"}
+{"from": "passage:jn-19-18", "type": "parallels", "to": "passage:lk-23-33"}
+{"from": "passage:jn-19-19", "type": "parallels", "to": "passage:mt-27-37"}
+{"from": "passage:jn-19-19", "type": "parallels", "to": "passage:mk-15-26"}
+{"from": "passage:jn-19-19", "type": "parallels", "to": "passage:lk-23-38"}
+{"from": "passage:jn-19-20", "type": "parallels", "to": "passage:lk-23-38"}
+{"from": "passage:jn-19-23", "type": "parallels", "to": "passage:mt-27-35"}
+{"from": "passage:jn-19-23", "type": "parallels", "to": "passage:mk-15-24"}
+{"from": "passage:jn-19-23", "type": "parallels", "to": "passage:lk-23-34"}
+{"from": "passage:jn-19-24", "type": "parallels", "to": "passage:mt-27-35", "note": "Matthew 27:35 also cites the dividing of garments"}
+{"from": "passage:jn-19-24", "type": "parallels", "to": "passage:mk-15-24"}
+{"from": "passage:jn-19-25", "type": "parallels", "to": "passage:mt-27-55"}
+{"from": "passage:jn-19-25", "type": "parallels", "to": "passage:mt-27-56"}
+{"from": "passage:jn-19-25", "type": "parallels", "to": "passage:mk-15-40"}
+{"from": "passage:jn-19-25", "type": "parallels", "to": "passage:lk-23-49"}
+{"from": "passage:jn-19-29", "type": "parallels", "to": "passage:mt-27-48"}
+{"from": "passage:jn-19-29", "type": "parallels", "to": "passage:mk-15-36"}
+{"from": "passage:jn-19-29", "type": "parallels", "to": "passage:lk-23-36"}
+{"from": "passage:jn-19-30", "type": "parallels", "to": "passage:mt-27-50"}
+{"from": "passage:jn-19-30", "type": "parallels", "to": "passage:mk-15-37"}
+{"from": "passage:jn-19-30", "type": "parallels", "to": "passage:lk-23-46"}
+{"from": "passage:jn-19-38", "type": "parallels", "to": "passage:mt-27-57"}
+{"from": "passage:jn-19-38", "type": "parallels", "to": "passage:mt-27-58"}
+{"from": "passage:jn-19-38", "type": "parallels", "to": "passage:mk-15-43"}
+{"from": "passage:jn-19-38", "type": "parallels", "to": "passage:lk-23-50"}
+{"from": "passage:jn-19-38", "type": "parallels", "to": "passage:lk-23-52"}
+{"from": "passage:jn-19-40", "type": "parallels", "to": "passage:mt-27-59"}
+{"from": "passage:jn-19-40", "type": "parallels", "to": "passage:mk-15-46"}
+{"from": "passage:jn-19-40", "type": "parallels", "to": "passage:lk-23-53"}
+{"from": "passage:jn-19-41", "type": "parallels", "to": "passage:mt-27-60"}
+{"from": "passage:jn-19-41", "type": "parallels", "to": "passage:lk-23-53"}
+{"from": "passage:jn-19-42", "type": "parallels", "to": "passage:mt-27-60"}
+{"from": "passage:jn-19-42", "type": "parallels", "to": "passage:mk-15-46"}
+{"from": "passage:jn-19-42", "type": "parallels", "to": "passage:lk-23-53"}

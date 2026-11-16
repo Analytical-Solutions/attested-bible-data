@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 5,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    11
+   ],
+   "setting": "place:sea-of-galilee",
+   "confidence": "stated",
+   "basis": "5:1 \"he was standing by the lake of Gennesaret\"; 5:2 \"He saw two boats standing by the lake\""
+  },
+  {
+   "verses": [
+    12,
+    16
+   ],
+   "setting": "place:galilee",
+   "confidence": "inferred",
+   "basis": "5:12 \"While he was in one of the cities\" - the city is not named; it follows the Galilee ministry (4:44)"
+  },
+  {
+   "verses": [
+    17,
+    39
+   ],
+   "setting": "place:capernaum",
+   "confidence": "inferred",
+   "basis": "5:17 \"On one of those days, he was teaching\" and 5:29 \"Levi made a great feast for him in his house\" - the city is not named in Luke; it is the Capernaum ministry begun at 4:31"
+  }
+ ]
+}

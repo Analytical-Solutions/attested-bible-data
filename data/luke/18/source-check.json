@@ -1,0 +1,12 @@
+{
+ "source:sefaria-taanit-2-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Taanit.2?context=0"
+ },
+ "source:wikisource-ant4-judges": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_IV"
+ }
+}

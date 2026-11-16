@@ -1,0 +1,24 @@
+{
+  "book": "mark",
+  "chapter": 5,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        20
+      ],
+      "setting": "place:gadara",
+      "basis": "5:1 \"They came to the other side of the sea, into the country of the Gadarenes\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        21,
+        43
+      ],
+      "setting": "place:capernaum",
+      "basis": "5:21 \"When Jesus had crossed back over in the boat to the other side... he was by the sea\"; the synagogue ruler's house (5:38) is at Capernaum (1:21)",
+      "confidence": "inferred"
+    }
+  ]
+}

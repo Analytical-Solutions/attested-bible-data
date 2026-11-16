@@ -1,0 +1,52 @@
+{
+ "source:archive-ryle-james-psolomon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia800803.us.archive.org/35/items/psalmoisolomnto00jamegoog/psalmoisolomnto00jamegoog_djvu.txt"
+ },
+ "source:sefaria-berakhot-9-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Berakhot_9:5"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-codex-washingtonianus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Washingtonianus"
+ },
+ "source:wikipedia-fig-breba": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ficus_carica"
+ },
+ "source:wikipedia-great-isaiah-scroll": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-papyrus-45": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-45-mark": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-tv-mark-11-26": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Mark"
+ }
+}

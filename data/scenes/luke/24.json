@@ -1,0 +1,42 @@
+{
+ "book": "luke",
+ "chapter": 24,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    12
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "24:1 \"came to the tomb, bringing the spices\" - the tomb (23:53) has no id of its own and is not placed by name"
+  },
+  {
+   "verses": [
+    13,
+    35
+   ],
+   "setting": "place:emmaus",
+   "confidence": "stated",
+   "basis": "24:13 \"two of them were going that very day to a village named Emmaus, which was sixty stadia from Jerusalem\""
+  },
+  {
+   "verses": [
+    36,
+    49
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "24:33 \"returned to Jerusalem\"; 24:36 \"Jesus himself stood among them\""
+  },
+  {
+   "verses": [
+    50,
+    53
+   ],
+   "setting": "place:bethany",
+   "confidence": "stated",
+   "basis": "24:50 \"He led them out as far as Bethany\""
+  }
+ ]
+}

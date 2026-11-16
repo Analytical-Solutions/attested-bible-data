@@ -1,0 +1,52 @@
+{
+ "source:wikipedia-cana-cave": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cana"
+ },
+ "source:wikipedia-cana-debate": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cana"
+ },
+ "source:wikipedia-cana-qana": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cana"
+ },
+ "source:wikipedia-cleansing-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cleansing_of_the_Temple"
+ },
+ "source:wikipedia-herods-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod%27s_Temple"
+ },
+ "source:wikipedia-herods-temple-46": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod%27s_Temple"
+ },
+ "source:wikipedia-john-variants": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_John"
+ },
+ "source:wikipedia-p75-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ },
+ "source:wikipedia-papyrus-66": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_66"
+ },
+ "source:wikisource-ant-15-380": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ }
+}

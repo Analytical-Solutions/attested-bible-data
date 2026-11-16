@@ -1,0 +1,210 @@
+anchor,label,category,status,findings,note
+claim:mt-02-01-birth-in-bethlehem,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-birth-in-bethlehem,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-birth-in-bethlehem,,structure-or-site,found,site:church-of-the-nativity,"Grade D: the church and grotto attest the commemorative tradition, not the event."
+claim:mt-02-01-birth-in-bethlehem,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-birth-in-bethlehem,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-birth-in-bethlehem,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-birth-in-bethlehem,,jewish-literary,none-found,,"No Jewish source records the birth; searched via Wikipedia (Bethlehem, Church of the Nativity, Massacre of the Innocents)."
+claim:mt-02-01-birth-in-bethlehem,,greco-roman-literary,none-found,,"No classical source records the birth; searched via Wikipedia (Massacre of the Innocents, Herod the Great)."
+claim:mt-02-01-birth-in-bethlehem,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-birth-in-bethlehem,,geography-or-nature,none-found,,No geographic source bearing on the birth location was fetched this run.
+claim:mt-02-01-birth-in-bethlehem,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-herod-king,,inscription,none-found,,No stone inscription naming Herod as king was fetched; his royal title is attested on coins (ΗΡΩΔΟΥ ΒΑΣΙΛΕΩΣ).
+claim:mt-02-01-herod-king,,coin,found,artifact:herod-coins,
+claim:mt-02-01-herod-king,,structure-or-site,found,site:herodium,
+claim:mt-02-01-herod-king,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-herod-king,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-herod-king,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-herod-king,,jewish-literary,found,text:josephus-ant-17-death,
+claim:mt-02-01-herod-king,,greco-roman-literary,found,text:macrobius-saturnalia,"Grade C: Macrobius calls Herod ""king of the Jews"" in a late, confused anecdote."
+claim:mt-02-01-herod-king,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-herod-king,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-herod-king,,astronomy-or-calendar,none-found,,Herod's regnal dating (37-4 BCE) rests on Josephus and the coin series; no independent astronomical anchor for the accession was fetched.
+claim:mt-02-01-magi-from-east,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-magi-from-east,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-magi-from-east,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-magi-from-east,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-magi-from-east,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-magi-from-east,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-01-magi-from-east,,jewish-literary,none-found,,"Searched Wikipedia (Magi, Massacre of the Innocents): Josephus never mentions the Magi's visit, and no Jewish source records it."
+claim:mt-02-01-magi-from-east,,greco-roman-literary,found,text:herodotus-1-101,"Grade C: confirms the Magi as a real Median/Persian priestly people, not their journey."
+claim:mt-02-01-magi-from-east,,material-culture,none-found,,No Parthian or Persian material culture found in first-century Judea was fetched this run.
+claim:mt-02-01-magi-from-east,,geography-or-nature,none-found,,"Matthew's ""the east"" is unnamed; no route or distance source was fetched."
+claim:mt-02-01-magi-from-east,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,jewish-literary,none-found,,"Jewish tradition (e.g. the Balaam oracle of a star out of Jacob) is sometimes cited as background, but no Jewish source records the event; nothing was fetched."
+claim:mt-02-02-star-in-the-east,,greco-roman-literary,none-found,,"No classical author records the star; searched Wikipedia (Star of Bethlehem, Massacre of the Innocents)."
+claim:mt-02-02-star-in-the-east,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-02-star-in-the-east,,astronomy-or-calendar,none-found,,"Searched Wikipedia ""Star of Bethlehem"": proposed identifications (Kepler's 7 BCE Jupiter-Saturn conjunctions, comets, supernovae) all remain disputed and none commands scholarly agreement."
+claim:mt-02-04-chief-priests-consulted,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,jewish-literary,found,text:josephus-ant-17-death,Grade C: Josephus shows Herod appointing and deposing high priests at will in his last days.
+claim:mt-02-04-chief-priests-consulted,,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-04-chief-priests-consulted,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,jewish-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,material-culture,none-found,,"Searched for trade-goods context (gold, frankincense, myrrh) via Wikipedia; no fetched source connects the specific gift list to first-century Judea."
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,geography-or-nature,none-found,,The trade geography of frankincense and myrrh (south Arabia to the Mediterranean) was not verified against a fetched source this run.
+claim:mt-02-11-gifts-gold-frankincense-myrrh,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-13-flight-to-egypt,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-13-flight-to-egypt,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-13-flight-to-egypt,,structure-or-site,none-found,,The Leontopolis temple site was not sourced from excavation reports this run; known only through Josephus.
+claim:mt-02-13-flight-to-egypt,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-13-flight-to-egypt,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-13-flight-to-egypt,,documentary-papyrus,none-found,,"No papyrus evidence for the flight, or for Jews in Egypt in this period, was fetched."
+claim:mt-02-13-flight-to-egypt,,jewish-literary,found,text:josephus-ant-13-onias,"Grade C: confirms Egypt's Jewish institutions (temple at Leontopolis), making refuge plausible."
+claim:mt-02-13-flight-to-egypt,,greco-roman-literary,none-found,,No classical source records the holy family's stay in Egypt.
+claim:mt-02-13-flight-to-egypt,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-13-flight-to-egypt,,geography-or-nature,none-found,,The overland route from Judea to Egypt was not verified against a fetched source this run.
+claim:mt-02-13-flight-to-egypt,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,manuscript,found,artifact:codex-sinaiticus,"Codex Sinaiticus (4th century) preserves the text of Matthew 2:15, witnessing Matthew's use of Hosea 11:1."
+claim:mt-02-15-hosea-out-of-egypt,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,jewish-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-15-hosea-out-of-egypt,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-16-massacre,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-16-massacre,,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-16-massacre,,structure-or-site,none-found,,"Searched Wikipedia (Massacre of the Innocents, Bethlehem): excavations at Bethlehem have produced no trace of the massacre."
+claim:mt-02-16-massacre,,burial-or-ossuary,none-found,,Searched Wikipedia (Massacre of the Innocents): no mass grave of children has been found or reported.
+claim:mt-02-16-massacre,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-16-massacre,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-16-massacre,,jewish-literary,found,text:josephus-ant-17-cruelty,"Grade C: context only - Josephus records Herod's dying cruelty, never the Bethlehem massacre."
+claim:mt-02-16-massacre,,greco-roman-literary,found,text:macrobius-saturnalia,Grade D: Macrobius is discounted as evidence for the event.
+claim:mt-02-16-massacre,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-16-massacre,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-16-massacre,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,coin,found,artifact:archelaus-coins,Grade C: Archelaus's coinage dated from 4 BCE fits Herod's death then; the year itself is disputed.
+claim:mt-02-19-herod-died,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,jewish-literary,found,text:josephus-ant-17-death,
+claim:mt-02-19-herod-died,,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-19-herod-died,,astronomy-or-calendar,found,text:josephus-ant-17-death; observation:lunar-eclipse-4-bce-03-13; observation:lunar-eclipse-1-bce-01-10,"Josephus places a lunar eclipse between Herod's execution of Matthias's followers and his death, before Passover. NASA's catalogue (fetched this run) gives the two candidates: partial 13 March 4 BCE (04813) and total 10 January 1 BCE (04821); Wikipedia (Herod the Great) records the dispute between the Schurer 4 BCE and Steinmann 1 BCE chronologies."
+claim:mt-02-22-archelaus-reigns,,inscription,none-found,,No inscription naming Archelaus was fetched; his title survives on his coins.
+claim:mt-02-22-archelaus-reigns,,coin,found,artifact:archelaus-coins,
+claim:mt-02-22-archelaus-reigns,,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-22-archelaus-reigns,,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-22-archelaus-reigns,,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-22-archelaus-reigns,,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-22-archelaus-reigns,,jewish-literary,found,text:josephus-ant-17-archelaus,
+claim:mt-02-22-archelaus-reigns,,greco-roman-literary,none-found,,No classical author was fetched this run; Josephus (Antiquities 17) covers the appointment and deposition.
+claim:mt-02-22-archelaus-reigns,,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-22-archelaus-reigns,,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-02-22-archelaus-reigns,,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,inscription,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,coin,found,artifact:archelaus-coins,
+person:herod-archelaus,Herod Archelaus,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,jewish-literary,found,text:josephus-ant-17-archelaus,
+person:herod-archelaus,Herod Archelaus,greco-roman-literary,none-found,,"No classical author was fetched this run; the Jewish literary evidence (Josephus, Antiquities 17) covers Archelaus's rule and deposition in detail."
+person:herod-archelaus,Herod Archelaus,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:herod-archelaus,Herod Archelaus,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:herod-the-great,Herod the Great,inscription,none-found,,"Searched Wikipedia (Herod the Great, Herodium, Herodian coinage): no stone inscription naming Herod was fetched; his royal title survives on his coins."
+person:herod-the-great,Herod the Great,coin,found,artifact:herod-coins,
+person:herod-the-great,Herod the Great,structure-or-site,found,site:herodium,
+person:herod-the-great,Herod the Great,burial-or-ossuary,found,site:herodium,"The claimed tomb of Herod: an ornate sarcophagus found at Herodium in 2007, without a naming inscription."
+person:herod-the-great,Herod the Great,manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:herod-the-great,Herod the Great,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:herod-the-great,Herod the Great,jewish-literary,found,text:josephus-ant-17-death,
+person:herod-the-great,Herod the Great,greco-roman-literary,found,text:macrobius-saturnalia,
+person:herod-the-great,Herod the Great,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:herod-the-great,Herod the Great,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:herod-the-great,Herod the Great,astronomy-or-calendar,found,text:josephus-ant-17-death,"The lunar eclipse before his death anchors Herod's chronology; Schürer's 4 BCE is mainstream, Steinmann argues 1 BCE (Wikipedia, ""Herod the Great"")."
+place:bethlehem,Bethlehem,inscription,found,artifact:bethlehem-bulla,
+place:bethlehem,Bethlehem,coin,n/a,,Category cannot bear evidence for this anchor.
+place:bethlehem,Bethlehem,structure-or-site,found,site:church-of-the-nativity,
+place:bethlehem,Bethlehem,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:bethlehem,Bethlehem,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:bethlehem,Bethlehem,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:bethlehem,Bethlehem,jewish-literary,none-found,,No Jewish literary source on Bethlehem was fetched this run; Josephus references were not pursued.
+place:bethlehem,Bethlehem,greco-roman-literary,none-found,,No classical source on Bethlehem was fetched this run.
+place:bethlehem,Bethlehem,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:bethlehem,Bethlehem,geography-or-nature,none-found,,Bethlehem's position south of Jerusalem on the central hill route was not verified against a fetched source this run.
+place:bethlehem,Bethlehem,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:egypt,Egypt,inscription,n/a,,Category cannot bear evidence for this anchor.
+place:egypt,Egypt,coin,n/a,,Category cannot bear evidence for this anchor.
+place:egypt,Egypt,structure-or-site,none-found,,The Jewish temple at Leontopolis is known to this run only from Josephus; no excavation report or site page was fetched.
+place:egypt,Egypt,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:egypt,Egypt,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:egypt,Egypt,documentary-papyrus,none-found,,No documentary papyrus on Jews in Ptolemaic or Roman Egypt was fetched this run; the communities are documented by literary sources instead.
+place:egypt,Egypt,jewish-literary,found,text:josephus-ant-13-onias,
+place:egypt,Egypt,greco-roman-literary,none-found,,Philo's writings on Egyptian Jewry were not fetched this run.
+place:egypt,Egypt,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:egypt,Egypt,geography-or-nature,none-found,,The flight route from Judea to Egypt was not verified against a fetched source this run.
+place:egypt,Egypt,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,inscription,found,artifact:caesarea-inscription,
+place:galilee,Galilee,coin,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,structure-or-site,none-found,,"No Galilean structure was fetched for this chapter; Galilee sites (Sepphoris, Capernaum) belong to later chapters."
+place:galilee,Galilee,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,jewish-literary,none-found,,No Jewish literary source naming Galilee in this period was fetched this run.
+place:galilee,Galilee,greco-roman-literary,none-found,,No classical source on Galilee was fetched this run.
+place:galilee,Galilee,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:galilee,Galilee,geography-or-nature,none-found,,"Galilee's separation from Judea (relevant to 2:22, going around Samaria) was not verified against a fetched source this run."
+place:galilee,Galilee,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,inscription,none-found,,No inscription bearing on the Magi's visit to Jerusalem was sought; Herodian and Temple inscriptions belong to later chapters.
+place:jerusalem,Jerusalem,coin,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,structure-or-site,none-found,,"Nothing on first-century Jerusalem was fetched for this chapter; the city's structures belong to later chapters (Temple, palace, Golgotha)."
+place:jerusalem,Jerusalem,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,jewish-literary,found,text:josephus-ant-17-death,
+place:jerusalem,Jerusalem,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+place:jerusalem,Jerusalem,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,inscription,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,coin,found,artifact:archelaus-coins,
+place:judea,Judea,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,jewish-literary,found,text:josephus-ant-17-archelaus,
+place:judea,Judea,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+place:judea,Judea,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,inscription,found,artifact:caesarea-inscription,
+place:nazareth,Nazareth,coin,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,structure-or-site,found,site:nazareth-house,
+place:nazareth,Nazareth,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,jewish-literary,none-found,,"Searched Wikipedia (Nazareth, Flight into Egypt): Nazareth is not mentioned by the Old Testament, Josephus or rabbinical sources, so there is no Jewish literary evidence to fetch."
+place:nazareth,Nazareth,greco-roman-literary,none-found,,Searched Wikipedia (Nazareth): no classical author mentions Nazareth before the Caesarea inscription.
+place:nazareth,Nazareth,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:nazareth,Nazareth,geography-or-nature,none-found,,The village's hill-country setting in lower Galilee was not verified against a fetched source this run.
+place:nazareth,Nazareth,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

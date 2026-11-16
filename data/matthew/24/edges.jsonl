@@ -1,0 +1,215 @@
+{"from": "passage:mt-24-02", "type": "asserts", "to": "claim:mt-24-01-02-temple-thrown-down"}
+{"from": "passage:mt-24-05", "type": "asserts", "to": "claim:mt-24-05-23-26-messiah-claimants"}
+{"from": "passage:mt-24-06", "type": "asserts", "to": "claim:mt-24-06-07-wars-famines-earthquakes"}
+{"from": "passage:mt-24-07", "type": "asserts", "to": "claim:mt-24-06-07-wars-famines-earthquakes"}
+{"from": "passage:mt-24-09", "type": "asserts", "to": "claim:mt-24-09-persecution"}
+{"from": "passage:mt-24-11", "type": "asserts", "to": "claim:mt-24-05-23-26-messiah-claimants"}
+{"from": "passage:mt-24-15", "type": "asserts", "to": "claim:mt-24-15-abomination-holy-place"}
+{"from": "passage:mt-24-16", "type": "asserts", "to": "claim:mt-24-16-20-flight-from-judea"}
+{"from": "passage:mt-24-21", "type": "asserts", "to": "claim:mt-24-01-02-temple-thrown-down"}
+{"from": "passage:mt-24-23", "type": "asserts", "to": "claim:mt-24-05-23-26-messiah-claimants"}
+{"from": "passage:mt-24-26", "type": "asserts", "to": "claim:mt-24-05-23-26-messiah-claimants"}
+{"from": "passage:mt-24-29", "type": "asserts", "to": "claim:mt-24-29-30-signs-in-heaven"}
+{"from": "passage:mt-24-30", "type": "asserts", "to": "claim:mt-24-29-30-signs-in-heaven"}
+{"from": "passage:mt-24-32", "type": "asserts", "to": "claim:mt-24-32-33-fig-tree-summer"}
+{"from": "passage:mt-24-33", "type": "asserts", "to": "claim:mt-24-32-33-fig-tree-summer"}
+{"from": "passage:mt-24-41", "type": "asserts", "to": "claim:mt-24-41-women-grinding"}
+{"from": "passage:mt-24-43", "type": "asserts", "to": "claim:mt-24-43-thief-night-watch"}
+{"from": "claim:mt-24-01-02-temple-thrown-down", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-24-01-02-temple-thrown-down", "type": "mentions", "to": "place:mount-of-olives"}
+{"from": "claim:mt-24-05-23-26-messiah-claimants", "type": "mentions", "to": "place:judea"}
+{"from": "claim:mt-24-06-07-wars-famines-earthquakes", "type": "mentions", "to": "person:queen-helena-of-adiabene"}
+{"from": "claim:mt-24-15-abomination-holy-place", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-24-16-20-flight-from-judea", "type": "mentions", "to": "place:judea"}
+{"from": "claim:mt-24-32-33-fig-tree-summer", "type": "mentions", "to": "place:judea"}
+{"from": "text:josephus-war-7-1-4", "type": "documented_by", "to": "source:wikisource-war-7-razing"}
+{"from": "artifact:robinson-arch-debris", "type": "documented_by", "to": "source:wikipedia-robinsons-arch"}
+{"from": "artifact:burnt-house", "type": "documented_by", "to": "source:wikipedia-burnt-house"}
+{"from": "artifact:burnt-house", "type": "documented_by", "to": "source:wikipedia-burnt-house-kathros"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-western-wall"}
+{"from": "text:josephus-war-2-258-260", "type": "documented_by", "to": "source:wikisource-war-2-sign-prophets"}
+{"from": "text:josephus-war-2-261-263", "type": "documented_by", "to": "source:wikisource-war-2-egyptian"}
+{"from": "text:josephus-war-6-285-287", "type": "documented_by", "to": "source:wikisource-war-6-false-prophet"}
+{"from": "text:josephus-war-6-288-300", "type": "documented_by", "to": "source:wikisource-war-6-prodigies"}
+{"from": "text:josephus-war-6-288-300", "type": "documented_by", "to": "source:wikisource-war-6-chariots"}
+{"from": "text:josephus-war-6-316", "type": "documented_by", "to": "source:wikisource-war-6-ensigns"}
+{"from": "text:josephus-ant-20-famine", "type": "documented_by", "to": "source:wikisource-ant-20-famine"}
+{"from": "text:josephus-ant-20-famine", "type": "documented_by", "to": "source:wikisource-ant-20-famine-judea"}
+{"from": "text:josephus-ant-20-helena-izates", "type": "related_to", "to": "text:josephus-ant-20-famine", "note": "The same Queen Helena of Adiabene: the conversion account (Ant. 20.17-48, ch 23) and the famine-relief account (Ant. 20.49-53, 101, this chapter) both name her; during the Claudian famine she bought corn in Egypt and distributed it to those in want in Judea."}
+{"from": "text:josephus-ant-20-169-172", "type": "documented_by", "to": "source:wikisource-ant-20-egyptian"}
+{"from": "text:josephus-ant-18-261-309", "type": "documented_by", "to": "source:wikisource-ant-18-caligula"}
+{"from": "text:philo-embassy-to-gaius", "type": "documented_by", "to": "source:wikisource-philo-embassy"}
+{"from": "text:tacitus-annals-14-27", "type": "documented_by", "to": "source:wikisource-annals-14-laodicea"}
+{"from": "text:seneca-nq-6-1", "type": "documented_by", "to": "source:wikipedia-ad62-pompeii-earthquake"}
+{"from": "artifact:iucundus-earthquake-reliefs", "type": "documented_by", "to": "source:wikipedia-ad62-pompeii-reliefs"}
+{"from": "text:eusebius-eccl-hist-3-5-3", "type": "documented_by", "to": "source:wikipedia-pella"}
+{"from": "text:tacitus-histories-5-13", "type": "documented_by", "to": "source:wikisource-hist-5-prodigies"}
+{"from": "text:tacitus-histories-5-8", "type": "documented_by", "to": "source:wikisource-hist-5-jerusalem"}
+{"from": "observation:halley-comet-66", "type": "documented_by", "to": "source:wikipedia-halleys-comet"}
+{"from": "text:daniel-11-31", "type": "documented_by", "to": "source:bible-api-daniel-11-31"}
+{"from": "text:1-maccabees-1-54", "type": "documented_by", "to": "source:bible-api-1-maccabees-1-54"}
+{"from": "artifact:papyrus-70", "type": "documented_by", "to": "source:wikipedia-papyrus-70"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "artifact:place-of-trumpeting", "type": "documented_by", "to": "source:wikipedia-trumpeting-place"}
+{"from": "artifact:place-of-trumpeting", "type": "documented_by", "to": "source:wikipedia-trumpeting-fallen"}
+{"from": "artifact:judaea-capta-coins", "type": "documented_by", "to": "source:wikipedia-judaea-capta"}
+{"from": "site:arch-of-titus", "type": "documented_by", "to": "source:wikipedia-arch-of-titus"}
+{"from": "text:josephus-ant-20-theudas", "type": "documented_by", "to": "source:wikipedia-theudas"}
+{"from": "text:josephus-ant-20-theudas", "type": "documented_by", "to": "source:wikisource-ant-20-theudas"}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}
+{"from": "artifact:capernaum-basalt-mills", "type": "documented_by", "to": "source:wikipedia-capernaum-mills"}
+{"from": "text:polybius-6-watches", "type": "documented_by", "to": "source:wikisource-polybius-6"}
+{"from": "text:josephus-war-6-house-doomed", "type": "documented_by", "to": "source:wikisource-war-6-house"}
+{"from": "text:josephus-war-6-house-doomed", "type": "documented_by", "to": "source:wikipedia-siege-jerusalem-70"}
+{"from": "text:daniel-7-13", "type": "documented_by", "to": "source:bible-api-daniel-7-13"}
+{"from": "observation:fig-breba-crop", "type": "documented_by", "to": "source:wikipedia-fig-breba"}
+{"from": "text:josephus-war-7-1-4", "type": "attests", "to": "claim:mt-24-01-02-temple-thrown-down", "grade": "A", "note": "Josephus (War 7.1.1) records Titus's order after the fall of the city in 70 CE to 'demolish the entire city and temple', sparing only three towers and the west wall. It attests the destruction event itself, not the prediction in 24:2; the claim is scoped to the Temple buildings, and the spared wall and towers are recorded as complicates."}
+{"from": "site:arch-of-titus", "type": "attests", "to": "claim:mt-24-01-02-temple-thrown-down", "grade": "B", "note": "The triumphal arch erected c. 81 CE carries panels of the 71 CE procession carrying the Temple spoils (the menorah) - it attests the Temple's fall and plunder, not the prediction. Graded B: the relief names the event but is a Roman victory monument, not a report of the demolition itself."}
+{"from": "artifact:robinson-arch-debris", "type": "attests", "to": "claim:mt-24-01-02-temple-thrown-down", "grade": "B", "note": "The excavated debris of the Herodian arch and staircase lies where it fell in the destruction of 70 CE (Reich-Billig excavations 1994-1996), on the street below the Temple Mount. Attests the throwing down of Herodian Temple Mount architecture, not the prediction."}
+{"from": "artifact:burnt-house", "type": "attests", "to": "claim:mt-24-01-02-temple-thrown-down", "grade": "C", "note": "The excavated priestly house in the Jewish Quarter, with its Bar Kathros weight, was burned in the Roman siege - 'destroyed one month after the Temple' per the fetched article. Attests the city's destruction by fire in 70 CE, not the prediction; it is one month later than the Temple's fall. Regraded B to C by architect review: the Burnt House shows the city burned in the siege, not the Temple buildings thrown down."}
+{"from": "artifact:place-of-trumpeting", "type": "attests", "to": "claim:mt-24-01-02-temple-thrown-down", "grade": "B", "note": "The priestly trumpeting-place inscription was found in the destruction debris below the southwest corner of the Temple Mount; the fetched article says it 'was probably thrown over after the destruction of the Temple and city in 70 CE'. Attests the throwing down of the Temple's parapet stones, not the prediction."}
+{"from": "artifact:judaea-capta-coins", "type": "attests", "to": "claim:mt-24-01-02-temple-thrown-down", "grade": "C", "note": "Vespasian's and Titus's Judaea Capta coinage (from 71 CE) celebrates 'the capture of Judaea and the destruction of the Second Jewish Temple' (fetched article). Attests the conquest and destruction, not the prediction; graded C as commemorative propaganda rather than a report."}
+{"from": "text:josephus-war-6-house-doomed", "type": "attests", "to": "claim:mt-24-01-02-temple-thrown-down", "grade": "B", "note": "Josephus (War 6.249-250) records the temple house burning on the tenth of Lous (Ab), 70 CE. Attests the burning that began the throwing down, not the prediction in 24:2."}
+{"from": "text:josephus-ant-20-theudas", "type": "attests", "to": "claim:mt-24-05-23-26-messiah-claimants", "grade": "B", "note": "Josephus (Ant. 20.97) records Theudas, who 'told them he was a prophet' and led a great part of the people to the Jordan c. 44-46 CE (fetched Wikipedia: 'between 44 and 46 CE Theudas led his followers in a short-lived revolt'). Attests the prophet-claimant condition in Judea in the period, not the prediction; Theudas claimed prophecy, not messiahship."}
+{"from": "text:josephus-war-2-258-260", "type": "attests", "to": "claim:mt-24-05-23-26-messiah-claimants", "grade": "C", "note": "Josephus (War 2.258-260) records unnamed deceivers 'under pretense of Divine inspiration' leading the people into the wilderness under Felix - the wilderness claimants of 24:26 ('Behold, he is in the wilderness'). Attests the condition, not the prediction; the claimants are unnamed, hence C."}
+{"from": "text:josephus-war-2-261-263", "type": "attests", "to": "claim:mt-24-05-23-26-messiah-claimants", "grade": "B", "note": "Josephus (War 2.261-263) records 'an Egyptian false prophet' who gathered thirty thousand followers and led them to the Mount of Olives ready to break into Jerusalem. Attests a named prophet-claimant with a mass following in Judea, not the prediction."}
+{"from": "text:josephus-ant-20-169-172", "type": "attests", "to": "claim:mt-24-05-23-26-messiah-claimants", "grade": "B", "note": "Josephus (Ant. 20.169-172) independently records the same Egyptian, 'one that said he was a prophet', leading the common people to the Mount of Olives. Attests the claimant condition, not the prediction."}
+{"from": "text:josephus-war-6-285-287", "type": "attests", "to": "claim:mt-24-05-23-26-messiah-claimants", "grade": "B", "note": "Josephus (War 6.285-287) records the false prophet who, on the day the temple burned, proclaimed that God commanded the people to get up to the temple for signs of deliverance - claimants 'in the inner rooms' / at the sanctuary of 24:26. Attests the condition in 70 CE, not the prediction."}
+{"from": "text:josephus-ant-20-famine", "type": "attests", "to": "claim:mt-24-06-07-wars-famines-earthquakes", "grade": "C", "note": "Josephus (Ant. 20.49-53, 101) records the great famine under Claudius, in which 'queen Helena bought corn in Egypt at a great expense' for Jerusalem. Attests the famine condition of the period, not the prediction; graded C per the famine lead."}
+{"from": "text:tacitus-annals-14-27", "type": "attests", "to": "claim:mt-24-06-07-wars-famines-earthquakes", "grade": "C", "note": "Tacitus (Ann. 14.27) records that Laodicea, 'one of the famous cities of Asia, was that same year (60 CE) overthrown by an earthquake'. Attests 'earthquakes in various places' in exactly this period, not the prediction."}
+{"from": "text:seneca-nq-6-1", "type": "attests", "to": "claim:mt-24-06-07-wars-famines-earthquakes", "grade": "C", "note": "Seneca devoted Natural Questions 6 (De Terrae Motu) to the Campanian earthquake of 62 CE that damaged Pompeii and Herculaneum (fetched Wikipedia article). Attests the earthquake condition of the period, not the prediction."}
+{"from": "artifact:iucundus-earthquake-reliefs", "type": "attests", "to": "claim:mt-24-06-07-wars-famines-earthquakes", "grade": "C", "note": "Bas-reliefs in the House of Lucius Caecilius Iucundus at Pompeii show the damaged city and Temple of Jupiter from the 62 CE earthquake (fetched article). Attests the earthquake condition, not the prediction."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:mt-24-09-persecution", "grade": "B", "note": "Tacitus (Ann. 15.44) records Nero's punishment of Christians in Rome after the fire of 64 CE, an 'immense multitude' convicted and executed, the superstition breaking out again 'not only in Judaea, the first source of the evil'. Attests the killing of Jesus' followers for the name in the period, not the prediction in 24:9; graded B per the brief."}
+{"from": "text:josephus-war-6-316", "type": "attests", "to": "claim:mt-24-15-abomination-holy-place", "grade": "B", "note": "Josephus (War 6.316) records that the Romans 'brought their ensigns to the temple and set them over against its eastern gate; and there did they offer sacrifices to them' (70 CE) - image-bearing standards standing in the Temple court with sacrifice. Attests a realized desolating sacrilege in the holy place, not the prediction; graded B. Architect note: what Daniel's phrase refers to in Matthew is debated (Caligula's statue, the Zealots' occupation of the Temple, the Roman standards); this edge shows one candidate sacrilege actually standing in the Temple court."}
+{"from": "text:josephus-ant-18-261-309", "type": "attests", "to": "claim:mt-24-15-abomination-holy-place", "grade": "C", "note": "Josephus (Ant. 18.261-309) records Caligula's order to Petronius to erect the emperor's statue in the Temple of God (39-40 CE); the statue was never erected, the order lapsing with Caligula's death. Attests an attempted abomination in the holy place in exactly the period, not the prediction; graded C because the statue never stood."}
+{"from": "text:philo-embassy-to-gaius", "type": "attests", "to": "claim:mt-24-15-abomination-holy-place", "grade": "C", "note": "Philo (Embassy to Gaius, a contemporary account) reports 'Caius has ordered a colossal statue of himself to be erected in the holy of holies, having his own name inscribed upon it with the title of Jupiter'. Attests the order and the terror it caused, not a completed standing abomination; graded C."}
+{"from": "text:eusebius-eccl-hist-3-5-3", "type": "attests", "to": "claim:mt-24-16-20-flight-from-judea", "grade": "D", "note": "Eusebius (Hist. eccl. 3.5.3, c. 325 CE) recounts that the Jerusalem Christians fled to Pella before the war, on an oracle; the fetched Wikipedia article confirms 'Eusebius of Caesarea recounts how Pella was a refuge for Jerusalem Christians'. This is 4th-century reception of the flight tradition, dependent on the Gospel's promise, not independent attestation; graded D. It attests the flight, not the prediction or command."}
+{"from": "text:josephus-war-6-288-300", "type": "attests", "to": "claim:mt-24-29-30-signs-in-heaven", "grade": "C", "note": "Josephus (War 6.288-300) records the prodigies before the war: 'a star resembling a sword... and a comet, that continued a whole year', and 'chariots and troops of soldiers in their armor were seen running about among the clouds'. Attests the reported signs in the heavens, not the prediction of 24:29-30; graded C because the portents are reported marvels, not the cosmic darkening the verse names."}
+{"from": "text:tacitus-histories-5-13", "type": "attests", "to": "claim:mt-24-29-30-signs-in-heaven", "grade": "C", "note": "Tacitus (Hist. 5.13) records the prodigies: 'hosts joining battle in the skies, the fiery gleam of arms, the temple illuminated by a sudden radiance from the clouds'. Attests the reported aerial signs, not the prediction; graded C for the same reason."}
+{"from": "observation:halley-comet-66", "type": "attests", "to": "claim:mt-24-29-30-signs-in-heaven", "grade": "C", "note": "The computed apparition list of 1P/Halley records the 66 CE return (perihelion 26 January), which the fetched article says 'may be the comet described in Josephus's The Jewish War'. Attests that a great comet appeared in exactly this period, not the prediction; the identification with Josephus's comet is stated as uncertain ('may be')."}
+{"from": "observation:fig-breba-crop", "type": "attests", "to": "claim:mt-24-32-33-fig-tree-summer", "grade": "C", "note": "Ficus carica phenology: the branch buds and leafs in spring as summer approaches (fetched Wikipedia article on the breba crop). Attests the natural sign the parable uses, not the parable's application; graded C."}
+{"from": "artifact:capernaum-basalt-mills", "type": "attests", "to": "claim:mt-24-41-women-grinding", "grade": "C", "note": "Basalt mills 'for milling grain and pressing olives' were found in the excavated first-century town of Capernaum (fetched Wikipedia article). Attests the domestic grain-grinding custom of 24:41, not the prediction; graded C."}
+{"from": "text:polybius-6-watches", "type": "attests", "to": "claim:mt-24-43-thief-night-watch", "grade": "C", "note": "Polybius (Hist. 6.35-36) documents the Roman night-watch system in camp, with watches assigned by lot and ordered by the tribune. Attests the night-watch custom behind 'in what watch of the night the thief was coming', not the saying; graded C."}
+{"from": "text:josephus-war-6-house-doomed", "type": "attests", "to": "place:jerusalem", "grade": "A", "note": "Josephus's account of the temple's burning names Jerusalem as the city where it happened - the same city the discourse addresses. Attests the place by name."}
+{"from": "text:tacitus-histories-5-8", "type": "attests", "to": "place:jerusalem", "grade": "A", "note": "Tacitus (Hist. 5.8) names Jerusalem 'the capital' of Judaea, 'There stood a temple of immense wealth' - the same city and temple. Attests the place by name."}
+{"from": "text:josephus-war-2-261-263", "type": "attests", "to": "place:mount-of-olives", "grade": "A", "note": "Josephus (War 2.261-263) names 'the mount which was called the Mount of Olives' as the Egyptian's rally point, over against Jerusalem - the same mount where the discourse is spoken. Attests the place by name."}
+{"from": "text:josephus-ant-20-169-172", "type": "attests", "to": "place:mount-of-olives", "grade": "A", "note": "Josephus (Ant. 20.169-172) names the Mount of Olives, 'which lay over against the city, and at the distance of five furlongs'. Attests the place by name."}
+{"from": "artifact:judaea-capta-coins", "type": "attests", "to": "place:judea", "grade": "A", "note": "The Judaea Capta coinage names IUDAEA on its types celebrating the conquest - the same province the discourse addresses ('those who are in Judea'). Attests the place by name on an issued coin."}
+{"from": "text:josephus-ant-20-famine", "type": "attests", "to": "place:judea", "grade": "A", "note": "Josephus (Ant. 20.101) records 'that great famine happened in Judea' - the same province and period as the discourse's famines. Attests the place by name."}
+{"from": "text:tacitus-histories-5-8", "type": "attests", "to": "place:judea", "grade": "A", "note": "Tacitus (Hist. 5.8) names Judaea and describes its towns and capital. Attests the place by name."}
+{"from": "site:second-temple", "type": "complicates", "to": "claim:mt-24-01-02-temple-thrown-down", "note": "The Western Wall - 'an ancient retaining wall of the built-up hill known to Jews and Christians as the Temple Mount of Jerusalem', its lower courses dating from the end of the Second Temple period (fetched article) - still stands, as do the three towers Josephus says Titus spared (War 7.1.1). 'Not one stone left on another' holds for the sanctuary buildings, not for the whole platform; the claim is scoped accordingly."}
+{"from": "passage:mt-24-15", "type": "related_to", "to": "text:daniel-11-31", "note": "Jesus' 'abomination of desolation... spoken of through Daniel the prophet' alludes to Daniel 11:31; the biblical text is a cross-reference, not evidence."}
+{"from": "passage:mt-24-15", "type": "related_to", "to": "text:1-maccabees-1-54", "note": "1 Maccabees 1:54 records the historical abomination of desolation on the altar under Antiochus IV; a deuterocanonical biblical cross-reference, not evidence."}
+{"from": "passage:mt-24-30", "type": "related_to", "to": "text:daniel-7-13", "note": "'The Son of Man coming on the clouds of the sky' echoes Daniel 7:13; a biblical cross-reference, not evidence."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-14"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-03"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-04"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-05"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-06"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-12"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-13"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-14"}
+{"from": "artifact:papyrus-70", "type": "preserves", "to": "passage:mt-24-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-24-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-24-51"}

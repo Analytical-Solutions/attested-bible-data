@@ -1,0 +1,203 @@
+{"from": "passage:ac-23-02", "type": "asserts", "to": "claim:ac-23-02-ananias-high-priest", "note": "Acts 23:2 names 'Ananias the high priest'; the mouth-strike event is claim:ac-23-02-ananias-strikes-paul."}
+{"from": "passage:ac-23-04", "type": "asserts", "to": "claim:ac-23-02-ananias-high-priest"}
+{"from": "passage:ac-23-01", "type": "asserts", "to": "claim:ac-23-01-03-strike-and-protest"}
+{"from": "passage:ac-23-03", "type": "asserts", "to": "claim:ac-23-01-03-strike-and-protest"}
+{"from": "passage:ac-23-05", "type": "asserts", "to": "claim:ac-23-05-quote-ruler"}
+{"from": "passage:ac-23-06", "type": "asserts", "to": "claim:ac-23-06-paul-pharisee"}
+{"from": "passage:ac-23-08", "type": "asserts", "to": "claim:ac-23-08-sadducees-no-resurrection"}
+{"from": "passage:ac-23-08", "type": "asserts", "to": "claim:ac-23-08-sadducees-no-angel-spirit"}
+{"from": "passage:ac-23-08", "type": "asserts", "to": "claim:ac-23-08-pharisees-resurrection"}
+{"from": "passage:ac-23-08", "type": "asserts", "to": "claim:ac-23-08-pharisees-angels-spirit"}
+{"from": "passage:ac-23-09", "type": "asserts", "to": "claim:ac-23-08-pharisees-angels-spirit"}
+{"from": "passage:ac-23-09", "type": "asserts", "to": "claim:ac-23-09-scribes-defend"}
+{"from": "passage:ac-23-10", "type": "asserts", "to": "claim:ac-23-10-rescue"}
+{"from": "passage:ac-23-11", "type": "asserts", "to": "claim:ac-23-11-rome"}
+{"from": "passage:ac-23-12", "type": "asserts", "to": "claim:ac-23-12-15-conspiracy"}
+{"from": "passage:ac-23-13", "type": "asserts", "to": "claim:ac-23-12-15-conspiracy"}
+{"from": "passage:ac-23-14", "type": "asserts", "to": "claim:ac-23-12-15-conspiracy"}
+{"from": "passage:ac-23-15", "type": "asserts", "to": "claim:ac-23-12-15-conspiracy"}
+{"from": "passage:ac-23-21", "type": "asserts", "to": "claim:ac-23-12-15-conspiracy"}
+{"from": "passage:ac-23-12", "type": "asserts", "to": "claim:ac-23-12-14-vow"}
+{"from": "passage:ac-23-14", "type": "asserts", "to": "claim:ac-23-12-14-vow"}
+{"from": "passage:ac-23-16", "type": "asserts", "to": "claim:ac-23-16-22-nephew"}
+{"from": "passage:ac-23-17", "type": "asserts", "to": "claim:ac-23-16-22-nephew"}
+{"from": "passage:ac-23-18", "type": "asserts", "to": "claim:ac-23-16-22-nephew"}
+{"from": "passage:ac-23-19", "type": "asserts", "to": "claim:ac-23-16-22-nephew"}
+{"from": "passage:ac-23-20", "type": "asserts", "to": "claim:ac-23-16-22-nephew"}
+{"from": "passage:ac-23-22", "type": "asserts", "to": "claim:ac-23-16-22-nephew"}
+{"from": "passage:ac-23-23", "type": "asserts", "to": "claim:ac-23-23-force"}
+{"from": "passage:ac-23-24", "type": "asserts", "to": "claim:ac-23-24-30-letter"}
+{"from": "passage:ac-23-25", "type": "asserts", "to": "claim:ac-23-24-30-letter"}
+{"from": "passage:ac-23-27", "type": "asserts", "to": "claim:ac-23-24-30-letter"}
+{"from": "passage:ac-23-28", "type": "asserts", "to": "claim:ac-23-24-30-letter"}
+{"from": "passage:ac-23-29", "type": "asserts", "to": "claim:ac-23-24-30-letter"}
+{"from": "passage:ac-23-30", "type": "asserts", "to": "claim:ac-23-24-30-letter"}
+{"from": "passage:ac-23-26", "type": "asserts", "to": "claim:ac-23-26-lysias-name"}
+{"from": "passage:ac-23-31", "type": "asserts", "to": "claim:ac-23-31-antipatris"}
+{"from": "passage:ac-23-32", "type": "asserts", "to": "claim:ac-23-31-antipatris"}
+{"from": "passage:ac-23-33", "type": "asserts", "to": "claim:ac-23-33-34-delivered"}
+{"from": "passage:ac-23-34", "type": "asserts", "to": "claim:ac-23-33-34-delivered"}
+{"from": "passage:ac-23-35", "type": "asserts", "to": "claim:ac-23-35-herods-palace"}
+{"from": "claim:ac-23-02-ananias-high-priest", "type": "mentions", "to": "person:ananias-son-of-nedebaeus"}
+{"from": "claim:ac-23-02-ananias-strikes-paul", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-23-01-03-strike-and-protest", "type": "mentions", "to": "person:ananias-son-of-nedebaeus"}
+{"from": "claim:ac-23-01-03-strike-and-protest", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-23-06-paul-pharisee", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-23-16-22-nephew", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-23-24-30-letter", "type": "mentions", "to": "person:claudius-lysias"}
+{"from": "claim:ac-23-24-30-letter", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-23-26-lysias-name", "type": "mentions", "to": "person:claudius-lysias"}
+{"from": "claim:ac-23-26-lysias-name", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-23-31-antipatris", "type": "mentions", "to": "place:antipatris"}
+{"from": "claim:ac-23-33-34-delivered", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-23-33-34-delivered", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-23-35-herods-palace", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "text:josephus-ant-20-103", "type": "attests", "to": "person:ananias-son-of-nedebaeus", "grade": "A", "note": "Josephus, Ant. 20.103 names the same man: Herod of Chalcis 'made Ananias, the son of Nebedeu' high priest (c. 47/48 CE) - the same person and office Acts 23:2 shows."}
+{"from": "text:josephus-ant-20-103", "type": "attests", "to": "claim:ac-23-02-ananias-strikes-paul", "grade": "B", "note": "Ant. 20.103 places Ananias son of Nedebaeus in the high priesthood during Cumanus's procuratorship (c. 47/48 CE onward), covering Paul's hearing before the council c. 57-59 - it attests the setting (the office-holder and his tenure), not the command to strike, which is the narrative's own report. Regraded A to B by the architect; the office-grade A anchors claim:ac-23-02-ananias-high-priest."}
+{"from": "text:josephus-ant-20-205-206", "type": "attests", "to": "claim:ac-23-01-03-strike-and-protest", "grade": "C", "note": "Ant. 20.205-206 shows the same Ananias a 'great hoarder up of money' whose wicked servants took tithes 'by violence' and beat those who resisted - the recorded violence of the man, on a later occasion (under Albinus, 62-63 CE), not this hearing."}
+{"from": "site:antonia-fortress", "type": "attests", "to": "claim:ac-23-10-rescue", "grade": "B", "note": "The Herodian citadel adjoining the Temple was the tribune's headquarters; its barracks are the place Paul was again taken into."}
+{"from": "text:josephus-war-5-238-247", "type": "attests", "to": "claim:ac-23-10-rescue", "grade": "B", "note": "War 5.5.8: the tower of Antonia housed 'the guards' - the garrison whose soldiers the tribune sent down to rescue Paul from the council."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:ac-23-08-sadducees-no-resurrection", "grade": "A", "note": "Josephus, Ant. 18.1.4: 'the doctrine of the Sadducees is this: That souls die with the bodies' - the same group and the same doctrine in substance."}
+{"from": "text:josephus-war-2-164-165", "type": "attests", "to": "claim:ac-23-08-sadducees-no-resurrection", "grade": "A", "note": "Josephus, War 2.8.14: the Sadducees 'take away the belief of the immortal duration of the soul, and the punishments and rewards in Hades' - the same denial of life after death."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:ac-23-08-pharisees-resurrection", "grade": "A", "note": "Ant. 18.1.3: the Pharisees 'believe that souls have an immortal rigor in them', receive rewards or punishments under the earth, and 'shall have power to revive and live again' - the same resurrection doctrine Acts 23:8 reports."}
+{"from": "text:mishnah-nedarim-1-1", "type": "attests", "to": "claim:ac-23-12-14-vow", "grade": "C", "note": "Mishnah Nedarim 1:1: a vow renders an object forbidden 'as though it were a sacrificial offering', and binds a thing 'as though it were a sacrificial offering' - the same institution of self-imposed abstention vows; redacted c. 200 CE, so it may not describe the 50s CE exactly."}
+{"from": "text:cassius-dio-60-17-5-6", "type": "attests", "to": "claim:ac-23-26-lysias-name", "grade": "C", "note": "Dio 60.17.7 (same fetched page): information was laid against new citizens 'to the effect that they were not adopting Claudius' name' - new citizens under Claudius took the emperor's nomen; the tribune's name Claudius Lysias fits a man enfranchised under Claudius (brief lead C)."}
+{"from": "text:josephus-ant-20-137-144", "type": "attests", "to": "person:antonius-felix", "grade": "A", "note": "Josephus, Ant. 20.137: 'Claudius sent Felix, the brother of Pallas, to take care of the affairs of Judea' - the same man Acts 23:24 calls 'Felix the governor'."}
+{"from": "text:josephus-ant-20-137-144", "type": "attests", "to": "claim:ac-23-24-30-letter", "grade": "B", "note": "Ant. 20.137-144 confirms Felix held the procuratorship of Judea (from Claudius's twelfth year, 52/53 CE), the office the letter addresses; the letter itself has no external witness. Regraded A to B by the architect: Josephus is A for Felix and his office (person:antonius-felix), but the claim is the tribune's letter, which has no external witness. Split per the architect's titles/offices ruling: the governor-grade A now anchors claim:ac-23-26-felix-governor; this edge keeps B for the letter event."}
+{"from": "text:tacitus-histories-5-9", "type": "attests", "to": "person:antonius-felix", "grade": "A", "note": "Tacitus, Hist. 5.9 names Antonius Felix among those to whom Claudius 'entrusted the province of Judæa' - an independent second naming of the same procurator."}
+{"from": "text:tacitus-annals-12-54", "type": "attests", "to": "person:antonius-felix", "grade": "A", "note": "Tacitus, Ann. 12.54: Felix 'had for some time been governor of Judaea' - independent confirmation of the man and his office."}
+{"from": "site:caesarea-promontory-palace", "type": "attests", "to": "claim:ac-23-35-herods-palace", "grade": "B", "note": "The excavated promontory palace is Herod's own building at Caesarea ('Herod built his palace on a promontory jutting out into the sea, with a decorative pool surrounded by stoas') - the Herodian governor's residence Acts 23:35 calls 'Herod's palace'; grade B for the building and setting, not the event of Paul's lodging."}
+{"from": "observation:antipatris-leg-distances", "type": "attests", "to": "claim:ac-23-31-antipatris", "grade": "C", "note": "The two legs are computed from coordinates at about 46 km (Jerusalem to Antipatris) and 44 km (Antipatris to Caesarea) - a demanding but feasible night march of about seven hours for infantry followed by a next-day cavalry ride; geography of the route, not the event."}
+{"from": "claim:ac-23-08-sadducees-no-angel-spirit", "type": "documented_by", "to": "source:wikipedia-sadducees-angels"}
+{"from": "claim:ac-23-08-pharisees-angels-spirit", "type": "documented_by", "to": "source:wikipedia-sadducees-angels"}
+{"from": "claim:ac-23-23-force", "type": "documented_by", "to": "source:wikipedia-auxilia"}
+{"from": "claim:ac-23-33-34-delivered", "type": "documented_by", "to": "source:wikipedia-caesarea-governors-residence"}
+{"from": "claim:ac-23-08-sadducees-no-resurrection", "type": "documented_by", "to": "source:wikipedia-sadducees"}
+{"from": "text:josephus-ant-20-103", "type": "documented_by", "to": "source:wikisource-ant20-ananias"}
+{"from": "text:josephus-ant-20-205-206", "type": "documented_by", "to": "source:wikisource-ant20-ananias-greed"}
+{"from": "text:josephus-ant-20-137-144", "type": "documented_by", "to": "source:wikisource-ant20-felix"}
+{"from": "text:tacitus-histories-5-9", "type": "documented_by", "to": "source:wikisource-histories-5-felix"}
+{"from": "text:tacitus-annals-12-54", "type": "documented_by", "to": "source:wikisource-annals-12-felix"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-pharisees-souls"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-sects"}
+{"from": "text:josephus-war-2-164-165", "type": "documented_by", "to": "source:wikisource-war2-sadducees"}
+{"from": "text:mishnah-nedarim-1-1", "type": "documented_by", "to": "source:sefaria-nedarim-1-1"}
+{"from": "text:cassius-dio-60-17-5-6", "type": "documented_by", "to": "source:lacuscurtius-dio-60-17"}
+{"from": "observation:antipatris-leg-distances", "type": "documented_by", "to": "source:wikipedia-antipatris"}
+{"from": "site:caesarea-promontory-palace", "type": "documented_by", "to": "source:wikipedia-caesarea-promontory-palace"}
+{"from": "text:exodus-22-28", "type": "documented_by", "to": "source:bible-api-exodus-22-28"}
+{"from": "place:antipatris", "type": "documented_by", "to": "source:wikipedia-antipatris"}
+{"from": "claim:ac-23-08-sadducees-no-resurrection", "type": "related_to", "to": "claim:mt-22-23-sadducees-no-resurrection", "note": "Matthew 22:23 reports the same Sadducean denial of the resurrection (in their question to Jesus); Acts 23:8 reports the doctrine in Paul's council speech. Same doctrine, different scenes."}
+{"from": "claim:ac-23-05-quote-ruler", "type": "related_to", "to": "text:exodus-22-28", "note": "The law Paul quotes is Exodus 22:28 ('You shall not speak evil of a ruler of your people', WEB); biblical cross-reference within the same canon, not external evidence."}
+{"from": "claim:ac-23-08-sadducees-no-angel-spirit", "type": "related_to", "to": "claim:ac-23-08-pharisees-angels-spirit", "note": "Acts 23:8 states both halves of the same contrast (the Sadducees deny, the Pharisees confess, angel and spirit); kept as two claims because the external evidence grades differ (both none-found, with the same translation dispute noted)."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-01"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-02"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-03"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-04"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-05"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-06"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-07"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-08"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-09"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-10"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-11"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-12"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-13"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-14"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-15"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-16"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-17"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-18"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-19"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-20"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-21"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-22"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-23"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-24"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-25"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-26"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-27"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-28"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-29"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-30"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-31"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-32"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-33"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-34"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-23-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-23-35"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-23-35"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant-18-pharisees"}
+{"from": "text:cassius-dio-60-17-5-6", "type": "documented_by", "to": "source:lacuscurtius-dio-60-17-7"}
+{"from": "text:josephus-ant-20-103", "type": "attests", "to": "claim:ac-23-02-ananias-high-priest", "grade": "A", "note": "Josephus, Ant. 20.103: Herod of Chalcis 'made Ananias, the son of Nebedeu' high priest in Cumanus's time (c. 47/48 CE) - grade A for the office alone. The office claim ac-23-02-ananias-office (the titles/offices split) and ac-24-01-ananias-high-priest (Acts 24:1) merged into this oldest id."}
+{"from": "text:josephus-ant-20-137-144", "type": "attests", "to": "claim:ac-23-26-felix-governor", "grade": "A", "note": "Josephus, Ant. 20.137: the emperor sent Felix, brother of Pallas, 'as procurator of Judaea' - grade A for Felix's governorship alone (split from claim:ac-23-24-30-letter per the architect's titles/offices ruling)."}
+{"from": "passage:ac-23-26", "type": "asserts", "to": "claim:ac-23-26-felix-governor", "note": "Acts 23:26 addresses 'the most excellent governor Felix'; the letter event is claim:ac-23-24-30-letter."}
+{"from": "claim:ac-23-26-felix-governor", "type": "mentions", "to": "person:antonius-felix"}

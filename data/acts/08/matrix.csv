@@ -1,0 +1,287 @@
+anchor,label,category,status,findings,note
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,inscription,none-found,,No inscription records the persecution of the Jerusalem assembly; searched the Wikipedia 'Persecution of Christians in the New Testament' lead and Acts 8 searches.
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,coin,n/a,,No coin can record a persecution.
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,structure-or-site,none-found,,"No excavated structure bears on the scattering; Jerusalem/Samaria/Judea are reused place nodes, not new evidence."
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,burial-or-ossuary,n/a,,"The claim concerns flight from the city, not burials."
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,manuscript,n/a,,"No early manuscript carries Acts 8:1-3 except the codices that preserve the text itself (preserves edges, never attests)."
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,documentary-papyrus,none-found,,No documentary papyrus records displacement from Jerusalem in the 30s CE; searched Wikipedia on the Acts 8 persecution.
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,jewish-literary,none-found,,Josephus does not narrate a persecution of the Jerusalem church; searched Josephus Ant. 18-20 summaries on the Wikipedia pages fetched for this chapter.
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,greco-roman-literary,none-found,,No classical author mentions the event; Tacitus/Suetonius know nothing of it.
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,material-culture,n/a,,The claim names no object.
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,geography-or-nature,none-found,,Judea and Samaria are adjacent regions (reused place nodes); no fetched page gives the route pattern of the scattering.
+claim:ac-08-01-persecution-scattered,The Jerusalem persecution; all scattered through Judea and Samaria except the apostles,astronomy-or-calendar,n/a,,The verse carries no date.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,inscription,n/a,,No inscription could name the burial of Stephen.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,coin,n/a,,No coin bears on the claim.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,structure-or-site,none-found,,"The churches of St Stephen in Jerusalem are later foundations; searched the Wikipedia Ethiopian eunuch and Acts 8 articles, no excavated tomb."
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,burial-or-ossuary,none-found,,"No tomb of Stephen is excavated or identified; the basilica traditions are later reception, not found fetchable as excavation evidence."
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,documentary-papyrus,n/a,,No document could record the burial.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,jewish-literary,none-found,,Josephus is silent on Stephen's burial; nothing in the fetched pages.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,greco-roman-literary,none-found,,No classical author mentions it.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,material-culture,n/a,,The verse names no object.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-08-02-stephen-buried,Devout men buried Stephen and lamented over him,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",inscription,n/a,,No inscription could record house-searches and arrests.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",coin,n/a,,No coin bears on the claim.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",structure-or-site,none-found,,No excavated structure bears on the claim; the houses searched are unnamed.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",burial-or-ossuary,n/a,,"The claim concerns imprisonment, not burial."
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",documentary-papyrus,none-found,,No prison record or court document of the 30s CE persecution exists fetchable.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",jewish-literary,none-found,,"Josephus nowhere describes this persecution; the fetched pages (Simon Magus, Acts 8, Ethiopian eunuch) cite no Jewish text on it."
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",greco-roman-literary,none-found,,No classical author mentions the event.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",material-culture,n/a,,The verse names no object.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",geography-or-nature,n/a,,No geography in the claim.
+claim:ac-08-03-saul-ravaged-church,"Saul ravaged the assembly, dragging men and women to prison",astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,inscription,none-found,,No inscription names Philip the evangelist's mission; searched Wikipedia Philip the Evangelist via the Ethiopian eunuch and Acts 8 articles.
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,coin,n/a,,No coin bears on the claim.
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,structure-or-site,found,site:samaria-sebaste,"Site graded B for the setting: the excavated city of Samaria/Sebaste, refounded by Herod the Great (Harvard Expedition 1908-1910; Joint Expedition 1931-1935), shows a major urban centre stood there in the Herodian-Roman period. It does not attest the preaching."
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,burial-or-ossuary,n/a,,"The claim concerns a mission, not a burial."
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,documentary-papyrus,n/a,,No document could record the mission.
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,jewish-literary,none-found,,Josephus is silent on Philip's Samaritan mission; nothing in the fetched pages.
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,greco-roman-literary,none-found,,No classical author mentions the mission.
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,material-culture,n/a,,The verse names no object.
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,geography-or-nature,none-found,,"Philip 'went down' from Jerusalem to Samaria — topographically correct (Shechem basin below the Judaean hills), but no fetched page states the descent."
+claim:ac-08-05-philip-preached-christ-samaria,Philip went down to the city of Samaria and proclaimed the Christ,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,inscription,n/a,,No inscription could record the healings.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,coin,n/a,,No coin bears on the claim.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,structure-or-site,n/a,,The healings have no site; setting evidence sits on the Samaria claims.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,burial-or-ossuary,n/a,,"The claim concerns healing, not burial."
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,documentary-papyrus,n/a,,No document could record the healings.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,jewish-literary,none-found,,"Josephus reports exorcist stories (Eleazar, Ant. 8.2.5) but nothing on this event; the fetched pages cite no Jewish text on the Samaritan healings."
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,greco-roman-literary,none-found,,No classical author mentions the event.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,material-culture,n/a,,The verse names no object.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,geography-or-nature,n/a,,The verse names no place.
+claim:ac-08-07-spirits-healed,Unclean spirits expelled; many paralyzed and lame healed,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,inscription,n/a,,No inscription could record the baptisms.
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,coin,n/a,,No coin bears on the claim.
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,structure-or-site,n/a,,The baptisms have no named site in the verse.
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,burial-or-ossuary,n/a,,"The claim concerns baptism, not burial."
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,documentary-papyrus,n/a,,No document could record the conversions.
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,jewish-literary,none-found,,"Josephus records Jew-Samaritan hostility (the Cumanus/Ginea episode, reused in John 4) but says nothing of a Samaritan Christian conversion; nothing in the fetched pages."
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,greco-roman-literary,none-found,,No classical author mentions the conversions.
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,material-culture,n/a,,The verse names no object.
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,geography-or-nature,n/a,,The claim names the region only (place:samaria reused).
+claim:ac-08-12-samaritans-baptized,Samaritans believed Philip and were baptized,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,inscription,n/a,,No inscription could record the baptism.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,coin,n/a,,No coin bears on the claim.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,structure-or-site,n/a,,No site in the verse.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,burial-or-ossuary,n/a,,"The claim concerns baptism, not burial."
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,documentary-papyrus,n/a,,No document could record the event.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,jewish-literary,none-found,,Josephus's Simon the magician (Ant. 20.7.2) has no baptism; the fetched pages report no Jewish text on Simon's conversion.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,greco-roman-literary,none-found,,"Justin reports Simon's later veneration, not his baptism; the reception tradition (First Apology 26) says nothing of it."
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,material-culture,n/a,,The verse names no object.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,geography-or-nature,n/a,,The claim names no place.
+claim:ac-08-13-simon-believed-baptized,Simon himself believed and was baptized,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,inscription,n/a,,No inscription could record the delegation.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,coin,n/a,,No coin bears on the claim.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,structure-or-site,n/a,,The claim names no structure; Jerusalem and Samaria are reused place nodes.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,burial-or-ossuary,n/a,,"The claim concerns a delegation, not burial."
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,documentary-papyrus,n/a,,No document could record the delegation.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,jewish-literary,none-found,,Nothing in Josephus or the fetched pages on Peter and John in Samaria.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,greco-roman-literary,none-found,,No classical author mentions the event.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,material-culture,n/a,,The verse names no object.
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,geography-or-nature,none-found,,"Jerusalem-Samaria travel is standard geography, but no fetched page states the route or distance for this journey."
+claim:ac-08-14-sent-peter-john,The apostles sent Peter and John to Samaria,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,inscription,n/a,,No inscription could record the custom.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,coin,n/a,,No coin bears on the claim.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,structure-or-site,n/a,,No site in the verses.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,burial-or-ossuary,n/a,,"The claim concerns a ritual, not burial."
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,documentary-papyrus,n/a,,No document could record the custom.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,jewish-literary,none-found,,"Laying on of hands has rabbinic parallels (semikah) but no fetched page connects it to conferring the Spirit; recorded none-found, the Mishnah-lead left to reviewers."
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,greco-roman-literary,none-found,,No classical author mentions the custom.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,material-culture,n/a,,The custom uses no object.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,geography-or-nature,n/a,,The claim names no place.
+claim:ac-08-15-17-spirit-through-hands,The Spirit given through the laying on of the apostles' hands,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),inscription,n/a,,No inscription could record the offer.
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),coin,none-found,,The 'silver' is unspecified; no coin type identified. Searched coin categories on the Simon Magus page - none.
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),structure-or-site,n/a,,No site in the verse.
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),burial-or-ossuary,n/a,,"The claim concerns an offer, not burial."
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),documentary-papyrus,n/a,,No document could record the offer.
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),jewish-literary,none-found,,"Josephus's magician Simon (Ant. 20.7.2) involves money and Felix's court, but the identification is disputed (D, on the 8:9 claim); nothing attests this offer."
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),greco-roman-literary,none-found,,"The later word 'simony' derives from the episode (modern usage), not ancient evidence."
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),material-culture,n/a,,No object is identified.
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),geography-or-nature,n/a,,The claim names no place.
+claim:ac-08-18-simon-offered-money,Simon offered money for the power of the Spirit ('simony'),astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,inscription,n/a,,No inscription could record village preaching.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,coin,n/a,,No coin bears on the claim.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,structure-or-site,none-found,,The villages are unnamed; no site node possible. Searched the Acts 8 article's geography section.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,burial-or-ossuary,n/a,,"The claim concerns preaching, not burial."
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,documentary-papyrus,n/a,,No document could record the preaching.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,jewish-literary,none-found,,Nothing in the fetched pages.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,greco-roman-literary,none-found,,No classical author mentions it.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,material-culture,n/a,,The verse names no object.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,geography-or-nature,none-found,,Samaritan village names are not given in the verse; no fetched page identifies them.
+claim:ac-08-25-villages-samaritans,The gospel preached in many villages of the Samaritans,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,inscription,none-found,,"The Meroitic word kdke is reported by the fetched Kandake article as known from Meroitic inscriptions, but no specific inscription page was fetchable to enter as an artifact; none-found."
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,coin,none-found,,Kushite coinage exists (e.g. of Amanirenas's era) but no fetched page connects a coin to the kandake title; none-found.
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,structure-or-site,n/a,,The title needs no structure; Meroe sits on place:kush-meroe.
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,burial-or-ossuary,n/a,,"The claim concerns a title, not burial."
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,documentary-papyrus,n/a,,No document could carry the title.
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,jewish-literary,none-found,,Josephus names the Ethiopian queen of his day without the kandake title (fetched pages); none-found.
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,greco-roman-literary,found,text:strabo-geography-17-1-54;text:pliny-nh-6-186-candace,"Strabo 17.1.54: 'Candace, queen of the Ethiopians in our time' (Amanirenas, c. 25 BCE); Pliny NH 6.186: at Meroe 'a female, whose name was Candace, ruled... that name having passed from queen to queen' - the title in use and recognized as dynastic (A)."
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,material-culture,n/a,,The claim names no object.
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,geography-or-nature,n/a,,The geography sits on place:kush-meroe.
+claim:ac-08-27-candace-kandake-title,'Candace' is the Kandake title of the queens of Kush,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",inscription,none-found,,No inscription names the eunuch or the office of treasurer of the Kandake; searched the Kandake and Ethiopian eunuch articles.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",coin,n/a,,The claim names no coin.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",structure-or-site,n/a,,The treasurer's court is not excavated or identifiable.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",burial-or-ossuary,n/a,,No burial of the eunuch is known.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",documentary-papyrus,n/a,,No Kushite treasury document exists fetchable.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",jewish-literary,found,text:josephus-ant-16-eunuchs,"Context only (C): Josephus shows eunuchs held trusted posts in a first-century royal court (Herod's). A parallel from another court; it attests the custom, not this eunuch."
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",greco-roman-literary,none-found,,Strabo and Pliny name the Candace but no treasurer; none-found.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",material-culture,n/a,,The verse names no object.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",geography-or-nature,n/a,,The claim names no place.
+claim:ac-08-27-eunuch-treasurer,"The Ethiopian eunuch, a court official over all the Kandake's treasure",astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,inscription,n/a,,No inscription could record the pilgrimage.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,coin,n/a,,No coin bears on the claim.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,structure-or-site,none-found,,The temple is the reused Second Temple context of other chapters; no new evidence for a Kushite pilgrim.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,burial-or-ossuary,n/a,,"The claim concerns pilgrimage, not burial."
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,documentary-papyrus,none-found,,No pilgrim record fetchable.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,jewish-literary,none-found,,Josephus records pilgrim custom (reused in John 4 for Galileans) but no Kushite pilgrim; the fetched pages debate the eunuch's status (proselyte/God-fearer) without ancient evidence.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,greco-roman-literary,none-found,,No classical author mentions the pilgrimage.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,material-culture,n/a,,The verse names no object.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,geography-or-nature,none-found,,Meroe-Jerusalem travel distance is not stated on any fetched page.
+claim:ac-08-27-eunuch-worshipped-jerusalem,The eunuch had come to Jerusalem to worship,astronomy-or-calendar,n/a,,The festival timing is not given in the verse.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,inscription,n/a,,No inscription could record the reading.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,coin,n/a,,No coin bears on the claim.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,structure-or-site,n/a,,The reading happened on the road; no site.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,burial-or-ossuary,n/a,,"The claim concerns reading, not burial."
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,manuscript,found,artifact:great-isaiah-scroll,The Great Isaiah Scroll (c. 125 BCE) shows complete prophetic scrolls existed and circulated in this period - C for the practice of reading from an Isaiah scroll on a journey; it does not attest this reading.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,documentary-papyrus,n/a,,No document could record the reading.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,jewish-literary,none-found,,Nothing in the fetched pages on private Isaiah reading in chariots.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,greco-roman-literary,none-found,,No classical author mentions it.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,material-culture,none-found,,No first-century chariot find from the region was fetchable; the scroll (above) carries the material-culture weight of the practice.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,geography-or-nature,n/a,,The road geography sits on the 8:26 claim.
+claim:ac-08-28-reading-isaiah-chariot,The eunuch read the prophet Isaiah in his chariot,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,inscription,n/a,,No inscription could carry Isaiah 53.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,coin,n/a,,No coin bears on the claim.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,structure-or-site,n/a,,No site in the claim.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,burial-or-ossuary,n/a,,"The claim concerns a quotation, not burial."
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,manuscript,found,artifact:great-isaiah-scroll,B: the pre-Christian Great Isaiah Scroll (c. 125 BCE) contains the entire Book of Isaiah including the quoted Isaiah 53:7-8 (fetched Great Isaiah Scroll article) - the calibration's B case for a quoted passage.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,documentary-papyrus,none-found,,No separate Isaiah 53 documentary papyrus fetchable beyond the Qumran scrolls; 1QIsa-b searched but not fetchable as a page carrying the verses.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,jewish-literary,none-found,,No pre-Christian Jewish text explains the passage as Philip did; the fetched pages give none.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,greco-roman-literary,none-found,,No classical author mentions the quotation.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,material-culture,n/a,,The claim names no object.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-08-32-33-isaiah-53-7-8-read,The passage read was Isaiah 53:7-8,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,inscription,n/a,,No inscription could record the baptism.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,coin,n/a,,No coin bears on the claim.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,structure-or-site,none-found,,"The water source is unidentified; the Dhirweh fountain near Halhul tradition (fetched Ethiopian eunuch article) is reception, with no fetchable excavation page."
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,burial-or-ossuary,n/a,,"The claim concerns baptism, not burial."
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,manuscript,n/a,,The codices preserve the text only (preserves edges); 8:37's omission is recorded on the passage node.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,documentary-papyrus,n/a,,No document could record the baptism.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,jewish-literary,none-found,,Nothing in the fetched pages.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,greco-roman-literary,found,text:irenaeus-against-heresies-3-12-8,"Reception (D): Irenaeus, Against Heresies 3.12.8 (c. 180), the earliest patristic witness, names the eunuch 'Simeon Bachos' and reports he was sent to preach in Ethiopia what he had believed."
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,material-culture,n/a,,The verse names no object.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,geography-or-nature,none-found,,The water source on the desert road is unidentified on a fetched page.
+claim:ac-08-36-38-eunuch-baptized,Philip baptized the eunuch at water on the road,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,inscription,n/a,,No inscription could record the event.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,coin,n/a,,No coin bears on the claim.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,structure-or-site,n/a,,The event has no site.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,burial-or-ossuary,n/a,,"The claim concerns transportation, not burial."
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,manuscript,n/a,,The codices preserve the text only (preserves edges); the 8:39 variant reading is recorded on the passage node.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,documentary-papyrus,n/a,,No document could record the event.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,jewish-literary,none-found,,Nothing in the fetched pages.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,greco-roman-literary,none-found,,No classical author mentions it.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,material-culture,n/a,,The verse names no object.
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,geography-or-nature,none-found,,"Azotus's distance from the road (about 30 km) would bear on the miracle's scale, but no fetched page states the distance Philip travelled."
+claim:ac-08-39-philip-caught-away,The Spirit of the Lord caught Philip away,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",inscription,none-found,,No inscription names Philip's preaching; searched Wikipedia Caesarea Maritima and Ashdod articles.
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",coin,n/a,,No coin bears on the claim.
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",structure-or-site,found,site:caesarea-maritima,"Site graded B for the setting: Caesarea Maritima was the Roman provincial capital and a major port (excavated 1950s-1960s), the named end of Philip's route. It does not attest the preaching."
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",burial-or-ossuary,n/a,,"The claim concerns preaching, not burial."
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",manuscript,n/a,,The codices preserve the text only (preserves edges).
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",documentary-papyrus,n/a,,No document could record the preaching.
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",jewish-literary,none-found,,Josephus describes Caesarea in detail but says nothing of Philip; the fetched pages cite nothing.
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",greco-roman-literary,none-found,,No classical author mentions Philip's route.
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",material-culture,n/a,,The verse names no object.
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",geography-or-nature,none-found,,"The Acts 8 article gives the route geography (Azotus = Ashdod; Caesarea 55 miles NW of Jerusalem), a modern summary, not independent evidence; the place nodes carry the geography."
+claim:ac-08-40-philip-azotus-caesarea,"Philip found at Azotus, preaching until Caesarea",astronomy-or-calendar,n/a,,No date in the claim.
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),inscription,none-found,,No inscription names the eunuch; searched the Ethiopian eunuch and Kandake articles.
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),coin,n/a,,No coin could name him.
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),structure-or-site,n/a,,No structure of the eunuch's exists.
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),burial-or-ossuary,n/a,,"No burial is known (Ethiopian tradition claims relics, not fetchable as evidence)."
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),manuscript,n/a,,No manuscript outside the biblical text carries him.
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),documentary-papyrus,n/a,,No document could name him.
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),jewish-literary,none-found,,"Josephus's eunuch texts (Ant. 16, reused) concern Herod's court, not this man; no Jewish text names him."
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),greco-roman-literary,none-found,,"Strabo/Pliny name the Candace but not the treasurer; Irenaeus (reception, D) is the earliest to name him."
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),material-culture,n/a,,No object of his exists (the chariot is unattested archaeologically).
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),geography-or-nature,none-found,,His route (Meroe-Jerusalem) is not described on a fetched page.
+person:ethiopian-eunuch,The Ethiopian eunuch (treasurer of the Kandake),astronomy-or-calendar,n/a,,No date beyond the reign implications (the Kandake is unnamed).
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",inscription,none-found,,"Meroitic inscriptions attest the kdke title per the fetched Kandake article, but no specific inscription naming a kandake was fetchable as an artifact; none-found."
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",coin,none-found,,No fetched page ties a named coin to a kandake; none-found.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",structure-or-site,n/a,,No structure is claimed for the title-holder here.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",burial-or-ossuary,none-found,,The pyramid burials of the kandakes at Meroe exist but no fetched page connects a specific pyramid to the title; none-found.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",manuscript,n/a,,No manuscript outside the biblical text carries her.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",documentary-papyrus,n/a,,No document could name her.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",jewish-literary,none-found,,Josephus names the Ethiopian queen without the title; none-found.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",greco-roman-literary,found,text:strabo-geography-17-1-54;text:pliny-nh-6-186-candace,Strabo names a Candace ruling the Ethiopians in his own time; Pliny reports the name passed from queen to queen - the title-holder is named as an office-holder (A for the title; the specific queen of Acts 8:27 remains unnamed).
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",material-culture,n/a,,No object claimed.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",geography-or-nature,n/a,,Geography sits on place:kush-meroe.
+person:kandake-of-kush,"The Kandake of Kush ('Candace, queen of the Ethiopians')",astronomy-or-calendar,none-found,,Strabo's Candace is dated by the Petronius campaign (c. 25-22 BCE); no fetched page dates the queen of Acts 8:27 (c. 34 CE candidates Amanishakhete/Amantitere debated) - none-found.
+person:simon-magus,Simon Magus (Simon the sorcerer),inscription,found,artifact:semo-sancus-inscription,The Tiber-island statue Justin attributed to Simon was inscribed to Semo Sancus ('Semoni Sanco Deo'); complicates the Justinian identification (the fetched Wikipedia Simon Magus article). No inscription actually naming Simon Magus exists.
+person:simon-magus,Simon Magus (Simon the sorcerer),coin,n/a,,No coin could name Simon.
+person:simon-magus,Simon Magus (Simon the sorcerer),structure-or-site,n/a,,No structure of Simon's exists.
+person:simon-magus,Simon Magus (Simon the sorcerer),burial-or-ossuary,n/a,,No burial of Simon is known.
+person:simon-magus,Simon Magus (Simon the sorcerer),manuscript,n/a,,No manuscript outside the biblical text carries him.
+person:simon-magus,Simon Magus (Simon the sorcerer),documentary-papyrus,n/a,,No document could name him.
+person:simon-magus,Simon Magus (Simon the sorcerer),jewish-literary,found,text:josephus-ant-20-7-2-simon,Josephus's magician Simon under Felix (Ant. 20.7.2): the identification with Simon Magus is disputed and not generally accepted - D.
+person:simon-magus,Simon Magus (Simon the sorcerer),greco-roman-literary,found,text:justin-first-apology-26,"Justin, First Apology 26: the same man named and his veneration reported - reception, D."
+person:simon-magus,Simon Magus (Simon the sorcerer),material-culture,n/a,,No object of Simon's exists.
+person:simon-magus,Simon Magus (Simon the sorcerer),geography-or-nature,none-found,,Gitta (Gitto) near Flavia Neapolis is named but not identified on the ground.
+person:simon-magus,Simon Magus (Simon the sorcerer),astronomy-or-calendar,none-found,,"Justin dates Simon's Roman activity to Claudius's reign, a generation after the Acts episode; no independent dating was fetchable."
+place:azotus,Azotus (Ashdod),inscription,none-found,,"No inscription fetched naming Azotus; the Madaba Map labels Asdod/Azotus-by-the-Sea per the fetched Ashdod article, but the map node belongs to another chapter and was not reused this run."
+place:azotus,Azotus (Ashdod),coin,n/a,,No coin claimed for the place.
+place:azotus,Azotus (Ashdod),structure-or-site,none-found,,"Tel Ashdod is excavated, but no fetched excavation page was secured this run; the place is carried by the Ashdod article instead. Lead recorded in notes.md."
+place:azotus,Azotus (Ashdod),burial-or-ossuary,n/a,,No burial claimed.
+place:azotus,Azotus (Ashdod),manuscript,n/a,,No manuscript bears on the place.
+place:azotus,Azotus (Ashdod),documentary-papyrus,n/a,,No document could name it.
+place:azotus,Azotus (Ashdod),jewish-literary,none-found,,Josephus mentions Azotus but no fetched page was secured this run.
+place:azotus,Azotus (Ashdod),greco-roman-literary,none-found,,No classical passage on Azotus was fetchable this run.
+place:azotus,Azotus (Ashdod),material-culture,n/a,,No object claimed.
+place:azotus,Azotus (Ashdod),geography-or-nature,none-found,,The Acts 8 article's route note (Azotus on the coastal road) is a modern summary; no independent fetched page states the geography.
+place:azotus,Azotus (Ashdod),astronomy-or-calendar,n/a,,No dating claim.
+place:caesarea,Caesarea Maritima,inscription,none-found,,"The Pilate stone (artifact:caesarea-inscription, reused in other chapters) was found at Caesarea, but it bears on the governors, not on this chapter's claim; not re-entered."
+place:caesarea,Caesarea Maritima,coin,n/a,,No coin claimed for the place here.
+place:caesarea,Caesarea Maritima,structure-or-site,found,site:caesarea-maritima,"A: the excavated city (1950s-1960s excavations) names the place - Herod's port city, the governors' seat, named by the fetched articles."
+place:caesarea,Caesarea Maritima,burial-or-ossuary,n/a,,No burial claimed.
+place:caesarea,Caesarea Maritima,manuscript,n/a,,No manuscript bears on the place.
+place:caesarea,Caesarea Maritima,documentary-papyrus,n/a,,No document could name it.
+place:caesarea,Caesarea Maritima,jewish-literary,none-found,,"Josephus describes Caesarea in detail, but no Josephus passage was fetched this run for the city itself (the Wikipedia article cites him)."
+place:caesarea,Caesarea Maritima,greco-roman-literary,none-found,,No classical passage fetchable this run beyond the Wikipedia summary.
+place:caesarea,Caesarea Maritima,material-culture,n/a,,No object claimed.
+place:caesarea,Caesarea Maritima,geography-or-nature,none-found,,The Acts 8 article's 'fifty-five miles northwest of Jerusalem' is a modern summary; no independent fetched page states it.
+place:caesarea,Caesarea Maritima,astronomy-or-calendar,n/a,,No dating claim.
+place:gaza,Gaza (Philistine and Hellenistic city),inscription,none-found,,"No inscription fetchable naming Gaza this run; the Gaza mint's Hellenistic coin legends are coins, not inscriptions."
+place:gaza,Gaza (Philistine and Hellenistic city),coin,none-found,,"The History of Gaza article reports Hellenistic civic coins of Gaza, but the excerpt carries no coin detail to enter an artifact node; none-found."
+place:gaza,Gaza (Philistine and Hellenistic city),structure-or-site,none-found,,No excavation page of ancient Gaza fetchable this run; none-found.
+place:gaza,Gaza (Philistine and Hellenistic city),burial-or-ossuary,n/a,,No burial claimed.
+place:gaza,Gaza (Philistine and Hellenistic city),manuscript,n/a,,No manuscript bears on the place.
+place:gaza,Gaza (Philistine and Hellenistic city),documentary-papyrus,n/a,,No document could name it.
+place:gaza,Gaza (Philistine and Hellenistic city),jewish-literary,none-found,,Josephus/Hasmonean material on Gaza exists but was not fetchable tied to this chapter this run.
+place:gaza,Gaza (Philistine and Hellenistic city),greco-roman-literary,none-found,,Alexander's siege of Gaza is on the fetched History of Gaza page but does not bear on Acts 8's road; none-found.
+place:gaza,Gaza (Philistine and Hellenistic city),material-culture,n/a,,No object claimed.
+place:gaza,Gaza (Philistine and Hellenistic city),geography-or-nature,found,text:strabo-geography-17-1-54,"Weak and indirect: Strabo's account of the Petronius campaign confirms the road network through the region toward Egypt in the Augustan age, but it does not name the Jerusalem-Gaza road. Kept only as regional-route context (C); the desert character itself remains none-found."
+place:gaza,Gaza (Philistine and Hellenistic city),astronomy-or-calendar,n/a,,No dating claim.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",inscription,none-found,,Meroitic inscriptions exist but none was fetchable as a specific artifact for the place; none-found.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",coin,none-found,,Kushite coinage exists but was not fetchable tied to Meroe on a fetched page; none-found.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",structure-or-site,none-found,,"The pyramids and temples of Meroe are excavated, but no fetched excavation page was secured this run (budget); none-found, lead recorded in notes.md."
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",burial-or-ossuary,n/a,,No burial is claimed for the place here.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",manuscript,n/a,,No manuscript bears on the place.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",documentary-papyrus,n/a,,No document could name it.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",jewish-literary,none-found,,Josephus mentions the Ethiopians but the fetched pages gave no Meroe passage.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",greco-roman-literary,found,text:strabo-geography-17-1-54;text:pliny-nh-6-186-candace,Strabo places Candace's royal seat at Napata in the Meroitic region; Pliny describes the island of Meroe and its Candace - B for the polity and capital in the period.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",material-culture,n/a,,No object claimed.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",geography-or-nature,none-found,,The Meroe-Jerusalem route is not stated on a fetched page.
+place:kush-meroe,"Kush (Nubia), the biblical 'Ethiopia'; capital Meroe",astronomy-or-calendar,n/a,,No dating claim here.

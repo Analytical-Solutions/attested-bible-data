@@ -1,0 +1,172 @@
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-10-42"}
+{"from": "passage:mt-10-01", "type": "asserts", "to": "claim:mt-10-01-twelve-apostles"}
+{"from": "passage:mt-10-02", "type": "asserts", "to": "claim:mt-10-02-04-names-of-the-twelve"}
+{"from": "passage:mt-10-03", "type": "asserts", "to": "claim:mt-10-03-matthew-tax-collector"}
+{"from": "passage:mt-10-03", "type": "asserts", "to": "claim:mt-10-02-04-names-of-the-twelve"}
+{"from": "passage:mt-10-04", "type": "asserts", "to": "claim:mt-10-04-iscariot-meaning"}
+{"from": "passage:mt-10-04", "type": "asserts", "to": "claim:mt-10-04-simon-zealot-epithet"}
+{"from": "passage:mt-10-04", "type": "asserts", "to": "claim:mt-10-02-04-names-of-the-twelve"}
+{"from": "passage:mt-10-05", "type": "asserts", "to": "claim:mt-10-05-not-gentiles-samaritans"}
+{"from": "passage:mt-10-05", "type": "asserts", "to": "claim:mt-10-05-samaritan-people"}
+{"from": "passage:mt-10-09", "type": "asserts", "to": "claim:mt-10-09-money-belt"}
+{"from": "passage:mt-10-10", "type": "asserts", "to": "claim:mt-10-10-travel-gear"}
+{"from": "passage:mt-10-14", "type": "asserts", "to": "claim:mt-10-14-shake-dust"}
+{"from": "passage:mt-10-15", "type": "asserts", "to": "claim:mt-10-15-sodom-gomorrah-judgment"}
+{"from": "passage:mt-10-16", "type": "asserts", "to": "claim:mt-10-16-sheep-wolves"}
+{"from": "passage:mt-10-16", "type": "asserts", "to": "claim:mt-10-16-serpents"}
+{"from": "passage:mt-10-17", "type": "asserts", "to": "claim:mt-10-17-councils-synagogues"}
+{"from": "passage:mt-10-18", "type": "asserts", "to": "claim:mt-10-18-governors-kings"}
+{"from": "passage:mt-10-25", "type": "asserts", "to": "claim:mt-10-25-beelzebul"}
+{"from": "passage:mt-10-29", "type": "asserts", "to": "claim:mt-10-29-assarion-sparrows"}
+{"from": "passage:mt-10-34", "type": "asserts", "to": "claim:mt-10-34-sword"}
+{"from": "passage:mt-10-38", "type": "asserts", "to": "claim:mt-10-38-crucifixion"}
+{"from": "passage:mt-10-42", "type": "asserts", "to": "claim:mt-10-42-cup-cold-water"}
+{"from": "claim:mt-10-01-twelve-apostles", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:philip-the-apostle"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:bartholomew-the-apostle"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:thomas-the-apostle"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:matthew-the-apostle"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:james-son-of-alphaeus"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:thaddaeus"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:simon-the-zealot"}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:mt-10-03-matthew-tax-collector", "type": "mentions", "to": "person:matthew-the-apostle"}
+{"from": "claim:mt-10-04-iscariot-meaning", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:mt-10-04-simon-zealot-epithet", "type": "mentions", "to": "person:simon-the-zealot"}
+{"from": "claim:mt-10-05-not-gentiles-samaritans", "type": "mentions", "to": "place:samaria"}
+{"from": "claim:mt-10-05-samaritan-people", "type": "mentions", "to": "place:samaria"}
+{"from": "claim:mt-10-05-samaritan-people", "type": "mentions", "to": "place:mount-gerizim"}
+{"from": "claim:mt-10-15-sodom-gomorrah-judgment", "type": "mentions", "to": "place:sodom"}
+{"from": "claim:mt-10-15-sodom-gomorrah-judgment", "type": "mentions", "to": "place:gomorrah"}
+{"from": "observation:ossuary-name-frequency", "type": "attests", "to": "claim:mt-10-02-04-names-of-the-twelve", "grade": "C", "note": "Ossuary inscriptions and Tal Ilan's lexicon (compiled by Bauckham) show Simon/Simeon (243 occurrences, 9.3%), Judah (164) and Matthew (62) among the ten most popular male names of Palestinian Jews, and Mary among women: the Jewish names in the list are exactly the common names of the period. The list itself is not confirmed, only its onomastic plausibility; Andrew, Philip, Bartholomew and Thomas are Greek names outside the top ten."}
+{"from": "text:josephus-ant-18-zealots", "type": "attests", "to": "claim:mt-10-04-simon-zealot-epithet", "grade": "C", "note": "Josephus (Ant. 18.1.6) describes the 'fourth sect of Jewish philosophy' whose author was Judas the Galilean: the Zealot movement existed in first-century Judea. Josephus never says Simon of Matt 10:4 belonged to it; the link rests on the shared epithet (the fetched Wikipedia article states 'Zealotry' was Josephus's term for the fourth sect)."}
+{"from": "site:mount-gerizim-temple", "type": "attests", "to": "claim:mt-10-05-samaritan-people", "grade": "B", "note": "Excavations on Mount Gerizim (initiated 1983, continued to 2006) identified a Samaritan temple atop the mountain by the mid-5th century BCE, destroyed and rebuilt in the early 2nd century BCE and destroyed again 111-110 BCE: the Samaritan cultic centre the mission saying avoids stood there into the Hasmonean destruction, and the Samaritan community remained."}
+{"from": "text:josephus-ant-11-gerizim", "type": "attests", "to": "claim:mt-10-05-samaritan-people", "grade": "B", "note": "Josephus (Ant. 11.8.6) names Shechem, 'a city situate at Mount Gerizzim', as the Samaritans' metropolis 'inhabited by apostates of the Jewish nation': a first-century historian distinguishes the Samaritans as a people of that place."}
+{"from": "text:josephus-ant-11-gerizim", "type": "attests", "to": "claim:mt-10-05-not-gentiles-samaritans", "grade": "C", "note": "Josephus confirms that Samaritan cities existed as a distinct, separate population from the Jewish nation: the 'cities of the Samaritans' the Twelve are told not to enter were a real, distinguishable set of places."}
+{"from": "artifact:tyrian-shekel", "type": "attests", "to": "claim:mt-10-09-money-belt", "grade": "C", "note": "Silver Tyrian shekels circulated for the temple tax in the period, and the as/assarion (bronze, later copper) was the lowest regularly issued Roman coin: gold, silver and copper money as Matt 10:9 assumes was in everyday use. The belt-purse carrying custom itself has no fetched evidence."}
+{"from": "artifact:assarion-coin", "type": "attests", "to": "claim:mt-10-09-money-belt", "grade": "C", "note": "The as (Greek assarion) was 'a bronze, and later copper, coin used during the Roman Republic and Roman Empire', the lowest valued coin regularly issued under the Empire: the copper money of Matt 10:9's 'brass in your money belts'."}
+{"from": "artifact:judean-desert-textiles", "type": "attests", "to": "claim:mt-10-10-travel-gear", "grade": "C", "note": "Textiles and clothing including a tunic were recovered from the Cave of Letters: tunics (the 'two coats') were standard Judean dress. Bag, sandals and staff of the verse have no separate fetched evidence."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "claim:mt-10-17-councils-synagogues", "grade": "A", "note": "Josephus (Ant. 20.200) reports that Ananus 'assembled the sanhedrim of judges' and condemned James to death: a synedrion acting as a court that delivered and executed judgment, the same office Matt 10:17 calls 'councils'."}
+{"from": "text:mishnah-makkot-3-10", "type": "attests", "to": "claim:mt-10-17-councils-synagogues", "grade": "B", "note": "Mishnah Makkot 3:10 fixes court flogging at 'forty lashes less one' and describes the procedure (the condemned tied to a post, flogged with a strap by an attendant of the congregation): flogging was a real judicial punishment. The Mishnah was compiled c. 200 CE and describes the court's flogging, not specifically the synagogue venue. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "site:capernaum-synagogue", "type": "attests", "to": "claim:mt-10-17-councils-synagogues", "grade": "C", "note": "The excavated Capernaum synagogue (limestone building over a basalt foundation suggested to be 1st century) shows synagogues as standing institutions of Galilean towns in the period. The dating of the 1st-century foundation is suggested, not proven."}
+{"from": "artifact:pilate-stone", "type": "attests", "to": "claim:mt-10-18-governors-kings", "grade": "C", "note": "The Caesarea inscription (found 1961) names Pontius Pilate as 'prefect of the Roman province of Judaea' in the 1st century: Roman governors of exactly the kind the prediction names ruled Judaea. It does not name the specific governors of Matt 10:18's prediction, hence not grade A. Regraded C by architect review: shows Roman governors in Judea, not a trial of the disciples."}
+{"from": "observation:arabian-wolf-range", "type": "attests", "to": "claim:mt-10-16-sheep-wolves", "grade": "C", "note": "The Arabian wolf 'is found in Israel's Negev and Arava Deserts, Jordan, Palestine, and Egypt's Sinai Peninsula' (the same evidence recorded for Matt 7:15): wolves were part of the region's fauna. The fetched source is the desert subspecies, so the note does not extend it to the hills of Galilee and Judea."}
+{"from": "observation:palestine-viper-range", "type": "attests", "to": "claim:mt-10-16-serpents", "grade": "C", "note": "The Palestine viper 'is found in northern and central Israel, Palestine, western Syria, northwestern Jordan, and Lebanon': a venomous snake familiar in exactly the region (reused from Matt 7:10)."}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "attests", "to": "claim:mt-10-34-sword", "grade": "C", "note": "Four iron Roman swords (Pompeii-type spathae) and a pilum head, hidden in the Cave of the Swords near Ein Gedi in a 2nd-century CE context (likely Bar Kokhba-era rebel cache): the sword was a real, common weapon in Judaea. The cache is dated a century after Matt 10's setting, so it shows the weapon's currency, not a 1st-century find."}
+{"from": "artifact:yehohanan-heel-bone", "type": "attests", "to": "claim:mt-10-38-crucifixion", "grade": "B", "note": "The excavated (1968, Giv'at ha-Mivtar) heel bone of Yehohanan, crucified in the 1st century CE, with a nail driven through it: crucifixion was physically practiced in Judaea in the exact period, so 'taking up the cross' pointed to a known death."}
+{"from": "text:josephus-war-2-varus", "type": "attests", "to": "claim:mt-10-38-crucifixion", "grade": "B", "note": "Josephus (War 2.5.2) records that after the disturbances at Herod's death (4 BCE) Varus 'crucified' the most guilty of those caught, 'about two thousand': mass Roman crucifixion in Judaea a generation before Matt 10."}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "observation:ossuary-name-frequency", "type": "documented_by", "to": "source:wikipedia-talpiot-names"}
+{"from": "text:josephus-ant-18-zealots", "type": "documented_by", "to": "source:wikisource-ant18-zealots"}
+{"from": "text:josephus-war-2-varus", "type": "documented_by", "to": "source:wikisource-jw-2"}
+{"from": "text:josephus-ant-11-gerizim", "type": "documented_by", "to": "source:wikisource-ant-11"}
+{"from": "text:mishnah-makkot-3-10", "type": "documented_by", "to": "source:sefaria-makkot-3-10"}
+{"from": "text:2-kings-1-2-baal-zebub", "type": "documented_by", "to": "source:sefaria-2-kings-1-2"}
+{"from": "text:genesis-19-24", "type": "documented_by", "to": "source:bible-api-genesis-19-24"}
+{"from": "site:mount-gerizim-temple", "type": "documented_by", "to": "source:wikipedia-mount-gerizim-excavation"}
+{"from": "artifact:pilate-stone", "type": "documented_by", "to": "source:wikipedia-pilate-stone"}
+{"from": "artifact:yehohanan-heel-bone", "type": "documented_by", "to": "source:wikipedia-crucifixion-heel"}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "documented_by", "to": "source:wikipedia-cave-of-the-swords"}
+{"from": "artifact:roman-swords-cave-of-swords", "type": "documented_by", "to": "source:wikipedia-cave-of-the-swords-dating"}
+{"from": "artifact:assarion-coin", "type": "documented_by", "to": "source:wikipedia-as-coin"}
+{"from": "artifact:tyrian-shekel", "type": "documented_by", "to": "source:wikipedia-tyrian-shekel"}
+{"from": "artifact:judean-desert-textiles", "type": "documented_by", "to": "source:wikipedia-cave-of-letters"}
+{"from": "site:capernaum-synagogue", "type": "documented_by", "to": "source:wikipedia-capernaum-synagogue"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:wikisource-ant-20"}
+{"from": "observation:arabian-wolf-range", "type": "documented_by", "to": "source:wikipedia-arabian-wolf"}
+{"from": "observation:palestine-viper-range", "type": "documented_by", "to": "source:wikipedia-palestine-viper"}
+{"from": "claim:mt-10-04-iscariot-meaning", "type": "documented_by", "to": "source:wikipedia-judas-iscariot-name"}
+{"from": "claim:mt-10-04-simon-zealot-epithet", "type": "documented_by", "to": "source:wikipedia-zealots"}
+{"from": "claim:mt-10-15-sodom-gomorrah-judgment", "type": "documented_by", "to": "source:wikipedia-sodom-identification"}
+{"from": "claim:mt-10-25-beelzebul", "type": "documented_by", "to": "source:wikipedia-beelzebub"}
+{"from": "person:thaddaeus", "type": "documented_by", "to": "source:wikipedia-jude-apostle"}
+{"from": "text:2-kings-1-2-baal-zebub", "type": "related_to", "to": "claim:mt-10-25-beelzebul", "note": "Cross-reference: 2 Kings 1:2 names Baal-zebub, 'the god of Ekron', the biblical name behind 'Beelzebul' on the modern etymologies recorded on the claim; a biblical text is not independent evidence."}
+{"from": "text:genesis-19-24", "type": "related_to", "to": "claim:mt-10-15-sodom-gomorrah-judgment", "note": "Cross-reference: Genesis 19:24 narrates the destruction ('Yahweh rained on Sodom and on Gomorrah sulfur and fire'), the memory Matt 10:15 invokes; a biblical text is not independent evidence."}
+{"from": "person:thaddaeus", "type": "related_to", "to": "claim:mt-10-02-04-names-of-the-twelve", "note": "Identity dispute: the WEB text of Matt 10:3 reads 'Lebbaeus, who was also called Thaddaeus'; the fetched Jude the Apostle article states Thaddeus is 'generally identified' with Judas son of James and 'variously called ... Lebbaeus', so the identity of the tenth name is a modern reconciliation, not a settled fact."}
+{"from": "claim:mt-10-02-04-names-of-the-twelve", "type": "documented_by", "to": "source:wikipedia-tv-matt-10-3"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-10-42"}
+{"from": "artifact:assarion-coin", "type": "attests", "to": "claim:mt-10-29-assarion-sparrows", "grade": "C", "note": "The assarion, the lowest-value bronze/copper coin named in the verse, is a documented denomination of the period (the same coin Luke 12:6's sparrow saying uses); the coin is documented, the market price of sparrows is not. Added per the architect's coin ruling (2026-11-15), matching Luke 12's C."}

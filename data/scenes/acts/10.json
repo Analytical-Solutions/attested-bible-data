@@ -1,0 +1,33 @@
+{
+ "book": "acts",
+ "chapter": 10,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    8
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "10:1 \"there was a certain man in Caesarea, Cornelius by name\""
+  },
+  {
+   "verses": [
+    9,
+    23
+   ],
+   "setting": "place:joppa",
+   "confidence": "stated",
+   "basis": "10:6 \"He lodges with a tanner named Simon, whose house is by the seaside\" (Joppa, 10:5, 8); 10:9 \"Peter went up on the housetop to pray\""
+  },
+  {
+   "verses": [
+    24,
+    48
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "10:24 \"On the next day they entered into Caesarea\""
+  }
+ ]
+}

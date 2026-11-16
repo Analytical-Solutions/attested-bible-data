@@ -1,0 +1,188 @@
+{"from": "artifact:theodotos-inscription", "type": "documented_by", "to": "source:wikipedia-theodotos-inscription"}
+{"from": "artifact:tekhelet-fabrics", "type": "documented_by", "to": "source:wikipedia-tekhelet"}
+{"from": "artifact:second-temple-stone-vessels", "type": "documented_by", "to": "source:wikipedia-stone-vessels-purity"}
+{"from": "site:chorazin-synagogue", "type": "documented_by", "to": "source:wikipedia-chorazin-synagogue"}
+{"from": "site:chorazin-synagogue", "type": "documented_by", "to": "source:wikipedia-chorazin-synagogue-date"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-sects"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "text:psalm-118-25-26", "type": "documented_by", "to": "source:bible-api-psalm-118-25-26"}
+{"from": "artifact:seat-of-moses-chorazin", "type": "documented_by", "to": "source:bibleplaces-chorazin"}
+{"from": "artifact:seat-of-moses-hammat-tiberias", "type": "documented_by", "to": "source:wikipedia-hamat-tiberias"}
+{"from": "artifact:qumran-tefillin", "type": "documented_by", "to": "source:wikipedia-tefillin"}
+{"from": "site:tombs-of-the-kings", "type": "documented_by", "to": "source:wikipedia-tombs-of-the-kings"}
+{"from": "site:tombs-of-the-kings", "type": "documented_by", "to": "source:wikipedia-helena-adiabene"}
+{"from": "artifact:louvre-sarcophagus-queen-helene", "type": "documented_by", "to": "source:wikipedia-tombs-of-the-kings"}
+{"from": "site:tomb-of-zechariah", "type": "documented_by", "to": "source:wikipedia-tomb-zechariah"}
+{"from": "site:tomb-of-absalom", "type": "documented_by", "to": "source:wikipedia-tomb-absalom"}
+{"from": "site:tomb-of-benei-hezir", "type": "documented_by", "to": "source:wikipedia-tomb-benei-hezir"}
+{"from": "text:mishnah-nedarim-1-3", "type": "documented_by", "to": "source:sefaria-nedarim-1-3"}
+{"from": "text:mishnah-maasrot-4-5", "type": "documented_by", "to": "source:sefaria-maasrot-4-5"}
+{"from": "text:mishnah-demai-2-1", "type": "documented_by", "to": "source:sefaria-demai-2-1"}
+{"from": "text:mishnah-kelim-25-1", "type": "documented_by", "to": "source:sefaria-kelim-25-1"}
+{"from": "text:mishnah-shekalim-1-1", "type": "documented_by", "to": "source:sefaria-shekalim-1-1"}
+{"from": "text:mishnah-maaser-sheni-5-1", "type": "documented_by", "to": "source:sefaria-maaser-sheni-5-1"}
+{"from": "text:josephus-ant-20-helena-izates", "type": "documented_by", "to": "source:wikisource-ant-20"}
+{"from": "text:josephus-ant-20-helena-izates", "type": "documented_by", "to": "source:wikisource-ant-20-helena"}
+{"from": "text:tacitus-histories-5-5", "type": "documented_by", "to": "source:tacitus-histories-5-5-src"}
+{"from": "text:josephus-war-4-zecharias-baruch", "type": "documented_by", "to": "source:wikisource-war-4-zacharias"}
+{"from": "text:josephus-war-4-zecharias-baruch", "type": "documented_by", "to": "source:wikisource-war-4-footnote"}
+{"from": "text:josephus-ant-16-herod-david-monument", "type": "documented_by", "to": "source:wikisource-ant-16"}
+{"from": "text:josephus-war-6-house-doomed", "type": "documented_by", "to": "source:wikisource-war-6-house"}
+{"from": "text:josephus-war-6-house-doomed", "type": "documented_by", "to": "source:wikipedia-siege-jerusalem-70"}
+{"from": "text:josephus-war-6-house-doomed", "type": "attests", "to": "claim:mt-23-37-38-jerusalem-desolate", "grade": "B", "note": "Josephus (War 6.249-250) records that the Temple, the 'house', was burned on the tenth of Lous in 70 CE. It attests that the later desolation happened, not that it was predicted; graded B rather than A because 'left desolate' in 23:38 may mean abandonment rather than destruction. Edge added by the architect: the runner reported this find, but the edge was missing."}
+{"from": "text:2-chronicles-24-20-22", "type": "documented_by", "to": "source:bible-api-2-chronicles-24-20-22"}
+{"from": "artifact:papyrus-77", "type": "documented_by", "to": "source:wikipedia-papyrus-77"}
+{"from": "claim:mt-23-07-title-rabbi", "type": "documented_by", "to": "source:wikipedia-rabbi"}
+{"from": "passage:mt-23-02", "type": "asserts", "to": "claim:mt-23-02-moses-seat"}
+{"from": "passage:mt-23-03", "type": "asserts", "to": "claim:mt-23-02-moses-seat"}
+{"from": "passage:mt-23-05", "type": "asserts", "to": "claim:mt-23-05-phylacteries"}
+{"from": "passage:mt-23-05", "type": "asserts", "to": "claim:mt-23-05-fringes"}
+{"from": "passage:mt-23-06", "type": "asserts", "to": "claim:mt-23-06-chief-seats"}
+{"from": "passage:mt-23-07", "type": "asserts", "to": "claim:mt-23-06-chief-seats"}
+{"from": "passage:mt-23-07", "type": "asserts", "to": "claim:mt-23-07-title-rabbi"}
+{"from": "passage:mt-23-08", "type": "asserts", "to": "claim:mt-23-07-title-rabbi"}
+{"from": "passage:mt-23-15", "type": "asserts", "to": "claim:mt-23-15-proselytes"}
+{"from": "passage:mt-23-16", "type": "asserts", "to": "claim:mt-23-16-22-temple-oaths"}
+{"from": "passage:mt-23-17", "type": "asserts", "to": "claim:mt-23-16-22-temple-oaths"}
+{"from": "passage:mt-23-18", "type": "asserts", "to": "claim:mt-23-16-22-temple-oaths"}
+{"from": "passage:mt-23-19", "type": "asserts", "to": "claim:mt-23-16-22-temple-oaths"}
+{"from": "passage:mt-23-20", "type": "asserts", "to": "claim:mt-23-16-22-temple-oaths"}
+{"from": "passage:mt-23-21", "type": "asserts", "to": "claim:mt-23-16-22-temple-oaths"}
+{"from": "passage:mt-23-22", "type": "asserts", "to": "claim:mt-23-16-22-temple-oaths"}
+{"from": "passage:mt-23-23", "type": "asserts", "to": "claim:mt-23-23-tithing-herbs"}
+{"from": "passage:mt-23-24", "type": "asserts", "to": "claim:mt-23-23-tithing-herbs"}
+{"from": "passage:mt-23-25", "type": "asserts", "to": "claim:mt-23-25-26-cup"}
+{"from": "passage:mt-23-26", "type": "asserts", "to": "claim:mt-23-25-26-cup"}
+{"from": "passage:mt-23-27", "type": "asserts", "to": "claim:mt-23-27-28-whitewashed-tombs"}
+{"from": "passage:mt-23-28", "type": "asserts", "to": "claim:mt-23-27-28-whitewashed-tombs"}
+{"from": "passage:mt-23-29", "type": "asserts", "to": "claim:mt-23-29-31-build-prophet-tombs"}
+{"from": "passage:mt-23-30", "type": "asserts", "to": "claim:mt-23-29-31-build-prophet-tombs"}
+{"from": "passage:mt-23-31", "type": "asserts", "to": "claim:mt-23-29-31-build-prophet-tombs"}
+{"from": "passage:mt-23-35", "type": "asserts", "to": "claim:mt-23-35-zechariah-killed"}
+{"from": "passage:mt-23-34", "type": "asserts", "to": "claim:mt-23-37-38-jerusalem-desolate"}
+{"from": "passage:mt-23-36", "type": "asserts", "to": "claim:mt-23-37-38-jerusalem-desolate"}
+{"from": "passage:mt-23-37", "type": "asserts", "to": "claim:mt-23-37-38-jerusalem-desolate"}
+{"from": "passage:mt-23-38", "type": "asserts", "to": "claim:mt-23-37-38-jerusalem-desolate"}
+{"from": "passage:mt-23-39", "type": "asserts", "to": "claim:mt-23-39-psalm-118-26"}
+{"from": "claim:mt-23-02-moses-seat", "type": "mentions", "to": "person:moses"}
+{"from": "claim:mt-23-35-zechariah-killed", "type": "mentions", "to": "person:zechariah-son-of-barachiah"}
+{"from": "claim:mt-23-35-zechariah-killed", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:mt-23-37-38-jerusalem-desolate", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-23-29-31-build-prophet-tombs", "type": "mentions", "to": "place:jerusalem"}
+{"from": "artifact:seat-of-moses-chorazin", "type": "attests", "to": "claim:mt-23-02-moses-seat", "grade": "C", "note": "A stone 'Seat of Moses' found in the 1920s at the Chorazin synagogue, with an Aramaic inscription remembering Yudan. It attests the seat-of-Moses institution, but the surviving synagogue is late 3rd-6th century, so the seat postdates 30 CE by centuries (the lead's 3rd-5th centuries CE)."}
+{"from": "artifact:seat-of-moses-hammat-tiberias", "type": "attests", "to": "claim:mt-23-02-moses-seat", "grade": "C", "note": "An inscribed 'Chair of Moses' found in the eastern aisle of the Hammat Tiberias synagogue, one of the Talmudic-period Galilee synagogues; again centuries after 30 CE."}
+{"from": "site:chorazin-synagogue", "type": "attests", "to": "claim:mt-23-02-moses-seat", "grade": "C", "note": "The basalt synagogue of Chorazin, where the inscribed Seat of Moses was found; its standing phase is late 3rd century (destroyed 4th, rebuilt 6th), not the 1st century."}
+{"from": "artifact:qumran-tefillin", "type": "attests", "to": "claim:mt-23-05-phylacteries", "grade": "C", "note": "Tefillin cases and slips dated to the 1st century CE from Qumran show that Jews in the period and region wore phylacteries physically; nothing found shows Pharisees making them broad."}
+{"from": "artifact:tekhelet-fabrics", "type": "attests", "to": "claim:mt-23-05-fringes", "grade": "C", "note": "Murex-dyed blue wool fabrics from Masada and Wadi Murabba'at (1st century BCE to 2nd century CE) confirm the tekhelet thread of the fringe (tzitzit) commandment; nothing found on enlarging them."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:mt-23-06-chief-seats", "grade": "C", "note": "A first-century Jerusalem inscription for a synagogue built 'for the reading of the law and teaching of the commandments' attests the synagogue institution whose best seats are at issue; it says nothing about seating rank."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-23-02-moses-seat", "grade": "C", "note": "Josephus names the Pharisees as one of the three sects of the Jews, the audience addressed in the woes; it says nothing about Moses' seat itself."}
+{"from": "text:josephus-ant-20-helena-izates", "type": "attests", "to": "claim:mt-23-15-proselytes", "grade": "B", "note": "Josephus (Ant. 20.17-48) tells how Queen Helena and her son Izates 'embraced the Jewish customs', Izates holding he 'could not be thoroughly a Jew unless he were circumcised', taught by the merchant Ananias and a Jew from Galilee - Gentile conversion to Judaism in exactly this period. It does not show scribes making converts 'twice as much a son of Gehenna'."}
+{"from": "text:tacitus-histories-5-5", "type": "attests", "to": "claim:mt-23-15-proselytes", "grade": "C", "note": "Tacitus: 'Those who come over to their religion adopt the practice [circumcision], and have this lesson first instilled into them, to despise all gods...' - Roman testimony to conversion to Judaism, hostile in tone and not Judean."}
+{"from": "site:tombs-of-the-kings", "type": "attests", "to": "claim:mt-23-15-proselytes", "grade": "C", "note": "The monumental Jerusalem tomb identified with Queen Helena of Adiabene, the royal convert of Antiquities 20, shows a proselyte family's wealth and prominence in the city; the identification rests on the sarcophagus reading and Josephus, not a name inscribed."}
+{"from": "site:tombs-of-the-kings", "type": "attests", "to": "person:queen-helena-of-adiabene", "grade": "B", "note": "The tomb is believed to be the burial site of Queen Helene of Adiabene; one sarcophagus bears the Aramaic reading 'Ṣaddan Malkata' ('Our mistress, the Queen'), and Josephus records her burial 'three stadia from Jerusalem'. The inscription does not name Helena."}
+{"from": "artifact:louvre-sarcophagus-queen-helene", "type": "attests", "to": "person:queen-helena-of-adiabene", "grade": "B", "note": "The sarcophagus from the Tombs of the Kings, inscribed Ṣaddan Malkata / Ṣaddah Malkatah, interpreted by scholars as 'Our mistress, the Queen', now in the Louvre; excavated by de Saulcy in 1863."}
+{"from": "text:mishnah-nedarim-1-3", "type": "attests", "to": "claim:mt-23-16-22-temple-oaths", "grade": "C", "note": "Nedarim 1:3 treats a vow associating food with 'the altar, the Sanctuary, or Jerusalem' as binding - the same temple objects Matthew 23:16-22 ranks. Redacted c. 200 CE, so it may not describe 30 CE practice exactly, and it records vow formulas, not the Pharisaic oath-hierarchy debate Jesus quotes."}
+{"from": "text:mishnah-maasrot-4-5", "type": "attests", "to": "claim:mt-23-23-tithing-herbs", "grade": "B", "note": "Maasrot 4:5 names dill itself as tithed: 'as for dill, tithe must be given from the seed and the plant, and the pods'. Redacted c. 200 CE, so it may not describe 30 CE practice exactly; mint and cumin are not in this mishna."}
+{"from": "text:mishnah-demai-2-1", "type": "attests", "to": "claim:mt-23-23-tithing-herbs", "grade": "B", "note": "Demai 2:1 lists cumin among produce that 'must be tithed as demai in all places'. Redacted c. 200 CE; mint is not named in the fetched texts."}
+{"from": "text:mishnah-kelim-25-1", "type": "attests", "to": "claim:mt-23-25-26-cup", "grade": "B", "note": "Kelim 25:1: 'All vessels have [different laws] for outer and inner sides' - the mishna states the inside/outside distinction for vessels that the cup saying presupposes. Redacted c. 200 CE, so it may not describe 30 CE practice exactly."}
+{"from": "artifact:second-temple-stone-vessels", "type": "attests", "to": "claim:mt-23-25-26-cup", "grade": "C", "note": "Chalk stone vessels of the period, valued because stone is impervious to impurity, show the purity-of-vessels world in which a cup's clean outside and unclean inside mattered."}
+{"from": "text:mishnah-shekalim-1-1", "type": "attests", "to": "claim:mt-23-27-28-whitewashed-tombs", "grade": "B", "note": "Shekalim 1:1: each Adar the court 'marks the Jewish gravesites anew, so that people would know their location and avoid ritual impurity' - the whitewashing of graves the image rests on. Redacted c. 200 CE."}
+{"from": "text:mishnah-maaser-sheni-5-1", "type": "attests", "to": "claim:mt-23-27-28-whitewashed-tombs", "grade": "B", "note": "Maaser Sheni 5:1: 'graves with lime which is dissolved and poured on' - graves marked with lime. Redacted c. 200 CE."}
+{"from": "site:tomb-of-absalom", "type": "attests", "to": "claim:mt-23-29-31-build-prophet-tombs", "grade": "C", "note": "A monumental rock-cut tomb with conical roof in the Kidron Valley, dated by recent scholarship to the 1st century AD - monumental, decorated tomb-building in Jerusalem exactly in the period; traditionally ascribed to Absalom. Regraded B to C by architect review: a monumental family or anonymous tomb shows the period's tomb-building custom, not a tomb built for a prophet."}
+{"from": "site:tomb-of-zechariah", "type": "attests", "to": "claim:mt-23-29-31-build-prophet-tombs", "grade": "C", "note": "A monolithic 1st-century AD stone monument in the Kidron Valley facing the Temple Mount - elaborate tomb monuments were being built in this generation; the traditional attribution to a prophet is not documented. Regraded B to C by architect review: a monumental family or anonymous tomb shows the period's tomb-building custom, not a tomb built for a prophet."}
+{"from": "site:tomb-of-benei-hezir", "type": "attests", "to": "claim:mt-23-29-31-build-prophet-tombs", "grade": "C", "note": "A decorated 2nd-century BCE (Hasmonean) burial cave in the Kidron cliff with a Hebrew inscription naming the priestly family Benei Hezir - elites built and named monumental family tombs in the Second Temple period. Regraded B to C by architect review: a monumental family or anonymous tomb shows the period's tomb-building custom, not a tomb built for a prophet."}
+{"from": "text:josephus-ant-16-herod-david-monument", "type": "attests", "to": "claim:mt-23-29-31-build-prophet-tombs", "grade": "B", "note": "Josephus (Ant. 16.179-183): Herod 'built a propitiatory monument... of white stone, at the mouth of the sepulcher' of David at great expense - a close parallel to adorning the monuments of the righteous. Regraded C to B by architect review: a ruler building a costly monument at the tomb of a revered biblical figure in Jerusalem, in the period, is the specific practice the woe names."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-23-37-38-jerusalem-desolate", "grade": "C", "note": "'Your house' is the temple; the Second Temple stood as the chief place of worship in Jerusalem until its destruction in 70 CE. This attests the setting, not the prediction."}
+{"from": "text:josephus-war-4-zecharias-baruch", "type": "complicates", "to": "claim:mt-23-35-zechariah-killed", "note": "Josephus reports the zealots' judicial murder of 'Zacharias son of Baruch' in the middle of the temple in 68 CE, thrown into the valley below - not between sanctuary and altar. Whiston's footnote records commentators identifying him with 'Zacharias, the son of Barachias' of Matthew 23:35, but the name, the location within the temple and the 68 CE date (about 34 years after the words were spoken) all differ."}
+{"from": "site:tomb-of-zechariah", "type": "complicates", "to": "claim:mt-23-29-31-build-prophet-tombs", "note": "Jewish tradition calls this monument the tomb of Zechariah (ben Jehoiada), but the identification is traditional; the monument is a 1st-century tomb whose occupant is unnamed, not a documented prophet's tomb."}
+{"from": "site:tomb-of-absalom", "type": "complicates", "to": "claim:mt-23-29-31-build-prophet-tombs", "note": "Traditionally ascribed to Absalom, David's rebellious son (c. 1000 BC), but recent scholarship dates it to the 1st century AD - the traditional biblical attribution is unsupported."}
+{"from": "text:2-chronicles-24-20-22", "type": "related_to", "to": "claim:mt-23-35-zechariah-killed", "note": "Biblical cross-reference: the Zechariah stoned in the temple court by order of King Joash is 'Zechariah the son of Jehoiada the priest'; Matthew's 'son of Barachiah' is a debated identification."}
+{"from": "text:psalm-118-25-26", "type": "related_to", "to": "passage:mt-23-39", "note": "Matthew 23:39 echoes Psalm 118:26 ('Blessed is he who comes in the name of the Lord'); biblical cross-reference."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-23-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-23-39"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-30"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-31"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-32"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-33"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-34"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-35"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-36"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-37"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-38"}
+{"from": "artifact:papyrus-77", "type": "preserves", "to": "passage:mt-23-39"}

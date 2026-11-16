@@ -1,0 +1,92 @@
+{
+ "source:bible-api-joel-2-28-32": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/joel+2:28-32?translation=web"
+ },
+ "source:bible-api-psalm-16-8-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalm+16:8-11?translation=web"
+ },
+ "source:sefaria-mishnah-berakhot-4-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Berakhot.4.1"
+ },
+ "source:wikipedia-davids-tomb": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/David%27s_Tomb"
+ },
+ "source:wikipedia-shavuot": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Shavuot"
+ },
+ "source:wikipedia-theodotos-hostel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Theodotos_inscription"
+ },
+ "source:wikipedia-theodotos-translation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Theodotos_inscription"
+ },
+ "source:wikisource-ant-14-prayer": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIV"
+ },
+ "source:wikisource-ant-14-strabo": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIV"
+ },
+ "source:wikisource-ant-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant-17-pentecost": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant-18-essenes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-18-rome-jews": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-philo-embassy-asia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Embassy_to_Gaius"
+ },
+ "source:wikisource-philo-embassy-diaspora": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Embassy_to_Gaius"
+ },
+ "source:wikisource-philo-embassy-islands": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Embassy_to_Gaius"
+ },
+ "source:wikisource-war-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war-2-multitude": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ }
+}

@@ -1,0 +1,144 @@
+anchor,label,category,status,findings,note
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,inscription,found,artifact:cohors-ii-italica-diploma,"CIL XVI 106 names the Cohors II Italica Civium Romanorum - but in Syria, 157 CE."
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,coin,n/a,,
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,structure-or-site,none-found,,"No cohort fortress or camp is identified for Caesarea's Italian cohort; searched Wikipedia (Caesarea Maritima, Cohors II Italica)."
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,burial-or-ossuary,n/a,,
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,manuscript,n/a,,
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,documentary-papyrus,none-found,,"No military diploma or papyrus places the unit in Judea; searched Wikipedia (Cohors II Italica, Roman Judaea)."
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,jewish-literary,found,text:josephus-war-2-18-7,"Josephus (War 2.18.7): the Caesarea garrison existed and was largely raised out of Syria - the garrison context, later than the 30s."
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,greco-roman-literary,none-found,,"No classical author names an Italian cohort in Judea; searched Wikipedia (Cohors II Italica, Roman army of Judea)."
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,material-culture,n/a,,
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,geography-or-nature,n/a,,
+claim:ac-10-01-italian-cohort,The Roman army in Judea included a cohort called the Italian,astronomy-or-calendar,none-found,,"Regnal datings fix the diploma to 157 CE, not the unit's Judean service; searched Wikipedia (CIL XVI 106 context)."
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,inscription,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,coin,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,structure-or-site,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,burial-or-ossuary,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,"Sinaiticus and Vaticanus preserve the vision account (10:3-4); preserves only, never attests the vision."
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,documentary-papyrus,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,jewish-literary,none-found,,Josephus and rabbinic texts know prayer-hour piety but not this vision; searched Wikisource and Sefaria.
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,greco-roman-literary,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,material-culture,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,geography-or-nature,n/a,,
+claim:ac-10-03-04-angel-vision,An angel appeared to Cornelius and told him to send for Peter,astronomy-or-calendar,found,text:josephus-ant-14-65;text:mishnah-pesachim-5-1,"The vision comes at the ninth hour; Josephus (Ant. 14.65) and Mishnah Pesachim 5:1 attest the fixed ninth-hour rite - the hour, never the vision."
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,inscription,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,coin,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,structure-or-site,none-found,,"Herodian houses with accessible flat roofs are known from Judean excavations, but no fetched source bears the prayer use; searched Wikipedia (Caesarea, Jaffa, domestic architecture)."
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,burial-or-ossuary,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,manuscript,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,documentary-papyrus,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,jewish-literary,none-found,,"Rooftop use (Sukkah on the roof, Deut 22:8 parapet) is known in rabbinic law, but no fetched passage attests prayer on roofs at Joppa; searched Sefaria."
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,greco-roman-literary,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,material-culture,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,geography-or-nature,n/a,,
+claim:ac-10-09-housetop-prayer,Housetops were used for prayer at midday,astronomy-or-calendar,found,text:mishnah-pesachim-5-1;text:josephus-ant-14-65,"'About noon' sits in the fixed day-hours scheme the sources attest; the noon hour itself is calendar context, not evidence for the prayer."
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',inscription,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',coin,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',structure-or-site,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',burial-or-ossuary,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"P45 preserves 10:10-23 and 31-41; Sinaiticus and Vaticanus the whole account; preserves only, never attests the vision."
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',documentary-papyrus,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',jewish-literary,none-found,,"No Jewish source reports the vision; the clean/unclean frame is cross-referenced to Leviticus 11 (related_to, never attests). Searched Sefaria."
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',greco-roman-literary,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',material-culture,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',geography-or-nature,n/a,,
+claim:ac-10-10-16-sheet-vision,Peter saw a vision of a sheet with all kinds of animals and a voice: 'kill and eat',astronomy-or-calendar,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,inscription,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,coin,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,structure-or-site,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,burial-or-ossuary,none-found,,"Zooarchaeology on Judean sites (absent pig bones) is cited in scholarship but no fetched source node bears it; searched Wikipedia (Ancient Israelite cuisine, pig bones archaeology)."
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,manuscript,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,documentary-papyrus,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,jewish-literary,none-found,,"The food laws themselves are Leviticus 11, a biblical cross-reference (related_to only); no independent ancient text attests first-century Judean practice. Searched Sefaria, Wikipedia."
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,greco-roman-literary,none-found,,"Classical authors note Jewish food avoidance (e.g. Juvenal), but no passage was fetched this run; searched Wikipedia (Ancient Israelite cuisine, Hellenistic Judaism)."
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,material-culture,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,geography-or-nature,n/a,,
+claim:ac-10-14-food-laws,Judean Jews such as Peter kept the Levitical food laws,astronomy-or-calendar,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,inscription,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,coin,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,structure-or-site,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,burial-or-ossuary,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,manuscript,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,documentary-papyrus,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,jewish-literary,found,text:jubilees-22-separate,"Jubilees 22 (2nd century BCE): 'Separate thyself from the nations, and eat not with them' - the avoidance custom in Second Temple Judaism."
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,greco-roman-literary,none-found,,"No classical author was fetched on Jewish-Gentile table separation; searched Wikipedia (God-fearers, Hellenistic Judaism)."
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,material-culture,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,geography-or-nature,n/a,,
+claim:ac-10-28-gentile-avoidance,Jews avoided keeping company or eating with people of another nation,astronomy-or-calendar,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,inscription,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,coin,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,structure-or-site,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,burial-or-ossuary,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,manuscript,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,documentary-papyrus,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,jewish-literary,found,text:josephus-ant-14-65;text:mishnah-pesachim-5-1,"Josephus (Ant. 14.65): daily sacrifice 'about the ninth hour'; Mishnah Pesachim 5:1 fixes the afternoon offering at nine and a half hours - the prayer hour of the temple rite, not Cornelius's prayer itself."
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,greco-roman-literary,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,material-culture,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,geography-or-nature,n/a,,
+claim:ac-10-30-ninth-hour-prayer,Cornelius prayed at the ninth hour,astronomy-or-calendar,found,text:josephus-ant-14-65;text:mishnah-pesachim-5-1,"Same nodes: the ninth hour as a fixed hour of the daily rite (see also the Acts 3:1 claim, linked related_to)."
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",inscription,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",coin,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",structure-or-site,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",burial-or-ossuary,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,"Sinaiticus and Vaticanus preserve 10:44-48 (P45's leaf breaks before 10:31-41 resumes at 31); preserves only, never attests."
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",documentary-papyrus,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",jewish-literary,none-found,,"No Jewish source attests charismatic experience in the Caesarean community; searched Wikipedia (Holy Spirit in Acts, glossolalia)."
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",greco-roman-literary,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",material-culture,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",geography-or-nature,n/a,,
+claim:ac-10-44-46-spirit-gentiles,"The Holy Spirit fell on the Gentile hearers, who spoke in tongues",astronomy-or-calendar,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,inscription,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,coin,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,structure-or-site,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,burial-or-ossuary,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,"Sinaiticus and Vaticanus preserve 10:47-48; preserves only, never attests."
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,documentary-papyrus,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,jewish-literary,none-found,,"Mikveh installations attest immersion practice generally, but no fetched source attests this baptism; searched Wikipedia (baptism, mikveh)."
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,greco-roman-literary,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,material-culture,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,geography-or-nature,n/a,,
+claim:ac-10-47-48-baptism-cornelius,Cornelius and his household were baptized in water in the name of Jesus Christ,astronomy-or-calendar,n/a,,
+person:cornelius-the-centurion,Cornelius the centurion,inscription,none-found,,"No inscription names Cornelius; the CIL XVI 106 diploma names his cohort only. Searched Wikipedia (Cohors II Italica, Cornelius the Centurion)."
+person:cornelius-the-centurion,Cornelius the centurion,coin,n/a,,
+person:cornelius-the-centurion,Cornelius the centurion,structure-or-site,none-found,,"No structure or excavation identifies Cornelius's presence at Caesarea; searched Wikipedia (Caesarea Maritima, Cornelius)."
+person:cornelius-the-centurion,Cornelius the centurion,burial-or-ossuary,n/a,,
+person:cornelius-the-centurion,Cornelius the centurion,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Manuscripts preserve the text naming him (P45 carries 10:1-2 and 10:26-31 in P50); preserves only, never attests."
+person:cornelius-the-centurion,Cornelius the centurion,documentary-papyrus,none-found,,"No military record or papyrus names a centurion Cornelius; searched Wikipedia (Roman army, Cohors II Italica)."
+person:cornelius-the-centurion,Cornelius the centurion,jewish-literary,none-found,,"Josephus never names him; searched Wikisource (War Book II, Antiquities Book 20)."
+person:cornelius-the-centurion,Cornelius the centurion,greco-roman-literary,n/a,,
+person:cornelius-the-centurion,Cornelius the centurion,material-culture,n/a,,
+person:cornelius-the-centurion,Cornelius the centurion,geography-or-nature,n/a,,
+person:cornelius-the-centurion,Cornelius the centurion,astronomy-or-calendar,n/a,,
+person:simon-the-tanner,Simon the tanner (of Joppa),inscription,none-found,,"No inscription names him; searched Wikipedia (Simon the Tanner (New Testament), Jaffa)."
+person:simon-the-tanner,Simon the tanner (of Joppa),coin,n/a,,
+person:simon-the-tanner,Simon the tanner (of Joppa),structure-or-site,none-found,,"The traditional house site in Old Jaffa is a pilgrimage tradition, not an identified excavation; the fetched Wikipedia article names no excavation of a tannery."
+person:simon-the-tanner,Simon the tanner (of Joppa),burial-or-ossuary,n/a,,
+person:simon-the-tanner,Simon the tanner (of Joppa),manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"P45 preserves 10:10-23 (v.18) and 31-41 (v.32), where he is named; preserves only, never attests."
+person:simon-the-tanner,Simon the tanner (of Joppa),documentary-papyrus,n/a,,
+person:simon-the-tanner,Simon the tanner (of Joppa),jewish-literary,none-found,,Rabbinic literature discusses tanners generally (see the tanning-custom claim in Acts 9) but never this Simon; searched Sefaria.
+person:simon-the-tanner,Simon the tanner (of Joppa),greco-roman-literary,none-found,,No classical author names him; searched Wikipedia (Simon the Tanner (New Testament)).
+person:simon-the-tanner,Simon the tanner (of Joppa),material-culture,none-found,,No tannery installation is published from Joppa excavations; searched Wikipedia (Jaffa).
+person:simon-the-tanner,Simon the tanner (of Joppa),geography-or-nature,n/a,,
+person:simon-the-tanner,Simon the tanner (of Joppa),astronomy-or-calendar,n/a,,
+place:caesarea,Caesarea Maritima,inscription,found,artifact:pilate-stone,"The Pilate stone, found at Caesarea Maritima in 1961, names the prefect at the place."
+place:caesarea,Caesarea Maritima,coin,none-found,,"Caesarea minted coins, but no coin node was entered; searched Wikipedia (Caesarea Maritima) without a fetchable coin naming the place."
+place:caesarea,Caesarea Maritima,structure-or-site,found,site:caesarea-maritima;artifact:pilate-stone,The excavated city with Herod's Sebastos harbour (jetties 22-15 BCE) is the place Acts 10:1 names.
+place:caesarea,Caesarea Maritima,burial-or-ossuary,n/a,,
+place:caesarea,Caesarea Maritima,manuscript,n/a,,A manuscript copy of Acts is not evidence for the place.
+place:caesarea,Caesarea Maritima,documentary-papyrus,none-found,,No documentary papyrus naming Caesarea was fetched; searched Wikipedia (Caesarea Maritima).
+place:caesarea,Caesarea Maritima,jewish-literary,found,text:josephus-ant-15-331-caesarea;text:josephus-war-2-18-7,Josephus names Herod's Caesarea (Ant. 15.8) and locates the Roman garrison there (War 2.18.7).
+place:caesarea,Caesarea Maritima,greco-roman-literary,none-found,,"Classical geographers describe Caesarea, but no passage was fetched this run; searched Wikipedia (Caesarea Maritima)."
+place:caesarea,Caesarea Maritima,material-culture,n/a,,
+place:caesarea,Caesarea Maritima,geography-or-nature,none-found,,"The coastal kurkar ridge and roadstead are described in scholarship, but no fetched source node bears this cell."
+place:caesarea,Caesarea Maritima,astronomy-or-calendar,n/a,,
+place:joppa,Joppa (Jaffa),inscription,none-found,,No inscription naming Joppa was fetched; searched Wikipedia (Jaffa).
+place:joppa,Joppa (Jaffa),coin,none-found,,Searched Wikipedia (Jaffa); no coin naming the city was fetched.
+place:joppa,Joppa (Jaffa),structure-or-site,found,site:joppa,"The ancient tell of Jaffa, settled from the Early Bronze Age, is the port city Acts 10 names; the fetched Wikipedia article reports its excavations."
+place:joppa,Joppa (Jaffa),burial-or-ossuary,n/a,,
+place:joppa,Joppa (Jaffa),manuscript,n/a,,
+place:joppa,Joppa (Jaffa),documentary-papyrus,none-found,,"The Egyptian Papyrus Harris 500 with 'The Taking of Joppa' names the city, but it is New Kingdom literature, not a documentary papyrus of the Acts period; no node entered."
+place:joppa,Joppa (Jaffa),jewish-literary,none-found,,"Josephus mentions Joppa (War 2), but no passage was fetched this run; searched Wikisource (War Book II)."
+place:joppa,Joppa (Jaffa),greco-roman-literary,none-found,,"Classical geographers name Joppa, but no passage was fetched; searched Wikipedia (Jaffa)."
+place:joppa,Joppa (Jaffa),material-culture,n/a,,
+place:joppa,Joppa (Jaffa),geography-or-nature,n/a,,
+place:joppa,Joppa (Jaffa),astronomy-or-calendar,n/a,,

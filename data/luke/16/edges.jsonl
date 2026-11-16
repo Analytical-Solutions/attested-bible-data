@@ -1,0 +1,125 @@
+{"from": "passage:lk-16-09", "type": "asserts", "to": "claim:mt-06-24-mammon"}
+{"from": "passage:lk-16-11", "type": "asserts", "to": "claim:mt-06-24-mammon"}
+{"from": "passage:lk-16-13", "type": "asserts", "to": "claim:mt-06-24-mammon"}
+{"from": "passage:lk-16-13", "type": "asserts", "to": "claim:mt-06-24-two-masters"}
+{"from": "passage:lk-16-17", "type": "asserts", "to": "claim:mt-05-18-law-transmitted-exactly"}
+{"from": "passage:lk-16-18", "type": "asserts", "to": "claim:mk-10-11-adultery-no-exception"}
+{"from": "passage:lk-16-21", "type": "asserts", "to": "claim:mt-15-26-dogs-crumbs"}
+{"from": "passage:lk-16-13", "type": "parallels", "to": "passage:mt-06-24", "note": "The same 'cannot serve two masters / God and mammon' saying."}
+{"from": "passage:lk-16-16", "type": "parallels", "to": "passage:mt-11-13", "note": "Law and prophets until John: Luke 'until John'; Matthew 'all the prophets and the law prophesied until John'."}
+{"from": "passage:lk-16-17", "type": "parallels", "to": "passage:mt-05-18", "note": "The smallest stroke of the law binding: Matthew 'jot or tittle', Luke 'one tiny stroke of a pen' (keraia)."}
+{"from": "passage:lk-16-18", "type": "parallels", "to": "passage:mt-19-09", "note": "Divorce-and-remarriage saying; Matthew 19:9 has the 'except for sexual immorality' clause, Luke (like Mark) does not."}
+{"from": "passage:lk-16-18", "type": "parallels", "to": "passage:mk-10-11", "note": "The same no-exception adultery rule."}
+{"from": "passage:lk-16-18", "type": "parallels", "to": "passage:mk-10-12", "note": "Luke and Mark both add marrying a divorced woman as adultery."}
+{"from": "artifact:bath-measure-jars", "type": "attests", "to": "claim:lk-16-06-batos-oil", "grade": "B", "note": "Jar remains inscribed 'bath' and 'royal bath' at Tell Beit Mirsim name the bath measure itself, which the source fixes at about 22 liters. Iron-age exemplars of the marked-measure practice the verse's batos assumes."}
+{"from": "text:josephus-ant-15-herod-corn", "type": "attests", "to": "claim:lk-16-07-kor-wheat", "grade": "C", "note": "Josephus counts Herod's corn relief 'in cori of wheat, of ten Attic medimni apiece' - the kor as a standard dry measure for wheat in first-century Judea; he gives competing conversions, so the volume stays approximate."}
+{"from": "artifact:babatha-archive", "type": "attests", "to": "claim:lk-16-05-07-debt-bills", "grade": "C", "note": "Babatha's Judean Desert archive preserves a written loan of 60 denarii at 12% interest (Ein Gedi, early 2nd century) - debts of named sums recorded in signed documents; later than the 30s CE."}
+{"from": "text:josephus-war-7-29-purple-cloak", "type": "attests", "to": "claim:lk-16-19-purple-linen", "grade": "C", "note": "Josephus puts Simon bar Giora in a purple cloak - purple garments as the display of wealth and pretension in the period."}
+{"from": "artifact:tekhelet-fabrics", "type": "attests", "to": "claim:lk-16-19-purple-linen", "grade": "C", "note": "Murex-dyed wool fabrics from Masada and Wadi Murabba'at - the excavated murex dye industry behind purple cloth (blue rather than the royal red-purple)."}
+{"from": "text:1-enoch-22", "type": "attests", "to": "claim:lk-16-22-23-afterlife-divided", "grade": "C", "note": "1 Enoch 22 (copies at Qumran) describes separate hollow places where the souls of the dead wait for judgment - a compartmented afterlife in the period; the parable's own geography of bosom and gulf is not thereby attested."}
+{"from": "text:josephus-discourse-hades", "type": "attests", "to": "claim:lk-16-22-23-afterlife-divided", "grade": "D", "note": "The Discourse places the righteous with the fathers and sinners in torment in Hades, but its attribution is disputed - erroneously ascribed to Josephus since at least the 9th century, believed the work of Hippolytus of Rome; a reception text."}
+{"from": "claim:lk-16-01-02-manager-accountable", "type": "documented_by", "to": "source:wikipedia-oikonomos"}
+{"from": "claim:lk-16-05-07-debt-bills", "type": "documented_by", "to": "source:wikipedia-babatha-loan"}
+{"from": "claim:lk-16-19-purple-linen", "type": "documented_by", "to": "source:wikipedia-tyrian-purple"}
+{"from": "claim:lk-16-19-purple-linen", "type": "documented_by", "to": "source:wikipedia-linen-qumran"}
+{"from": "claim:lk-16-22-23-afterlife-divided", "type": "documented_by", "to": "source:wikipedia-bosom-abraham"}
+{"from": "text:josephus-ant-15-herod-corn", "type": "documented_by", "to": "source:wikisource-ant15-corn"}
+{"from": "text:1-enoch-22", "type": "documented_by", "to": "source:wikisource-1-enoch-22"}
+{"from": "text:4-maccabees-13-17", "type": "documented_by", "to": "source:wikipedia-bosom-abraham"}
+{"from": "text:josephus-discourse-hades", "type": "documented_by", "to": "source:wikipedia-discourse-hades"}
+{"from": "text:4-maccabees-13-17", "type": "related_to", "to": "claim:lk-16-22-23-afterlife-divided", "note": "Cross-reference (deuterocanon): martyrs expect that after death 'Abraham, Isaac, and Jacob will receive us' - the bosom of the patriarchs in the period."}
+{"from": "claim:lk-16-16-law-until-john", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:lk-16-22-23-afterlife-divided", "type": "mentions", "to": "person:abraham"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-16-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-16-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-16-31"}

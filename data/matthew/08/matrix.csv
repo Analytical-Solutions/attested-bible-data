@@ -1,0 +1,276 @@
+anchor,label,category,status,findings,note
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,structure-or-site,none-found,,"The mountain of 5-7 is covered by site:mount-of-beatitudes (grade D, commemorative) in data/matthew/05-07; not re-found here. Searched the chapter corpus."
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,jewish-literary,none-found,,Josephus on Galilean crowds was not fetched this run; searched the chapter corpus.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,greco-roman-literary,none-found,,No classical source on Galilean crowds fetched.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,material-culture,n/a,,A crowd leaves no object trace; category cannot bear evidence for this anchor.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,geography-or-nature,none-found,,The hill country of Galilee was not separately sourced; searched the chapter corpus.
+claim:mt-08-01-crowds-followed,Great crowds followed Jesus down from the mountain,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,structure-or-site,found,site:akeldama-tombs,"Grade C: the first-century Tomb of the Shroud in Akeldama - a preserved shrouded burial in Jerusalem; the disease's victims really lived and were buried in the period (Judea, not Galilee)."
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,burial-or-ossuary,found,site:akeldama-tombs;observation:tomb-of-shroud-leprae-dna,Grade C: the shrouded first-century burial yielded M. leprae DNA - the earliest confirmed case; leprosy existed in 1st-century Judea.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,jewish-literary,none-found,,Josephus on disease was not fetched; searched the chapter corpus.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,greco-roman-literary,none-found,,No classical medical text fetched.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,material-culture,none-found,,The burial shroud itself is described on the fetched page but no separate artifact node was created for it; searched the Akeldama page.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,geography-or-nature,none-found,,No disease-ecology source fetched beyond the Akeldama DNA finding.
+claim:mt-08-02-leper-came,A leper came to Jesus asking to be made clean,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,structure-or-site,none-found,,The healing event itself leaves no site; searched the chapter corpus.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,jewish-literary,none-found,,No Josephus passage on healing touch fetched.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,greco-roman-literary,none-found,,No classical healing parallel fetched.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-03-jesus-touched-leper,Jesus touched the leper and cleansed him,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,structure-or-site,found,site:second-temple,Grade C: the Second Temple as the chief place of ritual sacrifice (korban) - the living institution receiving the offering Moses commanded.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,manuscript,n/a,,"A manuscript of Matthew preserves the passage but cannot attest its own claim; Leviticus 14 is entered as a biblical cross-reference (text:leviticus-14, related_to)."
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,jewish-literary,found,text:leviticus-14,"Cross-reference, not evidence: Leviticus 14:2-7 (WEB) is the law of the cleansed leper brought to the priest with offerings; marked biblical:true and linked related_to, so it cannot mark this cell found on its own."
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,greco-roman-literary,none-found,,No classical source on Jewish priestly purification fetched.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,material-culture,none-found,,No offering vessels or birds finds fetched; searched the chapter corpus.
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,geography-or-nature,none-found,,"The journey to the priest implies Judea's Temple, recorded at site:second-temple; no separate geography source."
+claim:mt-08-04-offering-moses-commanded,The cleansed leper's offering that Moses commanded,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,structure-or-site,found,site:capernaum,"Grade B: Capernaum excavated, established 2nd century BC - the town where the meeting is set, at the right place and time."
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,jewish-literary,found,text:josephus-ant-18-113-115,"Josephus, Ant. 18.113-115: in the war with Aretas IV 'they raised armies on both sides' and 'all Herod's army was destroyed' - Antipas kept his own army (grade C); no centurion or Capernaum garrison is named."
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade D: the presence of a Roman officer in Antipas's tetrarchy is disputed (Garrison? visitor from Syria? Antipas's own Roman-style forces? Gundry's three possibilities, cited on the fetched page)."
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,material-culture,none-found,,"No military finds (helmet, standard, camp) at Capernaum fetched; searched the Capernaum article."
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,geography-or-nature,none-found,,Capernaum as a border town is discussed on the Matt 8:5 page (text:matthew-8-5-commentary); no separate geography source.
+claim:mt-08-05-centurion-capernaum,A centurion came to Jesus at Capernaum,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,jewish-literary,found,text:josephus-ant-18-113-115,"Josephus, Ant. 18.113-115 evidences Antipas's standing army and its chain of command - the world of the centurion's saying (grade C); the passage names no centurion."
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade C: the centurion as a Roman-army rank commanding about 100 men, and Carr's note that Antipas's army was 'modelled after the Roman fashion' - a command structure with soldiers under an officer is fully Roman practice."
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-09-command-of-soldiers,The centurion commanded soldiers under authority,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,jewish-literary,none-found,,Eschatological-banquet parallels (Isaiah 25) not fetched as a text node this run; searched the chapter corpus.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,greco-roman-literary,none-found,,"Reclining at banquets (accubitus) was Greco-Roman practice, but no fetchable page on Judean dining posture was found; searched the chapter corpus."
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-11-east-west-banquet,Reclining at the banquet of the Kingdom with the patriarchs,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,structure-or-site,found,site:capernaum-peter-house,Grade C: a first-century dwelling under the octagonal church at Capernaum - the domestic setting; the identification as Peter's house is disputed and recorded as complicates on this claim (review 2 regraded the edge from B and retargeted the person attestation).
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,jewish-literary,none-found,,No source on family households fetched beyond the corpus.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,greco-roman-literary,none-found,,No classical medical text on fevers fetched.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,material-culture,none-found,,Household objects are recorded in data/matthew/04 (basalt mills etc.); not re-fetched for this claim.
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,geography-or-nature,none-found,,"No source on lake-shore fevers (e.g. malaria) was found; searched Wikipedia (Sea of Galilee, Capernaum)."
+claim:mt-08-14-mother-in-law-fever,Peter's mother-in-law sick with fever in Peter's house,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,structure-or-site,none-found,,No exorcism site; the setting (Capernaum houses) is covered by site:capernaum under claim mt-08-05.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,jewish-literary,found,text:josephus-ant-8-eleazar,Grade C: Josephus saw Eleazar 'releasing people that were demoniacal in the presence of Vespasian' - exorcism as practiced Jewish craft in the 1st century (reused from ch 07).
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,greco-roman-literary,none-found,,No classical exorcism source fetched beyond the Josephus witness.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,material-culture,none-found,,Eleazar's ring and root (Josephus) belong to ch 07's record; not re-fetched.
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,geography-or-nature,n/a,,"The practice is attested by texts, not terrain; category cannot add evidence for this anchor."
+claim:mt-08-16-evening-exorcisms,Many possessed with demons brought to Jesus at evening,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,manuscript,found,artifact:great-isaiah-scroll,"Grade C: the Great Isaiah Scroll (ca. 125 BCE) contains the whole Book of Isaiah including chapter 53 - the quoted prophecy is a real pre-Christian Hebrew text; Isaiah 53:4 (WEB) is entered as a biblical cross-reference (text:isaiah-53-4, related_to)."
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,jewish-literary,found,artifact:great-isaiah-scroll,"Grade C: same scroll, counted here for the literary witness of Isaiah 53; the scroll attests the prophecy's existence, not Matthew's act of quoting."
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,greco-roman-literary,none-found,,No LXX (Greek Isaiah) page fetched this run; searched the chapter corpus.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-17-isaiah-53-4-quoted,Matthew quotes Isaiah on taking our infirmities,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,jewish-literary,none-found,,Judges 15 Samson foxes is a biblical cross-reference not entered this run; no rabbinic text fetched.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,greco-roman-literary,none-found,,No classical natural-history page on foxes fetched (Pliny's books in the corpus do not treat fox dens).
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,material-culture,n/a,,Dens are natural features; category cannot add evidence for this anchor.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,geography-or-nature,found,observation:red-fox-range-levant,Grade C: the red fox is the most widely distributed carnivore across the Northern Hemisphere and digs burrows in slopes and ravines - foxes with holes are part of the region's fauna; no first-century Galilee-specific find was fetched.
+claim:mt-08-20-foxes-holes,Foxes have holes and birds have nests,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,structure-or-site,found,site:akeldama-tombs,"Grade C: rock-cut Second Temple period burial caves (Akeldama, Jerusalem) - the burial infrastructure the saying presupposes (Judea; Galilean ossilegium is cited in the Ossuary article's literature)."
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,burial-or-ossuary,found,artifact:second-temple-ossuaries;site:akeldama-tombs,Grade C: primary burial in caves followed by secondary burial in ossuaries was a Second Temple custom - burying a father was a real multi-stage duty that could delay a disciple.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,jewish-literary,none-found,,Mishnah/rabbinic burial texts not fetched this run; searched the Ossuary article's references.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,greco-roman-literary,none-found,,No classical text on Jewish mourning fetched.
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,material-culture,found,artifact:second-temple-ossuaries,"Grade C: limestone ossuaries, about 40% decorated - the physical bone boxes of the secondary-burial custom."
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,geography-or-nature,n/a,,"The custom is attested by finds, not terrain; category cannot add evidence for this anchor."
+claim:mt-08-21-22-bury-their-dead,Burying a father as a duty delaying discipleship,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,structure-or-site,none-found,,Harbours of the lake (e.g. Magdala) are recorded in data/matthew/04; not re-fetched for this claim.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,jewish-literary,none-found,,Josephus's 230 boats figure belongs to data/matthew/04; no new text fetched.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,greco-roman-literary,none-found,,No classical source on lake shipping fetched.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,material-culture,found,artifact:galilee-boat,"Grade C (regraded from B by review 2, matching ch 09): a 1st-century fishing boat from the lake's north-west shore - crossings by boat were ordinary; the boat has no link to Jesus."
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,geography-or-nature,none-found,,The ~13 km width of the lake (fetched Sea of Galilee page) is not tied to a node; the storm text covers the crossing's conditions under claim mt-08-24.
+claim:mt-08-23-boat-crossing,Jesus and his disciples crossed the sea in a boat,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,jewish-literary,none-found,,No rabbinic or Josephus weather text fetched; searched the chapter corpus.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,greco-roman-literary,none-found,,No classical meteorology of the lake fetched.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,geography-or-nature,found,observation:sea-of-galilee-sudden-storms,"Grade C: 'the Sea of Galilee was known for its sudden and fierce storms', attributed to winds arising on Mount Hermon - modern commentary, not ancient testimony or station data."
+claim:mt-08-24-sudden-storm,A violent storm suddenly came up on the sea,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,structure-or-site,found,site:hippos;site:kursi;site:second-temple,"Hippos (grade C): a Decapolis city by the east shore - the Gentile 'other side'. Kursi (grade D): the traditional swine-miracle site, identification disputed. The crossing's start at Capernaum is fixed by site:capernaum."
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,burial-or-ossuary,none-found,,Tombs serve the demoniacs claim; see that row.
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim; the Gergesenes/Gadarenes variant is recorded on text:gergasene-geography and in notes.md.
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,jewish-literary,none-found,,Josephus on Gadara/Hippos was not fetched from Wikisource this run.
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade D: the location is disputed (Gerasa/Gadara/Gergesa; Gadara 10 km from shore; Origen's Gergasa; Kursi and Hippos both claimed) and the manuscripts differ (Gadarenes in most translations, Gergesenes in the KJV)."
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,material-culture,none-found,,No Decapolis coin or artifact naming the district fetched; a known gap (ch 04 lead).
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,geography-or-nature,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade D: the page states the story is set close to the lake but neither Gadara nor Gerasa is on the shore - the geography is itself part of the dispute."
+claim:mt-08-28-country-of-gergesenes,Crossing to the other side into the Gadarene/Gergesene country,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,structure-or-site,found,site:gadara-ancient-tombs;site:kursi,"Gadara's tombs (grade C): tombs recorded still visible at Umm Qais. Kursi (grade D): traditional identification with the demoniac miracle, disputed."
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,burial-or-ossuary,found,site:gadara-ancient-tombs;site:akeldama-tombs,"Grade C: tombs around Gadara (recorded by early visitors) and rock-cut Second Temple burial caves (Akeldama, Judea) - rock-cut tombs were the period's burial places; dwelling 'in the tombs' is a real possibility in such a landscape."
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,jewish-literary,none-found,,No text on tomb-dwelling (cf. Josephus on demoniacs) fetched beyond the Eleazar exorcism witness under claim mt-08-16.
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade C: the fetched page describes the possessed man coming 'from the caves... night and day among the tombs' in the Decapolis setting - the narrative milieu, not independent evidence; counted for setting only."
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,material-culture,none-found,,No tomb finds from the Gadara region fetched (Kursi's crypt burials are Byzantine).
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,geography-or-nature,none-found,,"No separate geography of the tomb landscape fetched; the tombs themselves are recorded under burial-or-ossuary (site:gadara-ancient-tombs, site:akeldama-tombs)."
+claim:mt-08-28-demoniacs-tombs,Demoniacs coming out of the tombs,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,structure-or-site,found,site:kursi,"Grade D: Kursi is the traditional swine-miracle site (Byzantine monastery); it attests the commemorative tradition, not a first-century herd."
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,jewish-literary,none-found,,"Leviticus 11 pork law not entered as a node this run; searched the pork-restriction article, which cites it."
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade C: the Decapolis had minimal Jewish presence, and in the Roman period pork abstinence was the identifiable Jewish marker - a large pig herd fits the Gentile side of the lake."
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,material-culture,none-found,,"Zooarchaeology of pig bones at Decapolis sites was searched (Wikipedia searches: 'pig bones archaeology Israel', 'swine Decapolis archaeology pork', 'pork Galilee Decapolis Roman period consumption') and no fetchable comparative pig-bone source was found; recorded as a gap in notes.md."
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,geography-or-nature,none-found,,No faunal-geography source for the region's pigs fetched; the pork-restriction article's Iron Age pig-bone pattern (Northern Kingdom vs Judah) is centuries earlier and noted as complicating on the text:pork-taboo-roman edges.
+claim:mt-08-30-herd-of-swine,A herd of many pigs feeding near the tombs,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,jewish-literary,none-found,,No Josephus passage on the cliffs of the east shore fetched.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade D: the page notes the location dispute extends to the topography (Gadara 10 km from the shore); the steep-bank setting depends on the disputed identification (Kursi's slope is part of the traditional case)."
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,geography-or-nature,none-found,,The fetched pages do not describe a first-century cliff at any candidate site; searched Kursi and Umm Qais pages.
+claim:mt-08-32-swine-drowned,The herd of pigs rushed down the cliff into the sea,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,jewish-literary,none-found,,No text on Gentile reactions to Jewish exorcists fetched.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,greco-roman-literary,none-found,,No classical source on the Decapolis city's response fetched; the narrative itself is the only witness.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-08-34-city-begged-departure,The whole city begged Jesus to depart,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),inscription,none-found,,"No first-century inscription naming Jesus was encountered; searched this chapter's fetched corpus (Akeldama, Capernaum, Kursi, Umm Qais, verse articles)."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),coin,none-found,,No coin names Jesus; nothing fetched beyond the chapter corpus.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),structure-or-site,found,site:capernaum;site:capernaum-peter-house,The excavated town (grade B for 8:5) and a first-century dwelling (grade C for 8:14) fix Jesus's Capernaum setting; the identification of the house as Peter's is disputed (complicates on the 8:14 claim).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),burial-or-ossuary,none-found,,Burial evidence belongs to Matt 27-28; nothing fetched for Jesus's burial this run (searched the Ossuary article for the bury-my-father claim instead).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),jewish-literary,found,text:josephus-ant-8-eleazar,Grade C: Josephus (Ant. 8.2.5) saw Eleazar releasing demoniacs before Vespasian - the 1st-century Jewish practice milieu of Jesus's exorcisms; it does not name Jesus.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),greco-roman-literary,none-found,,"Tacitus (Annals 15.44) was not fetched this run; searched the chapter corpus (Calming the storm, pork-restriction article)."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),material-culture,found,artifact:galilee-boat,Grade C (regraded from B by review 2): a 1st-century fishing boat from the lake's north-west shore - the vehicle of the chapter's crossings (no link to Jesus himself).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),geography-or-nature,found,observation:sea-of-galilee-sudden-storms;site:kursi,"Grade C: the lake known for sudden fierce storms and the east-shore Decapolis region frame his movements; geography confirms the setting, not the person."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:simon-peter,Simon Peter,inscription,none-found,,No inscription naming Peter was encountered; searched this chapter's corpus (Capernaum pages).
+person:simon-peter,Simon Peter,coin,n/a,,Category cannot bear evidence for this anchor.
+person:simon-peter,Simon Peter,structure-or-site,none-found,,No site attests Peter himself: the dwelling is recorded on the 8:14 claim (grade C setting; the disputed identification as Peter's house is complicates). Review 2 removed the site-to-person edge per the architect's rule.
+person:simon-peter,Simon Peter,burial-or-ossuary,n/a,,Peter's death and burial are outside this chapter; no ossuary bearing on him was sought.
+person:simon-peter,Simon Peter,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+person:simon-peter,Simon Peter,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:simon-peter,Simon Peter,jewish-literary,none-found,,Josephus does not name Peter; nothing fetched beyond the chapter corpus.
+person:simon-peter,Simon Peter,greco-roman-literary,n/a,,No classical author names Peter; category cannot add evidence for this anchor in this chapter.
+person:simon-peter,Simon Peter,material-culture,none-found,,A fisherman's house is implied but no Peter-linked object was fetched; searched the Capernaum small-finds material in data/matthew/04.
+person:simon-peter,Simon Peter,geography-or-nature,none-found,,"Capernaum's lakeside location is attested (Via Maris in ch 04), but nothing ties Peter specifically to it this run."
+person:simon-peter,Simon Peter,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:capernaum,Capernaum,inscription,none-found,,"No Capernaum inscription naming the 1st-century town was fetched; searched Wikipedia (Capernaum, Matthew 8:5)."
+place:capernaum,Capernaum,coin,none-found,,No coin hoard from Capernaum was fetched this run; searched the Capernaum article's finds sections.
+place:capernaum,Capernaum,structure-or-site,found,site:capernaum;site:capernaum-peter-house,Grade B: excavated Hasmonean-to-Byzantine town and first-century domestic dwelling under the octagonal church.
+place:capernaum,Capernaum,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:capernaum,Capernaum,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:capernaum,Capernaum,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:capernaum,Capernaum,jewish-literary,none-found,,Josephus mentions Capernaum's region only indirectly; nothing fetched this run beyond the chapter corpus.
+place:capernaum,Capernaum,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade C: commentary on Matt 8:5 sets Capernaum as a border town of Antipas's tetrarchy facing directly ruled territory - its political geography."
+place:capernaum,Capernaum,material-culture,none-found,,Basalt house finds are recorded in data/matthew/04; no new small-find source fetched for this anchor.
+place:capernaum,Capernaum,geography-or-nature,none-found,,The Via Maris route through Capernaum is recorded in data/matthew/04; not re-fetched this run.
+place:capernaum,Capernaum,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:decapolis,Decapolis,inscription,none-found,,No Decapolis inscription fetched this run; searched Umm Qais and the Gerasene-demoniac pages.
+place:decapolis,Decapolis,coin,none-found,,Gadara's coinage is a lead (seed-leads ch 04 gap); no coin page stating Decapolis minting was fetched.
+place:decapolis,Decapolis,structure-or-site,found,site:hippos;site:kursi,"Grade C: Hippos (Decapolis member, excavated) and Kursi on the region's edge - the league's cities are real, excavated places."
+place:decapolis,Decapolis,burial-or-ossuary,found,site:gadara-ancient-tombs,Grade C: tombs recorded still visible at Gadara (Umm Qais) - burial monuments of a Decapolis city.
+place:decapolis,Decapolis,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:decapolis,Decapolis,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:decapolis,Decapolis,jewish-literary,none-found,,Josephus on the Decapolis was not fetched this run; searched Wikisource Antiquities via the chapter corpus only.
+place:decapolis,Decapolis,greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade C: the Decapolis cities were outside the Roman province of Judaea with minimal Jewish presence in Jesus's time - the league's Gentile character."
+place:decapolis,Decapolis,material-culture,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade C: pork avoidance as the identifiable Jewish marker implies the contrast in the Gentile Decapolis, where pig keeping was unremarkable."
+place:decapolis,Decapolis,geography-or-nature,none-found,,The region's terrain (cliffs to the lake) was not separately sourced; searched Umm Qais and Kursi pages.
+place:decapolis,Decapolis,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",inscription,none-found,,"No Gadara inscription fetched; searched Umm Qais (excavations, museum) - statues and mosaics mentioned but no naming inscription."
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",coin,none-found,,Gadara's minted coinage is a lead from ch 04's seed-leads gap; no fetchable page stating Gadara coins was found this run.
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",structure-or-site,found,site:kursi;site:gadara-ancient-tombs,"Grade C/D: Umm Qais is identified as ancient Gadara with excavated remains (basilica, mausoleum, tombs); the demoniac-country identification is disputed (grade D on text:gergasene-geography)."
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",burial-or-ossuary,found,site:gadara-ancient-tombs,Grade C: tombs still visible on the surface were recorded at Umm Qais in 1806; the Roman mausoleum below the basilica is noted on the page.
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",jewish-literary,none-found,,Josephus on Gadara (Vespasian's capture) was not fetched this run.
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",greco-roman-literary,none-found,,"Only modern secondary summaries found, recorded as documentation on the claim, not as evidence. Grade D: the location dispute itself - neither Gadara nor Gerasa is on the shore, Gadara being 10 km away; Matthew's identification with the local centre of power is one modern reading."
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",material-culture,none-found,,"The Umm Qais museum exhibits Greek statues and mosaics, but no dated 1st-century object source was fetched for this anchor."
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",geography-or-nature,found,source:wikipedia-gerasene-demoniac-gadara,Grade D: the page states the setting is close to the lake but 'neither Gadara nor Gerasa is on the shore itself' (Gadara 10 km away) - the geography complicates the traditional location.
+place:gadara,"Gadara (Umm Qais), Decapolis city east of the Sea of Galilee",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,inscription,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,coin,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,structure-or-site,found,site:hippos;site:kursi,Grade C: excavated east-shore sites (Hippos Decapolis city; Kursi Byzantine monastery) fix settlements on the 'other side'.
+place:sea-of-galilee,Sea of Galilee,burial-or-ossuary,n/a,,"Tombs belong to the Gadara/demoniacs claims, recorded there."
+place:sea-of-galilee,Sea of Galilee,manuscript,n/a,,A manuscript of Matthew preserves the passage but cannot attest its own claim.
+place:sea-of-galilee,Sea of Galilee,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,jewish-literary,none-found,,Josephus's 230-boats figure was not re-fetched from a primary text this run (recorded in data/matthew/04).
+place:sea-of-galilee,Sea of Galilee,greco-roman-literary,none-found,,No classical geography of the lake fetched beyond the chapter corpus; Josephus's Boats figure left in ch 04.
+place:sea-of-galilee,Sea of Galilee,material-culture,found,artifact:galilee-boat,Grade C: the 1st-century boat from the lake's north-west shore - the lake really carried fishing and crossing vessels (the boat's in-chapter edge is graded C).
+place:sea-of-galilee,Sea of Galilee,geography-or-nature,found,observation:sea-of-galilee-sudden-storms,Grade C: the lake 'was known for its sudden and fierce storms' (winds from Mount Hermon) - its meteorological character.
+place:sea-of-galilee,Sea of Galilee,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

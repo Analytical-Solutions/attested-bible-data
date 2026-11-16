@@ -1,0 +1,24 @@
+{
+ "book": "john",
+ "chapter": 9,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    7
+   ],
+   "setting": "site:pool-of-siloam",
+   "confidence": "stated",
+   "basis": "9:7 \"Go, wash in the pool of Siloam\"; 9:11 \"I went away and washed, and I received sight\""
+  },
+  {
+   "verses": [
+    8,
+    41
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "9:8 \"The neighbors therefore, and those who saw that he was blind before\" - the interrogation follows the temple exit (8:59), in Jerusalem"
+  }
+ ]
+}

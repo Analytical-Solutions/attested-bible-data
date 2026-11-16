@@ -1,0 +1,217 @@
+{
+ "source:bible-api-1-maccabees-1-54": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+maccabees+1:54?translation=web"
+ },
+ "source:bible-api-daniel-11-31": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+11:31?translation=web"
+ },
+ "source:bible-api-daniel-7-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+7:13?translation=web"
+ },
+ "source:wikipedia-ad62-pompeii-earthquake": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/AD_62_Pompeii_earthquake"
+ },
+ "source:wikipedia-ad62-pompeii-reliefs": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/AD_62_Pompeii_earthquake"
+ },
+ "source:wikipedia-arch-of-titus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+ },
+ "source:wikipedia-burnt-house": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Burnt_House"
+ },
+ "source:wikipedia-burnt-house-kathros": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Burnt_House"
+ },
+ "source:wikipedia-capernaum-mills": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-fig-breba": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ficus_carica"
+ },
+ "source:wikipedia-halleys-comet": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Halley%27s_Comet"
+ },
+ "source:wikipedia-judaea-capta": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judaea_Capta_coinage"
+ },
+ "source:wikipedia-knowledge-of-christ": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Knowledge_of_Christ"
+ },
+ "source:wikipedia-papyrus-70": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_70"
+ },
+ "source:wikipedia-pella": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pella,_Jordan"
+ },
+ "source:wikipedia-robinsons-arch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Robinson%27s_Arch"
+ },
+ "source:wikipedia-second-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple"
+ },
+ "source:wikipedia-siege-jerusalem-70": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)"
+ },
+ "source:wikipedia-theudas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Theudas"
+ },
+ "source:wikipedia-trumpeting-fallen": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Trumpeting_Place_inscription"
+ },
+ "source:wikipedia-trumpeting-place": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Trumpeting_Place_inscription"
+ },
+ "source:wikipedia-western-wall": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Western_Wall"
+ },
+ "source:wikisource-annals-14-laodicea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_14"
+ },
+ "source:wikisource-ant-18-caligula": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-20-egyptian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-famine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-famine-judea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-theudas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-hist-5-jerusalem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_5"
+ },
+ "source:wikisource-hist-5-prodigies": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_5"
+ },
+ "source:wikisource-philo-embassy": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Embassy_to_Gaius"
+ },
+ "source:wikisource-polybius-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Paton_translation)/Book_VI"
+ },
+ "source:wikisource-tacitus-annals-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+ },
+ "source:wikisource-war-2-egyptian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war-2-sign-prophets": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war-6-chariots": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ },
+ "source:wikisource-war-6-ensigns": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ },
+ "source:wikisource-war-6-false-prophet": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ },
+ "source:wikisource-war-6-house": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ },
+ "source:wikisource-war-6-prodigies": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ },
+ "source:wikisource-war-7-razing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VII"
+ }
+}

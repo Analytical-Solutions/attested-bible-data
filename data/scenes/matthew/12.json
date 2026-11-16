@@ -1,0 +1,33 @@
+{
+  "book": "matthew",
+  "chapter": 12,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        8
+      ],
+      "setting": null,
+      "basis": "12:1 \"Jesus went on the Sabbath day through the grain fields\" - no place named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        9,
+        14
+      ],
+      "setting": null,
+      "basis": "12:9 \"He departed there, and went into their synagogue\" - the town is unnamed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        15,
+        50
+      ],
+      "setting": null,
+      "basis": "12:15 \"Jesus... withdrew from there\"; the healings and discourses follow with no place named (Nineveh, v41, is in speech)",
+      "confidence": "stated"
+    }
+  ]
+}

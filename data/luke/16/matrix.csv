@@ -1,0 +1,100 @@
+anchor,label,category,status,findings,note
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,inscription,none-found,,"No inscribed estate manager; searched the Wikipedia Oikonomos article (fetched, documented_by on the claim) - Greek-world household managers, no inscriptions naming one in Judea."
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,coin,n/a,,No coinage could bear on a household office.
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,structure-or-site,none-found,,Searched for excavated estate/villa complexes with administrative buildings; none fetchable naming a manager's office in Galilee or Judea.
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,documentary-papyrus,none-found,,Searched for papyri naming an oikonomos/epitropos of a Judean estate; none fetchable this run (lead: Egyptian estate-manager papyri are out-of-region parallels).
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,jewish-literary,none-found,,Searched Josephus for estate stewards dismissed for waste; no passage fetched names the office in a private Judean estate.
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,greco-roman-literary,n/a,,Roman villa management (Columella's vilicus) is an out-of-empire-region parallel; the Judean papyrus search covers the custom and found nothing.
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,material-culture,n/a,,No object could bear on the office.
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-01-02-manager-accountable,The estate manager (oikonomos) accountable to his lord,astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",inscription,n/a,,No inscription could plausibly carry written debt instruments.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",coin,n/a,,"No coin could bear on written bills; the sums are in measures, not coins."
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",structure-or-site,n/a,,No site could bear on this anchor.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",documentary-papyrus,found,artifact:babatha-archive,"Babatha's Cave of Letters archive (excavated 1960-61) preserves a written loan of 60 denarii at 12% interest (Ein Gedi, early 2nd century): debts of named sums recorded in signed documentary papyri. Grade C - later than the 30s CE, same Judean practice."
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",jewish-literary,none-found,,Searched for rabbinic loan-document texts (m. Bava Batra on document witnesses); no fetchable page was excerpted this run.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",greco-roman-literary,n/a,,Classical loan practice is parallel material outside the region; the Judean papyrus cell covers the custom.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",material-culture,n/a,,No object could bear on this anchor.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-05-07-debt-bills,"Debts recorded in written bills, reducible",astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,inscription,found,artifact:bath-measure-jars,Jar remains inscribed 'bath' and 'royal bath' (Tell Beit Mirsim) name the bath measure itself on storage jars - the practice of marking jars with a standard liquid measure; Iron-age exemplars.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,coin,n/a,,No coin could bear on a capacity measure.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,structure-or-site,n/a,,No site could bear on this anchor.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,documentary-papyrus,none-found,,Searched for Judean papyri measuring oil in baths; none fetchable this run (Babatha's documents use other terms).
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,jewish-literary,none-found,,"Searched Josephus for the bath measure (Ant. 3, 8, 15 fetched for the kor); no Whiston passage naming the bath in oil accounting was excerpted this run."
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,greco-roman-literary,n/a,,No classical text on the Hebrew bath measure was fetched; the measure is Judean.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,material-culture,found,artifact:bath-measure-jars,The same Tell Beit Mirsim jar remains - marked vessels as excavated measure containers; the source fixes the bath at about 22 liters.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-06-batos-oil,The batos (bath) as a measure of oil,astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,inscription,n/a,,No inscription could plausibly name the kor.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,coin,n/a,,No coin could bear on a dry measure.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,structure-or-site,n/a,,No site could bear on this anchor.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,documentary-papyrus,none-found,,Searched for Judean papyri counting wheat in kors; none fetchable this run (lead: Murabba'at/Nahal Hever grain accounts).
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,jewish-literary,found,text:josephus-ant-15-herod-corn,"Josephus counts Herod's corn relief 'in cori of wheat, of ten Attic medimni apiece' (grade C) - the kor as a standard dry grain measure in first-century Judea; his competing conversions leave the exact volume disputed (recorded in the claim)."
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,greco-roman-literary,n/a,,Josephus's own Sicilian/Athenian comparisons sit inside the Jewish-literary find; no separate classical source fetched.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,material-culture,none-found,,Searched for an excavated kor-volume vessel or standard; none fetchable.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-07-kor-wheat,The kor as a measure of wheat,astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",inscription,n/a,,No inscription could bear on this conversation.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",coin,n/a,,No coin could bear on this anchor.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",structure-or-site,n/a,,No site could bear on this anchor.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",documentary-papyrus,n/a,,No document could bear on this anchor.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",jewish-literary,none-found,,"Searched Josephus on the Pharisees (Ant. 13, 17-18) for a reputation as money-lovers; the sect passages fetched in earlier chapters say nothing of it. 'Lovers of money' rests on the verse alone."
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",greco-roman-literary,n/a,,No classical author could plausibly report this scene.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",material-culture,n/a,,No object could bear on this anchor.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-14-pharisees-scoff,"Pharisees, lovers of money, scoffed",astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-16-law-until-john,The law and the prophets until John,inscription,n/a,,No inscription could bear on this periodization.
+claim:lk-16-16-law-until-john,The law and the prophets until John,coin,n/a,,No coin could bear on this anchor.
+claim:lk-16-16-law-until-john,The law and the prophets until John,structure-or-site,n/a,,No site could bear on this anchor.
+claim:lk-16-16-law-until-john,The law and the prophets until John,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-16-law-until-john,The law and the prophets until John,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-16-law-until-john,The law and the prophets until John,documentary-papyrus,n/a,,No document could bear on this anchor.
+claim:lk-16-16-law-until-john,The law and the prophets until John,jewish-literary,found,text:josephus-ant-18-116-119,"Josephus on John the Baptist (grade C for this claim): John as a real preacher and baptizer in the Jordan region, with crowds, before Herod executed him - the John 'until whom' the saying runs; it attests the minister, not the law-and-prophets periodization."
+claim:lk-16-16-law-until-john,The law and the prophets until John,greco-roman-literary,n/a,,No classical author reports John's ministry.
+claim:lk-16-16-law-until-john,The law and the prophets until John,material-culture,n/a,,No object could bear on this anchor.
+claim:lk-16-16-law-until-john,The law and the prophets until John,geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-16-law-until-john,The law and the prophets until John,astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,inscription,n/a,,No inscription could bear on garment luxury.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,coin,n/a,,No coin could bear on this anchor.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,structure-or-site,none-found,,Searched for an excavated purple-dye workshop in the region (the Wikipedia Tyrian purple article names murex production in North Africa); none fetchable in Judea/Galilee.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,documentary-papyrus,none-found,,Searched for price lists or trade papyri valuing purple; none fetchable this run.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,jewish-literary,found,text:josephus-war-7-29-purple-cloak,Josephus puts Simon bar Giora in a purple cloak as royal display (grade C) - purple garments as the mark of wealth and pretension in the period.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,greco-roman-literary,none-found,,Pliny NH 9 on the cost of Tyrian purple would attest the luxury; not fetched this run - lead noted in notes.md.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,material-culture,found,artifact:tekhelet-fabrics,Murex-dyed wool fabrics from Masada and Wadi Murabba'at (grade C) - the excavated murex dye industry behind purple cloth; blue rather than the red-purple of royal robes.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,geography-or-nature,none-found,,The murex beds of the Phoenician coast would be the natural basis; the fetched Tyrian purple article describes production but no ancient text on the beds was excerpted.
+claim:lk-16-19-purple-linen,Clothed in purple and fine linen,astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,inscription,n/a,,No inscription could bear on this parable scene.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,coin,n/a,,No coin could bear on this anchor.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,structure-or-site,n/a,,No site could bear on this anchor.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,documentary-papyrus,none-found,,Searched for papyri on beggars or public alms; none fetchable this run.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,jewish-literary,none-found,,Searched for Jewish texts on alms-giving at gates; no fetchable passage excerpted this run.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,greco-roman-literary,n/a,,No classical text on this scene is plausible; begging as an empire-wide condition is parallel material only.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,material-culture,found,artifact:ashkelon-dog-cemetery,The Ashkelon dog cemetery (grade C) shows dogs as numerous familiar animals around a Levantine town - context for the street dogs of 16:21; Persian-period and does not attest the scene.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-20-lazarus-beggar,Lazarus the beggar at the gate,astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,inscription,n/a,,No inscription could bear on afterlife belief.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,coin,n/a,,No coin could bear on this anchor.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,structure-or-site,n/a,,No site could bear on this anchor.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,burial-or-ossuary,n/a,,No burial could plausibly bear on the bosom-and-gulf geography.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,manuscript,n/a,,"A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Sinaiticus, Vaticanus and P75 preserve these verses."
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,documentary-papyrus,none-found,,"The Wikipedia Bosom of Abraham article says the concept first occurs in Jewish papyri referring to the 'Bosom of Abraham, Isaac and Jacob'; the specific papyri were not fetchable this run - lead noted."
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,jewish-literary,found,text:1-enoch-22;text:josephus-discourse-hades,"1 Enoch 22 (Qumran-era; grade C): separate hollow places where the souls of the dead wait for judgment. Discourse on Hades (grade D): righteous with Abraham, sinners in torment - attribution disputed (Pseudo-Josephus, believed Hippolytus)."
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,greco-roman-literary,none-found,,The Greco-Roman underworld would be comparative background (the Discourse argues 'against Plato'); no classical text fetched this run.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,material-culture,n/a,,No object could bear on this anchor.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,geography-or-nature,n/a,,No natural data could bear on this anchor.
+claim:lk-16-22-23-afterlife-divided,Abraham's bosom and Hades divided by a gulf,astronomy-or-calendar,n/a,,No calendar datum could bear on this anchor.

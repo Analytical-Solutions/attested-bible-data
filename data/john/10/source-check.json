@@ -1,0 +1,42 @@
+{
+ "source:bible-api-1-maccabees-4-52-59": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+maccabees+4:52-59?translation=web"
+ },
+ "source:bible-api-psalms-82-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalms+82:6?translation=web"
+ },
+ "source:wikipedia-hanukkah-egkainia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Hanukkah"
+ },
+ "source:wikipedia-hanukkah-kislev": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Hanukkah"
+ },
+ "source:wikipedia-pen-enclosure": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pen_(enclosure)"
+ },
+ "source:wikipedia-variants-john-10-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_John"
+ },
+ "source:wikisource-ant-12-lights": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XII"
+ },
+ "source:wikisource-ant-20-solomons-cloister": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ }
+}

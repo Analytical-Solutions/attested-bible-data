@@ -1,0 +1,314 @@
+{"from": "passage:jn-12-01", "type": "asserts", "to": "claim:jn-12-01-six-days-before-passover"}
+{"from": "passage:jn-12-01", "type": "asserts", "to": "claim:jn-12-01-lazarus-raised-in-bethany"}
+{"from": "passage:jn-12-02", "type": "asserts", "to": "claim:jn-12-02-supper-martha-served"}
+{"from": "passage:jn-12-03", "type": "asserts", "to": "claim:jn-12-03-mary-anoints-feet-nard"}
+{"from": "passage:jn-12-05", "type": "asserts", "to": "claim:jn-12-05-three-hundred-denarii"}
+{"from": "passage:jn-12-06", "type": "asserts", "to": "claim:jn-12-06-judas-moneybox-thief"}
+{"from": "passage:jn-12-09", "type": "asserts", "to": "claim:jn-12-09-crowd-to-see-lazarus"}
+{"from": "passage:jn-12-10", "type": "asserts", "to": "claim:jn-12-10-11-plot-against-lazarus"}
+{"from": "passage:jn-12-11", "type": "asserts", "to": "claim:jn-12-10-11-plot-against-lazarus"}
+{"from": "passage:jn-12-12", "type": "asserts", "to": "claim:jn-12-12-13-crowd-went-out-from-jerusalem"}
+{"from": "passage:jn-12-13", "type": "asserts", "to": "claim:jn-12-12-13-crowd-went-out-from-jerusalem"}
+{"from": "passage:jn-12-13", "type": "asserts", "to": "claim:jn-12-13-palm-branches"}
+{"from": "passage:jn-12-13", "type": "asserts", "to": "claim:jn-12-13-hosanna-king-of-israel"}
+{"from": "passage:jn-12-14", "type": "asserts", "to": "claim:jn-12-14-15-donkey-found"}
+{"from": "passage:jn-12-15", "type": "asserts", "to": "claim:jn-12-15-quote-dont-fear-zion"}
+{"from": "passage:jn-12-17", "type": "asserts", "to": "claim:jn-12-17-18-crowd-testified"}
+{"from": "passage:jn-12-18", "type": "asserts", "to": "claim:jn-12-17-18-crowd-testified"}
+{"from": "passage:jn-12-19", "type": "asserts", "to": "claim:jn-12-19-pharisees-nothing-avails"}
+{"from": "passage:jn-12-20", "type": "asserts", "to": "claim:jn-12-20-greeks-worshipers"}
+{"from": "passage:jn-12-21", "type": "asserts", "to": "claim:jn-12-21-22-greeks-to-philip-andrew"}
+{"from": "passage:jn-12-22", "type": "asserts", "to": "claim:jn-12-21-22-greeks-to-philip-andrew"}
+{"from": "passage:jn-12-28", "type": "asserts", "to": "claim:jn-12-28-29-voice-from-sky"}
+{"from": "passage:jn-12-29", "type": "asserts", "to": "claim:jn-12-28-29-voice-from-sky"}
+{"from": "passage:jn-12-34", "type": "asserts", "to": "claim:jn-12-34-christ-remains-forever"}
+{"from": "passage:jn-12-38", "type": "asserts", "to": "claim:jn-12-38-isaiah-53-1-quoted"}
+{"from": "passage:jn-12-39", "type": "asserts", "to": "claim:jn-12-39-40-isaiah-6-10-quoted"}
+{"from": "passage:jn-12-40", "type": "asserts", "to": "claim:jn-12-39-40-isaiah-6-10-quoted"}
+{"from": "passage:jn-12-42", "type": "asserts", "to": "claim:jn-12-42-rulers-believed-secretly"}
+{"from": "claim:jn-12-01-six-days-before-passover", "type": "mentions", "to": "place:bethany"}
+{"from": "claim:jn-12-01-six-days-before-passover", "type": "mentions", "to": "person:lazarus-of-bethany"}
+{"from": "claim:jn-12-01-lazarus-raised-in-bethany", "type": "mentions", "to": "person:lazarus-of-bethany"}
+{"from": "claim:jn-12-01-lazarus-raised-in-bethany", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-02-supper-martha-served", "type": "mentions", "to": "person:martha"}
+{"from": "claim:jn-12-02-supper-martha-served", "type": "mentions", "to": "person:lazarus-of-bethany"}
+{"from": "claim:jn-12-02-supper-martha-served", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-03-mary-anoints-feet-nard", "type": "mentions", "to": "person:mary-of-bethany"}
+{"from": "claim:jn-12-03-mary-anoints-feet-nard", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-05-three-hundred-denarii", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:jn-12-06-judas-moneybox-thief", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:jn-12-09-crowd-to-see-lazarus", "type": "mentions", "to": "person:lazarus-of-bethany"}
+{"from": "claim:jn-12-09-crowd-to-see-lazarus", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-10-11-plot-against-lazarus", "type": "mentions", "to": "person:lazarus-of-bethany"}
+{"from": "claim:jn-12-12-13-crowd-went-out-from-jerusalem", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-12-12-13-crowd-went-out-from-jerusalem", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-14-15-donkey-found", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-17-18-crowd-testified", "type": "mentions", "to": "person:lazarus-of-bethany"}
+{"from": "claim:jn-12-17-18-crowd-testified", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-19-pharisees-nothing-avails", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-21-22-greeks-to-philip-andrew", "type": "mentions", "to": "person:philip-the-apostle"}
+{"from": "claim:jn-12-21-22-greeks-to-philip-andrew", "type": "mentions", "to": "person:andrew"}
+{"from": "claim:jn-12-21-22-greeks-to-philip-andrew", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-28-29-voice-from-sky", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-12-42-rulers-believed-secretly", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "text:pliny-nh-12-nard", "type": "attests", "to": "claim:jn-12-03-mary-anoints-feet-nard", "grade": "C", "note": "Pliny prices nard at 100 denarii a pound with graded leaf preparations at 40-75 denarii: pure nard was a known, costly luxury perfume oil, as 'a pound of ointment of pure nard, very precious' presupposes. He does not price the specific flask."}
+{"from": "text:pliny-nh-12-nard", "type": "attests", "to": "claim:jn-12-05-three-hundred-denarii", "grade": "C", "note": "Pliny prices nard at 100 denarii a pound, showing nard's standing as a luxury oil priced by the pound; his standard price is lower than the gospel's 300-denarii valuation, so the coin figures here are the denarius and Pliny's market context, not an exact match."}
+{"from": "artifact:denarius", "type": "attests", "to": "claim:jn-12-05-three-hundred-denarii", "grade": "C", "note": "The denarius was the standard Roman silver coin and the gospel wage-coin; a valuation 'sold for 300 denarii' is expressed in a coin that was in ordinary use (about a laborer's daily wage, cf. Matthew 20:2)."}
+{"from": "artifact:bar-kokhba-palm-coins", "type": "attests", "to": "claim:jn-12-13-palm-branches", "grade": "C", "note": "Jewish coinage a century later (Bar Kokhba, 132-135 CE) still depicted the lulav (closed date-palm frond) as emblematic Judean imagery; it confirms the palm's symbolic currency in the region, not the 12:13 scene itself."}
+{"from": "observation:jericho-date-palms", "type": "attests", "to": "claim:jn-12-13-palm-branches", "grade": "C", "note": "Date palms grew thickly in the Jordan valley - Pliny ranks Jericho's palms first - so palm branches were locally available for a crowd near Jerusalem; plausibility of the setting, not the event."}
+{"from": "text:josephus-war-6-422-425", "type": "attests", "to": "claim:jn-12-12-13-crowd-went-out-from-jerusalem", "grade": "C", "note": "Josephus preserves Cestius Gallus's count of Passover pilgrims (c. 66 CE), attesting the great festival crowds in and around Jerusalem that John describes as 'a great multitude that had come to the feast'; it dates nothing in John 12 itself."}
+{"from": "artifact:temple-warning-inscription", "type": "attests", "to": "claim:jn-12-20-greeks-worshipers", "grade": "B", "note": "The excavated balustrade inscription barred foreigners from the inner enclosure on pain of death - 'No stranger is to enter within the balustrade round the temple and enclosure. Whoever is caught will be himself responsible for his ensuing death' - so Gentile worshipers like 12:20's Greeks could be present in the outer courts of the Temple while being excluded from the inner courts. It attests the graded Temple setting, not that these Greeks worshiped there. (Reviewer 9: the note's former quote 'no man of another nation' is not on the fetched page; replaced with the inscription text verbatim from it.)"}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:jn-12-38-isaiah-53-1-quoted", "grade": "B", "note": "The Great Isaiah Scroll (1QIsa-a, ca. 125 BCE) contains the entire Book of Isaiah, including chapter 53 verse 1 - the whole quoted verse existed in a pre-Christian Hebrew manuscript. It attests the quoted wording, never that the quotation was 'fulfilled'."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:jn-12-39-40-isaiah-6-10-quoted", "grade": "B", "note": "The Great Isaiah Scroll (ca. 125 BCE) carries the whole of Isaiah 6 including verse 10, the verse John quotes in full - the quoted wording existed in Hebrew long before (reused node and sources from Matthew 13)."}
+{"from": "text:birkat-ha-minim", "type": "attests", "to": "claim:jn-12-42-rulers-believed-secretly", "grade": "D", "note": "J. L. Martyn (1968) linked the curse on the minim to John's expulsion passages (9:22; 12:42; 16:1); the benediction's date is disputed and it may not describe the practice of the 30s CE, so the standing-expulsion reading stays at D (reused node and sources from John 9)."}
+{"from": "claim:jn-12-01-six-days-before-passover", "type": "related_to", "to": "claim:mt-26-06-simon-leper-house", "note": "John dates the Bethany supper and anointing six days before the Passover; Matthew sets the Bethany anointing two days before the Passover (26:2)."}
+{"from": "claim:jn-12-02-supper-martha-served", "type": "related_to", "to": "claim:mt-26-06-simon-leper-house", "note": "John's supper host is unnamed and Lazarus is among the guests; Matthew and Mark set the Bethany anointing in the house of Simon the leper."}
+{"from": "claim:jn-12-02-supper-martha-served", "type": "related_to", "to": "claim:lk-10-38-martha-received", "note": "Martha serves at table again in John 12:2 (at Bethany, six days before Passover); Luke 10:38-39 shows Martha serving and Mary listening at an earlier occasion in a village Luke does not name."}
+{"from": "claim:jn-12-03-mary-anoints-feet-nard", "type": "related_to", "to": "claim:mk-14-03-05-nard", "note": "John names the anointer, Mary of Bethany, who anoints the feet and wipes them with her hair; Mark's unnamed woman breaks the alabaster jar and pours the nard on the head."}
+{"from": "claim:jn-12-03-mary-anoints-feet-nard", "type": "related_to", "to": "claim:mt-26-07-costly-ointment", "note": "John names Mary of Bethany and the anointed part (the feet); Matthew's woman is unnamed and pours the ointment on the head."}
+{"from": "claim:jn-12-05-three-hundred-denarii", "type": "related_to", "to": "claim:mk-14-03-05-nard", "note": "John fixes the value at exactly three hundred denarii, spoken by Judas Iscariot; Mark's unnamed objectors say 'more than three hundred denarii'."}
+{"from": "claim:jn-12-06-judas-moneybox-thief", "type": "related_to", "to": "claim:jn-06-71-judas-iscariot", "note": "John 6:71 introduced Judas son of Simon Iscariot as the one who would betray him; 12:6 adds his role as keeper of the money box and a thief."}
+{"from": "claim:jn-12-12-13-crowd-went-out-from-jerusalem", "type": "related_to", "to": "claim:mt-21-08-branches-cloaks-on-road", "note": "In John the crowd that had come up for the feast hears he is coming and goes out from Jerusalem to meet him; in Matthew 21:8 the crowd around him spreads clothes and branches on the road as he travels toward the city."}
+{"from": "claim:jn-12-13-palm-branches", "type": "related_to", "to": "claim:mt-21-08-branches-cloaks-on-road", "note": "John's crowd carries palm branches (waived in welcome); Matthew says branches cut from the trees and spread on the road, without naming palms."}
+{"from": "claim:jn-12-13-hosanna-king-of-israel", "type": "related_to", "to": "claim:mt-21-09-hosanna-acclamation", "note": "John's crowd acclaims 'the King of Israel'; Matthew's acclaims 'the son of David' (both on Psalm 118:25-26)."}
+{"from": "claim:jn-12-13-hosanna-king-of-israel", "type": "related_to", "to": "claim:lk-19-37-38-king-acclamation", "note": "Luke's disciples acclaim 'Blessed is the King who comes in the name of the Lord'; John's crowd says 'Blessed is he who comes in the name of the Lord, the King of Israel'."}
+{"from": "claim:jn-12-14-15-donkey-found", "type": "related_to", "to": "claim:mt-21-02-03-donkey-and-colt-fetched", "note": "John says Jesus himself found the young donkey and sat on it; Matthew has the disciples fetch a donkey tied with its colt."}
+{"from": "claim:jn-12-14-15-donkey-found", "type": "related_to", "to": "claim:mk-11-02-03-unridden-colt", "note": "John says Jesus found a young donkey; Mark sends the disciples to find an unridden colt tied at a door."}
+{"from": "claim:jn-12-15-quote-dont-fear-zion", "type": "related_to", "to": "claim:mt-21-04-05-zechariah-9-9-quoted", "note": "John quotes a shorter, 'sitting' form of Zechariah 9:9 with 'Don't be afraid, daughter of Zion'; Matthew quotes 'riding on a donkey, on a colt, the foal of a donkey'."}
+{"from": "claim:jn-12-15-quote-dont-fear-zion", "type": "related_to", "to": "text:zechariah-9-9", "note": "Zechariah 9:9 is the passage quoted (biblical cross-reference, not evidence)."}
+{"from": "claim:jn-12-13-hosanna-king-of-israel", "type": "related_to", "to": "text:psalm-118-25-26", "note": "The acclamation's words come from Psalm 118:25-26 (biblical cross-reference, not evidence)."}
+{"from": "claim:jn-12-34-christ-remains-forever", "type": "related_to", "to": "text:2-samuel-7", "note": "2 Samuel 7:12-16 promises David a throne 'established forever' - the 'out of the law' expectation the crowd voices (biblical cross-reference, not evidence)."}
+{"from": "claim:jn-12-20-greeks-worshipers", "type": "related_to", "to": "claim:mt-23-15-proselytes", "note": "John's Greeks 'going up to worship' are Gentile worshipers at the feast; Matthew 23:15 attests scribes and Pharisees making Gentile proselytes in the same period - Gentile affiliation with Jerusalem's cult in two forms."}
+{"from": "claim:jn-12-38-isaiah-53-1-quoted", "type": "related_to", "to": "text:isaiah-53-1", "note": "Isaiah 53:1 is the passage quoted (biblical cross-reference, not evidence). John's wording ('Lord, who has believed our report?') follows the Greek (LXX) form; the WEB Hebrew text reads 'Who has believed our message?'."}
+{"from": "claim:jn-12-39-40-isaiah-6-10-quoted", "type": "related_to", "to": "text:isaiah-6-9-10", "note": "Isaiah 6:9-10 is the passage quoted (biblical cross-reference, not evidence)."}
+{"from": "claim:jn-12-39-40-isaiah-6-10-quoted", "type": "related_to", "to": "claim:mt-13-14-15-isaiah-6-quoted", "note": "The same hardening passage of Isaiah 6; John applies it to the unbelief despite the signs, Matthew to the crowds' dull response to the parables."}
+{"from": "claim:jn-12-42-rulers-believed-secretly", "type": "related_to", "to": "claim:jn-09-22-aposynagogos", "note": "The same aposynagogos threat: 9:22 is the standing agreement against confessing Jesus as Christ (the parents' fear), 12:42 is the believing rulers kept silent by it."}
+{"from": "passage:jn-12-01", "type": "parallels", "to": "passage:mt-26-06", "note": "The anointing supper at Bethany in the final week (John: six days before Passover; Matthew: two days)."}
+{"from": "passage:jn-12-02", "type": "parallels", "to": "passage:mk-14-03", "note": "Reclining at table in Bethany at the anointing supper."}
+{"from": "passage:jn-12-03", "type": "parallels", "to": "passage:mt-26-07", "note": "The anointing with expensive ointment (John: Mary anoints the feet; Matthew: an unnamed woman the head)."}
+{"from": "passage:jn-12-03", "type": "parallels", "to": "passage:mk-14-03", "note": "The anointing with pure nard (John: the feet; Mark: the head, the jar broken)."}
+{"from": "passage:jn-12-04", "type": "parallels", "to": "passage:mk-14-04", "note": "Objection to the ointment's expense (John: Judas; Mark: some present)."}
+{"from": "passage:jn-12-05", "type": "parallels", "to": "passage:mk-14-05", "note": "The 'three hundred denarii' valuation (John: Judas; Mark: unnamed objectors)."}
+{"from": "passage:jn-12-05", "type": "parallels", "to": "passage:mt-26-08", "note": "The disciples' indignant objection that the ointment might have been sold for the poor."}
+{"from": "passage:jn-12-07", "type": "parallels", "to": "passage:mk-14-06", "note": "'Leave her alone' - Jesus defends the anointing."}
+{"from": "passage:jn-12-07", "type": "parallels", "to": "passage:mt-26-10", "note": "'Why do you trouble the woman?' - Jesus defends the anointing."}
+{"from": "passage:jn-12-08", "type": "parallels", "to": "passage:mt-26-11", "note": "'You always have the poor with you, but you don't always have me.'"}
+{"from": "passage:jn-12-08", "type": "parallels", "to": "passage:mk-14-07", "note": "'The poor you always have with you.'"}
+{"from": "passage:jn-12-12", "type": "parallels", "to": "passage:mt-21-01", "note": "The arrival before the entry: John's multitude hears he is coming to Jerusalem; Matthew's approach reaches Bethsphage."}
+{"from": "passage:jn-12-13", "type": "parallels", "to": "passage:mt-21-08", "note": "The crowd's celebratory branches (John: palm branches carried to meet him; Matthew: branches cut and spread on the road)."}
+{"from": "passage:jn-12-13", "type": "parallels", "to": "passage:mt-21-09", "note": "The 'Hosanna! Blessed is he who comes in the name of the Lord' acclamation."}
+{"from": "passage:jn-12-13", "type": "parallels", "to": "passage:mk-11-08", "note": "Branches at the entry (Mark: leafy branches cut and spread; John: palm branches carried)."}
+{"from": "passage:jn-12-13", "type": "parallels", "to": "passage:mk-11-09", "note": "The 'Hosanna! Blessed is he who comes in the name of the Lord' acclamation."}
+{"from": "passage:jn-12-13", "type": "parallels", "to": "passage:lk-19-36", "note": "The crowd's carpet of cloaks/branches as he descends (Luke: cloaks; John: palm branches)."}
+{"from": "passage:jn-12-13", "type": "parallels", "to": "passage:lk-19-37", "note": "The acclamation at the descent of the Mount of Olives."}
+{"from": "passage:jn-12-13", "type": "parallels", "to": "passage:lk-19-38", "note": "'Blessed is the King who comes in the name of the Lord' (John: 'the King of Israel')."}
+{"from": "passage:jn-12-14", "type": "parallels", "to": "passage:mt-21-07", "note": "Jesus mounted for the entry (John: on a young donkey he found; Matthew: on the garments laid on the animals)."}
+{"from": "passage:jn-12-14", "type": "parallels", "to": "passage:mk-11-07", "note": "They brought the colt and Jesus sat on it."}
+{"from": "passage:jn-12-14", "type": "parallels", "to": "passage:lk-19-35", "note": "They set Jesus on the colt with their cloaks."}
+{"from": "passage:jn-12-15", "type": "parallels", "to": "passage:mt-21-05", "note": "The entry narrated with Zechariah 9:9 (John: 'sitting on a donkey's colt' with 'Don't be afraid'; Matthew: 'riding... on a colt, the foal of a donkey')."}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-01"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-02"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-03"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-04"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-05"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-06"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-07"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-08"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-09"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-10"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-11"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-12"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-13"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-14"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-15"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-16"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-17"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-18"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-19"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-20"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-21"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-22"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-23"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-24"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-25"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-26"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-27"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-28"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-29"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-30"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-31"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-32"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-33"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-34"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-35"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-36"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-37"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-38"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-39"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-40"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-41"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-42"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-43"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-44"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-45"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-46"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-47"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-48"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-49"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-12-50"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-36"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-37"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-38"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-39"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-40"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-41"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-42"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-43"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-44"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-45"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-46"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-47"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-48"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-49"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-12-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-12-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-12-50"}
+{"from": "text:isaiah-53-1", "type": "documented_by", "to": "source:bible-api-isaiah-53-1"}
+{"from": "observation:jericho-date-palms", "type": "documented_by", "to": "source:wikipedia-jericho-palms"}
+{"from": "artifact:4q174-florilegium", "type": "documented_by", "to": "source:dss-list-4q174"}
+{"from": "artifact:4q174-florilegium", "type": "attests", "to": "claim:jn-12-34-christ-remains-forever", "grade": "C", "note": "A pre-Christian (Herodian-period) Qumran midrash, a 'Midrash on the Last Days', quotes 2 Samuel 7:10-14 - the eternal-throne promise - with eschatological commentary: the expectation that the Christ remains forever existed in Judea before this crowd. It attests the expectation, not the crowd's words. Regraded B to C by architect review, consistent with Psalms of Solomon 17 and 4Q521: a pre-Christian messianic expectation is context for what a crowd said."}
+{"from": "site:bethany-al-eizariya", "type": "attests", "to": "claim:jn-12-02-supper-martha-served", "grade": "C", "note": "The excavated village of Bethany (al-Eizariya; Saller 1949-1953: houses, wine-presses, cisterns and silos, Persian-to-Roman pottery) confirms the supper's setting village (reused node and sources; the exact ancient site is disputed)."}
+{"from": "text:mishnah-sukkah-4-5", "type": "attests", "to": "claim:jn-12-13-hosanna-king-of-israel", "grade": "C", "note": "The Mishnah records pilgrims circling the altar crying 'Lord, please save us!' (ana Adonai hoshia-na, the origin of 'Hosanna') with branches in hand - the same acclamation-word in Temple festival liturgy, though at Tabernacles; redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}

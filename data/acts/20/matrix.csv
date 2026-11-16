@@ -1,0 +1,342 @@
+anchor,label,category,status,findings,note
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,coin,n/a,,No coin claim.
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,material-culture,n/a,,No object claimed.
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,geography-or-nature,found,site:via-egnatia,B: the Via Egnatia ran across Macedonia from Philippi toward the Adriatic and linked the Macedonian churches - the documented road network of the 'through those parts' tour (same node that served Acts 17:1).
+claim:ac-20-01-paul-to-macedonia,After the Ephesian uproar Paul departed for Macedonia and encouraged the disciples,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",coin,n/a,,No coin claim.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",material-culture,n/a,,No object claimed.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-02-03-greece-three-months,"Paul spent three months in Greece, and a Jewish plot made him return through Macedonia instead of sailing for Syria",astronomy-or-calendar,none-found,,"The three months (probably winter, cf. 1 Cor 16:6) have no external chronological witness; searched Wikipedia on Acts 20 and the graph's calendar nodes."
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,coin,n/a,,No coin claim.
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,material-culture,n/a,,No object claimed.
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,geography-or-nature,none-found,,"The five-day Philippi-Troas sail and seven-day stay are the narrative's own figures; Wikipedia 'Acts 20' discusses the day budget (documented_by on the claim), no independent evidence node entered."
+claim:ac-20-05-06-troas-seven-days,The party sailed from Philippi to Troas in five days and stayed seven days,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,coin,n/a,,No coin claim.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,material-culture,n/a,,No object claimed.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-06-after-unleavened,The departure from Philippi fell immediately after the days of unleavened bread,astronomy-or-calendar,found,artifact:elephantine-passover-letter;text:mishnah-pesachim-5-1,"C: the days of unleavened bread are a defined observance period in the Elephantine Passover Letter (419 BCE) and in the Temple festival schedule of Mishnah Pesachim 5:1 - the festival week Acts dates the departure to, not a witness to this voyage."
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,coin,n/a,,No coin claim.
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,greco-roman-literary,found,text:pliny-epistles-10-96,"C: Pliny reports Bithynian Christians meeting 'on a fixed day' before dawn and sharing a meal - the fixed-day assembly with a common meal, a generation after Acts and in the province next to Asia."
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,material-culture,n/a,,No object claimed.
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-07-first-day-breaking-bread,On the first day of the week the disciples gathered to break bread and Paul spoke until midnight,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,coin,n/a,,No coin claim.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,material-culture,found,artifact:herodian-oil-lamp,"C: the common 1st-century household clay lamp - the kind of light that filled an upper room at night; a Judean type, so context only for a Troas meeting."
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-08-upper-room-lamps,Many lamps burned in the upper room where they were gathered,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,inscription,none-found,,Miracle claim: No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,coin,n/a,,No coin claim.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,structure-or-site,none-found,,Miracle claim: the upper room and third-floor house at Troas are unidentified; no excavation bears on the fall or the revival.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,documentary-papyrus,none-found,,Miracle claim: No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,jewish-literary,none-found,,"Miracle claim: Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,greco-roman-literary,none-found,,Miracle claim: No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,material-culture,n/a,,No object claimed.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,geography-or-nature,none-found,,Miracle claim: No geography evidence beyond what is entered for the places.
+claim:ac-20-09-12-eutychus-raised,Eutychus fell from the third floor and was taken up dead; Paul embraced him and the boy was brought in alive,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,coin,n/a,,No coin claim.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,material-culture,n/a,,No object claimed.
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,geography-or-nature,none-found,,"The Troas-Assos land route and the call at Mitylene rest on the documented_by source (Wikipedia 'Acts 20'); Strabo's Troad book (13.1), which names Assos, was not secured this run."
+claim:ac-20-13-14-assos-mitylene,The ship went on to Assos while Paul went by land; they took him aboard and came to Mitylene,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",coin,n/a,,No coin claim.
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",greco-roman-literary,found,text:strabo-geography-14-1,"B: Strabo 14.1 names the Trogilian promontory, Samos, Chios and Miletus together on the Ionian coast - the very sequence of the 20:15 island-hopping leg; it confirms the setting, not the voyage."
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",material-culture,n/a,,No object claimed.
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",geography-or-nature,found,observation:trogyllium-samos-distance,"B: Strabo's forty stadia (about 7.2 km) between the Trogilian promontory and Samos confirms the short island-hopping leg ('touched at Samos and stayed at Trogyllium'); the setting, not the voyage."
+claim:ac-20-15-itinerary,"From Mitylene the ship passed Chios, touched at Samos, stayed at Trogyllium and came to Miletus",astronomy-or-calendar,none-found,,"The day-counts are the narrative's own; the Wikipedia day-budget analysis (38 days to Pentecost) is modern scholarship, documented_by only."
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",coin,n/a,,No coin claim.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",material-culture,n/a,,No object claimed.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-16-past-ephesus-pentecost,"Paul decided to sail past Ephesus, hastening to be at Jerusalem on the day of Pentecost",astronomy-or-calendar,none-found,,"The fifty-day Passover-to-Pentecost count is the festival calendar itself (claim:ac-02-01-pentecost-feast, related_to); no external witness to this year's deadline; Wikipedia's 38-day budget is modern analysis, documented_by only."
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,inscription,found,artifact:miletus-godfearers-inscription,"C: the reused theatre-seat inscription names Jews and God-fearers at Miletus - the living, inscribed city of the Roman imperial period; later than Acts, and not about the elders."
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,coin,n/a,,No coin claim.
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,structure-or-site,found,site:miletus,"B: the excavated port of Miletus, whose harbour silted and whose neighbours had already lost theirs, is the roadstead where the ship waited while the elders came out from Ephesus (about 40 miles); it attests the setting, not the summons."
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,material-culture,n/a,,No object claimed.
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-17-elders-miletus,From Miletus Paul sent to Ephesus and summoned the elders of the assembly,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,coin,n/a,,No coin claim.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,greco-roman-literary,none-found,,No classical author reports this; searched Wikipedia and the fetched classical pages.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,material-culture,n/a,,No object claimed.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-31-three-years-ephesus,Paul reminded the Ephesian elders of three years of admonition night and day,astronomy-or-calendar,none-found,,The three years round the internal Ephesian chronology of Acts 19 (related_to the school-of-Tyrannus claim); no external chronological witness; searched Wikipedia and the graph's calendar nodes.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',inscription,none-found,,No inscription bears on this claim; searched Wikipedia and the graph's inscription nodes.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',coin,n/a,,No coin claim.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',structure-or-site,none-found,,No excavated structure bears on this claim.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',burial-or-ossuary,n/a,,No burial claim.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',documentary-papyrus,none-found,,No documentary papyrus bears on this claim; searched Wikipedia and the graph's papyrus nodes.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',jewish-literary,none-found,,"Josephus, Philo and the rabbinic corpus have nothing on this event; searched the fetched pages."
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',greco-roman-literary,none-found,,Artisan self-support by a travelling teacher has no fetched classical parallel this run; searched Wikipedia.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',material-culture,none-found,,No artisan tool or workshop find bears on Paul's tentmaking; searched Wikipedia and the graph's material-culture nodes.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',geography-or-nature,none-found,,No geography evidence beyond what is entered for the places.
+claim:ac-20-33-34-worked-hands,Paul told the elders that his own hands served his necessities and his companions',astronomy-or-calendar,n/a,,No dating claim.
+person:aristarchus,Aristarchus of Thessalonica,inscription,found,artifact:thessalonica-politarch-aristarchus,"D: the inscription (IG X,2 1 30) names 'Aristarchus son of Aristarchus, a politarch of Thessalonica' - same city and name; but its date (39/38 BC?) is decades before Acts and the identification is only conjectured."
+person:aristarchus,Aristarchus of Thessalonica,coin,n/a,,No coin could name these private individuals.
+person:aristarchus,Aristarchus of Thessalonica,structure-or-site,n/a,,No site bears on this person as a person.
+person:aristarchus,Aristarchus of Thessalonica,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:aristarchus,Aristarchus of Thessalonica,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:aristarchus,Aristarchus of Thessalonica,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:aristarchus,Aristarchus of Thessalonica,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:aristarchus,Aristarchus of Thessalonica,greco-roman-literary,none-found,,No classical author names this person.
+person:aristarchus,Aristarchus of Thessalonica,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:aristarchus,Aristarchus of Thessalonica,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:aristarchus,Aristarchus of Thessalonica,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+person:eutychus,Eutychus,inscription,none-found,,No inscription names this person; searched the Wikipedia articles on each companion name and the graph's inscription nodes.
+person:eutychus,Eutychus,coin,n/a,,No coin could name these private individuals.
+person:eutychus,Eutychus,structure-or-site,n/a,,No site bears on this person as a person.
+person:eutychus,Eutychus,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:eutychus,Eutychus,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:eutychus,Eutychus,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:eutychus,Eutychus,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:eutychus,Eutychus,greco-roman-literary,none-found,,No classical author names this person.
+person:eutychus,Eutychus,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:eutychus,Eutychus,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:eutychus,Eutychus,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+person:gaius-of-derbe,Gaius of Derbe,inscription,none-found,,No inscription names this person; searched the Wikipedia articles on each companion name and the graph's inscription nodes.
+person:gaius-of-derbe,Gaius of Derbe,coin,n/a,,No coin could name these private individuals.
+person:gaius-of-derbe,Gaius of Derbe,structure-or-site,n/a,,No site bears on this person as a person.
+person:gaius-of-derbe,Gaius of Derbe,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:gaius-of-derbe,Gaius of Derbe,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:gaius-of-derbe,Gaius of Derbe,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:gaius-of-derbe,Gaius of Derbe,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:gaius-of-derbe,Gaius of Derbe,greco-roman-literary,none-found,,No classical author names this person.
+person:gaius-of-derbe,Gaius of Derbe,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:gaius-of-derbe,Gaius of Derbe,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:gaius-of-derbe,Gaius of Derbe,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+person:paul-of-tarsus,Paul (Saul of Tarsus),inscription,n/a,,"Paul carries no inscription in this chapter; his nodes and evidence are held in earlier chapters (Sergius Paulus boundary stone, 13; Gallio, 18; Ephesus inscriptions, 19)."
+person:paul-of-tarsus,Paul (Saul of Tarsus),coin,n/a,,No coin could name these private individuals.
+person:paul-of-tarsus,Paul (Saul of Tarsus),structure-or-site,none-found,,No excavated structure bears on Paul himself in this chapter; the Miletus site is linked through the place and the elders claim.
+person:paul-of-tarsus,Paul (Saul of Tarsus),burial-or-ossuary,none-found,,No tomb or burial inscription of Paul is excavated; the Roman traditions are late reception.
+person:paul-of-tarsus,Paul (Saul of Tarsus),manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:paul-of-tarsus,Paul (Saul of Tarsus),documentary-papyrus,none-found,,No papyrus record of the third-journey itinerary; searched Wikipedia on Acts 20 and the graph's papyrus nodes.
+person:paul-of-tarsus,Paul (Saul of Tarsus),jewish-literary,none-found,,Josephus never mentions Paul; searched the fetched Josephus pages.
+person:paul-of-tarsus,Paul (Saul of Tarsus),greco-roman-literary,none-found,,No classical author mentions Paul's Macedonian-Achaian tour or the Miletus farewell; Tacitus and Suetonius are silent.
+person:paul-of-tarsus,Paul (Saul of Tarsus),material-culture,n/a,,No object claimed for him in this chapter beyond the lamps of 20:8 (a setting claim).
+person:paul-of-tarsus,Paul (Saul of Tarsus),geography-or-nature,none-found,,"The Via Egnatia geography (site:via-egnatia, data/acts/17) and Strabo's Ionian coast bear on the itinerary claims, not on Paul personally."
+person:paul-of-tarsus,Paul (Saul of Tarsus),astronomy-or-calendar,n/a,,No dating claim tied to him.
+person:secundus-of-thessalonica,Secundus of Thessalonica,inscription,none-found,,No inscription names this person; searched the Wikipedia articles on each companion name and the graph's inscription nodes.
+person:secundus-of-thessalonica,Secundus of Thessalonica,coin,n/a,,No coin could name these private individuals.
+person:secundus-of-thessalonica,Secundus of Thessalonica,structure-or-site,n/a,,No site bears on this person as a person.
+person:secundus-of-thessalonica,Secundus of Thessalonica,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:secundus-of-thessalonica,Secundus of Thessalonica,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:secundus-of-thessalonica,Secundus of Thessalonica,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:secundus-of-thessalonica,Secundus of Thessalonica,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:secundus-of-thessalonica,Secundus of Thessalonica,greco-roman-literary,none-found,,No classical author names this person.
+person:secundus-of-thessalonica,Secundus of Thessalonica,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:secundus-of-thessalonica,Secundus of Thessalonica,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:secundus-of-thessalonica,Secundus of Thessalonica,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+person:sopater-of-beroea,Sopater of Beroea,inscription,none-found,,No inscription names this person; searched the Wikipedia articles on each companion name and the graph's inscription nodes.
+person:sopater-of-beroea,Sopater of Beroea,coin,n/a,,No coin could name these private individuals.
+person:sopater-of-beroea,Sopater of Beroea,structure-or-site,n/a,,No site bears on this person as a person.
+person:sopater-of-beroea,Sopater of Beroea,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:sopater-of-beroea,Sopater of Beroea,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:sopater-of-beroea,Sopater of Beroea,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:sopater-of-beroea,Sopater of Beroea,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:sopater-of-beroea,Sopater of Beroea,greco-roman-literary,none-found,,No classical author names this person.
+person:sopater-of-beroea,Sopater of Beroea,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:sopater-of-beroea,Sopater of Beroea,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:sopater-of-beroea,Sopater of Beroea,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+person:timothy,Timothy of Lystra,inscription,none-found,,No inscription names this person; searched the Wikipedia articles on each companion name and the graph's inscription nodes.
+person:timothy,Timothy of Lystra,coin,n/a,,No coin could name these private individuals.
+person:timothy,Timothy of Lystra,structure-or-site,n/a,,No site bears on this person as a person.
+person:timothy,Timothy of Lystra,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:timothy,Timothy of Lystra,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:timothy,Timothy of Lystra,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:timothy,Timothy of Lystra,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:timothy,Timothy of Lystra,greco-roman-literary,none-found,,No classical author names this person.
+person:timothy,Timothy of Lystra,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:timothy,Timothy of Lystra,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:timothy,Timothy of Lystra,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+person:trophimus,Trophimus the Ephesian,inscription,none-found,,No inscription names this person; searched the Wikipedia articles on each companion name and the graph's inscription nodes.
+person:trophimus,Trophimus the Ephesian,coin,n/a,,No coin could name these private individuals.
+person:trophimus,Trophimus the Ephesian,structure-or-site,n/a,,No site bears on this person as a person.
+person:trophimus,Trophimus the Ephesian,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:trophimus,Trophimus the Ephesian,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:trophimus,Trophimus the Ephesian,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:trophimus,Trophimus the Ephesian,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:trophimus,Trophimus the Ephesian,greco-roman-literary,none-found,,No classical author names this person.
+person:trophimus,Trophimus the Ephesian,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:trophimus,Trophimus the Ephesian,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:trophimus,Trophimus the Ephesian,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+person:tychicus,Tychicus,inscription,none-found,,No inscription names this person; searched the Wikipedia articles on each companion name and the graph's inscription nodes.
+person:tychicus,Tychicus,coin,n/a,,No coin could name these private individuals.
+person:tychicus,Tychicus,structure-or-site,n/a,,No site bears on this person as a person.
+person:tychicus,Tychicus,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription is excavated or identified; the saint traditions are late reception."
+person:tychicus,Tychicus,manuscript,n/a,,"The codices and P74 preserve the text itself; preserves edges, never attests."
+person:tychicus,Tychicus,documentary-papyrus,none-found,,No papyrus names this person; searched the Wikipedia articles on the Acts 20:4 names.
+person:tychicus,Tychicus,jewish-literary,none-found,,Josephus and Philo never mention this person; searched the fetched Josephus pages and indexes.
+person:tychicus,Tychicus,greco-roman-literary,none-found,,No classical author names this person.
+person:tychicus,Tychicus,material-culture,n/a,,No object is claimed for this person in this chapter.
+person:tychicus,Tychicus,geography-or-nature,n/a,,No geography claim tied to this person individually.
+person:tychicus,Tychicus,astronomy-or-calendar,n/a,,No dating claim tied to this person.
+place:assos,Assos,inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:assos,Assos,coin,n/a,,No coin claim.
+place:assos,Assos,structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:assos,Assos,burial-or-ossuary,n/a,,No burial claim.
+place:assos,Assos,manuscript,n/a,,No manuscript bears on the place.
+place:assos,Assos,documentary-papyrus,n/a,,No document bears on the place.
+place:assos,Assos,jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:assos,Assos,greco-roman-literary,none-found,,No fetched classical passage names it; Strabo's relevant books not secured this run (recorded in notes).
+place:assos,Assos,material-culture,n/a,,No object claimed.
+place:assos,Assos,geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:assos,Assos,astronomy-or-calendar,n/a,,No dating claim.
+place:chios,Chios,inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:chios,Chios,coin,n/a,,No coin claim.
+place:chios,Chios,structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:chios,Chios,burial-or-ossuary,n/a,,No burial claim.
+place:chios,Chios,manuscript,n/a,,No manuscript bears on the place.
+place:chios,Chios,documentary-papyrus,n/a,,No document bears on the place.
+place:chios,Chios,jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:chios,Chios,greco-roman-literary,found,text:strabo-geography-14-1,A: Strabo names Chios in the Ionian seaboard sequence 'as far as Phocaea and Chios and Samos' (14.1.3) - the island Acts 20:15 passes.
+place:chios,Chios,material-culture,n/a,,No object claimed.
+place:chios,Chios,geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:chios,Chios,astronomy-or-calendar,n/a,,No dating claim.
+place:greece,Greece (Achaia),inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:greece,Greece (Achaia),coin,n/a,,No coin claim.
+place:greece,Greece (Achaia),structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:greece,Greece (Achaia),burial-or-ossuary,n/a,,No burial claim.
+place:greece,Greece (Achaia),manuscript,n/a,,No manuscript bears on the place.
+place:greece,Greece (Achaia),documentary-papyrus,n/a,,No document bears on the place.
+place:greece,Greece (Achaia),jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:greece,Greece (Achaia),greco-roman-literary,none-found,,Achaia as a senatorial province rests on the documented_by Wikipedia source; no fetched classical passage this run.
+place:greece,Greece (Achaia),material-culture,n/a,,No object claimed.
+place:greece,Greece (Achaia),geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:greece,Greece (Achaia),astronomy-or-calendar,n/a,,No dating claim.
+place:macedonia,Macedonia (Roman province),inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:macedonia,Macedonia (Roman province),coin,n/a,,No coin claim.
+place:macedonia,Macedonia (Roman province),structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:macedonia,Macedonia (Roman province),burial-or-ossuary,n/a,,No burial claim.
+place:macedonia,Macedonia (Roman province),manuscript,n/a,,No manuscript bears on the place.
+place:macedonia,Macedonia (Roman province),documentary-papyrus,n/a,,No document bears on the place.
+place:macedonia,Macedonia (Roman province),jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:macedonia,Macedonia (Roman province),greco-roman-literary,none-found,,Strabo names Macedonia but the passage was not fetched this run; the province's 146 BC creation rests on the documented_by Wikipedia source.
+place:macedonia,Macedonia (Roman province),material-culture,n/a,,No object claimed.
+place:macedonia,Macedonia (Roman province),geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:macedonia,Macedonia (Roman province),astronomy-or-calendar,n/a,,No dating claim.
+place:miletus,Miletus,inscription,found,artifact:miletus-godfearers-inscription,C: the reused Miletus theatre-seat inscription (CIJ 748) for Jews and God-fearers is epigraphy of the excavated city; later than Acts.
+place:miletus,Miletus,coin,n/a,,No coin claim.
+place:miletus,Miletus,structure-or-site,found,site:miletus,"A: the excavated city - Rayet 1873, Huelsen and Wiegand 1899-1931, Bochum today; Market Gate reassembled in Berlin."
+place:miletus,Miletus,burial-or-ossuary,n/a,,No burial claim.
+place:miletus,Miletus,manuscript,n/a,,No manuscript bears on the place.
+place:miletus,Miletus,documentary-papyrus,n/a,,No document bears on the place.
+place:miletus,Miletus,jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:miletus,Miletus,greco-roman-literary,found,text:strabo-geography-14-1,A: Strabo names Miletus repeatedly and bounds the Ionian coast 'from the Poseidium of the Milesians' (14.1.1-7).
+place:miletus,Miletus,material-culture,n/a,,No object claimed.
+place:miletus,Miletus,geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:miletus,Miletus,astronomy-or-calendar,n/a,,No dating claim.
+place:mitylene,Mitylene (Mytilene),inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:mitylene,Mitylene (Mytilene),coin,n/a,,No coin claim.
+place:mitylene,Mitylene (Mytilene),structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:mitylene,Mitylene (Mytilene),burial-or-ossuary,n/a,,No burial claim.
+place:mitylene,Mitylene (Mytilene),manuscript,n/a,,No manuscript bears on the place.
+place:mitylene,Mitylene (Mytilene),documentary-papyrus,n/a,,No document bears on the place.
+place:mitylene,Mitylene (Mytilene),jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:mitylene,Mitylene (Mytilene),greco-roman-literary,none-found,,No fetched classical passage names it; Strabo's relevant books not secured this run (recorded in notes).
+place:mitylene,Mitylene (Mytilene),material-culture,n/a,,No object claimed.
+place:mitylene,Mitylene (Mytilene),geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:mitylene,Mitylene (Mytilene),astronomy-or-calendar,n/a,,No dating claim.
+place:samos,Samos,inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:samos,Samos,coin,n/a,,No coin claim.
+place:samos,Samos,structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:samos,Samos,burial-or-ossuary,n/a,,No burial claim.
+place:samos,Samos,manuscript,n/a,,No manuscript bears on the place.
+place:samos,Samos,documentary-papyrus,n/a,,No document bears on the place.
+place:samos,Samos,jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:samos,Samos,greco-roman-literary,found,text:strabo-geography-14-1,"A: Strabo names Samos, 'both it and its harbor', and the strait between Mycale and Samos (14.1.20) - the island Acts 20:15 touches."
+place:samos,Samos,material-culture,n/a,,No object claimed.
+place:samos,Samos,geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:samos,Samos,astronomy-or-calendar,n/a,,No dating claim.
+place:syria,Syria (Roman province),inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:syria,Syria (Roman province),coin,n/a,,No coin claim.
+place:syria,Syria (Roman province),structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:syria,Syria (Roman province),burial-or-ossuary,n/a,,No burial claim.
+place:syria,Syria (Roman province),manuscript,n/a,,No manuscript bears on the place.
+place:syria,Syria (Roman province),documentary-papyrus,n/a,,No document bears on the place.
+place:syria,Syria (Roman province),jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:syria,Syria (Roman province),greco-roman-literary,none-found,,No fetched classical passage names it; Strabo's relevant books not secured this run (recorded in notes).
+place:syria,Syria (Roman province),material-culture,n/a,,No object claimed.
+place:syria,Syria (Roman province),geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:syria,Syria (Roman province),astronomy-or-calendar,n/a,,No dating claim.
+place:trogyllium,Trogyllium (promontory of Mycale),inscription,none-found,,No inscription naming the place was secured this run; searched Wikipedia.
+place:trogyllium,Trogyllium (promontory of Mycale),coin,n/a,,No coin claim.
+place:trogyllium,Trogyllium (promontory of Mycale),structure-or-site,none-found,,No excavation page secured as a site node this run; searched Wikipedia.
+place:trogyllium,Trogyllium (promontory of Mycale),burial-or-ossuary,n/a,,No burial claim.
+place:trogyllium,Trogyllium (promontory of Mycale),manuscript,n/a,,No manuscript bears on the place.
+place:trogyllium,Trogyllium (promontory of Mycale),documentary-papyrus,n/a,,No document bears on the place.
+place:trogyllium,Trogyllium (promontory of Mycale),jewish-literary,none-found,,Josephus does not narrate this place in this connection; nothing fetchable.
+place:trogyllium,Trogyllium (promontory of Mycale),greco-roman-literary,found,text:strabo-geography-14-1,"A: Strabo names 'the promontory called Trogilian' and says it is 'a kind of spur of Mt. Mycale' (14.1.20) - the same cape, forty stadia from Samos."
+place:trogyllium,Trogyllium (promontory of Mycale),material-culture,n/a,,No object claimed.
+place:trogyllium,Trogyllium (promontory of Mycale),geography-or-nature,none-found,,The modern-scholarship geography rests on the documented_by source; no independent fetched geography evidence.
+place:trogyllium,Trogyllium (promontory of Mycale),astronomy-or-calendar,n/a,,No dating claim.

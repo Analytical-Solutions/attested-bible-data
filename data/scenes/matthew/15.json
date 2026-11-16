@@ -1,0 +1,42 @@
+{
+  "book": "matthew",
+  "chapter": 15,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        20
+      ],
+      "setting": "place:gennesaret",
+      "basis": "15:1 Pharisees and scribes come to Jesus with no movement of Jesus; continuing 14:34 \"the land of Gennesaret\"",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        21,
+        28
+      ],
+      "setting": null,
+      "basis": "15:21 \"withdrew into the region of Tyre and Sidon\" - no single graph id for the Tyre-and-Sidon region",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        29,
+        38
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "15:29 \"Jesus departed from there, and came near to the sea of Galilee; and he went up into the mountain, and sat there\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        39,
+        39
+      ],
+      "setting": "place:magdala",
+      "basis": "15:39 \"he sent away the multitudes, got into the boat, and came into the borders of Magdala\"",
+      "confidence": "stated"
+    }
+  ]
+}

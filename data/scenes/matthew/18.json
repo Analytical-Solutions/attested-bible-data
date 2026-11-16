@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 18,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        35
+      ],
+      "setting": "place:capernaum",
+      "basis": "18:1 \"In that hour\" - continuing 17:24-25 \"they had come to Capernaum... he came into the house\", no movement",
+      "confidence": "inferred"
+    }
+  ]
+}

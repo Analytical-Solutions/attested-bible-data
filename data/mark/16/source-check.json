@@ -1,0 +1,22 @@
+{
+ "source:wikipedia-mark-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mark_16"
+ },
+ "source:wikipedia-mark-16-freer": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mark_16"
+ },
+ "source:wikipedia-mark-16-irenaeus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mark_16"
+ },
+ "source:wikisource-war1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "source:wikipedia-bosom-abraham": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bosom_of_Abraham"
+ },
+ "source:wikipedia-discourse-hades": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Discourse_to_the_Greeks_concerning_Hades"
+ },
+ "source:wikipedia-linen-qumran": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Linen"
+ },
+ "source:wikipedia-oikonomos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Oikonomos"
+ },
+ "source:wikipedia-p75-nineue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ },
+ "source:wikipedia-tyrian-purple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+ },
+ "source:wikisource-1-enoch-22": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_22"
+ },
+ "source:wikisource-ant15-corn": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ }
+}

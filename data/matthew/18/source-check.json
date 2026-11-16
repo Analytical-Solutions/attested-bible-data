@@ -1,0 +1,157 @@
+{
+ "source:archive-schechter-damascus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:bible-api-deuteronomy-19-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+19:15?translation=web"
+ },
+ "source:bible-api-genesis-4-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+4:24?translation=web"
+ },
+ "source:burrows-1956-1qs-truth": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://archive.org/download/in.gov.ignca.5026/5026_djvu.txt"
+ },
+ "source:burrows-1956-1qs-witnesses": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://archive.org/download/in.gov.ignca.5026/5026_djvu.txt"
+ },
+ "source:schechter-cd9-censor": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:schechter-cd9-judges": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:schechter-cd9-rebuke": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:schechter-cd9-witnesses": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:sefaria-avot-3-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Avot.3.2"
+ },
+ "source:sefaria-avot-3-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Avot.3.6"
+ },
+ "source:wikipedia-babatha": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Babatha"
+ },
+ "source:wikipedia-binding-loosing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Binding_and_loosing"
+ },
+ "source:wikipedia-capernaum-finds": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-mills": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-community-rule": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Community_Rule"
+ },
+ "source:wikipedia-damascus-document": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Damascus_Document"
+ },
+ "source:wikipedia-denarius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Denarius"
+ },
+ "source:wikipedia-gehenna": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gehenna"
+ },
+ "source:wikipedia-gehenna-targum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gehenna"
+ },
+ "source:wikipedia-guardian-angel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Guardian_angel"
+ },
+ "source:wikipedia-millstone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Millstone"
+ },
+ "source:wikipedia-millstone-pompeii": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Millstone"
+ },
+ "source:wikipedia-sheep": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sheep"
+ },
+ "source:wikipedia-slavery-rome": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Rome"
+ },
+ "source:wikipedia-songs-sabbath": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Songs_of_the_Sabbath_Sacrifice"
+ },
+ "source:wikipedia-talent": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Talent_(measurement)"
+ },
+ "source:wikipedia-tax-collector": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tax_collector"
+ },
+ "source:wikisource-ant-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-suetonius-augustus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars/Augustus"
+ },
+ "source:wikisource-war1-bind-loose": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ }
+}

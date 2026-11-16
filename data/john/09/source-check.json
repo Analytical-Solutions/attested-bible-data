@@ -1,0 +1,97 @@
+{
+ "source:bible-api-deuteronomy-34-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+34:10?translation=web"
+ },
+ "source:sefaria-mishnah-shabbat-7-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shabbat.7.2"
+ },
+ "source:sefaria-shabbat-55a": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Shabbat.55a"
+ },
+ "source:sefaria-shabbat-7-2-kneading": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shabbat.7.2"
+ },
+ "source:wikipedia-4q521": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/4Q521"
+ },
+ "source:wikipedia-4q521-blind": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/4Q521"
+ },
+ "source:wikipedia-birkat-haminim": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Birkat_haMinim"
+ },
+ "source:wikipedia-birkat-martyn": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Birkat_haMinim"
+ },
+ "source:wikipedia-birkat-no-ban": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Birkat_haMinim"
+ },
+ "source:wikipedia-birkat-no-herem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Birkat_haMinim"
+ },
+ "source:wikipedia-man-born-blind": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Healing_the_man_blind_from_birth"
+ },
+ "source:wikipedia-man-born-blind-disciples": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Healing_the_man_blind_from_birth"
+ },
+ "source:wikipedia-pool-of-siloam": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Siloam"
+ },
+ "source:wikipedia-pool-of-siloam-byzantine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Siloam"
+ },
+ "source:wikipedia-pool-of-siloam-jannaeus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Siloam"
+ },
+ "source:wikipedia-siloam-inscription": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Siloam_inscription"
+ },
+ "source:wikipedia-tv-john-9-35": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_John"
+ },
+ "source:wikisource-tacitus-histories-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_4"
+ },
+ "source:wikisource-war5-siloam": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

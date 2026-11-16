@@ -1,0 +1,127 @@
+{
+ "source:attalus-cicero-pro-flacco": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.attalus.org/cicero/flaccus2.html"
+ },
+ "source:bible-api-1-corinthians-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+corinthians+1:1?translation=web"
+ },
+ "source:bible-api-1-corinthians-1-14": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+corinthians+1:14?translation=web"
+ },
+ "source:bible-api-1-corinthians-16-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+corinthians+16:19?translation=web"
+ },
+ "source:bible-api-1-peter-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+peter+1:1?translation=web"
+ },
+ "source:bibleplaces-corinth-bema": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.bibleplaces.com/blog/2013/08/picture-of-week-bema-at-corinth/"
+ },
+ "source:holylandphotos-corinth-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://holylandphotos.org/photos/GSPLCO02"
+ },
+ "source:holylandphotos-corinth-synagogue-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://holylandphotos.org/photos/GSPLCO02"
+ },
+ "source:sefaria-kiddushin-29a": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Kiddushin.29a?lang=bi"
+ },
+ "source:sefaria-mishnah-nazir-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Nazir.6?lang=bi"
+ },
+ "source:wikipedia-acts-18-cenchreae": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_18"
+ },
+ "source:wikipedia-ancient-corinth": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ancient_Corinth"
+ },
+ "source:wikipedia-claudius-expulsion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Claudius%27_expulsion_of_Jews_from_Rome"
+ },
+ "source:wikipedia-claudius-expulsion-dio": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Claudius%27_expulsion_of_Jews_from_Rome"
+ },
+ "source:wikipedia-claudius-expulsion-orosius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Claudius%27_expulsion_of_Jews_from_Rome"
+ },
+ "source:wikipedia-delphi-inscription": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Delphi_Inscription"
+ },
+ "source:wikipedia-delphi-inscription-gallio": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Delphi_Inscription"
+ },
+ "source:wikipedia-delphi-inscription-text": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Delphi_Inscription"
+ },
+ "source:wikipedia-ephesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephesus"
+ },
+ "source:wikipedia-gallio": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lucius_Junius_Gallio_Annaeanus"
+ },
+ "source:wikipedia-gallio-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lucius_Junius_Gallio_Annaeanus"
+ },
+ "source:wikipedia-kechries": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Kechries"
+ },
+ "source:wikipedia-proconsul-tenure": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Proconsul"
+ },
+ "source:wikipedia-tv-acts-18-26": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Acts_of_the_Apostles"
+ },
+ "source:wikisource-suetonius-claudius-expelled": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars/Claudius"
+ }
+}

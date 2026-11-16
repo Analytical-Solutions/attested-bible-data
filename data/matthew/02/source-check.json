@@ -1,0 +1,127 @@
+{
+ "source:nasa-eclipse-1-bce": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE-0099-0000.html"
+ },
+ "source:nasa-eclipse-4-bce": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE-0099-0000.html"
+ },
+ "source:wikipedia-archelaus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Archelaus"
+ },
+ "source:wikipedia-bethlehem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethlehem"
+ },
+ "source:wikipedia-church-of-the-nativity": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Church_of_the_Nativity"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-flight-into-egypt": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Flight_into_Egypt"
+ },
+ "source:wikipedia-herod-eclipse": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_the_Great"
+ },
+ "source:wikipedia-herod-eclipse-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_the_Great"
+ },
+ "source:wikipedia-herod-the-great": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_the_Great"
+ },
+ "source:wikipedia-herodian-coinage": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodian_coinage"
+ },
+ "source:wikipedia-herodian-coinage-archelaus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodian_coinage"
+ },
+ "source:wikipedia-herodium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodium"
+ },
+ "source:wikipedia-magi": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magi"
+ },
+ "source:wikipedia-massacre": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents"
+ },
+ "source:wikipedia-massacre-macrobius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents"
+ },
+ "source:wikipedia-nazareth": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nazareth"
+ },
+ "source:wikipedia-nazareth-inscription": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nazareth"
+ },
+ "source:wikisource-ant13-onias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIII"
+ },
+ "source:wikisource-ant17-archelaus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant17-banished": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant17-cruelty": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant17-eclipse": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant17-herod-death": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-herodotus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_History_of_Herodotus_(Rawlinson)/Book_1"
+ }
+}

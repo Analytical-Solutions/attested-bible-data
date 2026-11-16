@@ -1,0 +1,870 @@
+anchor,label,category,status,findings,note
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,inscription,none-found,,"No inscription names Antipas tetrarch; his coins are the primary epigraphic source (searched Wikipedia, Herod Antipas)."
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,coin,found,artifact:antipas-coins,"Antipas's coins name him 'tetrarch' across his 42-year rule, which covers the fifteenth year of Tiberius (A)."
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,structure-or-site,none-found,,"Antipas founded Tiberias (Ant. 18.36, under jewish-literary) but no excavated structure tied to this office claim was entered; searched Wikipedia (Tiberias, Herod Antipas)."
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,burial-or-ossuary,n/a,,
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,documentary-papyrus,none-found,,No documentary papyrus naming Antipas's tetrarchy found.
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,jewish-literary,found,text:josephus-ant-17-320-tribute;text:josephus-ant-18-36-38-tiberias,Ant. 17.320: Galilee and Perea paid Antipas 200 talents; Ant. 18.36: 'Herod the tetrarch... built... Tiberias... in the best part of Galilee' (B).
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,greco-roman-literary,none-found,,No classical author naming Antipas as tetrarch of Galilee found on the fetched pages.
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,material-culture,n/a,,
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,geography-or-nature,n/a,,
+claim:lk-03-01-antipas-tetrarch,Herod Antipas was tetrarch of Galilee in the fifteenth year of Tiberius,astronomy-or-calendar,n/a,,
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,inscription,found,artifact:abila-lysaniou-inscription,The Abila temple inscription names 'Lysanias the tetrarch'; identification with Luke's Lysanias is disputed (Renan) - graded D.
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,coin,none-found,,"No coins of a tetrarch Lysanias are known; searched Wikipedia (Lysanias, Herodian coinage)."
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,structure-or-site,none-found,,"The inscription implies a temple at Abila, but no fetched excavation page for Abila of Lysaniou was found; not entered."
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,burial-or-ossuary,n/a,,
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,documentary-papyrus,none-found,,None known.
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,jewish-literary,found,text:josephus-ant-19-275-abilene,Josephus knows 'Abila of Lysanias' (Ant. 19.275) but names no Tiberian-era Lysanias - the earlier Lysanias was executed by Antony (C; see complicates note on the claim's evidence).
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,greco-roman-literary,found,text:ptolemy-geography-abila,"Ptolemy, Geography 5: 'Abila of Lysanias' (C)."
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,material-culture,n/a,,
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,geography-or-nature,none-found,,Abilene's location northwest of Damascus is described in the sources but no separate geographic evidence node was entered.
+claim:lk-03-01-lysanias-tetrarch,Lysanias was tetrarch of Abilene,astronomy-or-calendar,n/a,,
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,inscription,none-found,,"No inscription naming Philip tetrarch is known; his coins carry the title (searched Wikipedia, Philip the Tetrarch)."
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,coin,found,artifact:philip-tetrarch-coins,Coins inscribed 'of Philip the Tetrarch' with Augustus/Tiberius portraits; dated regnal years run through the fifteenth year of Tiberius (A).
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,structure-or-site,none-found,,"Philip rebuilt Caesarea Philippi as his capital (existing place node, reused from Matthew 16), but no fetched excavation page tied a site node to this claim; not entered."
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,burial-or-ossuary,n/a,,
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,documentary-papyrus,none-found,,None known; searched Wikipedia.
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,jewish-literary,found,text:josephus-ant-17-188-189-tetrarchies;text:josephus-ant-18-106-108-philip;text:josephus-ant-17-320-tribute,"Ant. 17.188-189 (the tetrarchy grant), 17.320 (100 talents of tribute) and 18.106 (dies in Tiberius's 20th year after 37 years) (B). Josephus never names 'Ituraea' - noted on the claim."
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,greco-roman-literary,none-found,,No classical passage naming Philip's tetrarchy found on the fetched pages.
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,material-culture,n/a,,
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,geography-or-nature,none-found,,"The location of Luke's 'Ituraea' relative to Josephus's list is discussed in the sources but no fetched geographic datum was entered; searched Wikipedia (Iturea, Philip the Tetrarch)."
+claim:lk-03-01-philip-tetrarch,Herod Philip was tetrarch of the region of Ituraea and Trachonitis in the fifteenth year of Tiberius,astronomy-or-calendar,n/a,,
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,inscription,found,artifact:pilate-stone,The Caesarea inscription names Pontius Pilatus prefect of Judaeae (A).
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,coin,found,artifact:pilate-prutahs,Prutahs dated to his 4th-6th years (29/30-31/32 CE) - struck exactly in the period Luke dates (B).
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,structure-or-site,n/a,,No structure beyond the Caesarea inscription's stone bears on the office claim.
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,burial-or-ossuary,n/a,,
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,documentary-papyrus,none-found,,No papyrus of Pilate's prefecture is known; searched Wikipedia (Pontius Pilate).
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,jewish-literary,found,text:josephus-ant-18-85-89;text:josephus-ant-18-annas-gratus,Josephus: Pilate ruled ten years before removal (Ant. 18.88-89) and arrived after Gratus's eleven years (Ant. 18.35) - the office spans the fifteenth year (B).
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,greco-roman-literary,found,text:tacitus-annals-15-44;text:philo-embassy-38-pilate,Tacitus names Pilatus governing under Tiberius; Philo names him governor of Judaea (A).
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,material-culture,n/a,,
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,geography-or-nature,n/a,,
+claim:lk-03-01-pilate-governor,Pontius Pilate was governor of Judea in the fifteenth year of Tiberius,astronomy-or-calendar,n/a,,
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,inscription,none-found,,"No inscription ties an event to Tiberius's fifteenth year in Judea; searched Wikipedia (Luke 3, Tiberius)."
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,coin,found,artifact:tiberius-denarius,Denarii of the reign (14-37 CE) confirm the reign the dating rests on (C); they cannot fix the regnal counting.
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,structure-or-site,n/a,,No structure bears on a regnal-year dating.
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,burial-or-ossuary,n/a,,No burial bears on a regnal-year dating.
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,documentary-papyrus,none-found,,Searched Wikipedia for dated papyri of Tiberius's regnal years tied to Judea; none fetchable within budget.
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,jewish-literary,found,text:josephus-ant-18-annas-gratus;text:josephus-ant-18-106-108-philip,Josephus's office succession list and his Tiberian regnal dating fix the chronology web the fifteenth year sits in (C).
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,greco-roman-literary,found,text:tacitus-annals-15-44,Tacitus dates by Tiberius's reign (C); the regnal-counting dispute (accession vs co-princeps) is recorded on the claim via its sources.
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,material-culture,n/a,,
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,geography-or-nature,n/a,,
+claim:lk-03-01-tiberius-15th-year,John's ministry began in the fifteenth year of the reign of Tiberius Caesar,astronomy-or-calendar,n/a,,"No eclipse, conjunction or festival datum bears on a regnal-year label."
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,inscription,none-found,,"No inscription naming Annas is known; searched Wikipedia (Annas, Caiaphas)."
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,coin,n/a,,High priests do not appear on coinage of the period.
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,structure-or-site,n/a,,
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,burial-or-ossuary,none-found,,"No ossuary naming Annas is known; the Caiaphas ossuary belongs to the son-in-law's claim (searched Wikipedia, Annas)."
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,documentary-papyrus,n/a,,
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,jewish-literary,found,text:josephus-ant-18-annas-gratus,"Ant. 18.26: 'he appointed Ananus, the son of Seth, to be high priest' (A); the same text complicates: he was deprived after a year (see the complicates edge)."
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,greco-roman-literary,n/a,,
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,material-culture,n/a,,
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,geography-or-nature,n/a,,
+claim:lk-03-02-annas-high-priest,Annas shared the high-priesthood formula with Caiaphas,astronomy-or-calendar,n/a,,
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,inscription,none-found,,No separate inscription; the name is carried by the ossuary (under burial-or-ossuary).
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,coin,n/a,,
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,structure-or-site,n/a,,
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,burial-or-ossuary,found,artifact:caiaphas-ossuary,The ossuary inscribed 'Joseph son of Caiaphas' (A).
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,documentary-papyrus,n/a,,
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,jewish-literary,found,text:josephus-ant-18-caiaphas,Ant. 18.35: 'Joseph Caiaphas was made his successor' - an office spanning the fifteenth year of Tiberius (B).
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,greco-roman-literary,n/a,,
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,material-culture,n/a,,
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,geography-or-nature,n/a,,
+claim:lk-03-02-caiaphas-high-priest,Caiaphas was high priest in the fifteenth year of Tiberius,astronomy-or-calendar,n/a,,
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",inscription,n/a,,No material category bears on a quotation claim.
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",coin,n/a,,No material category bears on a quotation claim.
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",structure-or-site,n/a,,No material category bears on a quotation claim.
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",burial-or-ossuary,n/a,,No material category bears on a quotation claim.
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",manuscript,found,artifact:great-isaiah-scroll;artifact:codex-sinaiticus;artifact:codex-vaticanus,"The Great Isaiah Scroll (1QIsa-a, ca. 125 BCE) preserves Isaiah 40:3-5 in Hebrew centuries before John (B); Sinaiticus and Vaticanus preserve the Gospel verses (not independent evidence)."
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",documentary-papyrus,n/a,,No material category bears on a quotation claim.
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",jewish-literary,found,artifact:great-isaiah-scroll,"The scroll, a Qumran Jewish manuscript, is the same find entered under manuscript."
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",greco-roman-literary,n/a,,
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",material-culture,n/a,,
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",geography-or-nature,n/a,,
+claim:lk-03-04-06-isaiah-40-3-5-quoted,"Luke applies Isaiah 40:3-5 to John, quoting the fuller text through 'all flesh shall see God's salvation'",astronomy-or-calendar,n/a,,
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,inscription,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,coin,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,structure-or-site,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,burial-or-ossuary,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,documentary-papyrus,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,jewish-literary,none-found,,Searched Josephus for eschatological wilderness preachers (the sign-prophets passages concern later figures); nothing bearing on this warning.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,greco-roman-literary,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,material-culture,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,geography-or-nature,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-07-wrath-warning,John warned the crowds coming for baptism to flee the wrath to come and produce fruits worthy of repentance,astronomy-or-calendar,n/a,,A prophetic warning; no category outside texts bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,inscription,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,coin,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,structure-or-site,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,burial-or-ossuary,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,documentary-papyrus,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,jewish-literary,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,greco-roman-literary,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,material-culture,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,geography-or-nature,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-08-abraham-children,John warned against relying on descent from Abraham: God can raise up children to Abraham from stones,astronomy-or-calendar,n/a,,A rhetorical warning about descent from Abraham; no external category bears on it.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,inscription,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,coin,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,structure-or-site,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,burial-or-ossuary,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,documentary-papyrus,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,jewish-literary,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,greco-roman-literary,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,material-culture,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,geography-or-nature,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-10-11-cloaks-food,John told the crowds that he who has two coats or food should share with those who have none,astronomy-or-calendar,n/a,,A moral exhortation to share clothing and food; no material category bears on the exhortation itself.
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,inscription,n/a,,
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,coin,n/a,,
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,structure-or-site,n/a,,
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,burial-or-ossuary,n/a,,
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,documentary-papyrus,none-found,,"Roman tax receipts exist for Egypt, but no fetchable page tying one to this claim's region and point was found within budget; searched Wikipedia."
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,jewish-literary,found,text:josephus-ant-18-1-taxation,"Josephus, Ant. 18.1.1: the Roman taxing of Judea under Cyrenius - the standing tax system employing tax collectors with fixed assessments (C)."
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,greco-roman-literary,n/a,,
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,material-culture,n/a,,
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,geography-or-nature,n/a,,
+claim:lk-03-12-13-tax-collectors,Tax collectors came to John's baptism and were told to collect no more than what was appointed,astronomy-or-calendar,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,inscription,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,coin,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,structure-or-site,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,burial-or-ossuary,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,documentary-papyrus,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,jewish-literary,found,text:josephus-ant-18-113-115,"Josephus, Ant. 18.113-115: Antipas's army in the field against Aretas IV - soldiers of a regional ruler in exactly this period (C)."
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,greco-roman-literary,none-found,,No classical passage on soldiers' wages in the Herodian tetrarchies found on the fetched pages.
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,material-culture,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,geography-or-nature,n/a,,
+claim:lk-03-14-soldiers-wages,Soldiers asked John what to do and were told not to extort by violence and to be content with their wages,astronomy-or-calendar,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,inscription,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,coin,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,structure-or-site,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,burial-or-ossuary,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,documentary-papyrus,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,jewish-literary,found,text:psalms-of-solomon-17,The pre-Christian messianic psalms of Solomon (C).
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,greco-roman-literary,found,text:suetonius-vespasian-4,"Suetonius, Vespasian 4: an old belief 'over all the Orient' that men from Judaea would rule the world (C)."
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,material-culture,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,geography-or-nature,n/a,,
+claim:lk-03-15-expectation-christ,The people were in expectation and wondered whether John might be the Christ,astronomy-or-calendar,n/a,,
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,inscription,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,coin,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,structure-or-site,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,burial-or-ossuary,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,documentary-papyrus,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,jewish-literary,none-found,,"Qumran spirit-messiah texts (e.g. 4Q521) are discussed in scholarship, but no fetchable page within budget stated one specifically; not entered."
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,greco-roman-literary,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,material-culture,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,geography-or-nature,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-16-holy-spirit-fire,John preached that the mightier one would baptize with the Holy Spirit and with fire,astronomy-or-calendar,n/a,,A prophetic saying; no external category bears on it.
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",inscription,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",coin,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",structure-or-site,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",burial-or-ossuary,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",documentary-papyrus,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",jewish-literary,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",greco-roman-literary,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",material-culture,none-found,,"The winnowing practice (fan in hand, chaff blown away, grain at the winnower's feet) is documented on the claim (Wikipedia, Threshing floor, documented_by) but no excavated winnowing-fan node was entered."
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",geography-or-nature,n/a,,
+claim:lk-03-17-winnowing-fan,"John described the coming one with a winnowing fan: wheat gathered into the barn, chaff burned with unquenchable fire",astronomy-or-calendar,n/a,,
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,inscription,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,coin,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,structure-or-site,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,burial-or-ossuary,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verses (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,documentary-papyrus,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,jewish-literary,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,greco-roman-literary,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,material-culture,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,geography-or-nature,n/a,,An age statement ('about thirty'); no external category bears on it.
+claim:lk-03-23-jesus-about-thirty,Jesus was about thirty years old when he began his work,astronomy-or-calendar,n/a,,An age statement ('about thirty'); no external category bears on it.
+person:adam,Adam (Luke 3:38),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:adam,Adam (Luke 3:38),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:adam,Adam (Luke 3:38),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:adam,Adam (Luke 3:38),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:adam,Adam (Luke 3:38),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:adam,Adam (Luke 3:38),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:adam,Adam (Luke 3:38),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:adam,Adam (Luke 3:38),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:adam,Adam (Luke 3:38),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:adam,Adam (Luke 3:38),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:adam,Adam (Luke 3:38),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:addi,Addi (Luke 3:28),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:addi,Addi (Luke 3:28),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:addi,Addi (Luke 3:28),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:addi,Addi (Luke 3:28),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:addi,Addi (Luke 3:28),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:addi,Addi (Luke 3:28),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:addi,Addi (Luke 3:28),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:addi,Addi (Luke 3:28),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:addi,Addi (Luke 3:28),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:addi,Addi (Luke 3:28),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:addi,Addi (Luke 3:28),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:amos-lk,"Amos, father of Mattathias (Luke 3:25)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:annas-high-priest,Annas,inscription,none-found,,"No inscription naming Annas is known; searched Wikipedia (Annas, Caiaphas)."
+person:annas-high-priest,Annas,coin,n/a,,High priests do not appear on the period's coinage.
+person:annas-high-priest,Annas,structure-or-site,n/a,,
+person:annas-high-priest,Annas,burial-or-ossuary,none-found,,"No ossuary naming Annas is known; the Caiaphas ossuary belongs to the son-in-law (searched Wikipedia, Annas)."
+person:annas-high-priest,Annas,manuscript,n/a,,Annas is carried only by the biblical text and Josephus; copies of the Gospel are not independent evidence.
+person:annas-high-priest,Annas,documentary-papyrus,n/a,,
+person:annas-high-priest,Annas,jewish-literary,found,text:josephus-ant-18-annas-gratus,"Josephus, Ant. 18.26: 'he appointed Ananus, the son of Seth, to be high priest' - the same man (A); the same text records his deprivation after one year (see the complicates edge)."
+person:annas-high-priest,Annas,greco-roman-literary,n/a,,
+person:annas-high-priest,Annas,material-culture,n/a,,
+person:annas-high-priest,Annas,geography-or-nature,n/a,,
+person:annas-high-priest,Annas,astronomy-or-calendar,n/a,,
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:aram-son-of-hezron,"Aram, son of Hezron (Luke 3:33; Matthew 1:4 calls him Ram)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:arphaxad,Arphaxad (Luke 3:36),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:arphaxad,Arphaxad (Luke 3:36),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:arphaxad,Arphaxad (Luke 3:36),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:arphaxad,Arphaxad (Luke 3:36),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:arphaxad,Arphaxad (Luke 3:36),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:arphaxad,Arphaxad (Luke 3:36),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:arphaxad,Arphaxad (Luke 3:36),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:arphaxad,Arphaxad (Luke 3:36),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:arphaxad,Arphaxad (Luke 3:36),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:arphaxad,Arphaxad (Luke 3:36),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:arphaxad,Arphaxad (Luke 3:36),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:cainan-son-of-arphaxad,"Cainan, son of Arphaxad (Luke 3:36; the LXX name between Arphaxad and Shelah, absent from the Hebrew Genesis)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:cainan-son-of-mahalaleel,"Cainan, son of Mahalaleel (Luke 3:37; a second Cainan in the list)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:cosam,Cosam (Luke 3:28),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:cosam,Cosam (Luke 3:28),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:cosam,Cosam (Luke 3:28),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:cosam,Cosam (Luke 3:28),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:cosam,Cosam (Luke 3:28),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:cosam,Cosam (Luke 3:28),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:cosam,Cosam (Luke 3:28),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:cosam,Cosam (Luke 3:28),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:cosam,Cosam (Luke 3:28),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:cosam,Cosam (Luke 3:28),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:cosam,Cosam (Luke 3:28),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:eber,Eber (Luke 3:35),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:eber,Eber (Luke 3:35),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:eber,Eber (Luke 3:35),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:eber,Eber (Luke 3:35),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:eber,Eber (Luke 3:35),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:eber,Eber (Luke 3:35),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:eber,Eber (Luke 3:35),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:eber,Eber (Luke 3:35),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:eber,Eber (Luke 3:35),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:eber,Eber (Luke 3:35),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:eber,Eber (Luke 3:35),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:eliakim-son-of-jonan-line,"Eliakim, father of Jonan (Luke 3:30; not Matthew's Eliakim son of Abiud)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:eliezer-lk,"Eliezer, father of Jorim (Luke 3:29)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:elmodam,Elmodam (Luke 3:28),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:elmodam,Elmodam (Luke 3:28),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:elmodam,Elmodam (Luke 3:28),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:elmodam,Elmodam (Luke 3:28),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:elmodam,Elmodam (Luke 3:28),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:elmodam,Elmodam (Luke 3:28),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:elmodam,Elmodam (Luke 3:28),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:elmodam,Elmodam (Luke 3:28),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:elmodam,Elmodam (Luke 3:28),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:elmodam,Elmodam (Luke 3:28),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:elmodam,Elmodam (Luke 3:28),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:enoch-son-of-jared,"Enoch, son of Jared (Luke 3:37)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:enos,Enos (Luke 3:38),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:enos,Enos (Luke 3:38),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:enos,Enos (Luke 3:38),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:enos,Enos (Luke 3:38),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:enos,Enos (Luke 3:38),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:enos,Enos (Luke 3:38),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:enos,Enos (Luke 3:38),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:enos,Enos (Luke 3:38),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:enos,Enos (Luke 3:38),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:enos,Enos (Luke 3:38),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:enos,Enos (Luke 3:38),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:er-lk,"Er, son of Elmodam (Luke 3:28)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:esli,Esli (Luke 3:25),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:esli,Esli (Luke 3:25),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:esli,Esli (Luke 3:25),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:esli,Esli (Luke 3:25),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:esli,Esli (Luke 3:25),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:esli,Esli (Luke 3:25),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:esli,Esli (Luke 3:25),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:esli,Esli (Luke 3:25),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:esli,Esli (Luke 3:25),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:esli,Esli (Luke 3:25),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:esli,Esli (Luke 3:25),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:heli,"Heli (Luke 3:23, father of Joseph as Luke gives the line)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:jannai,Jannai (Luke 3:24),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:jannai,Jannai (Luke 3:24),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:jannai,Jannai (Luke 3:24),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:jannai,Jannai (Luke 3:24),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:jannai,Jannai (Luke 3:24),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:jannai,Jannai (Luke 3:24),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:jannai,Jannai (Luke 3:24),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:jannai,Jannai (Luke 3:24),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:jannai,Jannai (Luke 3:24),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:jannai,Jannai (Luke 3:24),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:jannai,Jannai (Luke 3:24),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:jared,Jared (Luke 3:37),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:jared,Jared (Luke 3:37),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:jared,Jared (Luke 3:37),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:jared,Jared (Luke 3:37),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:jared,Jared (Luke 3:37),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:jared,Jared (Luke 3:37),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:jared,Jared (Luke 3:37),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:jared,Jared (Luke 3:37),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:jared,Jared (Luke 3:37),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:jared,Jared (Luke 3:37),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:jared,Jared (Luke 3:37),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:joanan,Joanan (Luke 3:27),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:joanan,Joanan (Luke 3:27),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:joanan,Joanan (Luke 3:27),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:joanan,Joanan (Luke 3:27),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:joanan,Joanan (Luke 3:27),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:joanan,Joanan (Luke 3:27),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:joanan,Joanan (Luke 3:27),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:joanan,Joanan (Luke 3:27),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:joanan,Joanan (Luke 3:27),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:joanan,Joanan (Luke 3:27),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:joanan,Joanan (Luke 3:27),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:jonan,Jonan (Luke 3:30),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:jonan,Jonan (Luke 3:30),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:jonan,Jonan (Luke 3:30),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:jonan,Jonan (Luke 3:30),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:jonan,Jonan (Luke 3:30),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:jonan,Jonan (Luke 3:30),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:jonan,Jonan (Luke 3:30),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:jonan,Jonan (Luke 3:30),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:jonan,Jonan (Luke 3:30),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:jonan,Jonan (Luke 3:30),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:jonan,Jonan (Luke 3:30),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:jorim,Jorim (Luke 3:29),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:jorim,Jorim (Luke 3:29),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:jorim,Jorim (Luke 3:29),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:jorim,Jorim (Luke 3:29),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:jorim,Jorim (Luke 3:29),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:jorim,Jorim (Luke 3:29),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:jorim,Jorim (Luke 3:29),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:jorim,Jorim (Luke 3:29),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:jorim,Jorim (Luke 3:29),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:jorim,Jorim (Luke 3:29),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:jorim,Jorim (Luke 3:29),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:jose-lk,"Jose, father of Er (Luke 3:29)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:jose-lk,"Jose, father of Er (Luke 3:29)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:jose-lk,"Jose, father of Er (Luke 3:29)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:jose-lk,"Jose, father of Er (Luke 3:29)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:joseph-son-of-jannai,"Joseph, son of Jannai (Luke 3:24)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:joseph-son-of-jonan,"Joseph, son of Jonan (Luke 3:30)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:joseph-son-of-semein-line,"Joseph, son of Semein's line (Luke 3:26)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:judah-son-of-joanan,"Judah, son of Joanan (Luke 3:26)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:judah-son-of-joseph-3,"Judah, son of Joseph (Luke 3:30)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:lamech-son-of-methuselah,"Lamech, son of Methuselah (Luke 3:36; not the Lamech of Cain's line)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:levi-son-of-melchi,"Levi, son of Melchi (Luke 3:24)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:levi-son-of-simeon,"Levi, son of Simeon (Luke 3:29; a second Levi in the list)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:lysanias-tetrarch,Lysanias,inscription,found,artifact:abila-lysaniou-inscription,The Abila temple inscription names 'Lysanias the tetrarch'; the identification with Luke's Lysanias is disputed (Renan) - graded D on the attests edge.
+person:lysanias-tetrarch,Lysanias,coin,none-found,,"No coins of a tetrarch Lysanias are known; searched Wikipedia (Lysanias, Herodian coinage)."
+person:lysanias-tetrarch,Lysanias,structure-or-site,none-found,,"The inscription implies a temple at Abila, but no fetched excavation page for Abila of Lysaniou was found; not entered."
+person:lysanias-tetrarch,Lysanias,burial-or-ossuary,n/a,,
+person:lysanias-tetrarch,Lysanias,manuscript,n/a,,Luke 3:1 is the only text naming him; copies of it are not independent evidence.
+person:lysanias-tetrarch,Lysanias,documentary-papyrus,none-found,,None known.
+person:lysanias-tetrarch,Lysanias,jewish-literary,found,text:josephus-ant-19-275-abilene,"Josephus, Ant. 19.275 knows 'Abila of Lysanias' but names no Tiberian-era Lysanias; his only Lysanias was executed by Antony in 36 BCE (C, with the identity tension recorded)."
+person:lysanias-tetrarch,Lysanias,greco-roman-literary,none-found,,"Ptolemy's 'Abila of Lysanias' names the city's association, not the person's office; no classical text naming the Tiberian Lysanias found."
+person:lysanias-tetrarch,Lysanias,material-culture,n/a,,
+person:lysanias-tetrarch,Lysanias,geography-or-nature,n/a,,
+person:lysanias-tetrarch,Lysanias,astronomy-or-calendar,n/a,,
+person:maath,Maath (Luke 3:26),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:maath,Maath (Luke 3:26),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:maath,Maath (Luke 3:26),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:maath,Maath (Luke 3:26),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:maath,Maath (Luke 3:26),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:maath,Maath (Luke 3:26),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:maath,Maath (Luke 3:26),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:maath,Maath (Luke 3:26),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:maath,Maath (Luke 3:26),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:maath,Maath (Luke 3:26),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:maath,Maath (Luke 3:26),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:mahalaleel,Mahalaleel (Luke 3:37),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:mahalaleel,Mahalaleel (Luke 3:37),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:mahalaleel,Mahalaleel (Luke 3:37),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:mahalaleel,Mahalaleel (Luke 3:37),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:mahalaleel,Mahalaleel (Luke 3:37),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:mahalaleel,Mahalaleel (Luke 3:37),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:mahalaleel,Mahalaleel (Luke 3:37),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:mahalaleel,Mahalaleel (Luke 3:37),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:mahalaleel,Mahalaleel (Luke 3:37),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:mahalaleel,Mahalaleel (Luke 3:37),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:mahalaleel,Mahalaleel (Luke 3:37),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:mattatha,"Mattatha, son of Nathan (Luke 3:31)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:mattathias-son-of-joseph,"Mattathias, son of Joseph (Luke 3:25)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:mattathias-son-of-semein,"Mattathias, son of Semein (Luke 3:26)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:matthat-son-of-levi-1,"Matthat, son of Levi (Luke 3:24)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:matthat-son-of-levi-2,"Matthat, son of Levi (Luke 3:29; a second Matthat son of Levi in the list)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:melchi-son-of-addi,"Melchi, son of Addi (Luke 3:28)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:melchi-son-of-jannai,"Melchi, son of Jannai (Luke 3:24)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:melea,Melea (Luke 3:31),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:melea,Melea (Luke 3:31),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:melea,Melea (Luke 3:31),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:melea,Melea (Luke 3:31),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:melea,Melea (Luke 3:31),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:melea,Melea (Luke 3:31),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:melea,Melea (Luke 3:31),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:melea,Melea (Luke 3:31),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:melea,Melea (Luke 3:31),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:melea,Melea (Luke 3:31),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:melea,Melea (Luke 3:31),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:menan,Menan (Luke 3:31),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:menan,Menan (Luke 3:31),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:menan,Menan (Luke 3:31),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:menan,Menan (Luke 3:31),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:menan,Menan (Luke 3:31),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:menan,Menan (Luke 3:31),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:menan,Menan (Luke 3:31),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:menan,Menan (Luke 3:31),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:menan,Menan (Luke 3:31),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:menan,Menan (Luke 3:31),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:menan,Menan (Luke 3:31),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:methuselah,Methuselah (Luke 3:37),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:methuselah,Methuselah (Luke 3:37),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:methuselah,Methuselah (Luke 3:37),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:methuselah,Methuselah (Luke 3:37),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:methuselah,Methuselah (Luke 3:37),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:methuselah,Methuselah (Luke 3:37),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:methuselah,Methuselah (Luke 3:37),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:methuselah,Methuselah (Luke 3:37),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:methuselah,Methuselah (Luke 3:37),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:methuselah,Methuselah (Luke 3:37),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:methuselah,Methuselah (Luke 3:37),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:naggai,Naggai (Luke 3:25),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:naggai,Naggai (Luke 3:25),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:naggai,Naggai (Luke 3:25),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:naggai,Naggai (Luke 3:25),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:naggai,Naggai (Luke 3:25),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:naggai,Naggai (Luke 3:25),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:naggai,Naggai (Luke 3:25),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:naggai,Naggai (Luke 3:25),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:naggai,Naggai (Luke 3:25),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:naggai,Naggai (Luke 3:25),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:naggai,Naggai (Luke 3:25),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:nahor,Nahor (Luke 3:34),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:nahor,Nahor (Luke 3:34),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:nahor,Nahor (Luke 3:34),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:nahor,Nahor (Luke 3:34),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:nahor,Nahor (Luke 3:34),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:nahor,Nahor (Luke 3:34),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:nahor,Nahor (Luke 3:34),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:nahor,Nahor (Luke 3:34),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:nahor,Nahor (Luke 3:34),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:nahor,Nahor (Luke 3:34),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:nahor,Nahor (Luke 3:34),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:nahum-lk,"Nahum, father of Esli (Luke 3:25; not the prophet)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:nathan-son-of-david,"Nathan, son of David (Luke 3:31; Matthew traces David through Solomon)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:neri,"Neri, father of Shealtiel in Luke's list (Luke 3:27; Matthew gives Jeconiah)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:noah,Noah (Luke 3:36),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:noah,Noah (Luke 3:36),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:noah,Noah (Luke 3:36),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:noah,Noah (Luke 3:36),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:noah,Noah (Luke 3:36),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:noah,Noah (Luke 3:36),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:noah,Noah (Luke 3:36),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:noah,Noah (Luke 3:36),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:noah,Noah (Luke 3:36),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:noah,Noah (Luke 3:36),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:noah,Noah (Luke 3:36),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:peleg,Peleg (Luke 3:35),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:peleg,Peleg (Luke 3:35),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:peleg,Peleg (Luke 3:35),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:peleg,Peleg (Luke 3:35),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:peleg,Peleg (Luke 3:35),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:peleg,Peleg (Luke 3:35),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:peleg,Peleg (Luke 3:35),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:peleg,Peleg (Luke 3:35),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:peleg,Peleg (Luke 3:35),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:peleg,Peleg (Luke 3:35),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:peleg,Peleg (Luke 3:35),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:reu,Reu (Luke 3:35),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:reu,Reu (Luke 3:35),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:reu,Reu (Luke 3:35),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:reu,Reu (Luke 3:35),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:reu,Reu (Luke 3:35),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:reu,Reu (Luke 3:35),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:reu,Reu (Luke 3:35),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:reu,Reu (Luke 3:35),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:reu,Reu (Luke 3:35),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:reu,Reu (Luke 3:35),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:reu,Reu (Luke 3:35),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:rhesa,"Rhesa, son of Zerubbabel (Luke 3:27)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:semein,Semein (Luke 3:26),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:semein,Semein (Luke 3:26),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:semein,Semein (Luke 3:26),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:semein,Semein (Luke 3:26),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:semein,Semein (Luke 3:26),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:semein,Semein (Luke 3:26),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:semein,Semein (Luke 3:26),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:semein,Semein (Luke 3:26),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:semein,Semein (Luke 3:26),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:semein,Semein (Luke 3:26),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:semein,Semein (Luke 3:26),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:serug,Serug (Luke 3:35),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:serug,Serug (Luke 3:35),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:serug,Serug (Luke 3:35),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:serug,Serug (Luke 3:35),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:serug,Serug (Luke 3:35),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:serug,Serug (Luke 3:35),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:serug,Serug (Luke 3:35),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:serug,Serug (Luke 3:35),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:serug,Serug (Luke 3:35),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:serug,Serug (Luke 3:35),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:serug,Serug (Luke 3:35),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:seth-son-of-adam,"Seth, son of Adam (Luke 3:38)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:shelah,Shelah (Luke 3:36),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:shelah,Shelah (Luke 3:36),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:shelah,Shelah (Luke 3:36),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:shelah,Shelah (Luke 3:36),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:shelah,Shelah (Luke 3:36),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:shelah,Shelah (Luke 3:36),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:shelah,Shelah (Luke 3:36),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:shelah,Shelah (Luke 3:36),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:shelah,Shelah (Luke 3:36),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:shelah,Shelah (Luke 3:36),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:shelah,Shelah (Luke 3:36),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:shem,Shem (Luke 3:36),inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:shem,Shem (Luke 3:36),coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:shem,Shem (Luke 3:36),structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:shem,Shem (Luke 3:36),burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:shem,Shem (Luke 3:36),manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:shem,Shem (Luke 3:36),documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:shem,Shem (Luke 3:36),jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:shem,Shem (Luke 3:36),greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:shem,Shem (Luke 3:36),material-culture,n/a,,No artifact class bears on a named ancestor.
+person:shem,Shem (Luke 3:36),geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:shem,Shem (Luke 3:36),astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:simeon-son-of-judah-2,"Simeon, son of Judah (Luke 3:30)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+person:terah,"Terah, father of Abraham (Luke 3:34)",inscription,none-found,,No inscription naming this ancestor is known; the name is otherwise carried only by the biblical text.
+person:terah,"Terah, father of Abraham (Luke 3:34)",coin,n/a,,Private individuals of a genealogy do not appear on coinage.
+person:terah,"Terah, father of Abraham (Luke 3:34)",structure-or-site,none-found,,No excavated structure is associated with this ancestor (searched Wikipedia and the seed leads).
+person:terah,"Terah, father of Abraham (Luke 3:34)",burial-or-ossuary,none-found,,No tomb or ossuary naming this ancestor is known.
+person:terah,"Terah, father of Abraham (Luke 3:34)",manuscript,n/a,,The name is carried only by copies of the biblical text; copies are not independent evidence (model rule).
+person:terah,"Terah, father of Abraham (Luke 3:34)",documentary-papyrus,none-found,,No documentary papyrus names a private ancestor of the biblical genealogies.
+person:terah,"Terah, father of Abraham (Luke 3:34)",jewish-literary,none-found,,"Josephus retells the Genesis genealogy only where the list runs through the patriarchs, and he depends on Scripture; no independent attestation."
+person:terah,"Terah, father of Abraham (Luke 3:34)",greco-roman-literary,n/a,,Classical authors do not name private ancestors from the biblical genealogies.
+person:terah,"Terah, father of Abraham (Luke 3:34)",material-culture,n/a,,No artifact class bears on a named ancestor.
+person:terah,"Terah, father of Abraham (Luke 3:34)",geography-or-nature,n/a,,No geographic or natural datum bears on this ancestor.
+person:terah,"Terah, father of Abraham (Luke 3:34)",astronomy-or-calendar,n/a,,No astronomical or calendrical datum bears on this ancestor.
+place:abilene,Abilene,inscription,found,artifact:abila-lysaniou-inscription,The Abila temple inscription names 'Lysanias the tetrarch' at Abila itself.
+place:abilene,Abilene,coin,none-found,,"No coins of a tetrarch Lysanias are known; searched Wikipedia (Lysanias, Herodian coinage)."
+place:abilene,Abilene,structure-or-site,none-found,,"The inscription implies a temple at Abila, but no fetched excavation page for Abila of Lysaniou was found; not entered."
+place:abilene,Abilene,burial-or-ossuary,n/a,,
+place:abilene,Abilene,manuscript,n/a,,Luke 3:1 is the naming text; copies of it are not independent evidence.
+place:abilene,Abilene,documentary-papyrus,none-found,,None known; searched Wikipedia.
+place:abilene,Abilene,jewish-literary,found,text:josephus-ant-19-275-abilene,"Josephus, Ant. 19.275: 'Abila of Lysanias' given to Agrippa I in 42 CE (C)."
+place:abilene,Abilene,greco-roman-literary,found,text:ptolemy-geography-abila,"Ptolemy, Geography 5: 'Abila of Lysanias' (C)."
+place:abilene,Abilene,material-culture,n/a,,
+place:abilene,Abilene,geography-or-nature,none-found,,The region's location at Mount Lebanon/NW of Damascus appears in the fetched pages but no separate geographic evidence node was entered.
+place:abilene,Abilene,astronomy-or-calendar,n/a,,

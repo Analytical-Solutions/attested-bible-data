@@ -1,0 +1,177 @@
+{
+ "source:bible-api-genesis-18-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+18:6?translation=web"
+ },
+ "source:bible-api-leviticus-11-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+11:9?translation=web"
+ },
+ "source:centaur-dark-nazareth": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://centaur.reading.ac.uk/29782/"
+ },
+ "source:ferrell-jenkins-cove": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ferrelljenkins.blog/2014/11/06/cove-of-the-sower-from-land-sea-and-air/"
+ },
+ "source:isaiah-scroll-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+ },
+ "source:josephus-jesus-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Josephus_on_Jesus"
+ },
+ "source:latin-library-digest-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2020/https://www.thelatinlibrary.com/justinian/digest9.shtml"
+ },
+ "source:perseus-pliny-18-yields": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D18%3Achapter%3D21"
+ },
+ "source:wikipedia-ancient-cuisine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ancient_Israelite_cuisine"
+ },
+ "source:wikipedia-brassica-nigra": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Brassica_nigra"
+ },
+ "source:wikipedia-copper-scroll": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Copper_Scroll"
+ },
+ "source:wikipedia-gundelia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gundelia"
+ },
+ "source:wikipedia-james-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/James_Ossuary"
+ },
+ "source:wikipedia-james-ossuary-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/James_Ossuary"
+ },
+ "source:wikipedia-lolium-temulentum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lolium_temulentum"
+ },
+ "source:wikipedia-magdala-fishing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-mustard-parable": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Parable_of_the_Mustard_Seed"
+ },
+ "source:wikipedia-nazareth": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nazareth"
+ },
+ "source:wikipedia-pearl": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pearl"
+ },
+ "source:wikipedia-pearl-diving": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pearl"
+ },
+ "source:wikipedia-salvadora-persica": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Salvadora_persica"
+ },
+ "source:wikipedia-sea-of-galilee-boat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikipedia-sea-of-galilee-fish": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sea_of_Galilee"
+ },
+ "source:wikipedia-sepphoris-antipas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sepphoris"
+ },
+ "source:wikipedia-sepphoris-nazareth": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sepphoris"
+ },
+ "source:wikipedia-tabun-oven": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tabun_oven"
+ },
+ "source:wikipedia-talpiot-names": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Talpiot_Tomb"
+ },
+ "source:wikipedia-terra-rossa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Terra_rossa_(soil)"
+ },
+ "source:wikipedia-units-ephah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Biblical_and_Talmudic_units_of_measurement"
+ },
+ "source:wikipedia-units-seah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Biblical_and_Talmudic_units_of_measurement"
+ },
+ "source:wikipedia-ziziphus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ziziphus_spina-christi"
+ },
+ "source:wikipedia-ziziphus-native": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ziziphus_spina-christi"
+ },
+ "source:wikisource-ant18-sepphoris": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-herodotus-1-193": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_History_of_Herodotus_(Rawlinson)/Book_1"
+ },
+ "source:wikisource-isaiah-6-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(World_English)/Isaiah"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "book": "acts",
+ "chapter": 11,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    18
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "11:2 \"When Peter had come up to Jerusalem, those who were of the circumcision contended with him\" - Joppa and Caesarea in Peter's retelling are mentions"
+  },
+  {
+   "verses": [
+    19,
+    26
+   ],
+   "setting": "place:antioch-on-the-orontes",
+   "confidence": "stated",
+   "basis": "11:20 \"when they had come to Antioch, spoke to the Hellenists, preaching the Lord Jesus\"; 11:26 \"The disciples were first called Christians in Antioch\""
+  },
+  {
+   "verses": [
+    27,
+    30
+   ],
+   "setting": "place:antioch-on-the-orontes",
+   "confidence": "stated",
+   "basis": "11:27 \"prophets came down from Jerusalem to Antioch\" - Agabus stands and the relief is collected in the Antioch assembly"
+  }
+ ]
+}

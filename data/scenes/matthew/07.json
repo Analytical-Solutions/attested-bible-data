@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 7,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        29
+      ],
+      "setting": null,
+      "basis": "Sermon continues and closes (7:28 \"When Jesus had finished saying these things\") on the unnamed mountain",
+      "confidence": "inferred"
+    }
+  ]
+}

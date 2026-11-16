@@ -1,0 +1,200 @@
+{"from": "passage:ac-25-01", "type": "asserts", "to": "claim:ac-25-01-festus-arrival"}
+{"from": "passage:ac-25-01", "type": "asserts", "to": "claim:ac-24-27-festus-succeeded", "note": "Acts 25:1 asserts the succession claim established at Acts 24:27 (claim:ac-25-01-festus-procurator merged into it per the review merge rule; the office and succession are the same)."}
+{"from": "passage:ac-25-02", "type": "asserts", "to": "claim:ac-25-02-ananias-high-priest"}
+{"from": "passage:ac-25-02", "type": "asserts", "to": "claim:ac-25-02-03-accusation-plot"}
+{"from": "passage:ac-25-03", "type": "asserts", "to": "claim:ac-25-02-03-accusation-plot"}
+{"from": "passage:ac-25-04", "type": "asserts", "to": "claim:ac-25-04-05-festus-refusal"}
+{"from": "passage:ac-25-05", "type": "asserts", "to": "claim:ac-25-04-05-festus-refusal"}
+{"from": "passage:ac-25-06", "type": "asserts", "to": "claim:ac-25-06-judgment-seat"}
+{"from": "passage:ac-25-07", "type": "asserts", "to": "claim:ac-25-07-08-charges-unproven"}
+{"from": "passage:ac-25-08", "type": "asserts", "to": "claim:ac-25-07-08-charges-unproven"}
+{"from": "passage:ac-25-09", "type": "asserts", "to": "claim:ac-25-09-festus-favor"}
+{"from": "passage:ac-25-10", "type": "asserts", "to": "claim:ac-25-10-11-appeal-caesar"}
+{"from": "passage:ac-25-11", "type": "asserts", "to": "claim:ac-25-10-11-appeal-caesar"}
+{"from": "passage:ac-25-11", "type": "asserts", "to": "claim:ac-25-11-appeal-right"}
+{"from": "passage:ac-25-12", "type": "asserts", "to": "claim:ac-25-12-festus-consilium"}
+{"from": "passage:ac-25-13", "type": "asserts", "to": "claim:ac-25-13-agrippa-ii-king"}
+{"from": "passage:ac-25-13", "type": "asserts", "to": "claim:ac-25-13-agrippa-bernice-visit"}
+{"from": "passage:ac-25-13", "type": "asserts", "to": "claim:ac-25-13-bernice-herodian-queen"}
+{"from": "passage:ac-25-14", "type": "asserts", "to": "claim:ac-25-14-festus-reports-case"}
+{"from": "passage:ac-25-15", "type": "asserts", "to": "claim:ac-25-14-festus-reports-case"}
+{"from": "passage:ac-25-16", "type": "asserts", "to": "claim:ac-25-16-roman-procedure"}
+{"from": "passage:ac-25-17", "type": "asserts", "to": "claim:ac-25-06-judgment-seat"}
+{"from": "passage:ac-25-19", "type": "asserts", "to": "claim:ac-25-19-jesus-dead-alive"}
+{"from": "passage:ac-25-20", "type": "asserts", "to": "claim:ac-25-09-festus-favor"}
+{"from": "passage:ac-25-21", "type": "asserts", "to": "claim:ac-25-21-25-kept-for-caesar"}
+{"from": "passage:ac-25-21", "type": "asserts", "to": "claim:ac-25-10-11-appeal-caesar"}
+{"from": "passage:ac-25-22", "type": "asserts", "to": "claim:ac-25-22-agrippa-wishes-hear"}
+{"from": "passage:ac-25-23", "type": "asserts", "to": "claim:ac-25-23-great-pomp"}
+{"from": "passage:ac-25-24", "type": "asserts", "to": "claim:ac-25-14-festus-reports-case"}
+{"from": "passage:ac-25-25", "type": "asserts", "to": "claim:ac-25-25-nothing-worthy-death"}
+{"from": "passage:ac-25-25", "type": "asserts", "to": "claim:ac-25-21-25-kept-for-caesar"}
+{"from": "passage:ac-25-26", "type": "asserts", "to": "claim:ac-25-26-27-charge-letter"}
+{"from": "passage:ac-25-27", "type": "asserts", "to": "claim:ac-25-26-27-charge-letter"}
+{"from": "claim:ac-25-01-festus-arrival", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-01-festus-arrival", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-25-01-festus-arrival", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-25-02-ananias-high-priest", "type": "mentions", "to": "person:ananias-son-of-nedebaeus"}
+{"from": "claim:ac-25-02-03-accusation-plot", "type": "mentions", "to": "person:ananias-son-of-nedebaeus"}
+{"from": "claim:ac-25-02-03-accusation-plot", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-25-02-03-accusation-plot", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-04-05-festus-refusal", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-04-05-festus-refusal", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-04-05-festus-refusal", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-25-06-judgment-seat", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-06-judgment-seat", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-06-judgment-seat", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-25-07-08-charges-unproven", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-09-festus-favor", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-09-festus-favor", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-09-festus-favor", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-25-10-11-appeal-caesar", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-10-11-appeal-caesar", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-10-11-appeal-caesar", "type": "mentions", "to": "person:nero"}
+{"from": "claim:ac-25-11-appeal-right", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-25-12-festus-consilium", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-13-agrippa-ii-king", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-25-13-agrippa-bernice-visit", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-25-13-agrippa-bernice-visit", "type": "mentions", "to": "person:bernice"}
+{"from": "claim:ac-25-13-agrippa-bernice-visit", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-13-agrippa-bernice-visit", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-25-13-bernice-herodian-queen", "type": "mentions", "to": "person:bernice"}
+{"from": "claim:ac-25-13-bernice-herodian-queen", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-25-14-festus-reports-case", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-14-festus-reports-case", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-25-14-festus-reports-case", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-25-14-festus-reports-case", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-19-jesus-dead-alive", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-21-25-kept-for-caesar", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-21-25-kept-for-caesar", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-21-25-kept-for-caesar", "type": "mentions", "to": "person:nero"}
+{"from": "claim:ac-25-22-agrippa-wishes-hear", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-25-22-agrippa-wishes-hear", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-23-great-pomp", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-25-23-great-pomp", "type": "mentions", "to": "person:bernice"}
+{"from": "claim:ac-25-23-great-pomp", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-23-great-pomp", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-25-25-nothing-worthy-death", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-25-25-nothing-worthy-death", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-26-27-charge-letter", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-25-26-27-charge-letter", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-25-26-27-charge-letter", "type": "mentions", "to": "person:nero"}
+{"from": "text:josephus-ant-20-182", "type": "attests", "to": "claim:ac-25-01-festus-arrival", "grade": "B", "note": "Names Festus's assumption of the procuratorship under Nero; the three-day journey up to Jerusalem is the narrative's own detail."}
+{"from": "text:josephus-ant-20-182", "type": "attests", "to": "claim:ac-25-13-agrippa-ii-king", "grade": "A", "note": "'both king Agrippa, and principally Festus the procurator, were much displeased' - Agrippa II is 'king' alongside Festus's procuratorship."}
+{"from": "text:josephus-war-2-271", "type": "attests", "to": "claim:ac-24-27-festus-succeeded", "grade": "A", "note": "'Now it was that Festus succeeded Felix as procurator' - the War's independent notice of the same succession."}
+{"from": "artifact:festus-coins", "type": "attests", "to": "claim:ac-24-27-festus-succeeded", "grade": "B", "note": "Bronze prutahs attributed to Festus's mint carry Nero's name (NEP WNOC / KAICAPOC, year LE = 58/59); they attest the mint under his governorship, not his name."}
+{"from": "text:josephus-ant-20-103", "type": "attests", "to": "claim:ac-25-02-ananias-high-priest", "grade": "D", "note": "Josephus names Ananias son of Nebedeus high priest (appointed under Herod of Chalcis) - the traditional identification; but Ismael ben Fabus held the office 58-62 (see the complicates edge), when Festus governed, so the identification of Acts 25's high priest is disputed."}
+{"from": "text:josephus-ant-20-159", "type": "attests", "to": "claim:ac-25-13-agrippa-ii-king", "grade": "A", "note": "Nero 'bestowed on Agrippa a certain part of Galilee, Tiberias, and Tarichae... He gave him also Julias, a city of Perea, with fourteen villages' and ordered submission to his jurisdiction - Agrippa II as a ruling king in the 50s."}
+{"from": "artifact:agrippa-ii-coins", "type": "attests", "to": "claim:ac-25-13-agrippa-ii-king", "grade": "A", "note": "Coins with the Greek inscription ΒΑΣΙΛΕΩΣ ΑΓΡΙΠΠΟΥ ('King Agrippa') and, from 66 CE, his own bust name Agrippa II as king."}
+{"from": "text:josephus-ant-20-145-147", "type": "attests", "to": "claim:ac-25-13-bernice-herodian-queen", "grade": "A", "note": "Josephus names Berenice, reports the talk about her living with her brother Agrippa, and her marriage to Polemo of Cilicia - the Herodian royal sister of Acts 25:13."}
+{"from": "text:tacitus-histories-2-2", "type": "attests", "to": "claim:ac-25-13-bernice-herodian-queen", "grade": "A", "note": "Tacitus calls her 'Queen Berenice', loved by Titus - an independent Roman witness to the same person."}
+{"from": "artifact:berenice-athens-inscription", "type": "attests", "to": "claim:ac-25-13-bernice-herodian-queen", "grade": "A", "note": "An Athenian honorific statue inscription of 61 CE calls Berenice basilissa ('queen') - within two years of the Acts 25 scene."}
+{"from": "artifact:berenice-beirut-inscription", "type": "attests", "to": "claim:ac-25-13-bernice-herodian-queen", "grade": "A", "note": "The Latin Beirut inscription calls her regina ('queen'), her name preceding her brother Agrippa's."}
+{"from": "artifact:berenice-beirut-inscription", "type": "attests", "to": "claim:ac-25-13-agrippa-ii-king", "grade": "A", "note": "The same Beirut inscription names her brother Agrippa, whose name follows hers - the royal pair of Acts 25:13 in stone."}
+{"from": "text:pliny-epistles-10-96", "type": "attests", "to": "claim:ac-25-11-appeal-right", "grade": "B", "note": "Pliny (c. 112 CE): accused who do not recant are executed, 'or, if they are Roman citizens, orders them to be taken to Rome' - the citizen's path to the emperor's tribunal in practice."}
+{"from": "text:digest-48-6-7", "type": "attests", "to": "claim:ac-25-11-appeal-right", "grade": "B", "note": "The lex Julia de vi publica made liable the magistrate who 'civem romanum adversus provocationem necaverit verberaverit' (killed or flogged a Roman citizen against his appeal) - the legal protection behind 'no one can give me up'."}
+{"from": "text:josephus-ant-19-346", "type": "attests", "to": "claim:ac-25-23-great-pomp", "grade": "C", "note": "Agrippa I entering the Caesarea theater in a silver garment that 'shone out after a surprising manner' shows Herodian royal display at the same city a generation earlier - context, not the 59/60 entry itself."}
+{"from": "site:caesarea-maritima", "type": "attests", "to": "claim:ac-25-06-judgment-seat", "grade": "B", "note": "The excavated Roman capital where the procurators resided and held court - the city where Festus sat on the bema; the judgment-seat structure itself is not identified."}
+{"from": "text:josephus-ant-20-179", "type": "complicates", "to": "claim:ac-25-02-ananias-high-priest", "note": "King Agrippa gave the high priesthood to Ismael son of Fabi, and the fetched Wikipedia list gives Ishmael II ben Fabus 58-62 - the high priest when Festus governed - against identifying Acts 25's 'high priest' with Ananias."}
+{"from": "claim:ac-24-27-festus-succeeded", "type": "documented_by", "to": "source:wikipedia-porcius-festus", "note": "Extra verbatim source kept from the merged claim claim:ac-25-01-festus-procurator (Wikipedia's Porcius Festus page)."}
+{"from": "text:josephus-ant-20-182", "type": "documented_by", "to": "source:wikisource-ant-20-agrippa", "note": "Extra verbatim source kept from the merged node text:josephus-ant-20-182-197 (the Agrippa/Festus passage at 20.194-197)."}
+{"from": "text:josephus-ant-20-159", "type": "documented_by", "to": "source:wikisource-ant-20-agrippa-realm"}
+{"from": "text:josephus-war-2-271", "type": "documented_by", "to": "source:wikisource-war-2-festus"}
+{"from": "text:josephus-ant-20-103", "type": "documented_by", "to": "source:wikisource-ant-20-ananias"}
+{"from": "text:josephus-ant-20-179", "type": "documented_by", "to": "source:wikisource-ant-20-ismael"}
+{"from": "text:josephus-ant-20-145-147", "type": "documented_by", "to": "source:wikisource-ant-20-bernice"}
+{"from": "artifact:festus-coins", "type": "documented_by", "to": "source:wikipedia-porcius-festus"}
+{"from": "artifact:agrippa-ii-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage-agrippa-2"}
+{"from": "claim:ac-25-13-agrippa-ii-king", "type": "documented_by", "to": "source:wikipedia-herod-agrippa-ii"}
+{"from": "claim:ac-25-13-bernice-herodian-queen", "type": "documented_by", "to": "source:wikipedia-berenice"}
+{"from": "artifact:berenice-athens-inscription", "type": "documented_by", "to": "source:wikipedia-berenice"}
+{"from": "artifact:berenice-beirut-inscription", "type": "documented_by", "to": "source:wikipedia-berenice-beirut"}
+{"from": "text:tacitus-histories-2-2", "type": "documented_by", "to": "source:wikisource-histories-2"}
+{"from": "text:pliny-epistles-10-96", "type": "documented_by", "to": "source:wikipedia-pliny-citizens-rome"}
+{"from": "text:digest-48-6-7", "type": "documented_by", "to": "source:thelatinlibrary-digest-48"}
+{"from": "text:josephus-ant-19-346", "type": "documented_by", "to": "source:wikisource-ant-19-pomp"}
+{"from": "claim:ac-25-12-festus-consilium", "type": "documented_by", "to": "source:wikipedia-roman-governor"}
+{"from": "claim:ac-25-02-ananias-high-priest", "type": "documented_by", "to": "source:wikipedia-high-priests-list"}
+{"from": "claim:ac-25-13-agrippa-ii-king", "type": "related_to", "to": "claim:ac-12-01-herod-agrippa-king", "note": "Agrippa II is the son of Agrippa I (Acts 12); the 'King Agrippa' of Acts 25-26 is the second, not the first."}
+{"from": "claim:ac-25-11-appeal-right", "type": "related_to", "to": "claim:ac-22-25-citizen-scourging", "note": "The same body of citizen protections: 22:25 invokes immunity from uncondemned scourging of a Roman citizen; 25:11 invokes the appeal to the emperor."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-01"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-02"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-03"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-04"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-05"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-06"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-07"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-08"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-09"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-10"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-11"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-12"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-13"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-14"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-15"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-16"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-17"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-18"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-19"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-20"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-21"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-22"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-23"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-24"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-25"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-26"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-25-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-25-27"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-25-27"}

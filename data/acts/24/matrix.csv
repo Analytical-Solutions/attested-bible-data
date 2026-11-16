@@ -1,0 +1,441 @@
+anchor,label,category,status,findings,note
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",inscription,none-found,,"The delegation event is Acts-only; Josephus records Ananias's earlier trip to Rome (Ant. 20.131) and the Caesarean troubles, but not this journey. Searched Wikipedia (Ananias son of Nedebeus, Acts 24)."
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",coin,none-found,,"The delegation event is Acts-only; Josephus records Ananias's earlier trip to Rome (Ant. 20.131) and the Caesarean troubles, but not this journey. Searched Wikipedia (Ananias son of Nedebeus, Acts 24)."
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",structure-or-site,none-found,,"The delegation event is Acts-only; Josephus records Ananias's earlier trip to Rome (Ant. 20.131) and the Caesarean troubles, but not this journey. Searched Wikipedia (Ananias son of Nedebeus, Acts 24)."
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",burial-or-ossuary,n/a,,
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",manuscript,n/a,,
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",documentary-papyrus,none-found,,"The delegation event is Acts-only; Josephus records Ananias's earlier trip to Rome (Ant. 20.131) and the Caesarean troubles, but not this journey. Searched Wikipedia (Ananias son of Nedebeus, Acts 24)."
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",jewish-literary,none-found,,"The delegation event is Acts-only; Josephus records Ananias's earlier trip to Rome (Ant. 20.131) and the Caesarean troubles, but not this journey. Searched Wikipedia (Ananias son of Nedebeus, Acts 24)."
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",greco-roman-literary,none-found,,"The delegation event is Acts-only; Josephus records Ananias's earlier trip to Rome (Ant. 20.131) and the Caesarean troubles, but not this journey. Searched Wikipedia (Ananias son of Nedebeus, Acts 24)."
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",material-culture,n/a,,
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",geography-or-nature,none-found,,"The delegation event is Acts-only; Josephus records Ananias's earlier trip to Rome (Ant. 20.131) and the Caesarean troubles, but not this journey. Searched Wikipedia (Ananias son of Nedebeus, Acts 24)."
+claim:ac-24-01-delegation-accused,"After five days the high priest, elders and Tertullus came down and informed the governor against Paul",astronomy-or-calendar,n/a,,
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,inscription,none-found,,"No inscription naming Felix was fetchable (searched Wikipedia, Antonius Felix; Roman Procurator coinage)."
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,coin,found,artifact:felix-procurator-prutah,"Prutah of Felix's administration bearing the emperor's name (Nero/'Caesar'), year 3 = 56/57 per the fetched caption - confirms the procuratorial governance of Judaea in his years, not Felix's personal name. Grade B."
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,structure-or-site,none-found,,No Felix-linked building fetchable.
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,burial-or-ossuary,n/a,,
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,manuscript,n/a,,
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,documentary-papyrus,none-found,,No papyrus naming Felix as governor was fetchable.
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,jewish-literary,found,text:josephus-ant-20-137-144,"Josephus, Ant. 20.137: Claudius sent Felix to govern Judaea; 20.141: 'While Felix was procurator of Judea'. Grade A: same person, same office."
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,greco-roman-literary,found,text:tacitus-annals-12-54;text:tacitus-histories-5-9,"Tacitus, Ann. 12.54: 'his brother, surnamed Felix, who had for some time been governor of Judaea'; Hist. 5.9: Claudius entrusted Judaea to knights and freedmen, 'one of whom, Antonius Felix'. Grade A."
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,material-culture,n/a,,
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,geography-or-nature,n/a,,
+claim:ac-24-01-governor-felix,The governor before whom the case was brought was Antonius Felix,astronomy-or-calendar,n/a,,
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,inscription,none-found,,No inscription on hired advocates was fetchable.
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,coin,n/a,,
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,structure-or-site,n/a,,
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,burial-or-ossuary,n/a,,
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,manuscript,n/a,,
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,documentary-papyrus,none-found,,Petition/apology papyri on advocates before provincial governors are known in the literature but none was fetchable this run to cite.
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,jewish-literary,none-found,,Josephus records embassies and hearings (e.g. Ant. 20.131-134) but the fetched Whiston passages name no hired rhetor.
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,greco-roman-literary,found,source:wikipedia-acts-24,"Modern reference only (source, not evidence): the fetched Acts 24 article, 'The Sanhedrin sent a delegation to Felix, bringing a professional rhetor (KJV: orator; NRSV attorney) to make a formal rhetorical presentation on their behalf' - scholarly description of the practice. Grade C; an ancient attestation would upgrade."
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,material-culture,n/a,,
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,geography-or-nature,n/a,,
+claim:ac-24-01-rhetors-before-governors,Professional advocates (rhetores) were hired to plead before Roman governors,astronomy-or-calendar,n/a,,
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,inscription,found,source:wikipedia-tertullus,"Modern references (sources, not evidence): the fetched 'Tertullus' article states he 'was an orator or lawyer who was employed by the Jewish leaders to state their case against the apostle Paul in the presence of Felix (Acts 24:1-9)'; the Acts 24 article describes 'a formal rhetorical presentation'. The person himself is unattested (gap); grade C for the role as a modern description."
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,coin,n/a,,
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,structure-or-site,n/a,,
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,burial-or-ossuary,n/a,,
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,manuscript,n/a,,
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,documentary-papyrus,found,source:wikipedia-tertullus,"Modern references (sources, not evidence): the fetched 'Tertullus' article states he 'was an orator or lawyer who was employed by the Jewish leaders to state their case against the apostle Paul in the presence of Felix (Acts 24:1-9)'; the Acts 24 article describes 'a formal rhetorical presentation'. The person himself is unattested (gap); grade C for the role as a modern description."
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,jewish-literary,found,source:wikipedia-tertullus,"Modern references (sources, not evidence): the fetched 'Tertullus' article states he 'was an orator or lawyer who was employed by the Jewish leaders to state their case against the apostle Paul in the presence of Felix (Acts 24:1-9)'; the Acts 24 article describes 'a formal rhetorical presentation'. The person himself is unattested (gap); grade C for the role as a modern description."
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,greco-roman-literary,found,source:wikipedia-tertullus;source:wikipedia-acts-24,"Modern references (sources, not evidence): the fetched 'Tertullus' article states he 'was an orator or lawyer who was employed by the Jewish leaders to state their case against the apostle Paul in the presence of Felix (Acts 24:1-9)'; the Acts 24 article describes 'a formal rhetorical presentation'. The person himself is unattested (gap); grade C for the role as a modern description."
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,material-culture,n/a,,
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,geography-or-nature,n/a,,
+claim:ac-24-01-tertullus-orator,Tertullus was an orator (rhetor) employed by the Jewish leaders,astronomy-or-calendar,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,inscription,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,coin,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,structure-or-site,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,burial-or-ossuary,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,manuscript,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,documentary-papyrus,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,jewish-literary,found,text:josephus-ant-20-169-172,"Josephus records impostors, the Egyptian prophet, and Felix suppressing crowds by force under his procuratorship - the unrest contradicts the claimed 'much peace'; recorded on a complicates edge. Grade C of the condition."
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,greco-roman-literary,found,text:tacitus-histories-5-9,"Tacitus, Hist. 5.9: 'every kind of barbarity and lust ... the power of a king in the spirit of a slave' - complicates the flattery; the oratory's content itself is uncheckable."
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,material-culture,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,geography-or-nature,n/a,,
+claim:ac-24-02-03-flattery,Tertullus attributed peace and prosperity in Judaea to Felix's foresight,astronomy-or-calendar,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",inscription,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",coin,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",structure-or-site,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",burial-or-ossuary,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",manuscript,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",documentary-papyrus,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",jewish-literary,found,text:josephus-ant-20-169-172,"Josephus, Ant. 20.167-172 (adopted from data/acts/21): impostors 'persuaded the multitude to follow them into the wilderness' and Felix punished them; the Egyptian led crowds to the Mount of Olives and Felix attacked with horse and foot. Grade A for the condition claim."
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",greco-roman-literary,none-found,,No classical author records these impostors.
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",material-culture,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",geography-or-nature,n/a,,
+claim:ac-24-05-impostors-felix-era,"While Felix was procurator, impostors led crowds of Jews into the wilderness promising signs",astronomy-or-calendar,n/a,,
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,inscription,none-found,,No inscription bears on the charge against Paul.
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,coin,n/a,,
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,structure-or-site,n/a,,
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,burial-or-ossuary,n/a,,
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,manuscript,n/a,,
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,documentary-papyrus,none-found,,No trial record or imperial dossier was fetchable.
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,jewish-literary,found,text:josephus-ant-20-169-172,"Context only (grade C, on an attests note): the seditious-impostor epidemic Josephus records under Felix makes 'instigator of insurrections among all the Jews' a plausible contemporary charge; it does not attest the charge itself. Theudas lead: text:josephus-ant-20-theudas (Ant. 20.97-98) linked related_to."
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,greco-roman-literary,none-found,,No classical text bears on Paul's trial before Felix.
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,material-culture,n/a,,
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,geography-or-nature,n/a,,
+claim:ac-24-05-insurrection-charge,Tertullus charged Paul with being a plague and an instigator of insurrections among all the Jews,astronomy-or-calendar,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),inscription,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),coin,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),structure-or-site,none-found,,No synagogue inscription or find names the Nazarenes.
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),burial-or-ossuary,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),manuscript,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),documentary-papyrus,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),jewish-literary,found,text:birkat-haminim-nazarenes,The Birkat ha-Minim Geniza version adds 'the Nazarenes' (ha-nazarim/notzrim) to the curse on the minim; the date of the addition is disputed (pre-Yavneh to the 4th century per the fetched article). Grade D; dispute named on the edge.
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),greco-roman-literary,found,text:tertullian-adv-marcion-4-8,"Reception: Tertullian, Against Marcion 4.8 (c. 207-212), records that 'the Jews called Christians Nazarenes' - a tradition independent of Acts' wording but two generations later. Grade D; dependence and distance named on the edge."
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),material-culture,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),geography-or-nature,n/a,,
+claim:ac-24-05-nazarenes,The followers of Jesus were called 'the sect of the Nazarenes' (Nazoraioi),astronomy-or-calendar,n/a,,
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,inscription,found,artifact:temple-warning-inscription,"The Temple Warning inscription (reused from data/acts/21, attested there grade A for the exclusion custom, claim:ac-21-28-gentile-exclusion) is the institution behind the profanation charge's gravity; grade C for the charge event, which nothing external attests."
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,coin,n/a,,
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,structure-or-site,none-found,,site:second-temple is not copied into this chapter; the charge event itself is Acts-only.
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,burial-or-ossuary,n/a,,
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,manuscript,n/a,,
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,documentary-papyrus,n/a,,
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,jewish-literary,none-found,,"Josephus, War 5.193-194 records the exclusion (data/acts/21's evidence); not re-fetched here, and it attests the custom, not the charge."
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,greco-roman-literary,none-found,,Nothing external on the charge.
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,material-culture,n/a,,
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,geography-or-nature,n/a,,
+claim:ac-24-06-temple-profane-charge,Tertullus charged Paul with trying to profane the temple,astronomy-or-calendar,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,inscription,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,coin,found,artifact:felix-procurator-prutah,"Felix-administration coinage dated to Nero year 3 (56/57) per the fetched caption - consistent with a tenure running into the late 50s, 'many years' after 52. Grade B."
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,structure-or-site,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,burial-or-ossuary,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,manuscript,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,documentary-papyrus,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,jewish-literary,found,text:josephus-ant-20-137-144,"Claudius sent Felix in his twelfth year (52 CE); Wikipedia gives 52-60, about eight years. Grade B for the span."
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,greco-roman-literary,found,text:tacitus-annals-12-54,'who had for some time been governor of Judaea' - directly confirms Paul's 'many years'. Grade B (no span given).
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,material-culture,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,geography-or-nature,n/a,,
+claim:ac-24-10-judge-many-years,Felix had been judge (governor) of the nation for many years,astronomy-or-calendar,found,source:wikipedia-antonius-felix,"Modern regnal dating (source, not evidence): the fetched infobox 'Roman procurator of Judaea (r. 52-60 CE)' gives the span implied by 'many years'. Grade C."
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,inscription,none-found,,The twelve-day count is Acts-only; searched Wikipedia (Acts 24) and web for any trial chronology; nothing external.
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,coin,n/a,,
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,structure-or-site,n/a,,
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,burial-or-ossuary,n/a,,
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,manuscript,n/a,,
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,documentary-papyrus,none-found,,The twelve-day count is Acts-only; searched Wikipedia (Acts 24) and web for any trial chronology; nothing external.
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,jewish-literary,none-found,,The twelve-day count is Acts-only; searched Wikipedia (Acts 24) and web for any trial chronology; nothing external.
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,greco-roman-literary,none-found,,The twelve-day count is Acts-only; searched Wikipedia (Acts 24) and web for any trial chronology; nothing external.
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,material-culture,n/a,,
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,geography-or-nature,found,source:wikipedia-acts-24,"The fetched Acts 24 article: Caesarea lies 'some 110 kilometres (68 mi) from the Jewish capital' - the up-and-down setting of the twelve-day count (modern reference, grade C)."
+claim:ac-24-11-twelve-days,No more than twelve days had passed since Paul went up to Jerusalem to worship,astronomy-or-calendar,none-found,,The twelve-day count is Acts-only; searched Wikipedia (Acts 24) and web for any trial chronology; nothing external.
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",inscription,none-found,,"Paul's denial is Acts-only; nothing external bears on what he did or did not do in the temple, synagogues or city."
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",coin,n/a,,
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",structure-or-site,none-found,,"Paul's denial is Acts-only; nothing external bears on what he did or did not do in the temple, synagogues or city."
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",burial-or-ossuary,n/a,,
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",manuscript,n/a,,
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",documentary-papyrus,none-found,,"Paul's denial is Acts-only; nothing external bears on what he did or did not do in the temple, synagogues or city."
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",jewish-literary,none-found,,"Paul's denial is Acts-only; nothing external bears on what he did or did not do in the temple, synagogues or city."
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",greco-roman-literary,none-found,,"Paul's denial is Acts-only; nothing external bears on what he did or did not do in the temple, synagogues or city."
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",material-culture,n/a,,
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",geography-or-nature,n/a,,
+claim:ac-24-12-13-no-dispute-denial,"Paul denied disputing or stirring crowds in the temple, synagogues or city",astronomy-or-calendar,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",inscription,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",coin,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",structure-or-site,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",burial-or-ossuary,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",manuscript,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",documentary-papyrus,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",jewish-literary,none-found,,"Searched Wikipedia ('Follower of the Way', 'The Way') for the self-designation hodos; the fetched articles treat Christian name-usage generally and do not document the Acts usage externally. DSS 'way' language would need a fetched scroll source (lead)."
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",greco-roman-literary,none-found,,No classical text uses 'the Way' of the movement.
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",material-culture,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",geography-or-nature,n/a,,
+claim:ac-24-14-the-way,"Believers were called 'the Way' (hodos), which opponents called a sect (hairesis)",astronomy-or-calendar,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",inscription,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",coin,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",structure-or-site,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",burial-or-ossuary,none-found,,"Lead: some Jerusalem ossuaries bear resurrection-hope formulae; none was fetchable this run to cite, and they would be context (C/D), not attestation of Paul's confession."
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",manuscript,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",documentary-papyrus,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",jewish-literary,none-found,,"Paul's confession is attested by no external text; the shared Pharisaic doctrine is claim:ac-23-08-pharisees-resurrection (linked related_to) and Daniel 12:2 is a biblical cross-reference, not evidence."
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",greco-roman-literary,none-found,,Nothing external on Paul's hope.
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",material-culture,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",geography-or-nature,n/a,,
+claim:ac-24-15-resurrection-hope,"Paul hoped for a resurrection of the dead, both of the just and the unjust",astronomy-or-calendar,n/a,,
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,inscription,none-found,,No inscription on the Jerusalem alms was fetchable.
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,coin,none-found,,No numismatic trace of the collection was fetchable.
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,structure-or-site,n/a,,
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,burial-or-ossuary,n/a,,
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,manuscript,n/a,,
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,documentary-papyrus,none-found,,No papyrus of the collection was fetchable.
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,jewish-literary,none-found,,No rabbinic or Josephus text on Paul's collection.
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,greco-roman-literary,none-found,,No classical text on the collection.
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,material-culture,n/a,,
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,geography-or-nature,n/a,,
+claim:ac-24-17-alms-collection,Paul came to Jerusalem after some years bringing alms to his nation and offerings,astronomy-or-calendar,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",inscription,none-found,,The purification setting is shared with claim:ac-21-26-purification-temple (linked related_to; the Mishnah Nazir evidence lives in data/acts/21). Nothing external attests the event itself.
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",coin,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",structure-or-site,none-found,,The purification setting is shared with claim:ac-21-26-purification-temple (linked related_to; the Mishnah Nazir evidence lives in data/acts/21). Nothing external attests the event itself.
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",burial-or-ossuary,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",manuscript,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",documentary-papyrus,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",jewish-literary,none-found,,The purification setting is shared with claim:ac-21-26-purification-temple (linked related_to; the Mishnah Nazir evidence lives in data/acts/21). Nothing external attests the event itself.
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",greco-roman-literary,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",material-culture,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",geography-or-nature,n/a,,
+claim:ac-24-18-purified-temple,"Jews from Asia found Paul purified in the temple, without mob or turmoil",astronomy-or-calendar,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,inscription,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,coin,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,structure-or-site,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,burial-or-ossuary,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,manuscript,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,documentary-papyrus,none-found,,Roman trial procedure on the accusers' presence: no fetched papyrus or text; the point is Acts-only.
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,jewish-literary,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,greco-roman-literary,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,material-culture,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,geography-or-nature,n/a,,
+claim:ac-24-19-accusers-absent,Paul said his Asian accusers ought to have been present to make their accusation,astronomy-or-calendar,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,inscription,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,coin,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,structure-or-site,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,burial-or-ossuary,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,manuscript,found,artifact:papyrus-74,"P74, with Sinaiticus and Vaticanus, carries the shorter reading ευρον αδικημα at 24:20 per the fetched variants article - the manuscript evidence for the verse's own wording (preserves; not an attestation of the event)."
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,documentary-papyrus,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,jewish-literary,none-found,,The council hearing of Acts 23 is data/acts/23's ground; nothing external here.
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,greco-roman-literary,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,material-culture,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,geography-or-nature,n/a,,
+claim:ac-24-20-council-hearing,Paul said his present accusers should state what injustice they found when he stood before the council,astronomy-or-calendar,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,inscription,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,coin,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,structure-or-site,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,burial-or-ossuary,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,manuscript,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,documentary-papyrus,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,jewish-literary,none-found,,Nothing external on Paul's cry before the council; the doctrine is claim:ac-23-08-pharisees-resurrection (related_to).
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,greco-roman-literary,none-found,,Nothing external on Paul's cry before the council; the doctrine is claim:ac-23-08-pharisees-resurrection (related_to).
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,material-culture,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,geography-or-nature,n/a,,
+claim:ac-24-21-judged-resurrection,Paul cried before the council that he was being judged concerning the resurrection of the dead,astronomy-or-calendar,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",inscription,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",coin,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",structure-or-site,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",burial-or-ossuary,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",manuscript,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",documentary-papyrus,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",jewish-literary,none-found,,"Felix's 'more exact knowledge' is Acts-only; his long Judaean tenure (Josephus, Tacitus) is context but attests no knowledge of the movement."
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",greco-roman-literary,none-found,,"Felix's 'more exact knowledge' is Acts-only; his long Judaean tenure (Josephus, Tacitus) is context but attests no knowledge of the movement."
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",material-culture,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",geography-or-nature,n/a,,
+claim:ac-24-22-felix-knew-way,"Felix, having more exact knowledge of the Way, deferred the case until Lysias came down",astronomy-or-calendar,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",inscription,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",coin,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",structure-or-site,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",burial-or-ossuary,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",manuscript,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",documentary-papyrus,none-found,,The custodia libera (relaxed custody) practice is discussed in scholarship but no fetchable classical text or papyrus attests it this run.
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",jewish-literary,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",greco-roman-literary,none-found,,The custodia libera (relaxed custody) practice is discussed in scholarship but no fetchable classical text or papyrus attests it this run.
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",material-culture,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",geography-or-nature,n/a,,
+claim:ac-24-23-custody-privileges,"Felix ordered the centurion to keep Paul in custody with privileges, letting friends serve him",astronomy-or-calendar,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,inscription,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,coin,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,structure-or-site,none-found,,The private hearings before Felix and Drusilla are Acts-only; Josephus and Tacitus know nothing of them.
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,burial-or-ossuary,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,manuscript,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,documentary-papyrus,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,jewish-literary,none-found,,The private hearings before Felix and Drusilla are Acts-only; Josephus and Tacitus know nothing of them.
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,greco-roman-literary,none-found,,The private hearings before Felix and Drusilla are Acts-only; Josephus and Tacitus know nothing of them.
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,material-culture,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,geography-or-nature,n/a,,
+claim:ac-24-24-felix-heard-paul,Felix with Drusilla sent for Paul and heard him about faith in Christ,astronomy-or-calendar,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",inscription,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",coin,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",structure-or-site,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",burial-or-ossuary,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",manuscript,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",documentary-papyrus,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",jewish-literary,none-found,,Felix's fear at Paul's discourse is Acts-only; no external trace.
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",greco-roman-literary,none-found,,Felix's fear at Paul's discourse is Acts-only; no external trace.
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",material-culture,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",geography-or-nature,n/a,,
+claim:ac-24-25-felix-terrified,"Felix was terrified by Paul's talk of righteousness, self-control and judgment, and dismissed him",astronomy-or-calendar,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,inscription,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,coin,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,structure-or-site,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,burial-or-ossuary,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,manuscript,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,documentary-papyrus,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,jewish-literary,none-found,,"Josephus's nearest note is Ananias's money-hoarding (Ant. 20.205-206), not Felix's bribes."
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,greco-roman-literary,found,text:tacitus-histories-5-9,"Tacitus's portrait of Felix ('every kind of barbarity and lust ... the power of a king in the spirit of a slave') supports the venal character Acts attributes to him, at C; it does not attest the specific bribe hope of 24:26. The brief's 'Tacitus on his venality' is as close as the fetched text gets."
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,material-culture,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,geography-or-nature,n/a,,
+claim:ac-24-26-bribe-hope,Felix hoped Paul would give him money and sent for him often,astronomy-or-calendar,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",inscription,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",coin,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",structure-or-site,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",burial-or-ossuary,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",manuscript,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",documentary-papyrus,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",jewish-literary,none-found,,Josephus records Felix's Caesarean troubles but says nothing of Paul's detention being left in place; nothing external.
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",greco-roman-literary,none-found,,Josephus records Felix's Caesarean troubles but says nothing of Paul's detention being left in place; nothing external.
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",material-culture,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",geography-or-nature,n/a,,
+claim:ac-24-27-felix-left-bonds,"Felix, wanting to do the Jews a favor, left Paul in bonds",astronomy-or-calendar,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,inscription,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,coin,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,structure-or-site,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,burial-or-ossuary,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,manuscript,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,documentary-papyrus,none-found,,No imperial record of the accusation was fetchable.
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,jewish-literary,found,text:josephus-ant-20-182,"Ant. 20.182: 'the principal of the Jewish inhabitants of Cesarea went up to Rome to accuse Felix; and he had certainly been brought to punishment, unless Nero had yielded to the importunate solicitations of his brother Pallas.' Grade B per the brief (Josephus sole and partly apologetic)."
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,greco-roman-literary,none-found,,Tacitus does not record the recall (Annals' Pallas passages concern his wealth and burial).
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,material-culture,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,geography-or-nature,n/a,,
+claim:ac-24-27-felix-recalled,Felix was recalled to Rome to answer accusations of the Caesarean Jews and escaped through Pallas's intercession,astronomy-or-calendar,n/a,,
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,inscription,none-found,,No inscription names Festus.
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,coin,found,artifact:festus-procurator-prutah;artifact:festus-coins,"Festus prutah dated year 5 of Nero (58/59) per the fetched caption - Festus was procurator by 58/59. Grade B. The Acts 25 chapter's artifact:festus-coins node (Nero year 5 prutahs, NEP WNOC / KAICAPOC) merged in with claim:ac-25-01-festus-procurator."
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,structure-or-site,n/a,,
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,burial-or-ossuary,n/a,,
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,manuscript,n/a,,
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,documentary-papyrus,n/a,,
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,jewish-literary,found,text:josephus-ant-20-182,"'Now when Porcius Festus was sent as successor to Felix by Nero' - the same person, office and succession. Grade A."
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,greco-roman-literary,found,text:josephus-war-2-271,'Now it was that Festus succeeded Felix as procurator' (War 2.271) - the War's independent notice of the same succession (merged from claim:ac-25-01-festus-procurator).
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,material-culture,n/a,,
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,geography-or-nature,n/a,,
+claim:ac-24-27-festus-succeeded,Porcius Festus succeeded Felix as procurator of Judaea,astronomy-or-calendar,found,artifact:festus-coins,"The coins' regnal date LE (year 5 of Nero = 58/59) dates the mint under Festus; his term's start remains disputed (Wikipedia: extremes c. 55-61, most scholars 58-60) (merged from claim:ac-25-01-festus-procurator)."
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",inscription,n/a,,
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",coin,found,artifact:festus-procurator-prutah,"The year-5 (58/59) coin is Bruce's main dating peg ('a change in the provincial coinage of Judaea attested for Nero's fifth year points to A.D. 59', quoted on the fetched page); it fixes one end of a still-disputed window, so D for the absolute date."
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",structure-or-site,n/a,,
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",burial-or-ossuary,n/a,,
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",manuscript,n/a,,
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",documentary-papyrus,n/a,,
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",jewish-literary,found,text:josephus-ant-20-182,Attests the succession event (A) but gives no date; the two-year figure is Acts' own. D for the date overall.
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",greco-roman-literary,none-found,,No classical date for the succession.
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",material-culture,n/a,,
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",geography-or-nature,n/a,,
+claim:ac-24-27-two-years,"Paul was left in custody two years, to Felix's recall and Festus's succession, c. 58-60 (date debated)",astronomy-or-calendar,none-found,,Regnal-year dating gives only the coin's year 5 = 58/59 peg (see coin row); no astronomical or calendrical fix was fetchable.
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),inscription,none-found,,Searched Wikipedia (Ananias son of Nedebeus) and web: no bulla or inscription names him.
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),coin,n/a,,
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),structure-or-site,n/a,,
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),burial-or-ossuary,n/a,,
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),manuscript,n/a,,
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),documentary-papyrus,none-found,,No papyrus of his Roman journey (Ant. 20.131) or trial was fetchable.
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),jewish-literary,found,text:josephus-ant-20-103,"Josephus, Ant. 20.103 (adopted from data/acts/23): Herod of Chalcis 'made Ananias, the son of Nebedeu, his successor' as high priest; also Ant. 20.131 (sent in bonds to Rome) and 20.205-206 (the tithe-violence under Albinus). Grade A."
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),greco-roman-literary,none-found,,No classical text names Ananias; searched Wikipedia.
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),material-culture,n/a,,
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),geography-or-nature,n/a,,
+person:ananias-son-of-nedebaeus,Ananias son of Nedebaeus (high priest c. 47-59 CE),astronomy-or-calendar,n/a,,
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",inscription,none-found,,"Searched Wikipedia (Antonius Felix, Roman Procurator coinage): no inscription naming Felix was fetchable; he is known from literature and coins only."
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",coin,found,artifact:felix-procurator-prutah,"Prutah of Felix's administration, dated year 3 of Nero (56/57) in the fetched caption, bearing the emperor's name; the fetched Roman Procurator coinage article: 'Felix was Procurator of Judaea under Claudius. His coins bear the names of Claudius, Julia Agrippina, Nero (as Caesar), and Britannicus.' Grade B for the person (the coin names the administration's era, not Felix)."
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",structure-or-site,none-found,,"Searched Wikipedia (Caesarea Maritima, Antonius Felix): no building of Felix's identified."
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",burial-or-ossuary,n/a,,
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",manuscript,n/a,,
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",documentary-papyrus,none-found,,Searched Wikipedia and web: no papyrus of Felix's administration was fetchable this run.
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",jewish-literary,found,text:josephus-ant-20-137-144,"Josephus, Ant. 20.137-144 (adopted from data/acts/23): 'SO Claudius sent Felix, the brother of Pallas, to take care of the affairs of Judea'; 'While Felix was procurator of Judea' - names the same man and office. Grade A."
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",greco-roman-literary,found,text:tacitus-histories-5-9;text:tacitus-annals-12-54,"Tacitus, Hist. 5.9: 'one of whom, Antonius Felix, indulging in every kind of barbarity and lust, exercised the power of a king in the spirit of a slave'; Ann. 12.54: 'his brother, surnamed Felix, who had for some time been governor of Judaea'. Grade A."
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",material-culture,n/a,,
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",geography-or-nature,n/a,,
+person:antonius-felix,"Antonius Felix (procurator of Judea, c. 52-59 CE)",astronomy-or-calendar,n/a,,
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),inscription,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),coin,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),structure-or-site,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),burial-or-ossuary,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),manuscript,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),documentary-papyrus,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),jewish-literary,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),greco-roman-literary,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),material-culture,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),geography-or-nature,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:claudius-lysias,Claudius Lysias (the tribune of the cohort in Jerusalem),astronomy-or-calendar,none-found,,"Unattested outside Acts (data/acts/23 records the same gap; the nomen Claudius argument uses Cassius Dio 60.17.7 on enfranchised citizens, a context source, not a naming witness)."
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",inscription,none-found,,Searched Wikipedia (Drusilla): the name Antonia Agrippina in an Egyptian tomb graffito is 'may have been a granddaughter' - too uncertain to enter.
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",coin,n/a,,
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",structure-or-site,n/a,,
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",burial-or-ossuary,none-found,,"Her son Agrippa died at Pompeii in 79 (Josephus, Ant. 20.143f); no burial find was fetchable."
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",manuscript,n/a,,
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",documentary-papyrus,n/a,,
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",jewish-literary,found,text:josephus-ant-20-137-144,"Josephus, Ant. 20.141-144: Agrippa gave his sister Drusilla to Azizus of Emesa; while Felix was procurator she 'transgress[ed] the laws of her forefathers, and ... marrie[d] Felix' - a Jewish Herodian princess. Grade A."
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",greco-roman-literary,found,text:tacitus-histories-5-9,"Tacitus, Hist. 5.9: 'He had married Drusilla' - names her as Felix's wife, though it identifies her as Antony's granddaughter (the tension is on a complicates edge). Grade A for the marriage; D on the identity."
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",material-culture,n/a,,
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",geography-or-nature,n/a,,
+person:drusilla,"Drusilla (Julia Drusilla, daughter of Herod Agrippa I)",astronomy-or-calendar,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),inscription,none-found,,"Searched Wikipedia (Paul the Apostle, Acts 24, Antonius Felix): no inscription, coin, papyrus or pagan/rabbinic text names the prisoner Paul of this trial."
+person:paul-of-tarsus,Paul (Saul of Tarsus),coin,none-found,,"Searched Wikipedia (Paul the Apostle, Acts 24, Antonius Felix): no inscription, coin, papyrus or pagan/rabbinic text names the prisoner Paul of this trial."
+person:paul-of-tarsus,Paul (Saul of Tarsus),structure-or-site,none-found,,"Searched Wikipedia (Paul the Apostle, Acts 24, Antonius Felix): no inscription, coin, papyrus or pagan/rabbinic text names the prisoner Paul of this trial."
+person:paul-of-tarsus,Paul (Saul of Tarsus),burial-or-ossuary,none-found,,"Searched Wikipedia (Paul the Apostle, Acts 24, Antonius Felix): no inscription, coin, papyrus or pagan/rabbinic text names the prisoner Paul of this trial."
+person:paul-of-tarsus,Paul (Saul of Tarsus),manuscript,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),documentary-papyrus,none-found,,"Searched Wikipedia (Paul the Apostle, Acts 24, Antonius Felix): no inscription, coin, papyrus or pagan/rabbinic text names the prisoner Paul of this trial."
+person:paul-of-tarsus,Paul (Saul of Tarsus),jewish-literary,none-found,,"Searched Wikipedia (Paul the Apostle, Acts 24, Antonius Felix): no inscription, coin, papyrus or pagan/rabbinic text names the prisoner Paul of this trial."
+person:paul-of-tarsus,Paul (Saul of Tarsus),greco-roman-literary,none-found,,"Searched Wikipedia (Paul the Apostle, Acts 24, Antonius Felix): no inscription, coin, papyrus or pagan/rabbinic text names the prisoner Paul of this trial."
+person:paul-of-tarsus,Paul (Saul of Tarsus),material-culture,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),geography-or-nature,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),astronomy-or-calendar,n/a,,
+person:porcius-festus,Porcius Festus (procurator of Judaea),inscription,none-found,,"Searched Wikipedia (Porcius Festus, Roman Procurator coinage): no inscription naming Festus was fetchable."
+person:porcius-festus,Porcius Festus (procurator of Judaea),coin,found,artifact:festus-procurator-prutah,Prutah minted by Festus dated year 5 of Nero (58/59) in the fetched caption; the fetched coinage article lists Festus among the six procurators who issued coins. Grade B for the person/office.
+person:porcius-festus,Porcius Festus (procurator of Judaea),structure-or-site,n/a,,
+person:porcius-festus,Porcius Festus (procurator of Judaea),burial-or-ossuary,n/a,,
+person:porcius-festus,Porcius Festus (procurator of Judaea),manuscript,n/a,,
+person:porcius-festus,Porcius Festus (procurator of Judaea),documentary-papyrus,n/a,,
+person:porcius-festus,Porcius Festus (procurator of Judaea),jewish-literary,found,text:josephus-ant-20-182,"Josephus, Ant. 20.182: 'Now when Porcius Festus was sent as successor to Felix by Nero' - names the man, his office and his appointment. Grade A."
+person:porcius-festus,Porcius Festus (procurator of Judaea),greco-roman-literary,none-found,,Tacitus does not name Festus; searched Wikipedia (Porcius Festus) - its classical citations for Festus are Josephus only.
+person:porcius-festus,Porcius Festus (procurator of Judaea),material-culture,n/a,,
+person:porcius-festus,Porcius Festus (procurator of Judaea),geography-or-nature,n/a,,
+person:porcius-festus,Porcius Festus (procurator of Judaea),astronomy-or-calendar,n/a,,
+person:tertullus,Tertullus (the orator of Acts 24:1),inscription,none-found,,"The person gap of the brief: Tertullus is unattested outside Acts; searched Wikipedia (Tertullus, Acts 24) and web. The fetched pages describe his role but name no external witness."
+person:tertullus,Tertullus (the orator of Acts 24:1),coin,none-found,,"The person gap of the brief: Tertullus is unattested outside Acts; searched Wikipedia (Tertullus, Acts 24) and web. The fetched pages describe his role but name no external witness."
+person:tertullus,Tertullus (the orator of Acts 24:1),structure-or-site,none-found,,"The person gap of the brief: Tertullus is unattested outside Acts; searched Wikipedia (Tertullus, Acts 24) and web. The fetched pages describe his role but name no external witness."
+person:tertullus,Tertullus (the orator of Acts 24:1),burial-or-ossuary,none-found,,"The person gap of the brief: Tertullus is unattested outside Acts; searched Wikipedia (Tertullus, Acts 24) and web. The fetched pages describe his role but name no external witness."
+person:tertullus,Tertullus (the orator of Acts 24:1),manuscript,n/a,,
+person:tertullus,Tertullus (the orator of Acts 24:1),documentary-papyrus,none-found,,"The person gap of the brief: Tertullus is unattested outside Acts; searched Wikipedia (Tertullus, Acts 24) and web. The fetched pages describe his role but name no external witness."
+person:tertullus,Tertullus (the orator of Acts 24:1),jewish-literary,none-found,,"The person gap of the brief: Tertullus is unattested outside Acts; searched Wikipedia (Tertullus, Acts 24) and web. The fetched pages describe his role but name no external witness."
+person:tertullus,Tertullus (the orator of Acts 24:1),greco-roman-literary,none-found,,"The person gap of the brief: Tertullus is unattested outside Acts; searched Wikipedia (Tertullus, Acts 24) and web. The fetched pages describe his role but name no external witness."
+person:tertullus,Tertullus (the orator of Acts 24:1),material-culture,n/a,,
+person:tertullus,Tertullus (the orator of Acts 24:1),geography-or-nature,n/a,,
+person:tertullus,Tertullus (the orator of Acts 24:1),astronomy-or-calendar,n/a,,
+place:caesarea,Caesarea Maritima,inscription,none-found,,No Caesarea inscription bearing on this chapter's claims was fetched this run (the Pilate stone belongs to other chapters' anchors).
+place:caesarea,Caesarea Maritima,coin,n/a,,n/a for this chapter's new claims.
+place:caesarea,Caesarea Maritima,structure-or-site,none-found,,"Felix's hearing venue ('Herod's praetorium', 23:35) is data/acts/23's anchor; no new site evidence fetched here."
+place:caesarea,Caesarea Maritima,burial-or-ossuary,n/a,,n/a for this chapter's new claims.
+place:caesarea,Caesarea Maritima,manuscript,n/a,,n/a for this chapter's new claims.
+place:caesarea,Caesarea Maritima,documentary-papyrus,n/a,,n/a for this chapter's new claims.
+place:caesarea,Caesarea Maritima,jewish-literary,n/a,,n/a for this chapter's new claims.
+place:caesarea,Caesarea Maritima,greco-roman-literary,n/a,,n/a for this chapter's new claims.
+place:caesarea,Caesarea Maritima,material-culture,n/a,,n/a for this chapter's new claims.
+place:caesarea,Caesarea Maritima,geography-or-nature,found,source:wikipedia-acts-24,"The fetched Acts 24 article locates the chapter's events at Caesarea, 'some 110 kilometres (68 mi) from the Jewish capital' (modern reference; the place itself is a reused node from data/acts/08). Grade C here; the city's own inscription/site evidence lives on the earlier chapters' copies."
+place:caesarea,Caesarea Maritima,astronomy-or-calendar,n/a,,n/a for this chapter's new claims.
+place:jerusalem,Jerusalem,inscription,n/a,,
+place:jerusalem,Jerusalem,coin,n/a,,
+place:jerusalem,Jerusalem,structure-or-site,n/a,,
+place:jerusalem,Jerusalem,burial-or-ossuary,n/a,,
+place:jerusalem,Jerusalem,manuscript,n/a,,
+place:jerusalem,Jerusalem,documentary-papyrus,n/a,,
+place:jerusalem,Jerusalem,jewish-literary,n/a,,
+place:jerusalem,Jerusalem,greco-roman-literary,n/a,,
+place:jerusalem,Jerusalem,material-culture,n/a,,
+place:jerusalem,Jerusalem,geography-or-nature,found,source:wikipedia-acts-24,"The fetched Acts 24 article sets the chapter's prelude at Jerusalem (the arrest, the twelve days) with Caesarea as the hearing venue; modern reference, grade C."
+place:jerusalem,Jerusalem,astronomy-or-calendar,n/a,,
+place:judea,Judea,inscription,n/a,,
+place:judea,Judea,coin,n/a,,
+place:judea,Judea,structure-or-site,n/a,,
+place:judea,Judea,burial-or-ossuary,n/a,,
+place:judea,Judea,manuscript,n/a,,
+place:judea,Judea,documentary-papyrus,n/a,,
+place:judea,Judea,jewish-literary,n/a,,
+place:judea,Judea,greco-roman-literary,n/a,,
+place:judea,Judea,material-culture,n/a,,
+place:judea,Judea,geography-or-nature,found,source:wikipedia-antonius-felix,"The fetched article's infobox: 'Roman procurator of Judaea (r. 52-60 CE)' - the province Felix governed is the nation whose judge Paul names. Modern reference, grade C."
+place:judea,Judea,astronomy-or-calendar,n/a,,
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",inscription,none-found,,Searched Wikipedia (Drusilla): the name Antonia Agrippina in an Egyptian tomb graffito is 'may have been a granddaughter' - too uncertain to enter.
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",burial-or-ossuary,none-found,,"Her son Agrippa died at Pompeii in 79 (Josephus, Ant. 20.143f); no burial find was fetchable."
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",jewish-literary,found,text:josephus-ant-20-137-144,"Josephus, Ant. 20.141-144: Agrippa gave his sister Drusilla to Azizus of Emesa; while Felix was procurator she was 'prevailed upon to transgress the laws of her forefathers, and to marry Felix' (grade A for the person and marriage; split cell)."
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",greco-roman-literary,found,text:tacitus-histories-5-9,"Tacitus, Hist. 5.9: 'He had married Drusilla' (A for the marriage); it identifies her as Antony's granddaughter - the tension is on the complicates edge."
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-person,"Drusilla was Felix's wife, a Jewish Herodian princess (Agrippa I's daughter)",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",inscription,none-found,,Searched Wikipedia (Drusilla): the name Antonia Agrippina in an Egyptian tomb graffito is 'may have been a granddaughter' - too uncertain to enter.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",burial-or-ossuary,none-found,,"Her son Agrippa died at Pompeii in 79 (Josephus, Ant. 20.143f); no burial find was fetchable."
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",jewish-literary,found,text:josephus-ant-20-137-144,"Josephus, Ant. 20.141-144 supports Drusilla's person and marriage (grade B after the split; the A now anchors claim:ac-24-24-drusilla-person)."
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",greco-roman-literary,found,text:tacitus-histories-5-9,"Tacitus, Hist. 5.9 names Drusilla as Felix's wife (A for the marriage); its pagan identification of her is on the complicates edge."
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-24-24-drusilla-jewess,"Felix heard Paul with Drusilla his wife, who was a Jewess",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

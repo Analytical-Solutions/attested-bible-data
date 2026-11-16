@@ -1,0 +1,52 @@
+{
+ "source:wikipedia-exorcism-decapolis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-exorcism-gadarenes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-exorcism-mark-account": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-exorcism-textual": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Exorcism_of_the_Gerasene_demoniac"
+ },
+ "source:wikipedia-jairus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter"
+ },
+ "source:wikipedia-jairus-physicians": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter"
+ },
+ "source:wikipedia-jairus-talitha": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter"
+ },
+ "source:wikipedia-legio-x-fretensis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Legio_X_Fretensis"
+ },
+ "source:wikipedia-variants-mark-5-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Mark"
+ },
+ "source:wikisource-war3-legions": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_III"
+ }
+}

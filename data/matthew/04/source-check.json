@@ -1,0 +1,157 @@
+{
+ "source:isaiah-scroll-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+ },
+ "source:wikipedia-capernaum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-finds": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-peter-house": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-peter-house-doubts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-capernaum-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-decapolis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Decapolis"
+ },
+ "source:wikipedia-decapolis-union": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Decapolis"
+ },
+ "source:wikipedia-herod-antipas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Antipas"
+ },
+ "source:wikipedia-herod-antipas-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Antipas"
+ },
+ "source:wikipedia-john-baptist-josephus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/John_the_Baptist"
+ },
+ "source:wikipedia-john-the-baptist": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/John_the_Baptist"
+ },
+ "source:wikipedia-judaean-desert": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judaean_Desert"
+ },
+ "source:wikipedia-judaean-desert-fortresses": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judaean_Desert"
+ },
+ "source:wikipedia-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-machaerus-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-magdala-fishing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-magdala-tarichaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-migdal-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Migdal_Synagogue"
+ },
+ "source:wikipedia-migdal-synagogue-seven": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Migdal_Synagogue"
+ },
+ "source:wikipedia-monastery-temptation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Monastery_of_the_Temptation"
+ },
+ "source:wikipedia-monastery-temptation-tradition": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Monastery_of_the_Temptation"
+ },
+ "source:wikipedia-sea-of-galilee-boat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikipedia-sea-of-galilee-boat-no-link": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Sea_of_Galilee_Boat"
+ },
+ "source:wikipedia-sea-of-galilee-fishing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sea_of_Galilee"
+ },
+ "source:wikipedia-tribe-naphtali": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tribe_of_Naphtali"
+ },
+ "source:wikipedia-tribe-naphtali-territory": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tribe_of_Naphtali"
+ },
+ "source:wikipedia-trumpeting-place": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Trumpeting_Place_inscription"
+ },
+ "source:wikisource-ant18-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ }
+}

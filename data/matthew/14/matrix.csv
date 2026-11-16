@@ -1,0 +1,331 @@
+anchor,label,category,status,findings,note
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,inscription,none-found,,No inscription naming Antipas as tetrarch was fetched; his attestation is numismatic and literary.
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,coin,found,artifact:antipas-coins,Coins struck under Antipas name him by the office: the Greek inscription 'Herod the Tetrarch'.
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,structure-or-site,none-found,,"Tiberias, his capital, is attested textually (see place:tiberias), but no excavated structure naming him was fetched this run."
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,documentary-papyrus,none-found,,"No census, oath-list or regnal document naming the tetrarchy was fetched; Josephus is the literary witness."
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,jewish-literary,found,text:josephus-ant-18-116-119;text:josephus-ant-18-tiberias,"Josephus repeatedly styles him 'Herod the tetrarch' (18.109, 18.116-119 context) and names his foundation of Tiberias."
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,greco-roman-literary,none-found,,"No classical author naming Antipas's title was fetched (Strabo, Pliny not fetched this run)."
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-antipas-tetrarch,Herod Antipas held the office of tetrarch,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,inscription,none-found,,"No inscription bearing on Herod's hearing of Jesus was fetched; searched Wikipedia (Herod Antipas, John the Baptist) and the fetched Josephus Ant. 18."
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,documentary-papyrus,n/a,,No record of Antipas's chancery or correspondence survives that could name this private hearing.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,jewish-literary,none-found,,"Josephus Ant. 18 (fetched) records Antipas's fear of John's influence, but nothing of his hearing about Jesus; the Ant. 20 notice of Jesus lies outside this chapter's sources."
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,greco-roman-literary,none-found,,"No classical author fetched records Antipas's reaction to Jesus; searched Wikipedia (Herod Antipas, 'Jesus' ministry and trial') and the fetched Josephus."
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-01-herod-heard,Herod the tetrarch heard the report concerning Jesus,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,jewish-literary,none-found,,Josephus's John passage (fetched) gives Herod fear of rebellion as his motive for killing John; it does not record a resurrection theory about Jesus.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,greco-roman-literary,none-found,,"No classical text records Herod's opinion of Jesus; searched the fetched Josephus and Wikipedia (Herod Antipas, John the Baptist)."
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-02-herod-thought-john-risen,Herod said Jesus was John the Baptizer risen from the dead,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",inscription,none-found,,No inscription naming Herodias's marriages was fetched; the evidence is numismatic and literary.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",structure-or-site,found,site:machaerus,The excavated Herodian fortress is the prison's setting in Josephus's account.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",documentary-papyrus,none-found,,No document from Antipas's court survives or was fetched; Josephus is the record.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",jewish-literary,found,text:josephus-ant-18-116-119;text:josephus-ant-18-136-herodias,Josephus 18.116-119 confirms the imprisonment and execution; 18.136 confirms the Herodias marriage (and complicates the 'brother Philip' naming - see the complicates edge).
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",greco-roman-literary,none-found,,"No classical author fetched records the arrest; searched Wikipedia (Herodias, Herod Antipas) and the fetched Josephus."
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-03-john-imprisoned-herodias,"John bound in prison for the sake of Herodias, his brother Philip's wife",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,jewish-literary,none-found,,"The law invoked is the Torah (Leviticus 18:16, cross-referenced, not independent evidence); no rabbinic halakhic text (e.g. Mishnah Yevamot) was fetched this run."
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-04-not-lawful-to-have-her,John told Herod it was not lawful to have her,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,jewish-literary,none-found,,Josephus (fetched) gives the opposite emphasis: Herod feared John's influence over the people and moved to prevent rebellion; he is not recorded as fearing the crowd's reaction to a death.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,greco-roman-literary,none-found,,No classical text on Herod's motive fetched beyond Josephus (listed under jewish-literary).
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-05-feared-the-multitude,Herod feared the multitude who counted John a prophet,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,jewish-literary,none-found,,No Jewish text on Herodian birthday feasting was fetched; Josephus records Herodian banquets elsewhere (Ant. 19 on Agrippa) but was not fetched for this custom.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,greco-roman-literary,none-found,,"Roman birthday banquets are well attested in classical literature, but no primary text (e.g. Horace, Suetonius) was fetched this run."
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,material-culture,none-found,,"Banquet ware from Herodian palaces exists in excavated assemblages, but no specific find tied to a Herodian banquet was fetched this run."
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-birthday-banquet,Herod's birthday kept with a banquet,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,inscription,none-found,,No inscription names Salome or the dance.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,coin,none-found,,"Coins of Salome exist (see person:salome) but attest the woman and her marriages, not the dance at the banquet."
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,jewish-literary,found,text:josephus-ant-18-136-herodias,Grade C: Josephus names Herodias's daughter (Salome) at Ant. 18.136; the dance itself is unrecorded outside the Gospels, so the evidence is contextual for the claim as a whole (a grade covers the whole claim; the identity alone is A on the person edge).
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,greco-roman-literary,none-found,,"No classical text of the dance was fetched; the artistic tradition (Titian onward) is modern, not evidence."
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-06-herodias-daughter-danced,The daughter of Herodias danced before the guests,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,jewish-literary,none-found,,Josephus's account (fetched) records no banquet oath; the motive he gives Antipas is fear of rebellion.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,greco-roman-literary,none-found,,No classical record of the oath was fetched.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-07-oath-whatever-she-asks,Herod promised with an oath to give her whatever she asked,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,jewish-literary,none-found,,Josephus (fetched) records John's execution but not the platter detail; no Jewish text fetched mentions it.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,greco-roman-literary,none-found,,No classical description of the platter (pinax) was fetched.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,material-culture,none-found,,"Ordinary 1st-century serving platters in stone and pottery survive in excavated assemblages, but no specific platter tied to Machaerus or this event was fetched."
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-08-head-on-platter,The head of John requested and given on a platter,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,inscription,none-found,,No inscription on John's execution was fetched.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,structure-or-site,found,site:machaerus,The excavated fortress is the place Josephus names for the imprisonment and death ('sent a prisoner... to Macherus... there put to death').
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,jewish-literary,found,text:josephus-ant-18-116-119,"Josephus confirms John's imprisonment and execution by Herod at Macherus, with a political motive instead of the banquet story."
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,greco-roman-literary,none-found,,No classical author fetched records John's execution; Josephus is the only ancient historian this run.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-10-john-beheaded-in-prison,John beheaded in the prison,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,structure-or-site,found,site:nabi-yahya-mosque,"The Sebastia mosque is the traditional burial site - a grade-D tradition, not an excavation."
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,burial-or-ossuary,none-found,,"No excavated tomb of John was fetched; the Sebastia tradition site has no cited excavation of his grave, and the relic tradition is medieval and later."
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,jewish-literary,none-found,,Josephus (fetched) records the execution but says nothing of the burial.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,greco-roman-literary,none-found,,No classical record of the burial was fetched.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-12-john-buried,John's disciples took the body and buried it,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,structure-or-site,none-found,,The 'deserted place' is unnamed in Matthew; Luke 9:10 (cross-reference only) names Bethsaida; the reused Bethsaida site candidates are attached to place:bethsaida.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,jewish-literary,none-found,,Josephus was not fetched on the lake's deserted shores for this event; the War 3 material fetched covers the plain and the lake generally.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,greco-roman-literary,none-found,,No classical text on the setting was fetched.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,material-culture,none-found,,The 1st-century Galilee boat is attached to the storm claim (14:24); no find bears on the withdrawal itself.
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,geography-or-nature,none-found,,"The deserted stretch of shore is not identified by any fetched source; searched Wikipedia (Bethsaida, Church of the Multiplication) and the fetched Josephus War 3."
+claim:mt-14-13-withdrew-by-boat,Jesus withdrew by boat to a deserted place,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,structure-or-site,found,site:church-of-multiplication,"The 4th-century chapel and 5th-century church at Tabgha commemorate the feeding - a tradition site (grade D), the earliest fixed memory of where it was set."
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,jewish-literary,none-found,,No Jewish text on the feeding was fetched; the Elisha feeding parallel (2 Kings 4:42-44) was not fetched this run.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,greco-roman-literary,none-found,,No classical text was fetched on the event or its setting.
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,material-culture,found,artifact:magdala-fishing-gear;artifact:tabgha-loaves-mosaic,"Excavated fishing gear from Magdala shows the lake's fishery; the 5th-century Tabgha mosaic (two fish, basket of four loaves) is the tradition's own image, both contextual."
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,geography-or-nature,found,observation:galilee-fish-species,"The lake's native fish (musht, sardin, biny) make 'two fish' an ordinary Galilean food of the period."
+claim:mt-14-17-five-loaves-two-fish,Five loaves and two fish,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,jewish-literary,none-found,,No Jewish text on the kophinos was fetched; Mishnah basket listings were not fetched this run.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,greco-roman-literary,found,text:juvenal-satire-3,Juvenal (c. 100 CE) mocks the Jews of the Porta Capena who 'possess a basket and a truss of hay for all their furnishings' - the kophinos as a distinctively Jewish carrier basket at the period.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,material-culture,none-found,,"Wicker baskets rarely survive; no excavated kophinos was fetched. The Tabgha mosaic shows a basket, but it is attached to the feeding claim."
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-20-twelve-baskets,Twelve baskets (kophinoi) of leftovers taken up,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,jewish-literary,none-found,,No Jewish or Josephus passage fetched gives crowd numbers for this event.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,greco-roman-literary,none-found,,No classical record of the event's size was fetched; Josephus's banquet and army numbers elsewhere were not sourced to it.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-21-five-thousand-men,About five thousand men ate,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,structure-or-site,none-found,,No harbour excavation was fetched for the lake this run.
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,jewish-literary,found,text:josephus-war-3-gennesaret,"Josephus describes open-water navigation and fighting on the lake (Vespasian's ships against Taricheae's boats): boats worked mid-lake, where a contrary wind would strand them."
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,greco-roman-literary,none-found,,No classical text on the lake's weather was fetched beyond Josephus (listed under jewish-literary).
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,material-culture,found,artifact:galilee-boat,A 1st-century fishing boat recovered from the lake bed - the kind of open boat caught 'in the middle of the sea' (reused from ch 08).
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,geography-or-nature,found,observation:sea-of-galilee-sudden-storms,"The lake's sudden, fierce storms are a real, characteristic hazard (reused observation from ch 08)."
+claim:mt-14-24-boat-stormed,The boat distressed by waves in a contrary wind,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,jewish-literary,none-found,,The Hebrew three-watch division is noted in the fetched article; no primary Jewish text (e.g. Mishnah Berakhot) was fetched.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,greco-roman-literary,found,text:polybius-6-watches,"Polybius describes the Roman camp night-watch system, with each watch begun by bugle and inspected by rounds - the military practice behind dividing the night into watches."
+claim:mt-14-25-fourth-watch,The fourth watch of the night,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-fourth-watch,The fourth watch of the night,astronomy-or-calendar,none-found,,"The division of the night is a convention, not a computable event; the fetched Wikipedia ('Under Roman rule, four night watches existed...') is a source on the claim, not evidence."
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,jewish-literary,none-found,,No Jewish or Josephus text fetched bears on this event; the storm itself is evidenced at claim:mt-14-24-boat-stormed.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,greco-roman-literary,none-found,,No classical parallel (e.g. walkers on water tales) was fetched this run.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-25-walking-on-the-sea,Jesus walked on the sea,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,jewish-literary,none-found,,No Jewish or Josephus text fetched bears on this event.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,greco-roman-literary,none-found,,No classical parallel was fetched this run.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-29-peter-walked-on-water,Peter walked on the water and began to sink,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,manuscript,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,jewish-literary,none-found,,"The command is Numbers 15:38-39 (cross-referenced, not independent evidence); no rabbinic text on tzitzit was fetched this run (reused in ch 09)."
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,greco-roman-literary,none-found,,No classical text on Jewish garment fringes (kraspedon) was fetched.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,material-culture,found,artifact:tekhelet-fabrics,"Murex-dyed blue wool fabrics of the period from Masada and Wadi Murabba'at - the dyeing tradition behind the tzitzit's cord of blue (reused from ch 09, with its complicates edge on the chilazon dispute)."
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:mt-14-36-fringe-of-garment,The people begged to touch the fringe (kraspedon) of his garment,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:herod-antipas,Herod Antipas,inscription,none-found,,No inscription naming Antipas was fetched; his witness is numismatic and literary.
+person:herod-antipas,Herod Antipas,coin,found,artifact:antipas-coins,His coins name him 'Herod the Tetrarch' and name his mint city Tiberias.
+person:herod-antipas,Herod Antipas,structure-or-site,none-found,,"Tiberias was his own building, but its excavation reports were not fetched; Machaerus was his inheritance, and per the site-to-person calibration stays attached to the claims, not the person."
+person:herod-antipas,Herod Antipas,burial-or-ossuary,none-found,,Antipas died in exile in Gaul at an unknown date (Wikipedia); no tomb was fetched.
+person:herod-antipas,Herod Antipas,manuscript,n/a,,"Manuscripts carry texts, not persons; the Josephus text is carried by medieval manuscripts not fetched this run."
+person:herod-antipas,Herod Antipas,documentary-papyrus,none-found,,"No papyrus, oath-list or register naming Antipas was fetched."
+person:herod-antipas,Herod Antipas,jewish-literary,found,text:josephus-ant-18-116-119;text:josephus-ant-18-tiberias;text:josephus-ant-18-136-herodias,"Josephus names the tetrarch in the John, Tiberias and Herodias passages of Antiquities 18 (fetched this run)."
+person:herod-antipas,Herod Antipas,greco-roman-literary,none-found,,"No classical author naming Antipas was fetched (Strabo, Pliny not fetched this run)."
+person:herod-antipas,Herod Antipas,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:herod-antipas,Herod Antipas,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:herod-antipas,Herod Antipas,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),inscription,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),coin,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),jewish-literary,found,text:josephus-ant-18-136-herodias,"Josephus names Herodias's first husband as another 'Herod' ('Herod [Philip], the son of Herod the Great', born of Mariamne daughter of Simon the high priest) - never calling him Philip the tetrarch."
+person:herod-ii,Herod II (Herod Philip I),greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:herod-ii,Herod II (Herod Philip I),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:herodias,Herodias,inscription,none-found,,No inscription naming Herodias was fetched.
+person:herodias,Herodias,coin,none-found,,No coin naming Herodias was fetched; her daughter Salome's coins exist (see person:salome).
+person:herodias,Herodias,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:herodias,Herodias,burial-or-ossuary,none-found,,No tomb or burial of Herodias was fetched; she died in exile after AD 39 (Wikipedia).
+person:herodias,Herodias,manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:herodias,Herodias,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:herodias,Herodias,jewish-literary,found,text:josephus-ant-18-136-herodias,"Josephus names her, her first husband and her second marriage to the tetrarch ('Herodias took upon her to confound the laws of our country, and divorced herself from her husband while he was alive')."
+person:herodias,Herodias,greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+person:herodias,Herodias,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:herodias,Herodias,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:herodias,Herodias,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:john-the-baptist,John the Baptist,inscription,none-found,,No inscription naming John was fetched.
+person:john-the-baptist,John the Baptist,coin,n/a,,Category cannot bear evidence for this anchor.
+person:john-the-baptist,John the Baptist,structure-or-site,none-found,,Machaerus attests the imprisonment and execution claims; per the site-to-person calibration the site is not attached to the person.
+person:john-the-baptist,John the Baptist,burial-or-ossuary,none-found,,No excavated grave; the Sebastia tradition site is attached to the burial claim (14:12).
+person:john-the-baptist,John the Baptist,manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:john-the-baptist,John the Baptist,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:john-the-baptist,John the Baptist,jewish-literary,found,text:josephus-ant-18-116-119,"Josephus names 'John, that was called the Baptist', a good man who commanded virtue and baptism, slain by Herod."
+person:john-the-baptist,John the Baptist,greco-roman-literary,none-found,,No classical author fetched names John; Josephus (jewish-literary) is the only ancient historian fetched.
+person:john-the-baptist,John the Baptist,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:john-the-baptist,John the Baptist,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:john-the-baptist,John the Baptist,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:salome,Salome (daughter of Herodias),inscription,none-found,,No inscription naming Salome was fetched.
+person:salome,Salome (daughter of Herodias),coin,found,artifact:salome-aristobulus-coins,Coins with portraits of Aristobulus and Salome (grade D: no provenance given).
+person:salome,Salome (daughter of Herodias),structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:salome,Salome (daughter of Herodias),burial-or-ossuary,none-found,,No tomb was fetched; her death place is unrecorded in the fetched sources (a Spanish tradition noted by Wikipedia is legendary).
+person:salome,Salome (daughter of Herodias),manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:salome,Salome (daughter of Herodias),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:salome,Salome (daughter of Herodias),jewish-literary,found,text:josephus-ant-18-136-herodias,Josephus names 'her daughter Salome' and her marriages to Philip the tetrarch of Trachonitis and then Aristobulus.
+person:salome,Salome (daughter of Herodias),greco-roman-literary,n/a,,Category cannot bear evidence for this anchor.
+person:salome,Salome (daughter of Herodias),material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:salome,Salome (daughter of Herodias),geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:salome,Salome (daughter of Herodias),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:bethsaida,Bethsaida (Julias),inscription,none-found,,No inscription naming Bethsaida/Julias was fetched.
+place:bethsaida,Bethsaida (Julias),coin,none-found,,Philip the Tetrarch's coins (the ch 16 seed lead) were not fetched; no coin naming Bethsaida/Julias this run.
+place:bethsaida,Bethsaida (Julias),structure-or-site,found,site:el-araj;site:et-tell,"Both candidate sites are excavated and linked to the place (identified_as, disputed); the identification is not settled."
+place:bethsaida,Bethsaida (Julias),burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:bethsaida,Bethsaida (Julias),manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:bethsaida,Bethsaida (Julias),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:bethsaida,Bethsaida (Julias),jewish-literary,found,text:josephus-ant-18-bethsaida,"Josephus names 'the village Bethsaids, situate at the lake of Gennesareth', renamed Julias by Philip (reused from ch 11)."
+place:bethsaida,Bethsaida (Julias),greco-roman-literary,none-found,,Pliny NH 5's Julias notice is reused in ch 11 with a disputed identification; it was not fetched into this chapter this run.
+place:bethsaida,Bethsaida (Julias),material-culture,none-found,,"The el-Araj small finds (pottery, coins, stone vessels) are cited within the site evidence; no separate artifact node was fetched."
+place:bethsaida,Bethsaida (Julias),geography-or-nature,none-found,,The lakeshore position is the crux (et-Tell sits c. 2 km from the water); no geographic study was fetched.
+place:bethsaida,Bethsaida (Julias),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),inscription,none-found,,No inscription naming Gennesaret was fetched.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),coin,none-found,,No coin naming the district was fetched.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),structure-or-site,none-found,,"No excavation of the plain itself was fetched; Magdala sits at its southern end (site:magdala, reused elsewhere)."
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),jewish-literary,found,text:josephus-war-3-gennesaret,"Josephus (War 3.506-521) describes the country of Gennesareth: a fertile plain thirty by twenty furlongs on the lake's shore, watered by a spring the people called Capharnaum."
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),greco-roman-literary,none-found,,Strabo/Pliny on Gennesar were not fetched this run.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),geography-or-nature,none-found,,The plain's modern identification (Plain of Ginosar) was not documented by a fetched survey source; Josephus's description carries the evidence.
+place:gennesaret,Gennesaret (the plain by the Sea of Galilee),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,inscription,none-found,,No inscription naming the lake was fetched.
+place:sea-of-galilee,Sea of Galilee,coin,none-found,,"No civic coinage of the lake was fetched; Antipas's TIBERIAS coins name his city, attached to place:tiberias."
+place:sea-of-galilee,Sea of Galilee,structure-or-site,none-found,,Harbour excavations were not fetched for the lake itself this run.
+place:sea-of-galilee,Sea of Galilee,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:sea-of-galilee,Sea of Galilee,jewish-literary,found,text:josephus-war-3-gennesaret,"Josephus names the lake by its local name, 'the Lake of Gennesareth', and describes life and war on it."
+place:sea-of-galilee,Sea of Galilee,greco-roman-literary,none-found,,"No classical geography of the lake (Strabo, Pliny) was fetched."
+place:sea-of-galilee,Sea of Galilee,material-culture,found,artifact:galilee-boat,A 1st-century fishing boat recovered from the lake itself (reused from ch 04/08).
+place:sea-of-galilee,Sea of Galilee,geography-or-nature,found,observation:sea-of-galilee-sudden-storms;observation:galilee-fish-species,The lake's sudden storms and its native fish species (reused observations from ch 08/13).
+place:sea-of-galilee,Sea of Galilee,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:tiberias,Tiberias,inscription,none-found,,No inscription naming Tiberias was fetched; the attestation is numismatic and literary.
+place:tiberias,Tiberias,coin,found,artifact:antipas-coins,"Antipas's coins are inscribed TIBERIAS, 'where the coins were minted' (Wikipedia, Herodian coinage)."
+place:tiberias,Tiberias,structure-or-site,none-found,,"Tiberias's Herodian buildings (stadium, royal palace per Josephus) have excavation histories not fetched this run."
+place:tiberias,Tiberias,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:tiberias,Tiberias,manuscript,n/a,,Category cannot bear evidence for this anchor.
+place:tiberias,Tiberias,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:tiberias,Tiberias,jewish-literary,found,text:josephus-ant-18-tiberias,"Josephus: 'Herod the tetrarch... built a city of the same name with him, and called it Tiberias. He built it in the best part of Galilee, at the lake of Gennesareth.'"
+place:tiberias,Tiberias,greco-roman-literary,none-found,,"No classical author on Tiberias was fetched (Pliny, Strabo)."
+place:tiberias,Tiberias,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:tiberias,Tiberias,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+place:tiberias,Tiberias,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

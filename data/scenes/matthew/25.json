@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 25,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        46
+      ],
+      "setting": "place:mount-of-olives",
+      "basis": "25:1 the Olivet discourse (24:3) continues; no place named",
+      "confidence": "inferred"
+    }
+  ]
+}

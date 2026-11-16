@@ -1,0 +1,33 @@
+{
+  "book": "mark",
+  "chapter": 7,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        23
+      ],
+      "setting": "place:gennesaret",
+      "basis": "7:1 \"the Pharisees and some of the scribes gathered together to him\" with no movement of Jesus; continuing 6:53 Gennesaret",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        24,
+        30
+      ],
+      "setting": null,
+      "basis": "7:24 \"went away into the borders of Tyre and Sidon. He entered into a house\" - no single graph id for the Tyre-and-Sidon region",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        31,
+        37
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "7:31 \"came to the sea of Galilee, through the middle of the region of Decapolis\" - the healings happen at the sea",
+      "confidence": "stated"
+    }
+  ]
+}

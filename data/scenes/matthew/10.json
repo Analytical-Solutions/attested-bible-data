@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 10,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        42
+      ],
+      "setting": null,
+      "basis": "Commissioning discourse (10:5 \"Jesus sent these twelve out\"); the chapter names no setting (Sodom and Gomorrah, v15, are a comparison)",
+      "confidence": "stated"
+    }
+  ]
+}

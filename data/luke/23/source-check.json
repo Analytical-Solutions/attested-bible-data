@@ -1,0 +1,42 @@
+{
+ "source:bible-api-exodus-20-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/exodus+20:8?translation=web"
+ },
+ "source:bible-api-hosea-10-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/hosea+10:8?translation=web"
+ },
+ "source:bible-api-psalm-31-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalms+31:5?translation=web"
+ },
+ "source:sayings-of-jesus-cross": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sayings_of_Jesus_on_the_cross"
+ },
+ "source:wikipedia-herod-antipas-referral": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Antipas"
+ },
+ "source:wikipedia-papyrus-75-variants": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ },
+ "source:wikipedia-pontius-pilate-schwartz": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pontius_Pilate"
+ },
+ "source:wikipedia-titulus-crucis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Titulus_Crucis"
+ }
+}

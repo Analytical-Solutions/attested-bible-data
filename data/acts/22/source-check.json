@@ -1,0 +1,32 @@
+{
+ "source:lacuscurtius-dio-60-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/60*.html"
+ },
+ "source:wikipedia-antonia-fortress": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonia_Fortress"
+ },
+ "source:wikipedia-antonia-garrison": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonia_Fortress"
+ },
+ "source:wikipedia-language-of-jesus-aramaic": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Language_of_Jesus"
+ },
+ "source:wikisource-cicero-verres-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Against_Verres/Second_pleading/Book_5"
+ },
+ "source:wikisource-war5-antonia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

@@ -1,0 +1,24 @@
+{
+  "book": "matthew",
+  "chapter": 1,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        17
+      ],
+      "setting": null,
+      "basis": "Genealogy only; \"the time of the exile to Babylon\" (v11) is a genealogical note, not a scene",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        18,
+        25
+      ],
+      "setting": null,
+      "basis": "Birth narrative; no place is named (2:22-23 first places Joseph in Galilee)",
+      "confidence": "stated"
+    }
+  ]
+}

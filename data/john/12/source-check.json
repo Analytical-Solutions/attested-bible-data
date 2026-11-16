@@ -1,0 +1,17 @@
+{
+ "source:bible-api-isaiah-53-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+53:1?translation=web"
+ },
+ "source:dss-list-4q174": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_the_Dead_Sea_Scrolls"
+ },
+ "source:wikipedia-jericho-palms": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ }
+}

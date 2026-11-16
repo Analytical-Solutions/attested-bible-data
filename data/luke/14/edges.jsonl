@@ -1,0 +1,180 @@
+{"from": "passage:lk-14-01", "type": "asserts", "to": "claim:lk-14-01-ruler-pharisees-hosts"}
+{"from": "passage:lk-14-02", "type": "asserts", "to": "claim:lk-14-02-dropsy-condition"}
+{"from": "passage:lk-14-04", "type": "asserts", "to": "claim:lk-14-02-04-healed-sabbath"}
+{"from": "passage:lk-14-07", "type": "asserts", "to": "claim:lk-14-07-best-seats"}
+{"from": "passage:lk-14-12", "type": "asserts", "to": "claim:lk-14-12-14-invite-poor"}
+{"from": "passage:lk-14-13", "type": "asserts", "to": "claim:lk-14-12-14-invite-poor"}
+{"from": "passage:lk-14-18", "type": "asserts", "to": "claim:lk-14-18-20-excuses"}
+{"from": "passage:lk-14-19", "type": "asserts", "to": "claim:lk-14-18-20-excuses"}
+{"from": "passage:lk-14-20", "type": "asserts", "to": "claim:lk-14-18-20-excuses"}
+{"from": "passage:lk-14-21", "type": "asserts", "to": "claim:lk-14-21-23-streets-compel"}
+{"from": "passage:lk-14-23", "type": "asserts", "to": "claim:lk-14-21-23-streets-compel"}
+{"from": "passage:lk-14-28", "type": "asserts", "to": "claim:lk-14-28-30-tower-cost"}
+{"from": "passage:lk-14-31", "type": "asserts", "to": "claim:lk-14-31-32-king-deliberates"}
+{"from": "passage:lk-14-03", "type": "asserts", "to": "claim:mt-12-10-sabbath-healing-debate"}
+{"from": "passage:lk-14-05", "type": "asserts", "to": "claim:lk-14-05-son-or-ox-well"}
+{"from": "passage:lk-14-17", "type": "asserts", "to": "claim:lk-14-16-17-great-supper-servants"}
+{"from": "passage:lk-14-27", "type": "asserts", "to": "claim:mt-16-24-take-up-cross"}
+{"from": "passage:lk-14-34", "type": "asserts", "to": "claim:mt-05-13-salt"}
+{"from": "passage:lk-14-03", "type": "parallels", "to": "passage:mt-12-10"}
+{"from": "passage:lk-14-03", "type": "parallels", "to": "passage:mk-03-04", "note": "Mark's form of the Sabbath-law question ('to do good or harm, to save life or kill'); Luke asks 'Is it lawful to heal on the Sabbath?'"}
+{"from": "passage:lk-14-03", "type": "related_to", "to": "passage:lk-06-09", "note": "Luke's own earlier Sabbath question ('to do good or harm, to save life or destroy') in 6:9; Luke 14 repeats the Sabbath-healing controversy with dropsy instead of a withered hand. related_to rather than parallels: different healing events, and parallels joins the same event in another Gospel (reviewer 7)."}
+{"from": "passage:lk-14-05", "type": "parallels", "to": "passage:mt-12-11", "note": "Same Sabbath-rescue argument; Luke has 'a son or an ox' fallen into a well, Matthew 'one sheep' fallen into a pit on the Sabbath."}
+{"from": "passage:lk-14-16", "type": "parallels", "to": "passage:mt-22-02", "note": "Luke's 'a certain man made a great supper' against Matthew's king giving a marriage feast for his son."}
+{"from": "passage:lk-14-17", "type": "parallels", "to": "passage:mt-22-03", "note": "Both: the host sends servants to call the guests who had been invited when the feast is ready."}
+{"from": "passage:lk-14-18", "type": "parallels", "to": "passage:mt-22-05", "note": "Luke's guests beg to be excused (field, five yoke of oxen, wife); Matthew's guests 'made light of it' and went off, one to his own farm, one to his merchandise."}
+{"from": "passage:lk-14-21", "type": "parallels", "to": "passage:mt-22-09", "note": "Both send servants into the streets to gather the poor; Luke adds 'highways and hedges' and the word 'compel'."}
+{"from": "passage:lk-14-23", "type": "parallels", "to": "passage:mt-22-10", "note": "The hall filled with gathered guests; Matthew adds the wedding-garment scene (22:11-13), which Luke lacks."}
+{"from": "passage:lk-14-24", "type": "parallels", "to": "passage:mt-22-14", "note": "Luke: 'none of those men who were invited will taste of my supper'; Matthew: 'many are called, but few chosen'."}
+{"from": "passage:lk-14-26", "type": "parallels", "to": "passage:mt-10-37", "note": "Difference: Luke says 'does not disregard (misei, hate) his own father, mother...'; Matthew says 'loves father or mother more than me'."}
+{"from": "passage:lk-14-27", "type": "parallels", "to": "passage:mt-10-38"}
+{"from": "passage:lk-14-27", "type": "parallels", "to": "passage:mt-16-24", "note": "Matthew 16:24 has the same saying to the disciples; Luke 14:27 addresses the going-along crowds."}
+{"from": "passage:lk-14-34", "type": "parallels", "to": "passage:mt-05-13"}
+{"from": "passage:lk-14-34", "type": "parallels", "to": "passage:mk-09-50", "note": "Mark 9:50 has 'salt is good' in a different setting; Luke adds the detail that useless salt is 'fit neither for the soil nor for the manure pile', which neither Matthew nor Mark has."}
+{"from": "claim:lk-14-07-best-seats", "type": "related_to", "to": "claim:mt-23-06-chief-seats", "note": "The same custom named by Matthew 23:6 ('love the place of honor at feasts, the best seats in the synagogues'); Luke 14:7-11 shows it as a live behavior at a Pharisee's table."}
+{"from": "claim:lk-14-12-14-invite-poor", "type": "related_to", "to": "text:tobit-4-7-11", "note": "Cross-reference: Tobit 4:7 urges almsgiving and not turning the face from any poor man - the Jewish teaching behind inviting guests who cannot repay. A biblical text is not independent evidence."}
+{"from": "claim:lk-14-18-20-excuses", "type": "related_to", "to": "text:deuteronomy-20-5-7", "note": "Cross-reference: Deuteronomy 20:5-7 exempts from battle the man with a new, undedicated house, an unused vineyard, or a new wife - the same world of property and marriage claims pulling a man away from a summons that the three excuses mirror."}
+{"from": "claim:lk-14-28-30-tower-cost", "type": "related_to", "to": "text:isaiah-5-1-2", "note": "Cross-reference: Isaiah 5:2 knows the vineyard watchtower ('built a tower in the middle of it') as an ordinary installation; the parable's tower is the grander freestanding kind. A biblical text is not independent evidence."}
+{"from": "text:hippocrates-prognostics-8", "type": "attests", "to": "claim:lk-14-02-dropsy-condition", "grade": "C", "note": "Hippocratic Prognostics 8 discusses dropsies at length ('All dropsies arising from acute diseases are bad; ... very painful and fatal'): dropsy was a recognized, serious disease in ancient medicine centuries before Luke. It attests the condition, not the man or the healing."}
+{"from": "site:herodium", "type": "attests", "to": "claim:lk-14-07-best-seats", "grade": "C", "note": "Herod's fortified palace at Herodium included a triclinium (excavated dining hall, later converted to a synagogue) and banquet halls: formal banquet dining in ranked Herodian Judea. It shows the setting, not the seating behavior of guests."}
+{"from": "site:jerusalem-herodian-citadel", "type": "attests", "to": "claim:lk-14-28-30-tower-cost", "grade": "C", "note": "Herod's three citadel towers at Jerusalem - the tallest (Phasael) 44 m high - show tower-building as a grand, costly undertaking in the period; the parable's freestanding tower project and its cost-counting are the everyday shadow of such works. It does not attest that the parable was told."}
+{"from": "text:hippocrates-prognostics-8", "type": "documented_by", "to": "source:wikisource-prognostics"}
+{"from": "site:herodium", "type": "documented_by", "to": "source:wikipedia-herodium-banquet-halls"}
+{"from": "site:jerusalem-herodian-citadel", "type": "documented_by", "to": "source:wikipedia-tower-of-david"}
+{"from": "text:deuteronomy-20-5-7", "type": "documented_by", "to": "source:bible-api-deuteronomy-20-5-7"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-14-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-14-35"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-01"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-02"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-03"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-04"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-05"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-06"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-07"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-08"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-09"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-10"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-17"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-18"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-19"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-20"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-21"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-22"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-23"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-24"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-25"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-26"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-27"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-28"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-29"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-30"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-31"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-32"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-14-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-14-35"}
+{"from": "passage:lk-14-16", "type": "asserts", "to": "claim:lk-14-16-17-great-supper-servants"}
+{"from": "claim:lk-14-05-son-or-ox-well", "type": "related_to", "to": "claim:mt-12-11-sheep-in-pit", "note": "Luke's Sabbath example is a son or an ox fallen into a well, pulled out immediately; Matthew's is one sheep fallen into a pit, lifted out - the same accepted Sabbath-rescue argument with different examples (reviewer 7 asserts-audit fix)."}
+{"from": "claim:lk-14-16-17-great-supper-servants", "type": "related_to", "to": "claim:mt-22-02-04-wedding-feast-invited", "note": "Luke's host is 'a certain man' giving a great supper; Matthew's is a king giving a marriage feast for his son - the same invited-guests-called-by-servants structure with different hosts and settings (reviewer 7 asserts-audit fix)."}
+{"from": "text:damascus-document-11-13-14", "type": "complicates", "to": "claim:lk-14-05-son-or-ox-well", "note": "The Damascus Document forbids raising an animal that has fallen into a pit or ditch on the Sabbath - in tension with the immediate rescue Jesus's argument assumes as accepted practice; it shows Sabbath animal rescue was disputed among Second Temple Jewish groups. (The same text carries a C-grade debate edge on the 13:15 watering claim.)"}

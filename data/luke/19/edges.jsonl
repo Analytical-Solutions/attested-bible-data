@@ -1,0 +1,167 @@
+{"from": "passage:lk-19-01", "type": "asserts", "to": "claim:lk-19-01-02-zacchaeus-architelones"}
+{"from": "passage:lk-19-02", "type": "asserts", "to": "claim:lk-19-01-02-zacchaeus-architelones"}
+{"from": "passage:lk-19-05", "type": "asserts", "to": "claim:lk-19-01-02-zacchaeus-architelones"}
+{"from": "passage:lk-19-06", "type": "asserts", "to": "claim:lk-19-01-02-zacchaeus-architelones"}
+{"from": "passage:lk-19-02", "type": "asserts", "to": "claim:lk-19-01-02-jericho-balsam-revenue"}
+{"from": "passage:lk-19-04", "type": "asserts", "to": "claim:lk-19-04-sycamore-climb"}
+{"from": "passage:lk-19-08", "type": "asserts", "to": "claim:lk-19-08-restitution-fourfold"}
+{"from": "passage:lk-19-12", "type": "asserts", "to": "claim:lk-19-12-14-nobleman-embassy"}
+{"from": "passage:lk-19-14", "type": "asserts", "to": "claim:lk-19-12-14-nobleman-embassy"}
+{"from": "passage:lk-19-13", "type": "asserts", "to": "claim:lk-19-13-mina-coins"}
+{"from": "passage:lk-19-30", "type": "asserts", "to": "claim:lk-19-30-34-colt-owners"}
+{"from": "passage:lk-19-35", "type": "asserts", "to": "claim:lk-19-35-36-cloaks-on-road"}
+{"from": "passage:lk-19-36", "type": "asserts", "to": "claim:lk-19-35-36-cloaks-on-road"}
+{"from": "passage:lk-19-38", "type": "asserts", "to": "claim:lk-19-37-38-king-acclamation"}
+{"from": "passage:lk-19-41", "type": "asserts", "to": "claim:lk-19-41-44-weeping-siege-prediction"}
+{"from": "passage:lk-19-43", "type": "asserts", "to": "claim:lk-19-41-44-weeping-siege-prediction"}
+{"from": "passage:lk-19-44", "type": "asserts", "to": "claim:lk-19-41-44-weeping-siege-prediction"}
+{"from": "passage:lk-19-45", "type": "asserts", "to": "claim:mt-21-12-cleansing-the-temple"}
+{"from": "passage:lk-19-46", "type": "asserts", "to": "claim:mt-21-12-cleansing-the-temple"}
+{"from": "passage:lk-19-47", "type": "asserts", "to": "claim:lk-19-47-48-daily-teaching-plot"}
+{"from": "passage:lk-19-28", "type": "asserts", "to": "claim:mt-20-17-18-going-up-jerusalem"}
+{"from": "passage:lk-19-29", "type": "asserts", "to": "claim:mt-21-01-approach-to-jerusalem"}
+{"from": "passage:lk-19-29", "type": "parallels", "to": "passage:mt-21-01"}
+{"from": "passage:lk-19-29", "type": "parallels", "to": "passage:mk-11-01"}
+{"from": "passage:lk-19-30", "type": "parallels", "to": "passage:mt-21-02"}
+{"from": "passage:lk-19-30", "type": "parallels", "to": "passage:mk-11-02"}
+{"from": "passage:lk-19-35", "type": "parallels", "to": "passage:mt-21-07"}
+{"from": "passage:lk-19-35", "type": "parallels", "to": "passage:mk-11-07"}
+{"from": "passage:lk-19-36", "type": "parallels", "to": "passage:mt-21-08"}
+{"from": "passage:lk-19-36", "type": "parallels", "to": "passage:mk-11-08"}
+{"from": "passage:lk-19-38", "type": "parallels", "to": "passage:mt-21-09"}
+{"from": "passage:lk-19-38", "type": "parallels", "to": "passage:mk-11-09"}
+{"from": "passage:lk-19-38", "type": "parallels", "to": "passage:mk-11-10"}
+{"from": "passage:lk-19-45", "type": "parallels", "to": "passage:mt-21-12"}
+{"from": "passage:lk-19-45", "type": "parallels", "to": "passage:mk-11-15"}
+{"from": "passage:lk-19-46", "type": "parallels", "to": "passage:mt-21-13"}
+{"from": "passage:lk-19-46", "type": "parallels", "to": "passage:mk-11-17"}
+{"from": "passage:lk-19-47", "type": "parallels", "to": "passage:mk-11-18"}
+{"from": "claim:lk-19-01-02-zacchaeus-architelones", "type": "related_to", "to": "claim:lk-19-01-02-jericho-balsam-revenue", "note": "The claim states the economic background of Zacchaeus's wealth at Jericho (balsam revenues); the Gospel states only that he was rich."}
+{"from": "claim:lk-19-30-34-colt-owners", "type": "related_to", "to": "claim:mt-21-02-03-donkey-and-colt-fetched", "note": "Same fetching of the animal; Luke has one colt never ridden and 'its owners' (despotai) questioning, Matt has a donkey with its colt and no owners' question."}
+{"from": "claim:lk-19-35-36-cloaks-on-road", "type": "related_to", "to": "claim:mt-21-08-branches-cloaks-on-road", "note": "Same strewing; Luke spreads cloaks only and cuts no branches, Matt has both cloaks and branches from the trees."}
+{"from": "claim:lk-19-37-38-king-acclamation", "type": "related_to", "to": "claim:mt-21-09-hosanna-acclamation", "note": "Same acclamation; Luke's crowd says 'Blessed is the King who comes in the name of the Lord' - no 'Hosanna' and no 'Son of David', both in Matt 21:9."}
+{"from": "claim:lk-19-41-44-weeping-siege-prediction", "type": "related_to", "to": "claim:mt-24-01-02-temple-thrown-down", "note": "The same destruction of 70 CE; Luke 19:43-44 adds the barricade (charax), the encirclement and dashing to the ground, absent from Matt 24:2."}
+{"from": "claim:lk-19-47-48-daily-teaching-plot", "type": "related_to", "to": "claim:mt-21-45-46-leaders-perceived", "note": "Same plot-and-fear setting; Luke adds the daily teaching in the Temple and names 'the leading men of the people' with the chief priests and scribes."}
+{"from": "text:2-samuel-12-6", "type": "related_to", "to": "claim:lk-19-08-restitution-fourfold", "note": "Cross-reference, not evidence: Nathan's 'he must restore the lamb fourfold' is the fourfold restitution scale behind Zacchaeus's 'I restore four times as much'."}
+{"from": "text:josephus-ant-17-archelaus", "type": "attests", "to": "claim:lk-19-12-14-nobleman-embassy", "grade": "B", "note": "Josephus (Ant. 17.299-314) records Archelaus sailing to Rome to secure the kingdom from Caesar and an embassage of fifty Jews sent by the nation to petition against kingly government - the same sequence as the parable (journey to receive a kingdom; embassy: 'we don't want this man to reign over us'). Attests the events the parable appears to assume, not that the parable was told."}
+{"from": "artifact:archelaus-coins", "type": "attests", "to": "claim:lk-19-12-14-nobleman-embassy", "grade": "B", "note": "Archelaus's coins (4 BCE-6 CE) inscribed ΗΡΩΔ ΕΘΝ ('Herod the Ethnarch') attest that the claimant actually received rule over Judea from Caesar - the outcome the parable's nobleman wins. They attest the man and office, not the parable's telling."}
+{"from": "text:josephus-ant-15-96-balsam", "type": "attests", "to": "claim:lk-19-01-02-jericho-balsam-revenue", "grade": "B", "note": "Josephus: Herod 'farmed of her... those revenues that came to her from the region about Jericho. This country bears that balsam, which is the most precious drug that is there, and grows there alone' - the same place and period, balsam as a farmed revenue."}
+{"from": "text:josephus-war-4-469", "type": "attests", "to": "claim:lk-19-01-02-jericho-balsam-revenue", "grade": "C", "note": "War 4.8.3 (c. 70 CE): Jericho's irrigated plain 'bears that balsam which is the most precious of all the fruits in that place'. Confirms the crop's standing in the period; the revenue aspect is carried by Ant. 15.96 and the post-70 imperial account."}
+{"from": "site:herodian-jericho-palaces", "type": "attests", "to": "claim:lk-19-01-02-zacchaeus-architelones", "grade": "B", "note": "The excavated Herodian winter palaces at Jericho (Tulul Abu el-'Alayiq, Hasmonean and Herodian) attest Jericho as a wealthy administrative centre in the period - the setting a chief toll collector would operate in. They attest the setting, not the man."}
+{"from": "observation:ficus-sycomorus-levant", "type": "attests", "to": "claim:lk-19-04-sycamore-climb", "grade": "C", "note": "Ficus sycomorus grows naturally in Palestine and has been cultivated there since ancient times; it attests the tree's availability at Jericho, not the climbing."}
+{"from": "text:josephus-war-5-12-1-2", "type": "attests", "to": "claim:lk-19-41-44-weeping-siege-prediction", "grade": "B", "note": "Titus 'encompass[ed] the whole city round' with a wall of about 39-40 furlongs and 13 garrison posts, completed in three days, in 70 CE - attests the siege method the saying describes (barricade thrown up, city surrounded and hemmed in), not the saying."}
+{"from": "text:josephus-war-7-1-4", "type": "attests", "to": "claim:lk-19-41-44-weeping-siege-prediction", "grade": "A", "note": "Josephus (War 7.1.1) records Titus's order after the fall of the city in 70 CE to 'demolish the entire city and temple'. Attests the realized destruction, not the saying in 19:41-44; the surviving wall and towers are recorded in Matthew 24 as complicates."}
+{"from": "observation:jerusalem-jericho-ascent", "type": "attests", "to": "claim:lk-18-35-43-blind-beggar-jericho", "grade": "C", "note": "The ~1,000 m ascent from Jericho (-258 m) to Jerusalem (754 m) marks the Jericho-Jerusalem road as the setting the blind beggar sat beside; it attests the route, not the event."}
+{"from": "claim:lk-19-01-02-zacchaeus-architelones", "type": "mentions", "to": "person:zacchaeus"}
+{"from": "claim:lk-19-01-02-zacchaeus-architelones", "type": "mentions", "to": "place:jericho"}
+{"from": "claim:lk-19-01-02-jericho-balsam-revenue", "type": "mentions", "to": "place:jericho"}
+{"from": "claim:lk-19-04-sycamore-climb", "type": "mentions", "to": "place:jericho"}
+{"from": "claim:lk-19-12-14-nobleman-embassy", "type": "mentions", "to": "person:herod-archelaus"}
+{"from": "claim:lk-19-37-38-king-acclamation", "type": "mentions", "to": "place:mount-of-olives"}
+{"from": "claim:lk-19-41-44-weeping-siege-prediction", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-19-47-48-daily-teaching-plot", "type": "mentions", "to": "place:temple-mount"}
+{"from": "person:zacchaeus", "type": "documented_by", "to": "source:wikipedia-zacchaeus"}
+{"from": "text:josephus-ant-15-96-balsam", "type": "documented_by", "to": "source:wikisource-ant15-balsam"}
+{"from": "text:josephus-war-4-469", "type": "documented_by", "to": "source:wikisource-war4-balsam"}
+{"from": "text:josephus-war-5-12-1-2", "type": "documented_by", "to": "source:wikisource-war5-circumvallation"}
+{"from": "observation:ficus-sycomorus-levant", "type": "documented_by", "to": "source:wikipedia-ficus-sycomorus"}
+{"from": "text:2-samuel-12-6", "type": "documented_by", "to": "source:bible-api-2sam-12-6"}
+{"from": "claim:lk-19-13-mina-coins", "type": "documented_by", "to": "source:wikipedia-mina"}
+{"from": "claim:lk-19-01-02-jericho-balsam-revenue", "type": "documented_by", "to": "source:wikipedia-balsam-jericho"}
+{"from": "text:josephus-ant-17-archelaus", "type": "documented_by", "to": "source:wikisource-ant17-embassage"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-19-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-19-48"}

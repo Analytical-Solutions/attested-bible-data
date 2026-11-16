@@ -1,0 +1,97 @@
+{
+ "source:wikipedia-luke-3-annas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Luke_3"
+ },
+ "source:wikipedia-luke-3-fifteenth-year": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Luke_3"
+ },
+ "source:wikipedia-luke-3-ramsay": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Luke_3"
+ },
+ "source:wikipedia-lysanias-earlier": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lysanias"
+ },
+ "source:wikipedia-lysanias-inscription": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lysanias"
+ },
+ "source:wikipedia-lysanias-renan": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lysanias"
+ },
+ "source:wikipedia-lysanias-schurer": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lysanias"
+ },
+ "source:wikipedia-papyrus-75": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ },
+ "source:wikipedia-philip-tetrarchy-territory": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Philip_the_Tetrarch"
+ },
+ "source:wikipedia-pontius-pilate-dated": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pontius_Pilate"
+ },
+ "source:wikipedia-psalms-of-solomon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Psalms_of_Solomon"
+ },
+ "source:wikipedia-threshing-floor": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Threshing_floor"
+ },
+ "source:wikisource-ant-17-tetrarchies": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant-18-annas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-18-annas-deprived": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-18-philip-death": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-18-tiberias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-19-abila": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-suetonius-vespasian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars/Vespasian"
+ }
+}

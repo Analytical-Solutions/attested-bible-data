@@ -1,0 +1,95 @@
+id,lat,lon,source_url,precision,note
+place:babylon,32.5425,44.42111,https://www.wikidata.org/wiki/Q5684,exact,Wikidata: capital city of Babylonia and an archaeological site in modern-day Iraq
+place:bethlehem,31.70444,35.20611,https://www.wikidata.org/wiki/Q5776,exact,"Bethlehem of Judea; Wikidata: 'city in the West Bank, Palestine' (not Bethlehem, Pennsylvania)"
+place:bethsaida,32.90995,35.63054,https://www.wikidata.org/wiki/Q501773,candidate,"identification disputed: point is et-Tell, the long-standing candidate; el-Araj is proposed by its excavators"
+place:beyond-the-jordan,31.83694,35.54722,https://www.wikidata.org/wiki/Q2617848,candidate,identification disputed: usually Perea east of the Jordan; Wikidata/Pleiades 697641 place Bethabara (= Bethany beyond the Jordan) at Al-Maghtas
+place:capernaum,32.88089,35.57589,https://pleiades.stoa.org/places/678231,exact,
+place:cyrene,32.81667,21.85,https://www.wikidata.org/wiki/Q44112,exact,
+place:decapolis,32.71667,35.8,https://www.wikidata.org/wiki/Q823244,approximate,region (ten-city league); Wikidata's own point
+place:egypt,27,29,https://www.wikidata.org/wiki/Q79,approximate,country; Wikidata's own point
+place:gadara,32.65555,35.67784,https://www.wikidata.org/wiki/Q56322109,exact,"Wikidata: archaeological site in Jordan, former city of the Decapolis (Umm Qais)"
+place:galilee,32.75,35.25,https://pleiades.stoa.org/places/678145,approximate,region; Pleiades point
+place:gennesaret,32.86056,35.50722,https://www.wikidata.org/wiki/Q5533392,approximate,the plain by the Sea of Galilee; Wikidata's point is ancient Kinneret on its shore
+place:gethsemane,31.77942,35.23942,https://www.wikidata.org/wiki/Q205333,candidate,Wikidata's point is the traditional garden at the foot of the Mount of Olives; the Gospel garden is not independently located
+place:golgotha,31.77861,35.22944,https://www.wikidata.org/wiki/Q170516,candidate,identification disputed: Wikidata (Calvary) places it at the Church of the Holy Sepulchre; the Garden Tomb is the main alternative
+place:jericho,31.85611,35.46306,https://www.wikidata.org/wiki/Q5687,exact,located city; the New Testament (Herodian) city lies nearby at Tulul Abu el-'Alayiq
+place:jerusalem,31.77719,35.23498,https://pleiades.stoa.org/places/687928,exact,
+place:jordan-river,32.35705,35.56435,https://pleiades.stoa.org/places/687932,approximate,river; Pleiades point on the river
+place:judaean-desert,31.7,35.3,https://www.wikidata.org/wiki/Q2046004,approximate,desert; Wikidata's own point
+place:judea,31.73417,35.00172,https://pleiades.stoa.org/places/687934,approximate,region; Pleiades point
+place:magdala,32.83917,35.5075,https://www.wikidata.org/wiki/Q4880851,exact,"Wikidata: ancient city, biblical location (Migdal)"
+place:mount-gerizim,32.19944,35.27278,https://www.wikidata.org/wiki/Q1288751,exact,
+place:mount-hermon,33.4,35.85,https://www.wikidata.org/wiki/Q215471,exact,
+place:mount-tabor,32.68711,35.38962,https://pleiades.stoa.org/places/678419,exact,
+place:nazareth,32.70103,35.30015,https://pleiades.stoa.org/places/678299,exact,
+place:nineveh,36.36076,43.15994,https://pleiades.stoa.org/places/874621,exact,
+place:samaria,32.275,35.19,https://www.wikidata.org/wiki/Q1294629,approximate,region; Wikidata's own point
+place:sea-of-galilee,32.8138,35.59056,https://pleiades.stoa.org/places/678430,approximate,lake; Pleiades point
+place:syria,36.2,36.15,https://www.wikidata.org/wiki/Q207118,approximate,Roman province (64 BC-198 AD); Wikidata's own point
+place:temple-mount,31.77778,35.23556,https://www.wikidata.org/wiki/Q193163,exact,
+place:tiberias,32.78769,35.54229,https://pleiades.stoa.org/places/678431,exact,
+site:akeldama-tombs,31.76841,35.23288,https://www.wikidata.org/wiki/Q886458,exact,
+site:arch-of-titus,41.89072,12.48859,https://www.wikidata.org/wiki/Q723887,exact,"Wikidata: triumphal arch in Rome, constructed c. 81 AD"
+site:capernaum,32.88089,35.57589,https://pleiades.stoa.org/places/678231,exact,excavated town of Capernaum (Kefar Nahum); Pleiades point
+site:capernaum-peter-house,32.88111,35.575,https://www.wikidata.org/wiki/Q59174,approximate,point is of Capernaum; the venerated House of Peter (sacra insula) lies within the excavated town
+site:capernaum-synagogue,32.88103,35.57542,https://www.wikidata.org/wiki/Q2916829,exact,"Wikidata: Capernaum synagogue, archaeological site in Israel"
+site:chorazin-synagogue,32.91139,35.56389,https://www.wikidata.org/wiki/Q2456076,exact,point of Chorazin (Korazim); the synagogue stands within the site
+site:church-of-holy-sepulchre,31.77844,35.22975,https://www.wikidata.org/wiki/Q187702,candidate,traditional site of Golgotha and the tomb; identification disputed (the Garden Tomb is the main alternative)
+site:church-of-multiplication,32.87333,35.54861,https://www.wikidata.org/wiki/Q990912,exact,Tabgha; traditional site of the feeding of the five thousand
+site:church-of-the-nativity,31.70431,35.20758,https://www.wikidata.org/wiki/Q194504,exact,basilica in Bethlehem (Wikidata)
+site:el-araj,32.89333,35.61917,https://www.wikidata.org/wiki/Q141807569,candidate,Wikidata: archaeological site proposed by its excavators as Bethsaida-Julias; et-Tell is the competing candidate
+site:et-tell,32.90995,35.63054,https://www.wikidata.org/wiki/Q501773,candidate,"et-Tell, the long-standing candidate for Bethsaida; el-Araj is the competing candidate"
+site:gadara-ancient-tombs,32.65555,35.67784,https://www.wikidata.org/wiki/Q56322109,exact,point of Gadara (Umm Qais); the tombs belong to the city site
+site:gamla-synagogue,32.90278,35.74056,https://www.wikidata.org/wiki/Q1493165,exact,point of Gamla; the first-century synagogue stands within the site
+site:garden-tomb,31.78396,35.23015,https://www.wikidata.org/wiki/Q1494672,candidate,"Wikidata: 'antique tomb in Jerusalem, considered by some to be the tomb of Jesus'; dated to the Iron Age, the Holy Sepulchre remains the mainstream candidate"
+site:herodium,31.66567,35.24181,https://pleiades.stoa.org/places/687916,exact,
+site:hippos,32.77889,35.65944,https://www.wikidata.org/wiki/Q1620075,exact,Wikidata: ancient city in the Golan Heights (Hippos-Sussita)
+site:hizma-stone-vessel-workshop,31.835,35.26194,https://www.wikidata.org/wiki/Q2907886,exact,"point of Hizma village, where the workshop lies"
+site:hurvat-itri,31.64947,34.97201,https://www.wikidata.org/wiki/Q3140888,exact,
+site:kishle,31.77581,35.22877,https://www.wikidata.org/wiki/Q6969966,exact,Wikidata: Ottoman barracks and jail in the Old City of Jerusalem (Kishle)
+site:kursi,32.8,35.7,https://www.wikidata.org/wiki/Q5550599,exact,Byzantine monastery identified with Gergesa; Wikidata's Gergesa point is coarse (one decimal)
+site:large-stone-structure,31.77425,35.23578,https://www.wikidata.org/wiki/Q2905863,exact,
+site:machaerus,31.56737,35.62411,https://pleiades.stoa.org/places/697700,exact,
+site:magdala,32.83917,35.5075,https://www.wikidata.org/wiki/Q4880851,exact,
+site:maresha,31.59296,34.89824,https://www.wikidata.org/wiki/Q1507676,exact,"Wikidata: ancient city and archaeological site (tell) in Southern District, Israel (Marissa)"
+site:migdal-synagogue,32.83917,35.5075,https://www.wikidata.org/wiki/Q4880851,exact,point of Magdala (Migdal); the first-century synagogue lies within the excavated town
+site:monastery-of-temptation,31.87464,35.43215,https://www.wikidata.org/wiki/Q2668745,exact,on the Mount of Temptation near Jericho (Wikidata)
+site:mount-gerizim-temple,32.19944,35.27278,https://www.wikidata.org/wiki/Q1288751,exact,point of Mount Gerizim; the Samaritan temple stood on the summit
+site:mount-of-beatitudes,32.88078,35.55582,https://www.wikidata.org/wiki/Q543683,exact,traditional site of the Sermon on the Mount
+site:mount-sodom,31.09222,35.38278,https://www.wikidata.org/wiki/Q2670801,exact,
+site:mount-tabor,32.68625,35.39292,https://www.wikidata.org/wiki/Q193785,exact,
+site:nabi-yahya-mosque,32.27672,35.196,https://www.wikidata.org/wiki/Q2319182,exact,"Wikidata: mosque in Sebastia, Nablus, West Bank"
+site:nazareth-house,32.7027,35.2968,https://www.wikidata.org/wiki/Q16566748,exact,"Sisters of Nazareth convent site, Nazareth (Wikidata)"
+site:nineveh,36.36667,43.15,https://www.wikidata.org/wiki/Q5680,exact,Wikidata: ancient Assyrian city (Kuyunjik and Nebi Yunus mounds)
+site:qumran,31.74183,35.45941,https://pleiades.stoa.org/places/688011,exact,
+site:second-temple,31.77806,35.23528,https://www.wikidata.org/wiki/Q728428,exact,"on the Temple Mount, Jerusalem (Wikidata)"
+site:sepphoris,32.75315,35.27887,https://pleiades.stoa.org/places/678387,exact,
+site:sisters-of-nazareth,32.7027,35.2968,https://www.wikidata.org/wiki/Q16566748,exact,"Sisters of Nazareth convent site, Nazareth (Wikidata)"
+place:bethany,31.77,35.26444,https://www.wikidata.org/wiki/Q2181579,exact,"Wikidata: al-Eizariya, 'the biblical location' - the Bethany of Luke 24:50 and John 11-12"
+place:bethphage,31.77722,35.25078,https://www.wikidata.org/wiki/Q2193088,candidate,"Wikidata: ancient biblical town; the point is the traditional Bethphage church on the Mount of Olives - the village itself is not certainly located"
+place:cana,32.75,35.35,https://www.wikidata.org/wiki/Q2633158,candidate,"identification disputed: Wikidata's point is Kafr Kanna, the traditional site; Khirbet Qana is the leading archaeological candidate"
+place:emmaus,31.8393,34.98946,https://www.wikidata.org/wiki/Q165887,candidate,"Wikidata itself flags the site as disputed; its point is Emmaus Nicopolis (Imwas), 176 stadia from Jerusalem, while Luke 24:13 says sixty"
+place:ephraim,31.95444,35.30028,https://www.wikidata.org/wiki/Q931667,candidate,"identification disputed: Wikidata's point is et-Taybeh (biblical Ophrah), the traditional identification of the Ephraim of John 11:54"
+place:gabbatha,31.78037,35.23351,https://www.wikidata.org/wiki/Q591994,candidate,"location disputed (the trial seat of John 19:13); Wikidata's point lies at the Antonia/Lithostrotos tradition north of the temple mount"
+place:mount-of-olives,31.77795,35.24569,https://www.wikidata.org/wiki/Q205976,exact,"Wikidata: mountain in Jerusalem mentioned several times in the Bible"
+place:nain,32.63333,35.35,https://www.wikidata.org/wiki/Q934904,exact,"Wikidata: Nein, village in Israel - the standard identification of Luke 7:11's Nain in Lower Galilee"
+site:bethany-beyond-jordan,31.83722,35.55028,https://www.wikidata.org/wiki/Q12193567,exact,"Wikidata: Al Maghtas, archaeological site on the east bank of the Jordan - Bethany beyond the Jordan of John 1:28"
+site:pool-of-bethesda,31.78139,35.23583,https://www.wikidata.org/wiki/Q831297,exact,"Wikidata: Pool of Bethesda, reservoir in Jerusalem (the node's own wikidata field, Q838780, points to an unrelated Dubai tower)"
+site:pool-of-siloam,31.77056,35.235,https://www.wikidata.org/wiki/Q1483483,exact,"Wikidata: Pool of Siloam, reservoir in East Jerusalem"
+site:jacobs-well,32.20945,35.28543,https://www.wikidata.org/wiki/Q1679519,exact,"Wikidata: Jacob's Well, biblical place at the West Bank (Bir Ya'qub, Balata, Nablus)"
+site:samaria-sebaste,32.27611,35.195,https://www.wikidata.org/wiki/Q1757438,exact,"Wikidata: ancient city in the West Bank, Palestine; the city of Samaria of Acts 8:5 (Herod's Sebaste)"
+place:azotus,31.75361,34.66167,https://www.wikidata.org/wiki/Q122059851,exact,"Wikidata: ancient Levantine city; the point is Tel Ashdod, the Hellenistic and Roman Azotus"
+place:damascus,33.51306,36.29194,https://www.wikidata.org/wiki/Q3766,exact,Wikidata: capital and largest city of Syria
+site:street-called-straight,33.50917,36.31139,https://www.wikidata.org/wiki/Q3399016,exact,"Wikidata: Damascus Straight Street, the main Roman road of Damascus"
+place:lydda,31.95,34.9,https://www.wikidata.org/wiki/Q207540,exact,"Wikidata: Lod, city in Israel"
+place:joppa,32.05222,34.75306,https://www.wikidata.org/wiki/Q180294,exact,"Wikidata: Jaffa, southern and oldest part of Tel Aviv"
+place:caesarea,32.5011,34.8923,https://www.wikidata.org/wiki/Q319242,exact,"Wikidata: ancient Levantine city (Caesarea Maritima), Herod's port"
+place:salamis-cyprus,35.18333,33.9,https://www.wikidata.org/wiki/Q767089,exact,Wikidata: historical state on Cyprus and archaeological site
+place:paphos,34.77613,32.42651,https://www.wikidata.org/wiki/Q180918,exact,Wikidata: town in Cyprus; the ancient harbour city (Nea Paphos) lies at Kato Paphos
+place:perga,36.96035,30.85369,https://www.wikidata.org/wiki/Q719815,exact,Wikidata: ancient city of Pamphylia in modern-day Turkey
+place:antioch-pisidia,38.30611,31.18917,https://www.wikidata.org/wiki/Q579468,exact,"Wikidata: ancient city of Pisidia, in modern-day Turkey"
+place:iconium,37.87194,32.49222,https://www.wikidata.org/wiki/Q132559332,exact,Wikidata: the city of Konya before and in Roman times
+place:lystra,37.66412,32.21071,https://www.wikidata.org/wiki/Q535982,exact,"Wikidata: historic settlement in Konya, Turkey; the node's own point (near Hatunsaray) wins over this row"
+place:derbe,37.34857,33.36145,https://www.wikidata.org/wiki/Q20717624,exact,Wikidata: ancient city
+place:antioch-on-the-orontes,36.20472,36.18167,https://www.wikidata.org/wiki/Q200441,exact,Wikidata: ancient Greek city in southern Turkey (Antioch on the Orontes)
+place:troas,39.75194444,26.15861111,https://www.wikidata.org/wiki/Q1393407,exact,"Wikidata: Alexandria Troas, ancient city of Troas in modern-day Turkey"

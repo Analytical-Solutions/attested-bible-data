@@ -1,0 +1,111 @@
+anchor,label,category,status,findings,note
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,inscription,none-found,,"Searched Wikipedia (Nard, Perfume, Alabaster) and the graph for inscriptions naming nard or perfume trade; none."
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,coin,found,artifact:denarius,"The denarius was the standard Roman silver coin of the 1st century - the unit of Mark's 'more than three hundred denarii' valuation (C; attests the currency, not the price)."
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,structure-or-site,none-found,,"Searched Wikipedia (Nard, Perfume) for an excavated perfumery or nard workshop in Judea; none on the fetched pages."
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,burial-or-ossuary,none-found,,"Searched Wikipedia (alabaster box, ossuary) for an excavated alabaster unguentarium with identified perfume contents tied to Judea; none found."
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,manuscript,n/a,,
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,documentary-papyrus,none-found,,"Searched the graph's documentary-papyrus nodes (Zenon, Babatha, Murabba'at) and Wikipedia; no papyrus prices nard."
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,jewish-literary,none-found,,Searched Wikipedia (Nard) and the graph's Mishnah/Talmud nodes for rabbinic references to nard; none fetched that attests its Judean cost.
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,greco-roman-literary,found,text:pliny-nh-12-nard,"Pliny (NH 12) prices pure nard at 100 denarii a pound, with graded leaf preparations at 40-75 - nard was a known, costly luxury oil in the Roman world, as Mark's 'pure nard - very costly' and its valuation presuppose (C; he does not price a single flask of the quality described)."
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,material-culture,none-found,,Searched Wikipedia and museum-collection pages for an excavated alabaster unguentarium from 1st-century Judea with identified nard contents; none found.
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,geography-or-nature,n/a,,
+claim:mk-14-03-05-nard,Ointment of pure nard worth more than 300 denarii,astronomy-or-calendar,n/a,,
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),inscription,none-found,,"Searched Wikipedia (Judas Iscariot, Betrayal of Jesus) for any inscription touching the betrayal payment; none exists."
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),coin,found,artifact:tyrian-shekel,"The Tyrian shekel (126 BC-AD 56) was the silver coin of Judea's economy and the Temple - the coinage of a payment like the one promised (C; it attests the coinage of such payments, not the promise itself)."
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),structure-or-site,none-found,,Searched Wikipedia and the graph for a site tied to the priests' meeting with Judas; none.
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),burial-or-ossuary,none-found,,"The graph's Caiaphas and Miriam ossuaries concern the high-priestly family, not the promise; no burial evidence bears on the payment."
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),manuscript,n/a,,
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),documentary-papyrus,none-found,,Searched the graph's documentary papyri and Wikipedia; no papyrus documents the payment.
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),jewish-literary,none-found,,Searched Wikipedia (Josephus on the trial period) and the graph's Josephus nodes; Josephus reports high-priestly intrigues but nothing of this promise.
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),greco-roman-literary,none-found,,"Searched Wikipedia (Judas Iscariot); later Christian legend only (reception, not entered)."
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),material-culture,n/a,,
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),geography-or-nature,n/a,,
+claim:mk-14-11-money-promised,The chief priests promised Judas money (no amount given),astronomy-or-calendar,n/a,,
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,inscription,none-found,,"Searched Wikipedia (Korban, Temple Warning inscription, Passover sacrifice) for inscriptions on the Passover slaughter; none bears on the schedule."
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,coin,n/a,,
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,structure-or-site,none-found,,Searched Wikipedia (Second Temple) and the graph's site:second-temple for excavated slaughter or roasting facilities; none identified as Passover-specific.
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,burial-or-ossuary,n/a,,
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,manuscript,none-found,,"The Elephantine Passover Letter (reused artifact, C in Matthew 26) concerns Passover observance at Elephantine in 419 BCE, not the Jerusalem Temple schedule of the 30s CE; no manuscript attests the Temple's slaughter day itself."
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,documentary-papyrus,none-found,,Searched the graph's documentary papyri and Wikipedia; no papyrus documents the Temple's Passover-day schedule.
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,jewish-literary,found,text:mishnah-pesachim-5-1,Pesachim 5:1 fixes the Temple's festival schedule: on Passover eve the daily offering is slaughtered and sacrificed earlier 'when the Paschal lamb must be offered after the daily offering' - the same Jerusalem institution and day Mark names (B with the c. 200 CE caveat on the edge).
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,greco-roman-literary,none-found,,"Josephus describes the Passover slaughter's scale (War 6.422-425, reused in Matthew 26), but no fetched classical page fixes the slaughter's day and hour; the Mishnah cell carries the schedule."
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,material-culture,none-found,,Searched Wikipedia for excavated Passover-slaughter installations or roasting ovens in Jerusalem; none.
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,geography-or-nature,n/a,,
+claim:mk-14-12-sacrificed-passover,The Passover lambs were sacrificed in the Temple,astronomy-or-calendar,none-found,,"The 14 Nisan frame is part of the claim's setting; no fetched page attests the 30 CE festival date itself. Searched Wikipedia (Passover, calendar) and the graph's calendar nodes."
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,inscription,none-found,,Searched Wikipedia (Water carrier) and the graph for inscriptions naming water carriers; none.
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,coin,n/a,,
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,structure-or-site,none-found,,"Searched Wikipedia (Water supply and sanitation, Jerusalem's water supply, Pool of Siloam) for excavated water infrastructure; the infrastructure is documented but no fetched page attests who carried water in jars in 1st-century Jerusalem."
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,burial-or-ossuary,n/a,,
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,manuscript,n/a,,
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,documentary-papyrus,none-found,,"Searched the graph's documentary papyri (Babatha, Zenon, Murabba'at) and Wikipedia; no papyrus attests a male water carrier in Judea."
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,jewish-literary,none-found,,Searched Wikipedia and the graph's Mishnah/Talmud nodes for water-carrying duties; nothing on the fetched pages.
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,greco-roman-literary,none-found,,Searched Wikipedia; no classical text on the fetched pages describes male water carriers in Jerusalem.
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,material-culture,none-found,,"Searched Wikipedia and the graph's vessel nodes for a jar typology tied to water-carrying; the graph's stone vessels concern purity, not water jars."
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,geography-or-nature,none-found,,"Jerusalem's water sources are documented, but the commentarial point that water-carrying was normally women's work found no fetched source - recorded under Uncertain in notes.md rather than asserted in the claim."
+claim:mk-14-13-water-carrier,A man carrying a jar of water as the sign,astronomy-or-calendar,n/a,,
+claim:mk-14-15-upper-room,A large furnished upper room in the house,inscription,none-found,,Searched Wikipedia (Cenacle) for inscriptions naming the room; none pre-dating the building.
+claim:mk-14-15-upper-room,A large furnished upper room in the house,coin,n/a,,
+claim:mk-14-15-upper-room,A large furnished upper room in the house,structure-or-site,found,site:cenacle,"The Cenacle on Mount Zion is 'traditionally held to be the site of the Last Supper' - Christian reception; the standing room is Gothic, 12th-14th centuries, so D (attests the tradition, not the room of Mark 14:15)."
+claim:mk-14-15-upper-room,A large furnished upper room in the house,burial-or-ossuary,none-found,,"Searched Wikipedia (Cenacle, David's Tomb) for any burial datum bearing on the room; David's Cenacle tomb tradition is medieval reception, not entered."
+claim:mk-14-15-upper-room,A large furnished upper room in the house,manuscript,n/a,,
+claim:mk-14-15-upper-room,A large furnished upper room in the house,documentary-papyrus,none-found,,Searched Wikipedia and the graph's documentary papyri; no papyrus mentions the room.
+claim:mk-14-15-upper-room,A large furnished upper room in the house,jewish-literary,none-found,,Searched Wikipedia (Cenacle) and the graph's Josephus nodes; Josephus and the Mishnah know nothing of the house or room.
+claim:mk-14-15-upper-room,A large furnished upper room in the house,greco-roman-literary,none-found,,"Searched Wikipedia; no classical author mentions it. The earliest Cenacle references are 4th-century pilgrim itineraries - reception, noted in the D grade of site:cenacle."
+claim:mk-14-15-upper-room,A large furnished upper room in the house,material-culture,none-found,,No excavated 1st-century 'large furnished upper room' in Jerusalem on the fetched pages; the Wohl museum's priestly mansions (reused in Matthew 26) are a different context not tied to this house.
+claim:mk-14-15-upper-room,A large furnished upper room in the house,geography-or-nature,none-found,,"The Mount Zion location is the tradition's own (D, site:cenacle); no geography datum attests the room."
+claim:mk-14-15-upper-room,A large furnished upper room in the house,astronomy-or-calendar,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),inscription,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),coin,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),structure-or-site,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),burial-or-ossuary,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),manuscript,none-found,,"Searched the Wikipedia 'Greek Minor Prophets Scroll from Nahal Hever' article (8HevXII gr, 1st century BCE): its identified Zechariah fragments are 3:1-2, 4:8-9 and 8:21 - Zechariah 13:7 is not among them, so no pre-Christian manuscript carries the quoted passage; the Twelve Prophets also circulated at Qumran and Murabba'at, but no fetched page puts Zechariah 13:7 in one."
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),documentary-papyrus,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),jewish-literary,none-found,,"No Josephus, Philo, Qumran or rabbinic page fetched quotes Zechariah 13:7; searched Wikipedia (Zechariah 13) and the graph's text nodes."
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),greco-roman-literary,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),material-culture,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),geography-or-nature,n/a,,
+claim:mk-14-27-strike-shepherd-quote,Zechariah 13:7 quoted ('I will strike the shepherd'),astronomy-or-calendar,n/a,,
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,inscription,none-found,,"Searched Wikipedia (Roman timekeeping, Gallicinium) and the graph for inscriptions naming cockcrow as a time division; none."
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,coin,n/a,,
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,structure-or-site,none-found,,The courtyard setting is covered by the reused Matthew 26 evidence (Gallicantu is D reception there); no excavated structure attests a second cockcrow.
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,burial-or-ossuary,n/a,,
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,manuscript,none-found,,"No Mark papyrus reaches chapter 14, so no manuscript can attest the claim; the textual history of the 'twice' (A and Byz include it, Sinaiticus C* and D omit it) is recorded in the variants of passage:mk-14-30 and passage:mk-14-72."
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,documentary-papyrus,n/a,,
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,jewish-literary,none-found,,Searched Wikipedia and the graph's rabbinic nodes for a second-cockcrow division in Jewish timekeeping; Berakhot's watch scheme (in the graph) does not name cockcrow divisions.
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,greco-roman-literary,none-found,,"The Roman civil-day division 'gallicinium (cock crowing)' is known from Wikipedia's Roman timekeeping summary (documented_by on the claim), but no ancient text page stating a second cockcrow division was fetched."
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,material-culture,none-found,,Searched Wikipedia for zooarchaeological evidence of chickens in 1st-century Jerusalem; none on the fetched pages - the Bava Kamma 7:7 rule is entered as the complicates edge instead.
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,geography-or-nature,none-found,,Whether cocks crowed inside Jerusalem is exactly the tension the Bava Kamma complicates edge records; no fetched zooarchaeology or fauna page resolves it.
+claim:mk-14-30-cockcrow-twice,'Before the rooster crows twice' - the second cockcrow,astronomy-or-calendar,none-found,,The night-hour frame is Roman timekeeping (documented_by on the claim); no calendar datum attests the second crow.
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",inscription,none-found,,"Searched Wikipedia (Ab (Semitic)) for inscriptions using abba as an address to God; the word appears in names and later liturgy, none pre-30 CE on the fetched pages."
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",coin,n/a,,
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",structure-or-site,n/a,,
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",burial-or-ossuary,none-found,,Searched Wikipedia and the graph's ossuary nodes for 'Abba' inscriptions; the name is known from the period but no fetched ossuary bears the vocative address to God.
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",manuscript,none-found,,"Searched Wikipedia (Ab, Aramaic of Jesus) for a pre-Christian prayer text addressing God as abba; none on the fetched pages (later liturgical use only)."
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",documentary-papyrus,none-found,,"Aramaic documentary papyri use 'ab' in patronymics, not as the vocative address to God; searched Wikipedia and the graph's papyri."
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",jewish-literary,none-found,,"Searched Wikipedia (Ab); rabbinic literature uses 'abba' as an honorific for scholars (later period), not as prayer address - nothing attesting the 30s CE custom."
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",greco-roman-literary,n/a,,
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",material-culture,n/a,,
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",geography-or-nature,n/a,,
+claim:mk-14-36-abba,"'Abba, Father' - the Aramaic address preserved",astronomy-or-calendar,n/a,,
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),inscription,none-found,,Searched Wikipedia (Naked fugitive) for any inscription touching the fugitive; none.
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),coin,n/a,,
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),structure-or-site,none-found,,"The Gethsemane setting is covered by the reused Matthew 26 evidence (mikveh, C); no structure attests the flight."
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),burial-or-ossuary,none-found,,The Naked fugitive article names no candidate with a tomb or ossuary; searched Wikipedia.
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),manuscript,none-found,,"No Mark papyrus reaches 14:51-52; Sinaiticus and Vaticanus preserve the verses (preserves edges only, they cannot attest)."
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),documentary-papyrus,n/a,,
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),jewish-literary,none-found,,"Searched Wikipedia (Naked fugitive, Arrest of Jesus) and the graph's Josephus nodes; Josephus says nothing of followers seized at the arrest."
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),greco-roman-literary,none-found,,"The identifications proposed (James the Just, the Beloved Disciple, John Mark, Lazarus) are modern scholarship and later Christian readings (Epiphanius, Ambrose) - reception and speculation, documented_by on the claim, not evidence."
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),material-culture,none-found,,"Searched Wikipedia (Linen, Sindon) for a page on the linen sindon as ordinary bedding/garment cloth in Judea; nothing tying an excavated textile to this use (the Cave of Letters textiles in the graph are 2nd-century and unrelated)."
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),geography-or-nature,n/a,,
+claim:mk-14-51-young-man-fled,The young man who fled naked (Mark only),astronomy-or-calendar,n/a,,
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,inscription,none-found,,"Searched Wikipedia (Sanhedrin trial of Jesus, Mark 14) for inscriptions recording the accusation; none."
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,coin,n/a,,
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,structure-or-site,none-found,,The Temple setting is covered by reused nodes; no excavated structure attests the saying or the accusation.
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,burial-or-ossuary,n/a,,
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,manuscript,none-found,,"No Mark papyrus reaches chapter 14; Sinaiticus and Vaticanus preserve the verse only (preserves edges, they cannot attest)."
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,documentary-papyrus,n/a,,
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,jewish-literary,none-found,,"Searched Wikipedia (Josephus on Jesus, Sanhedrin trial of Jesus) and the graph's Josephus nodes; Josephus records temple-related accusations against individuals but nothing of this charge."
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,greco-roman-literary,n/a,,
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,material-culture,n/a,,
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,geography-or-nature,n/a,,
+claim:mk-14-58-destroy-temple-saying,The 'destroy this temple made with hands' saying reported,astronomy-or-calendar,n/a,,

@@ -1,0 +1,42 @@
+{
+ "book": "acts",
+ "chapter": 12,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    19
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "12:3 \"he proceeded to seize Peter also\" - the arrest, the prison and the escape name no place; 12:19 \"He went down from Judea to Caesarea\" shows Herod leaving Jerusalem"
+  },
+  {
+   "verses": [
+    20,
+    23
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "12:19 \"He went down from Judea to Caesarea, and stayed there\" - the Tyre and Sidon delegation and Herod's death follow at Caesarea"
+  },
+  {
+   "verses": [
+    24,
+    24
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "12:24 \"But the word of God grew and multiplied\" - a summary with no place"
+  },
+  {
+   "verses": [
+    25,
+    25
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "12:25 \"Barnabas and Saul returned to Jerusalem, when they had fulfilled their service\""
+  }
+ ]
+}

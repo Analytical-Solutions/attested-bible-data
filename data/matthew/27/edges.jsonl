@@ -1,0 +1,355 @@
+{"from": "passage:mt-27-01", "type": "asserts", "to": "claim:mt-27-01-02-delivered-to-pilate"}
+{"from": "passage:mt-27-02", "type": "asserts", "to": "claim:mt-27-01-02-delivered-to-pilate"}
+{"from": "passage:mt-27-02", "type": "asserts", "to": "claim:mt-27-02-11-pilate-governor"}
+{"from": "passage:mt-27-11", "type": "asserts", "to": "claim:mt-27-02-11-pilate-governor"}
+{"from": "passage:mt-27-03", "type": "asserts", "to": "claim:mt-27-03-05-judas-returned-silver"}
+{"from": "passage:mt-27-05", "type": "asserts", "to": "claim:mt-27-03-05-judas-returned-silver"}
+{"from": "passage:mt-27-06", "type": "asserts", "to": "claim:mt-27-06-not-lawful-treasury"}
+{"from": "passage:mt-27-07", "type": "asserts", "to": "claim:mt-27-06-08-field-of-blood"}
+{"from": "passage:mt-27-08", "type": "asserts", "to": "claim:mt-27-06-08-field-of-blood"}
+{"from": "passage:mt-27-11", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mt-27-12", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mt-27-13", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mt-27-14", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mt-27-15", "type": "asserts", "to": "claim:mt-27-15-passover-release-custom"}
+{"from": "passage:mt-27-16", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mt-27-17", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mt-27-21", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mt-27-22", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mt-27-26", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mt-27-19", "type": "asserts", "to": "claim:mt-27-19-pilates-wife-dream"}
+{"from": "passage:mt-27-24", "type": "asserts", "to": "claim:mt-27-24-25-pilate-washed-hands"}
+{"from": "passage:mt-27-25", "type": "asserts", "to": "claim:mt-27-24-25-pilate-washed-hands"}
+{"from": "passage:mt-27-26", "type": "asserts", "to": "claim:mt-27-26-scourged-before-crucifixion"}
+{"from": "passage:mt-27-26", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mt-27-31", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mt-27-35", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mt-27-27", "type": "asserts", "to": "claim:mt-27-27-praetorium"}
+{"from": "passage:mt-27-27", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:mt-27-28", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:mt-27-30", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:mt-27-31", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:mt-27-29", "type": "asserts", "to": "claim:mt-27-29-crown-of-thorns"}
+{"from": "passage:mt-27-32", "type": "asserts", "to": "claim:mt-27-32-simon-compelled"}
+{"from": "passage:mt-27-33", "type": "asserts", "to": "claim:mt-27-33-golgotha-outside"}
+{"from": "passage:mt-27-34", "type": "asserts", "to": "claim:mt-27-34-wine-with-gall"}
+{"from": "passage:mt-27-35", "type": "asserts", "to": "claim:mt-27-35-garments-divided"}
+{"from": "passage:mt-27-37", "type": "asserts", "to": "claim:mt-27-37-charge-placard"}
+{"from": "passage:mt-27-45", "type": "asserts", "to": "claim:mt-27-45-darkness"}
+{"from": "passage:mt-27-48", "type": "asserts", "to": "claim:mt-27-48-sour-wine-posca"}
+{"from": "passage:mt-27-51", "type": "asserts", "to": "claim:mt-27-51-veil-torn"}
+{"from": "passage:mt-27-51", "type": "asserts", "to": "claim:mt-27-51-earthquake"}
+{"from": "passage:mt-27-52", "type": "asserts", "to": "claim:mt-27-52-53-saints-raised"}
+{"from": "passage:mt-27-53", "type": "asserts", "to": "claim:mt-27-52-53-saints-raised"}
+{"from": "passage:mt-27-55", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:mt-27-56", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:mt-27-61", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:mt-27-57", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:mt-27-58", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:mt-27-59", "type": "asserts", "to": "claim:mt-27-59-60-new-rock-tomb"}
+{"from": "passage:mt-27-60", "type": "asserts", "to": "claim:mt-27-59-60-new-rock-tomb"}
+{"from": "passage:mt-27-62", "type": "asserts", "to": "claim:mt-27-62-66-tomb-secured"}
+{"from": "passage:mt-27-63", "type": "asserts", "to": "claim:mt-27-62-66-tomb-secured"}
+{"from": "passage:mt-27-64", "type": "asserts", "to": "claim:mt-27-62-66-tomb-secured"}
+{"from": "passage:mt-27-65", "type": "asserts", "to": "claim:mt-27-62-66-tomb-secured"}
+{"from": "passage:mt-27-66", "type": "asserts", "to": "claim:mt-27-62-66-tomb-secured"}
+{"from": "claim:mt-27-01-02-delivered-to-pilate", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-01-02-delivered-to-pilate", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-01-02-delivered-to-pilate", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-02-11-pilate-governor", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-02-11-pilate-governor", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-03-05-judas-returned-silver", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:mt-27-03-05-judas-returned-silver", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-06-not-lawful-treasury", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-06-08-field-of-blood", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:mt-27-06-08-field-of-blood", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-11-14-jesus-before-governor", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-11-14-jesus-before-governor", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-15-passover-release-custom", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-16-26-barabbas-released", "type": "mentions", "to": "person:barabbas"}
+{"from": "claim:mt-27-16-26-barabbas-released", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-16-26-barabbas-released", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-19-pilates-wife-dream", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-24-25-pilate-washed-hands", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-26-scourged-before-crucifixion", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-26-scourged-before-crucifixion", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-26-crucified-under-pilate", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-26-crucified-under-pilate", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-26-crucified-under-pilate", "type": "mentions", "to": "place:golgotha"}
+{"from": "claim:mt-27-27-praetorium", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-27-praetorium", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-28-30-soldiers-mockery", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-29-crown-of-thorns", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-32-simon-compelled", "type": "mentions", "to": "person:simon-of-cyrene"}
+{"from": "claim:mt-27-32-simon-compelled", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-32-simon-compelled", "type": "mentions", "to": "place:cyrene"}
+{"from": "claim:mt-27-33-golgotha-outside", "type": "mentions", "to": "place:golgotha"}
+{"from": "claim:mt-27-33-golgotha-outside", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-34-wine-with-gall", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-35-garments-divided", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-37-charge-placard", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-45-darkness", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-48-sour-wine-posca", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-51-veil-torn", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-51-earthquake", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-52-53-saints-raised", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-55-61-women-watching", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:mt-27-55-61-women-watching", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-27-57-58-joseph-burial", "type": "mentions", "to": "person:joseph-of-arimathea"}
+{"from": "claim:mt-27-57-58-joseph-burial", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-57-58-joseph-burial", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-27-57-58-joseph-burial", "type": "mentions", "to": "place:arimathea"}
+{"from": "claim:mt-27-59-60-new-rock-tomb", "type": "mentions", "to": "person:joseph-of-arimathea"}
+{"from": "claim:mt-27-59-60-new-rock-tomb", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-27-62-66-tomb-secured", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-27-62-66-tomb-secured", "type": "mentions", "to": "place:jerusalem"}
+{"from": "artifact:pilate-stone", "type": "attests", "to": "claim:mt-27-02-11-pilate-governor", "grade": "A", "note": "The Caesarea inscription names '[Po]ntius Pilatus, [praef]ectus Iuda[e]ae' - the same man holding the same office as in 27:2, 11."}
+{"from": "artifact:pilate-stone", "type": "attests", "to": "claim:mt-27-01-02-delivered-to-pilate", "grade": "B", "note": "The inscription names Pontius Pilate as prefect of Judea - the governor to whom Matthew says Jesus was delivered; the delivery event itself has no outside witness. Regraded A to B by architect review: a grade covers the whole claim, and the source confirms the governor, not the handing over."}
+{"from": "artifact:pilate-stone", "type": "documented_by", "to": "source:wikipedia-pilate-stone"}
+{"from": "artifact:pilate-prutahs", "type": "attests", "to": "claim:mt-27-02-11-pilate-governor", "grade": "B", "note": "Coins struck under Pilate's governorship in 29/30-31/32 CE (Tiberius with lituus/simpulum, dated years 16-18); they do not name him, so they confirm the office and period, not the man by name."}
+{"from": "artifact:pilate-prutahs", "type": "documented_by", "to": "source:wikipedia-pontius-pilate-coins"}
+{"from": "artifact:pilate-ring", "type": "attests", "to": "claim:mt-27-02-11-pilate-governor", "grade": "D", "note": "A copper-alloy sealing ring from Herodium engraved with a krater and the Greek name 'Pilates' (published 2018); the excavators state all explanations for the owner are equally possible - whether it was the prefect's own ring is disputed."}
+{"from": "artifact:pilate-ring", "type": "complicates", "to": "claim:mt-27-02-11-pilate-governor", "grade": null, "note": "Tension: the excavators say scientists were not sure who the 'Pilates' of the ring is; it may have belonged to an official using Pilate's name (e.g. an administrative assistant) rather than the prefect."}
+{"from": "artifact:pilate-ring", "type": "documented_by", "to": "source:wikipedia-herodium-ring"}
+{"from": "artifact:pilate-ring", "type": "documented_by", "to": "source:wikipedia-herodium-ring-dispute"}
+{"from": "artifact:pilate-ring", "type": "found_at", "to": "site:herodium"}
+{"from": "text:josephus-ant-18-55-64", "type": "attests", "to": "claim:mt-27-02-11-pilate-governor", "grade": "A", "note": "Josephus names Pilate as the man who came as successor to the prefect Gratus over Judea and records his acts as governor in Jerusalem (the standards, then the aqueduct built from the sacred money)."}
+{"from": "text:josephus-ant-18-55-64", "type": "attests", "to": "claim:mt-27-01-02-delivered-to-pilate", "grade": "B", "note": "The same Pilate, governing Judea in Tiberius's reign, is the governor of Matthew's delivery; the delivery itself is not attested. Regraded A to B by architect review: a grade covers the whole claim, and the source confirms the governor, not the handing over."}
+{"from": "text:josephus-ant-18-55-64", "type": "attests", "to": "claim:mt-27-06-not-lawful-treasury", "grade": "B", "note": "The aqueduct was built 'with the sacred money' - temple treasury money could be earmarked and spent, showing the institution Matthew's korbanas language belongs to (the explicit Corban name comes in War 2.175)."}
+{"from": "text:josephus-ant-18-55-64", "type": "documented_by", "to": "source:wikisource-ant18-standards"}
+{"from": "text:josephus-ant-18-55-64", "type": "documented_by", "to": "source:wikisource-ant18-aqueduct"}
+{"from": "text:josephus-ant-18-85-89", "type": "attests", "to": "claim:mt-27-02-11-pilate-governor", "grade": "A", "note": "Josephus's account of the Samaritan affair (c. 36 CE) is introduced as how Pilate was accused and removed - fixing his decade in the governor's office over Judea."}
+{"from": "text:josephus-ant-18-85-89", "type": "documented_by", "to": "source:wikisource-ant18-samaritan"}
+{"from": "text:josephus-war-2-169-177", "type": "attests", "to": "claim:mt-27-02-11-pilate-governor", "grade": "A", "note": "War 2.169-177 narrates Pilate governing in Jerusalem (army moved to winter quarters, his tribunal before the crowd) - the Pilate of the Passion setting."}
+{"from": "text:josephus-war-2-169-177", "type": "attests", "to": "claim:mt-27-06-not-lawful-treasury", "grade": "B", "note": "Pilate 'expended that sacred treasure which is called Corban upon aqueducts' - the Jerusalem temple treasury money was called Corban (korbanas) in the period; the passage shows the institution, not the blood-money rule."}
+{"from": "text:josephus-war-2-169-177", "type": "attests", "to": "claim:mt-27-11-14-jesus-before-governor", "grade": "B", "note": "Pilate came to Jerusalem and the crowd 'came about his tribunal' - a Roman governor holding judgment in Jerusalem in the period (the tribunal of the standards affair, not a trial of Jesus)."}
+{"from": "text:josephus-war-2-169-177", "type": "documented_by", "to": "source:wikisource-war2-corban"}
+{"from": "text:josephus-war-2-169-177", "type": "documented_by", "to": "source:wikisource-war2-tribunal"}
+{"from": "text:philo-embassy-38-pilate", "type": "attests", "to": "claim:mt-27-02-11-pilate-governor", "grade": "A", "note": "A contemporary writer (Philo, c. 41 CE) names Pilate as 'appointed governor of Judaea' and describes his conduct in Jerusalem (the gilt shields in Herod's palace)."}
+{"from": "text:philo-embassy-38-pilate", "type": "documented_by", "to": "source:wikisource-philo-embassy-pilate"}
+{"from": "text:josephus-war-2-florus", "type": "attests", "to": "claim:mt-27-26-scourged-before-crucifixion", "grade": "B", "note": "Florus had men of equestrian rank whipped and (as the passage continues on the page, after a footnote) nailed to the cross before his tribunal in Jerusalem - Roman scourging as the prelude to crucifixion, in this city."}
+{"from": "text:josephus-war-2-florus", "type": "documented_by", "to": "source:wikisource-war2-florus"}
+{"from": "text:josephus-war-5-crucified", "type": "attests", "to": "claim:mt-27-26-scourged-before-crucifixion", "grade": "B", "note": "Titus's soldiers in the siege of Jerusalem (70 CE) first whipped the captives and then crucified them before the wall - scourging followed by crucifixion in this city, at Roman hands."}
+{"from": "text:josephus-war-5-crucified", "type": "documented_by", "to": "source:wikisource-war5-crucified"}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:mt-27-26-crucified-under-pilate", "grade": "A", "note": "Tacitus: 'Christus... suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus' - the execution under Pilate, named."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Names Christus, the founder of the 'mischievous superstition', executed under Pilate in Judea - a Roman literary witness to the man."}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}
+{"from": "text:josephus-war-2-varus", "type": "attests", "to": "claim:mt-27-26-crucified-under-pilate", "grade": "C", "note": "Varus crucified about two thousand in Judea (4 BCE) - mass crucifixion as a Roman punishment in this province in the period; it does not bear on Jesus's own execution."}
+{"from": "text:josephus-war-2-varus", "type": "documented_by", "to": "source:wikisource-jw-2"}
+{"from": "artifact:yehohanan-heel-bone", "type": "attests", "to": "claim:mt-27-26-crucified-under-pilate", "grade": "C", "note": "A crucified Jerusalemite of the 1st century CE (nail through the heel bone, Giv'at ha-Mivtar, 1968) - crucifixion was practiced on ordinary men in this city in the period; it is not Jesus's remains."}
+{"from": "artifact:yehohanan-heel-bone", "type": "attests", "to": "claim:mt-27-57-58-joseph-burial", "grade": "B", "note": "Yehohanan's bones were buried in a family ossuary - a crucified man could receive burial, against the assumption that the crucified were always left unburied."}
+{"from": "artifact:yehohanan-heel-bone", "type": "documented_by", "to": "source:wikipedia-crucifixion-heel"}
+{"from": "site:kishle", "type": "attests", "to": "claim:mt-27-27-praetorium", "grade": "C", "note": "Herodian building remains excavated under the Kishle by the Tower of David citadel; the excavated buildings may belong to Herod's palace, the traditional praetorium - the identification 'may' is the excavation report's own wording."}
+{"from": "site:kishle", "type": "documented_by", "to": "source:wikipedia-kishle"}
+{"from": "observation:levantine-thorny-plants", "type": "attests", "to": "claim:mt-27-29-crown-of-thorns", "grade": "C", "note": "Ziziphus spina-christi, the 'Christ-thorn', grows in Levantine valleys (up to 500 m) - thorny material for a mockery crown existed at hand in Judea; the observation does not identify the actual plant used."}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-ziziphus"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-ziziphus-native"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-gundelia"}
+{"from": "text:roman-angaria", "type": "attests", "to": "claim:mt-27-32-simon-compelled", "grade": "B", "note": "Roman angaria was a compulsory requisition duty on civilians (the practice behind 'go one mile' in Matt 5:41); the same right of requisition underlay a soldier's compelling Simon - it does not name Simon or this event."}
+{"from": "text:roman-angaria", "type": "documented_by", "to": "source:wikipedia-angaria"}
+{"from": "artifact:cyrene-ossuary-alexander", "type": "attests", "to": "claim:mt-27-32-simon-compelled", "grade": "D", "note": "A Kidron Valley cave of Cyrenian Jews (excavated 1941 by Sukenik) held an ossuary inscribed twice in Greek 'Alexander son of Simon'; the fetched source states it cannot be certain this refers to the same person (Mark names Simon's son Alexander) - identification speculative."}
+{"from": "artifact:cyrene-ossuary-alexander", "type": "attests", "to": "person:simon-of-cyrene", "grade": "D", "note": "The 'Alexander son of Simon' ossuary cannot be tied to Simon of Cyrene's family with certainty (name combinations were common); graded D for the speculative identification."}
+{"from": "artifact:cyrene-ossuary-alexander", "type": "documented_by", "to": "source:wikipedia-simon-cyrene-ossuary"}
+{"from": "site:church-of-holy-sepulchre", "type": "attests", "to": "claim:mt-27-33-golgotha-outside", "grade": "C", "note": "Excavation under the church found a first-century quarry with tombs, and the archaeology shows the site lay outside the city walls of Jesus's time - the physical setting of 27:33; the identification of Golgotha with the site is the traditional one."}
+{"from": "site:church-of-holy-sepulchre", "type": "attests", "to": "place:golgotha", "grade": "C", "note": "The site attests the setting (execution ground outside the walls, quarry and tombs) but carries no first-century name-plate of Golgotha; the name rests on tradition."}
+{"from": "site:church-of-holy-sepulchre", "type": "documented_by", "to": "source:wikipedia-holy-sepulchre-quarry"}
+{"from": "site:church-of-holy-sepulchre", "type": "documented_by", "to": "source:wikipedia-holy-sepulchre-walls"}
+{"from": "site:church-of-holy-sepulchre", "type": "identified_as", "to": "place:golgotha", "note": "The traditional identification, held since the 4th century; no first-century inscription confirms the name."}
+{"from": "site:garden-tomb", "type": "attests", "to": "claim:mt-27-33-golgotha-outside", "grade": "D", "note": "An alternative tomb site north of the Old City promoted since the 19th century; scholars including Barkay reject its claim to be Jesus's tomb, and the identification is contested."}
+{"from": "site:garden-tomb", "type": "complicates", "to": "claim:mt-27-33-golgotha-outside", "grade": null, "note": "Tension: Barkay argues the tomb 'is far too old to be the tomb of Jesus', typical of the 8th-7th centuries BCE (Iron Age II), and its rolling-stone groove is not how known rolling-stone tombs worked."}
+{"from": "site:garden-tomb", "type": "documented_by", "to": "source:wikipedia-garden-tomb"}
+{"from": "text:talmud-sanhedrin-43a", "type": "attests", "to": "claim:mt-27-34-wine-with-gall", "grade": "C", "note": "The court gives one led out to be killed a grain of frankincense in a cup of wine to confuse his mind - a Jewish custom of giving the condemned sedating drink; Talmud Bavli, redacted c. 200 CE and later (Gemara c. 500 CE), so it is later memory, not a contemporary record."}
+{"from": "text:talmud-sanhedrin-43a", "type": "documented_by", "to": "source:sefaria-sanhedrin-43a"}
+{"from": "text:digest-48-20-6", "type": "attests", "to": "claim:mt-27-35-garments-divided", "grade": "B", "note": "Digest 48.20.6 (Ulpian, De officio proconsulis 10, from the imperial period) defines the pannicularia - the clothing of the condemned that the executioner could claim ('the garment in which he was clothed, and the coins in his purse-belt'), the legal backdrop of the soldiers' division of Jesus's clothes."}
+{"from": "text:digest-48-20-6", "type": "documented_by", "to": "source:latin-library-digest-48"}
+{"from": "text:suetonius-caligula-32", "type": "attests", "to": "claim:mt-27-37-charge-placard", "grade": "C", "note": "Caligula had a slave led about 'preceded by a placard giving the reason for his punishment' - a Roman custom of publicizing the charge on the punished person; the same custom lies behind the titulus over the crucified."}
+{"from": "text:suetonius-domitian-10", "type": "attests", "to": "claim:mt-27-37-charge-placard", "grade": "C", "note": "Domitian had a man thrown to the dogs 'with this placard: A favourer of the Thracians who spoke impiously' - the placard stating the offence, in Roman practice."}
+{"from": "text:suetonius-caligula-32", "type": "documented_by", "to": "source:penelope-suetonius-caligula"}
+{"from": "text:suetonius-domitian-10", "type": "documented_by", "to": "source:penelope-suetonius-domitian"}
+{"from": "text:thallus-via-africanus", "type": "attests", "to": "claim:mt-27-45-darkness", "grade": "D", "note": "Thallus (3rd book of his Histories), quoted by Julius Africanus and preserved by Syncellus, says a fearful darkness pressed on the whole world and 'calls it an eclipse of the sun'; Thallus is known only through Christian quotation (reception), so the dependence is named and the grade D."}
+{"from": "text:thallus-via-africanus", "type": "documented_by", "to": "source:wikipedia-crucifixion-darkness-thallus"}
+{"from": "text:phlegon-chronicle", "type": "attests", "to": "claim:mt-27-45-darkness", "grade": "D", "note": "Phlegon of Tralles recorded an eclipse; Origen offered it as a natural explanation of the darkness. Phlegon's record is known through later citation and its link to the crucifixion is an interpretive move - graded D with the dependence named."}
+{"from": "text:phlegon-chronicle", "type": "documented_by", "to": "source:wikipedia-crucifixion-darkness-phlegon"}
+{"from": "observation:solar-eclipse-impossible-passover", "type": "complicates", "to": "claim:mt-27-45-darkness", "grade": null, "note": "Tension: Passover falls at full moon, but a solar eclipse occurs only at new moon - so an eclipse cannot explain a Passover-time darkness (Africanus himself objected to Thallus's eclipse explanation on these grounds)."}
+{"from": "observation:solar-eclipse-impossible-passover", "type": "documented_by", "to": "source:wikipedia-crucifixion-darkness-fullmoon"}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-27-51-veil-torn", "grade": "C", "note": "The Second Temple with its sanctuary stood in Jerusalem until 70 CE - the building whose veil the passage speaks of; the tearing itself has no outside witness."}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "text:josephus-war-5-212-veil", "type": "attests", "to": "claim:mt-27-51-veil-torn", "grade": "B", "note": "Josephus describes the veil before the sanctuary doors - 'a Babylonian curtain, embroidered with blue, and fine linen, and scarlet, and purple' - the enormous veil whose existence 27:51 presupposes; the tearing is not attested."}
+{"from": "text:josephus-war-5-212-veil", "type": "documented_by", "to": "source:wikisource-war5-veil"}
+{"from": "text:talmud-yoma-39b", "type": "attests", "to": "claim:mt-27-51-veil-torn", "grade": "D", "note": "Yoma 39b (baraita) records portents 'during the forty years prior to the destruction of the Second Temple' (the lot, the crimson strip, the western lamp, the sanctuary doors opening by themselves); Talmud, c. 200 CE and later, a later rabbinic legend-collection - D, and it does not mention the veil."}
+{"from": "text:talmud-yoma-39b", "type": "documented_by", "to": "source:sefaria-yoma-39b"}
+{"from": "observation:dead-sea-seismite-26-36", "type": "attests", "to": "claim:mt-27-51-earthquake", "grade": "D", "note": "A Dead Sea sediment layer (seismite) records an earthquake dated 26-36 CE, the right window; the identification with the crucifixion quake is explicitly 'could be' - the geological datum is real, the connection uncertain, hence D."}
+{"from": "observation:dead-sea-seismite-26-36", "type": "documented_by", "to": "source:wikipedia-earthquakes-levant"}
+{"from": "site:magdala", "type": "attests", "to": "claim:mt-27-55-61-women-watching", "grade": "C", "note": "The excavated town of Magdala (Migdal) on the Galilee shore, occupied in the Early Roman period - the town Mary Magdalene's name points to as her origin; it does not attest the women at the cross."}
+{"from": "site:magdala", "type": "related_to", "to": "person:mary-magdalene", "note": "Mary's name 'Magdalene' points to Magdala; the excavated Early Roman town confirms the place existed. Converted from attests C by architect review: a town is not evidence that a person from it existed."}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-tarichaea"}
+{"from": "text:josephus-war-4-317-burial", "type": "attests", "to": "claim:mt-27-57-58-joseph-burial", "grade": "B", "note": "Even in the 70 CE siege, 'they took down those that were condemned and crucified, and buried them before the going down of the sun' - Jewish burial of the crucified before sunset was the rule in Josephus's Jerusalem, exactly the practice 27:57 presupposes."}
+{"from": "text:josephus-war-4-317-burial", "type": "documented_by", "to": "source:wikisource-war4-burial"}
+{"from": "text:eusebius-onomasticon-arimathea", "type": "attests", "to": "place:arimathea", "grade": "D", "note": "Eusebius's Onomasticon (early 4th century, reception) identifies Arimathea with Ramathaim-Zophim near Diospolis (Lod); the same fetched page states 'there is no external evidence for the existence of Arimathea' and some scholars suggest a literary device - D, with the dependence named."}
+{"from": "text:eusebius-onomasticon-arimathea", "type": "documented_by", "to": "source:wikipedia-arimathea-onomasticon"}
+{"from": "text:eusebius-onomasticon-arimathea", "type": "documented_by", "to": "source:wikipedia-arimathea-dispute"}
+{"from": "artifact:korban-ossuary", "type": "attests", "to": "claim:mt-27-06-not-lawful-treasury", "grade": "D", "note": "An ossuary lid from Jebel Hallet et-Turi, SE of Jerusalem, uses the Aramaic word for 'corban' (reused node from Matt 15:5); graded D there because the wording is 'somewhat uncertain' and the date only 'said to date from the beginning of the Common Era' - it shows the term in Jerusalem-region use, not the treasury rule."}
+{"from": "artifact:korban-ossuary", "type": "documented_by", "to": "source:wol-corban"}
+{"from": "site:akeldama-tombs", "type": "attests", "to": "claim:mt-27-06-08-field-of-blood", "grade": "D", "note": "The Akeldama tombs in the Hinnom Valley mark the traditional Field of Blood; the identification of the field with this site is tradition (the name is attested by the site's use as a burial field for foreigners in later sources), so D."}
+{"from": "site:akeldama-tombs", "type": "documented_by", "to": "source:wikipedia-akeldama"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-52"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-53"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-53"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-55"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-55"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-56"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-56"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-57"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-57"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-58"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-58"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-59"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-59"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-60"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-60"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-61"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-61"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-62"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-62"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-63"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-63"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-64"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-64"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-65"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-65"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-66"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-66"}
+{"from": "artifact:papyrus-105", "type": "preserves", "to": "passage:mt-27-62"}
+{"from": "artifact:papyrus-105", "type": "preserves", "to": "passage:mt-27-63"}
+{"from": "artifact:papyrus-105", "type": "preserves", "to": "passage:mt-27-64"}
+{"from": "artifact:papyrus-105", "type": "documented_by", "to": "source:wikipedia-papyrus-105"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus-date"}
+{"from": "text:acts-1-18-19", "type": "related_to", "to": "claim:mt-27-06-08-field-of-blood", "note": "Biblical cross-reference only (not evidence): Acts 1:18-19 gives a different account - Judas himself bought the field and fell headlong - against Matthew's priests buying the field and Judas hanging himself."}
+{"from": "text:acts-1-18-19", "type": "related_to", "to": "person:judas-iscariot", "note": "Biblical cross-reference only: the different Acts account of Judas's death."}
+{"from": "text:deuteronomy-21-6-7", "type": "related_to", "to": "claim:mt-27-24-25-pilate-washed-hands", "note": "Biblical cross-reference only (not evidence): the elders washing their hands over the heifer and disclaiming the blood (Deut 21:6-7) is the scriptural backdrop of Pilate's hand-washing; it is not outside evidence for the event."}
+{"from": "text:psalm-22-18", "type": "related_to", "to": "claim:mt-27-35-garments-divided", "note": "Biblical cross-reference only (not evidence): Psalm 22:18 is the text Matthew echoes ('they divide my garments... cast lots'); it is a source of the wording, not independent evidence for the custom."}
+{"from": "text:papias-expositions-judas", "type": "related_to", "to": "person:judas-iscariot", "note": "Reception (not evidence): Papias (c. 100-130 CE) hands on a different, legendary death of Judas - his body bloated and bursting on his own land - told in competition with Matthew and Acts; dependent on later Christian tradition."}
+{"from": "text:papias-expositions-judas", "type": "related_to", "to": "claim:mt-27-03-05-judas-returned-silver", "note": "Reception (not evidence): Papias's Judas tradition differs from Matthew's account in every detail; recorded as an early Christian reception of the Judas story."}
+{"from": "text:papias-expositions-judas", "type": "documented_by", "to": "source:wikipedia-judas-papias"}
+{"from": "text:mishnah-pesachim-8-6", "type": "documented_by", "to": "source:sefaria-pesachim-8-6"}
+{"from": "text:mishnah-pesachim-8-6", "type": "attests", "to": "claim:mt-27-15-passover-release-custom", "grade": "D", "note": "Mishnah Pesachim 8:6 allows slaughtering the Passover for 'one whom the governing body promised to release from prison on the night of Passover' - a Passover prisoner-release practice in rabbinic memory; the Mishnah was compiled c. 200 CE, so it is later, not a contemporary record."}
+{"from": "artifact:pilate-stone", "type": "attests", "to": "person:pontius-pilate", "grade": "A", "note": "The inscription names '[Po]ntius Pilatus, [praef]ectus Iuda[e]ae' - the person himself, with his office."}
+{"from": "artifact:pilate-prutahs", "type": "attests", "to": "person:pontius-pilate", "grade": "B", "note": "Coins struck under his governorship 29/30-31/32 CE; they name Tiberius, not Pilate, so they fix the office and years rather than the name."}
+{"from": "artifact:pilate-ring", "type": "attests", "to": "person:pontius-pilate", "grade": "D", "note": "A Herodium ring engraved 'Pilates'; the excavators state all explanations for the owner are equally possible - whether it is the prefect's own ring is disputed."}
+{"from": "text:josephus-ant-18-55-64", "type": "attests", "to": "person:pontius-pilate", "grade": "A", "note": "Josephus narrates Pilate's governorship from appointment to his Jerusalem provocations - the same man and office."}
+{"from": "text:josephus-war-2-169-177", "type": "attests", "to": "person:pontius-pilate", "grade": "A", "note": "War 2.169-177 narrates Pilate's conduct as governor in Jerusalem - the man in the Passion setting."}
+{"from": "text:philo-embassy-38-pilate", "type": "attests", "to": "person:pontius-pilate", "grade": "A", "note": "A contemporary names 'Pilate... appointed governor of Judaea' and describes his conduct in Jerusalem."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "person:pontius-pilate", "grade": "A", "note": "Tacitus names 'Pontius Pilatus' as the procurator who executed Christus under Tiberius - a Roman witness to the man."}
+{"from": "text:acts-1-18-19", "type": "documented_by", "to": "source:bible-api-acts-1-18-19"}
+{"from": "text:deuteronomy-21-6-7", "type": "documented_by", "to": "source:bible-api-deuteronomy-21-6-7"}
+{"from": "text:psalm-22-18", "type": "documented_by", "to": "source:bible-api-psalm-22-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-27-54"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-27-54"}
+{"from": "passage:mt-27-27", "type": "asserts", "to": "claim:mt-27-27-soldiers-gather"}
+{"from": "site:kishle", "type": "attests", "to": "claim:mt-27-27-soldiers-gather", "grade": "C", "note": "The excavated Herodian buildings under the Kishle may belong to Herod's palace, the traditional praetorium in which the cohort gathered; the identification is qualified ('may') and the gathering itself is the Gospel event, so grade C. Split from the bundled praetorium claim per the architect's titles-and-offices ruling (2026-11-15)."}

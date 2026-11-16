@@ -1,0 +1,112 @@
+{
+ "source:bible-api-exodus-22-28": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/exodus+22:28?translation=web"
+ },
+ "source:lacuscurtius-dio-60-17-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/60*.html"
+ },
+ "source:sefaria-nedarim-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Nedarim.1.1"
+ },
+ "source:wikipedia-antipatris": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antipatris"
+ },
+ "source:wikipedia-antonia-fortress": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonia_Fortress"
+ },
+ "source:wikipedia-antonia-garrison": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Antonia_Fortress"
+ },
+ "source:wikipedia-auxilia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Auxilia"
+ },
+ "source:wikipedia-caesarea-governors-residence": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-caesarea-promontory-palace": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-omitted-acts-23-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_omitted_Bible_verses"
+ },
+ "source:wikipedia-sadducees": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sadducees"
+ },
+ "source:wikipedia-sadducees-angels": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sadducees"
+ },
+ "source:wikisource-annals-12-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_12"
+ },
+ "source:wikisource-ant-18-sects-three": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-pharisees-souls": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-sects": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant20-ananias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant20-ananias-greed": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant20-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-histories-5-felix": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_5"
+ },
+ "source:wikisource-war2-sadducees": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war5-antonia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

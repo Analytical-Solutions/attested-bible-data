@@ -1,0 +1,23 @@
+anchor,label,category,status,findings,note
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",inscription,none-found,,Searched the seed leads and Wikipedia viticulture/coinage pages; no inscription bears on vine cultivation imagery.
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",coin,found,artifact:archelaus-coins,Herod Archelaus's Judean prutot (4 BCE-6 CE) depict a bunch of grapes - viticulture as the standard iconography of the Judean economy in the period (grade C).
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",structure-or-site,n/a,,No excavated site could bear on the vine imagery specifically; the general Judean viticulture evidence sits on the observation and coin cells.
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",burial-or-ossuary,none-found,,No burial or ossuary could bear on viticulture; searched - nothing.
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",manuscript,n/a,,"manuscript n/a (calibration rule): a manuscript of John only preserves the passages it carries; Papyrus 66, Codex Sinaiticus and Codex Vaticanus preserve these chapters (preserves edges)."
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",documentary-papyrus,none-found,,Searched the seed leads and the papyrus lists; no documentary papyrus fetched bears on Judean viticulture here.
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",jewish-literary,found,text:josephus-war-5-207-213-temple-gold,War 5.207-213: golden vines with grape clusters as tall as a man hung over the sanctuary gate - the vine as a familiar sacred symbol in Jesus' Jerusalem (grade C).
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",greco-roman-literary,none-found,,No classical author fetched bears on the vine imagery (Tacitus and Pliny material in the graph concerns other topics).
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",material-culture,n/a,,"No tool, vessel or object could bear on the imagery beyond the coinage iconography already recorded."
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",geography-or-nature,found,observation:grape-fig-cultivation-levant,Grapes a staple of ancient Israelite agriculture; wine produced in the Land of Israel since biblical times and exported to Rome (grade C).
+claim:jn-15-01-viticulture,"Viticulture in Judea: vine, branches, pruning, burning",astronomy-or-calendar,n/a,,No calendar or astronomical category could plausibly bear on this.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),inscription,none-found,,"No inscription names Jesus; the Pilate stone names Pilate, not Jesus (Tacitus, Annals 15.44, names Christus but is already an attests edge in the chapters it belongs to)."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),coin,n/a,,No coin could name a private person of this kind.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),structure-or-site,n/a,,A site never attests a person (calibration rule).
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),burial-or-ossuary,none-found,,No tomb or ossuary of Jesus; the Talpiot and James-ossuary material is disputed and belongs to the chapters that claim it.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),manuscript,n/a,,"manuscript n/a (calibration rule): a manuscript of John only preserves the passages it carries; Papyrus 66, Codex Sinaiticus and Codex Vaticanus preserve these chapters (preserves edges)."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),documentary-papyrus,none-found,,No documentary papyrus names him; searched the papyrus lists - nothing.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),jewish-literary,none-found,,"Josephus Ant. 18/20 mention Jesus and James, but those edges live on the chapters whose claims they bear on."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),greco-roman-literary,none-found,,"Tacitus, Annals 15.44 names Christus; recorded where it attests claims, not on the bare person anchor here."
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),material-culture,none-found,,No object tied to him individually was searched out.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),geography-or-nature,n/a,,No geography-or-nature category could bear on the person himself.
+person:jesus-of-nazareth,Jesus of Nazareth (called Christ),astronomy-or-calendar,n/a,,No calendar category could bear on the person himself.

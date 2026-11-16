@@ -1,0 +1,69 @@
+{
+ "book": "acts",
+ "chapter": 15,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    2
+   ],
+   "setting": "place:antioch-on-the-orontes",
+   "confidence": "inferred",
+   "basis": "15:1 \"Some men came down from Judea and taught the brothers\" - the dispute is at Antioch, where Paul and Barnabas were staying (14:26-28) and where the letter is later delivered (15:30)"
+  },
+  {
+   "verses": [
+    3,
+    3
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "15:3 \"passed through both Phoenicia and Samaria, declaring the conversion of the Gentiles\" - a journey through two regions with no single setting"
+  },
+  {
+   "verses": [
+    4,
+    21
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "15:4 \"When they had come to Jerusalem, they were received by the assembly and the apostles and the elders\"; 15:6 \"The apostles and the elders were gathered together to see about this matter\""
+  },
+  {
+   "verses": [
+    22,
+    29
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "15:22 \"it seemed good to the apostles and the elders, with the whole assembly, to choose men out of their company, and send them to Antioch with Paul and Barnabas\"; 15:23 \"They wrote these things by their hand\" - the letter's addressees in Antioch, Syria and Cilicia are addressees, never settings"
+  },
+  {
+   "verses": [
+    30,
+    35
+   ],
+   "setting": "place:antioch-on-the-orontes",
+   "confidence": "stated",
+   "basis": "15:30 \"when they were sent off, they came to Antioch. Having gathered the multitude together, they delivered the letter\"; 15:35 \"But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord\""
+  },
+  {
+   "verses": [
+    36,
+    40
+   ],
+   "setting": "place:antioch-on-the-orontes",
+   "confidence": "inferred",
+   "basis": "15:39 \"the contention grew so sharp that they separated from each other\" - the dispute and the parting name no place; they follow the Antioch stay of 15:35; Cyprus (15:39) is Barnabas's departure leg"
+  },
+  {
+   "verses": [
+    41,
+    41
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "15:41 \"He went through Syria and Cilicia, strengthening the assemblies\" - a journey through two regions with no single setting; the following scene is at Derbe and Lystra (16:1)"
+  }
+ ]
+}

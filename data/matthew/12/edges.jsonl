@@ -1,0 +1,224 @@
+{"from": "passage:mt-12-01", "type": "asserts", "to": "claim:mt-12-01-sabbath-grain-plucking"}
+{"from": "passage:mt-12-02", "type": "asserts", "to": "claim:mt-12-02-sabbath-reaping-contested"}
+{"from": "passage:mt-12-03", "type": "asserts", "to": "claim:mt-12-03-david-showbread"}
+{"from": "passage:mt-12-04", "type": "asserts", "to": "claim:mt-12-03-david-showbread"}
+{"from": "passage:mt-12-05", "type": "asserts", "to": "claim:mt-12-05-priests-sabbath-temple"}
+{"from": "passage:mt-12-09", "type": "asserts", "to": "claim:mt-12-09-taught-in-their-synagogue"}
+{"from": "passage:mt-12-10", "type": "asserts", "to": "claim:mt-12-10-sabbath-healing-debate"}
+{"from": "passage:mt-12-11", "type": "asserts", "to": "claim:mt-12-11-sheep-in-pit"}
+{"from": "passage:mt-12-13", "type": "asserts", "to": "claim:mt-12-13-withered-hand-restored"}
+{"from": "passage:mt-12-14", "type": "asserts", "to": "claim:mt-12-14-pharisees-plotted"}
+{"from": "passage:mt-12-17", "type": "asserts", "to": "claim:mt-12-17-isaiah-42-quoted"}
+{"from": "passage:mt-12-22", "type": "asserts", "to": "claim:mt-12-22-blind-mute-demoniac"}
+{"from": "passage:mt-12-23", "type": "asserts", "to": "claim:mt-12-23-son-of-david-acclamation"}
+{"from": "passage:mt-12-24", "type": "asserts", "to": "claim:mt-12-24-beelzebul-accusation"}
+{"from": "passage:mt-12-27", "type": "asserts", "to": "claim:mt-12-27-jewish-exorcists"}
+{"from": "passage:mt-12-34", "type": "asserts", "to": "claim:mt-12-34-brood-of-vipers"}
+{"from": "passage:mt-12-39", "type": "asserts", "to": "claim:mt-12-39-sign-of-jonah"}
+{"from": "passage:mt-12-41", "type": "asserts", "to": "claim:mt-12-41-nineveh-repentance"}
+{"from": "passage:mt-12-41", "type": "asserts", "to": "claim:mt-12-41-nineveh-great-city"}
+{"from": "passage:mt-12-42", "type": "asserts", "to": "claim:mt-12-42-queen-of-south"}
+{"from": "passage:mt-12-43", "type": "asserts", "to": "claim:mt-12-43-waterless-places"}
+{"from": "passage:mt-12-46", "type": "asserts", "to": "claim:mt-12-46-mother-brothers-outside"}
+{"from": "passage:mt-12-46", "type": "asserts", "to": "claim:mt-12-46-jesus-brother-james"}
+{"from": "claim:mt-12-01-sabbath-grain-plucking", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-03-david-showbread", "type": "mentions", "to": "person:david"}
+{"from": "claim:mt-12-05-priests-sabbath-temple", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-05-priests-sabbath-temple", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-12-09-taught-in-their-synagogue", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-09-taught-in-their-synagogue", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-12-13-withered-hand-restored", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-14-pharisees-plotted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-17-isaiah-42-quoted", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:mt-12-22-blind-mute-demoniac", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-23-son-of-david-acclamation", "type": "mentions", "to": "person:david"}
+{"from": "claim:mt-12-23-son-of-david-acclamation", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-27-jewish-exorcists", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-39-sign-of-jonah", "type": "mentions", "to": "person:jonah-the-prophet"}
+{"from": "claim:mt-12-41-nineveh-repentance", "type": "mentions", "to": "person:jonah-the-prophet"}
+{"from": "claim:mt-12-41-nineveh-repentance", "type": "mentions", "to": "place:nineveh"}
+{"from": "claim:mt-12-41-nineveh-great-city", "type": "mentions", "to": "place:nineveh"}
+{"from": "claim:mt-12-42-queen-of-south", "type": "mentions", "to": "person:queen-of-sheba"}
+{"from": "claim:mt-12-42-queen-of-south", "type": "mentions", "to": "person:solomon"}
+{"from": "claim:mt-12-42-queen-of-south", "type": "mentions", "to": "place:sheba"}
+{"from": "claim:mt-12-46-mother-brothers-outside", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-46-mother-brothers-outside", "type": "mentions", "to": "person:mary-mother-of-jesus"}
+{"from": "claim:mt-12-46-jesus-brother-james", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-12-46-jesus-brother-james", "type": "mentions", "to": "person:james-brother-of-jesus"}
+{"from": "artifact:magdala-stone", "type": "attests", "to": "claim:mt-12-09-taught-in-their-synagogue", "grade": "B", "note": "A carved stone block unearthed in the 2009 excavation of the Migdal Synagogue and carved before 70 CE - decorated furnishings from inside a first-century Galilean synagogue."}
+{"from": "site:migdal-synagogue", "type": "attests", "to": "claim:mt-12-09-taught-in-their-synagogue", "grade": "B", "note": "A first-century synagogue of Galilee (Second Temple period), excavated in 2009 by the Israel Antiquities Authority - the kind of town synagogue Matt 12:9 describes."}
+{"from": "site:gamla-synagogue", "type": "attests", "to": "claim:mt-12-09-taught-in-their-synagogue", "grade": "B", "note": "One of the earliest known Galilean synagogues, believed to date to the late 1st century BCE - synagogue buildings existed in the region in the period."}
+{"from": "site:capernaum-synagogue", "type": "attests", "to": "claim:mt-12-09-taught-in-their-synagogue", "grade": "D", "note": "The limestone building is 4th-5th century; only the basalt foundation beneath it is suggested by Loffreda to be the 1st-century synagogue - a suggestion, not a finding."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-12-05-priests-sabbath-temple", "grade": "C", "note": "The Second Temple stood in Jerusalem as the chief place of worship and sacrifice where priests served - the setting of the priests' Sabbath service Jesus cites. Regraded C by architect review: context, not the specific claim."}
+{"from": "text:mishnah-shabbat-7-2", "type": "attests", "to": "claim:mt-12-02-sabbath-reaping-contested", "grade": "B", "note": "The Mishnah lists reaping and threshing among the 'forty-less-one' primary categories of labour forbidden on the Sabbath - the legal framework under which plucking grain was contested; redacted c. 200 CE, it codifies the dispute. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "text:mishnah-shabbat-7-2", "type": "attests", "to": "claim:mt-12-01-sabbath-grain-plucking", "grade": "C", "note": "Plucking heads of grain falls under the Mishnah's categories of reaping and threshing - the Sabbath-labour context of the walk through the grain fields. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:mishnah-yoma-8-6", "type": "attests", "to": "claim:mt-12-10-sabbath-healing-debate", "grade": "C", "note": "'A case of uncertainty concerning a life-threatening situation overrides Shabbat' - the life-over-Sabbath principle inside the same legal culture that debates healing on the Sabbath. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:damascus-document-11-13-14", "type": "attests", "to": "claim:mt-12-10-sabbath-healing-debate", "grade": "C", "note": "The Damascus Document's Sabbath law shows the stricter pole of the same debate - sectarians forbade acts later law permitted; the dispute was live among Jewish groups."}
+{"from": "text:damascus-document-11-13-14", "type": "attests", "to": "claim:mt-12-11-sheep-in-pit", "grade": "B", "note": "The Damascus Document forbids raising an animal that has fallen into a pit on the Sabbath - the exact debate Jesus' question engages was live among Second Temple Jewish groups; known from the Cairo Genizah with copies from Qumran."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-12-14-pharisees-plotted", "grade": "C", "note": "Names the Pharisees as one of the three real Jewish parties of the period; the plot to destroy Jesus is Matthew's report, not Josephus's."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-12-17-isaiah-42-quoted", "grade": "B", "note": "The Great Isaiah Scroll (ca. 125 BCE) preserves the entire Book of Isaiah including chapter 42 - the prophecy Matthew quotes existed in Hebrew more than a century before. Regraded B to C by review 2 for consistency with the identical scroll edge on Matthew 8:17 (ch 08, grade C): the scroll's witness to the text is context for the quotation, not the event of quoting. Graded B by architect decision: the scroll shows the quoted Isaiah text existed before Jesus, which is the specific point of a quotation claim."}
+{"from": "text:psalms-of-solomon-17", "type": "attests", "to": "claim:mt-12-23-son-of-david-acclamation", "grade": "C", "note": "'Raise up unto them their king, the son of David' - a Jewish psalm of the first century BCE expecting a Davidic messiah; the title the crowds give Jesus (verse 17:23 in Ryle-James's numbering, commonly cited as 17:21)."}
+{"from": "artifact:tel-dan-stele", "type": "attests", "to": "claim:mt-12-23-son-of-david-acclamation", "grade": "C", "note": "The stele's 'House of David' (bytdwd) attests the Davidic royal dynasty - the line the messianic title 'son of David' invokes; it says nothing about the acclamation."}
+{"from": "text:testament-of-solomon", "type": "attests", "to": "claim:mt-12-24-beelzebul-accusation", "grade": "C", "note": "In the Testament of Solomon Beelzebul appears as prince of the demons; the work is pseudepigraphic with Christian interpolations - it documents the concept, not the accusation."}
+{"from": "text:josephus-ant-8-eleazar", "type": "attests", "to": "claim:mt-12-27-jewish-exorcists", "grade": "C", "note": "Josephus saw Eleazar releasing people that were demoniacal before Vespasian - Jewish exorcism practised in the period, the milieu of 'by whom do your sons cast them out?'."}
+{"from": "observation:palestine-viper-range", "type": "attests", "to": "claim:mt-12-34-brood-of-vipers", "grade": "C", "note": "Vipera palaestinae is found in northern and central Israel, Palestine, western Syria, northwestern Jordan and Lebanon - the viper of the invective is regional wildlife."}
+{"from": "site:nineveh", "type": "attests", "to": "claim:mt-12-41-nineveh-great-city", "grade": "A", "note": "The mound complex of Kuyunjik and Nebi Yunus at Mosul is identified as ancient Nineveh, the capital and largest city of the Neo-Assyrian Empire."}
+{"from": "artifact:lachish-reliefs", "type": "attests", "to": "claim:mt-12-41-nineveh-great-city", "grade": "B", "note": "Sennacherib's palace reliefs were excavated in the South-West Palace at Nineveh (Kuyunjik) - royal monuments from the city itself."}
+{"from": "text:sabaean-inscriptions", "type": "attests", "to": "place:sheba", "grade": "C", "note": "Many inscriptions in monumental Ancient South Arabian script attest the Sabaean kingdom in South Arabia."}
+{"from": "text:sabaean-inscriptions", "type": "attests", "to": "claim:mt-12-42-queen-of-south", "grade": "D", "note": "The Sabaean kingdom (modern Yemen) is attested by inscriptions, but no trace of the queen has ever been found and her existence is disputed among historians; the biblical account is considered legendary."}
+{"from": "text:sabaean-inscriptions", "type": "attests", "to": "person:queen-of-sheba", "grade": "D", "note": "The inscriptions attest the Sabaean kingdom, but they never name the queen; no trace of her has ever been found and her existence is disputed among historians."}
+{"from": "observation:judaean-desert-aridity", "type": "attests", "to": "claim:mt-12-43-waterless-places", "grade": "C", "note": "The region's arid climate - the waterless wilderness terrain in which spirits were thought to roam."}
+{"from": "artifact:james-ossuary", "type": "attests", "to": "claim:mt-12-46-jesus-brother-james", "grade": "D", "note": "Unprovenanced limestone ossuary inscribed 'James, son of Joseph, brother of Yeshua'; the Israel Antiquities Authority concluded the inscription is a modern forgery and the 2004-2012 trial did not establish authenticity."}
+{"from": "artifact:james-ossuary", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "D", "note": "The inscription, if authentic, names Jesus (Yeshua) as James's brother; the ossuary is unprovenanced and its authenticity is disputed."}
+{"from": "artifact:james-ossuary", "type": "attests", "to": "person:james-brother-of-jesus", "grade": "D", "note": "The ossuary is claimed to be that of James the Just, brother of Jesus; unprovenanced, and its inscription's authenticity is disputed (IAA: modern forgery; trial verdict: guilt not proven)."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "claim:mt-12-46-jesus-brother-james", "grade": "A", "note": "Josephus names 'the brother of Jesus, who was called Christ, whose name was James' - an independent witness that Jesus' brother James was known."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Josephus (Ant. 20.200) names Jesus as the brother of James and 'called Christ'."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:james-brother-of-jesus", "grade": "A", "note": "Josephus names James as the brother of Jesus who was called Christ."}
+{"from": "artifact:tel-dan-stele", "type": "attests", "to": "person:david", "grade": "A", "note": "An Old Aramaic royal inscription boasting of victory over the king of the 'House of David' (bytdwd); the earliest widely accepted extra-biblical reference to David."}
+{"from": "text:josephus-ant-8-solomon", "type": "related_to", "to": "person:solomon", "note": "Josephus retells 1 Kings here, so this is not independent of the biblical account: Josephus gives Solomon's yearly gold as 666 talents (Ant. 8.7.2), but he retells and expands 1 Kings 10, so it is not independent evidence."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "person:isaiah-the-prophet", "grade": "C", "note": "The complete Book of Isaiah preserved from ca. 125 BCE - the prophetic collection bearing Isaiah's name circulated as a complete scroll in the period. Regraded C by architect review: context, not the specific claim."}
+{"from": "site:solomonic-gates", "type": "complicates", "to": "person:solomon", "note": "The six-chambered gates at Hazor, Megiddo, Beit She'an and Gezer that Yadin attributed to Solomon's reign are dated by Finkelstein and Silberman to the Omride period, more than a century after Solomon - the scale of Solomon's wealth and building cannot be taken for granted."}
+{"from": "claim:mt-12-03-david-showbread", "type": "related_to", "to": "text:1-samuel-21-showbread", "note": "1 Samuel 21:1-6 is the account Jesus cites (David and the showbread of the Presence); a cross-reference, not independent evidence."}
+{"from": "claim:mt-12-24-beelzebul-accusation", "type": "related_to", "to": "text:2-kings-1-2-baal-zebub", "note": "The Ekron deity Baal-zebub ('lord of the flies'), from which the name Beelzebul derives; cross-reference."}
+{"from": "claim:mt-12-39-sign-of-jonah", "type": "related_to", "to": "text:jonah-nineveh", "note": "Jonah 1:2; 3:3 - 'Nineveh, that great city', the book behind the sign; cross-reference."}
+{"from": "claim:mt-12-41-nineveh-repentance", "type": "related_to", "to": "text:jonah-nineveh", "note": "Jonah 3:5 - 'the people of Nineveh believed God' and proclaimed a fast; the account Matthew refers to; cross-reference."}
+{"from": "claim:mt-12-42-queen-of-south", "type": "related_to", "to": "text:1-kings-10-queen", "note": "1 Kings 10:1-13 - the queen of Sheba heard Solomon's fame and came to Jerusalem with hard questions; cross-reference."}
+{"from": "text:damascus-document-11-13-14", "type": "related_to", "to": "site:qumran", "note": "Further fragments of the Damascus Document were found at Qumran (Caves 4-6); the main fragments came from the Cairo Genizah."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-12-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-12-50"}
+{"from": "artifact:magdala-stone", "type": "documented_by", "to": "source:wikipedia-magdala-stone"}
+{"from": "artifact:james-ossuary", "type": "documented_by", "to": "source:wikipedia-james-ossuary"}
+{"from": "artifact:james-ossuary", "type": "documented_by", "to": "source:wikipedia-james-ossuary-dispute"}
+{"from": "site:nineveh", "type": "documented_by", "to": "source:wikipedia-nineveh"}
+{"from": "site:nineveh", "type": "documented_by", "to": "source:wikipedia-nineveh-mounds"}
+{"from": "place:nineveh", "type": "documented_by", "to": "source:wikipedia-nineveh"}
+{"from": "place:sheba", "type": "documented_by", "to": "source:wikipedia-sheba"}
+{"from": "text:sabaean-inscriptions", "type": "documented_by", "to": "source:wikipedia-queen-of-sheba"}
+{"from": "text:sabaean-inscriptions", "type": "documented_by", "to": "source:wikipedia-queen-of-sheba-disputed"}
+{"from": "place:sheba", "type": "documented_by", "to": "source:wikipedia-sheba-bible-account"}
+{"from": "text:damascus-document-11-13-14", "type": "documented_by", "to": "source:archive-schechter-damascus"}
+{"from": "text:damascus-document-11-13-14", "type": "documented_by", "to": "source:wikipedia-damascus-document"}
+{"from": "text:mishnah-shabbat-7-2", "type": "documented_by", "to": "source:sefaria-mishnah-shabbat-7-2"}
+{"from": "text:mishnah-yoma-8-6", "type": "documented_by", "to": "source:sefaria-mishnah-yoma-8-6"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:archive-ryle-james-psolomon"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:wikipedia-messiah-in-judaism"}
+{"from": "text:sabaean-inscriptions", "type": "documented_by", "to": "source:wikipedia-sheba"}
+{"from": "text:1-samuel-21-showbread", "type": "documented_by", "to": "source:wikisource-1-samuel-21"}
+{"from": "text:jonah-nineveh", "type": "documented_by", "to": "source:wikisource-jonah"}
+{"from": "text:1-kings-10-queen", "type": "documented_by", "to": "source:wikisource-1-kings-10"}
+{"from": "observation:judaean-desert-aridity", "type": "documented_by", "to": "source:wikipedia-judaean-desert-arid"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus-date"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:wikipedia-great-isaiah-scroll"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:wikipedia-great-isaiah-scroll-found"}
+{"from": "artifact:tel-dan-stele", "type": "documented_by", "to": "source:tel-dan-stele-wiki"}
+{"from": "artifact:lachish-reliefs", "type": "documented_by", "to": "source:lachish-reliefs-wiki"}
+{"from": "observation:palestine-viper-range", "type": "documented_by", "to": "source:wikipedia-palestine-viper"}
+{"from": "text:josephus-ant-8-eleazar", "type": "documented_by", "to": "source:wikisource-ant-8-eleazar"}
+{"from": "text:testament-of-solomon", "type": "documented_by", "to": "source:wikipedia-beelzebub-tos"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant-18-sects-three"}
+{"from": "text:josephus-ant-8-solomon", "type": "documented_by", "to": "source:wikisource-ant-8"}
+{"from": "site:migdal-synagogue", "type": "documented_by", "to": "source:wikipedia-migdal-synagogue"}
+{"from": "site:gamla-synagogue", "type": "documented_by", "to": "source:wikipedia-gamla"}
+{"from": "site:capernaum-synagogue", "type": "documented_by", "to": "source:wikipedia-capernaum-synagogue"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "site:solomonic-gates", "type": "documented_by", "to": "source:wikipedia-solomon-dispute"}
+{"from": "text:2-kings-1-2-baal-zebub", "type": "documented_by", "to": "source:sefaria-2-kings-1-2"}

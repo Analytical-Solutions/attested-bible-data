@@ -1,0 +1,187 @@
+{
+ "source:archive-james-smith-1848": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://archive.org/stream/voyageshipwrec00smit/voyageshipwrec00smit_djvu.txt"
+ },
+ "source:latin-library-digest-48-custodia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2024/https://www.thelatinlibrary.com/justinian/digest48.shtml"
+ },
+ "source:perseus-hesiod-notus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Hes.+WD+663"
+ },
+ "source:perseus-hesiod-wd-663": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Hes.+WD+663"
+ },
+ "source:perseus-strabo-10-4-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Strab.+10.4.3"
+ },
+ "source:perseus-strabo-10-4-3-samonium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Strab.+10.4.3"
+ },
+ "source:perseus-strabo-17-3-20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Strab.+17.3.20"
+ },
+ "source:thelatinlibrary-vegetius-4-39": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://la.wikisource.org/wiki/Epitoma_rei_militaris/Liber_IV"
+ },
+ "source:wikipedia-acts-27-adria": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_27"
+ },
+ "source:wikipedia-acts-27-clauda": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_27"
+ },
+ "source:wikipedia-acts-27-cohort": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_27"
+ },
+ "source:wikipedia-acts-27-julius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_27"
+ },
+ "source:wikipedia-acts-27-stpaulsbay": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_27"
+ },
+ "source:wikipedia-adramyttium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Adramyttium"
+ },
+ "source:wikipedia-andriake": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Andriake"
+ },
+ "source:wikipedia-andriake-horrea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Andriake"
+ },
+ "source:wikipedia-cape-salmone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cape_Salmone"
+ },
+ "source:wikipedia-cnidus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Knidos"
+ },
+ "source:wikipedia-cura-annonae": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cura_annonae"
+ },
+ "source:wikipedia-cura-annonae-route": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cura_annonae"
+ },
+ "source:wikipedia-euroclydon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Euroclydon"
+ },
+ "source:wikipedia-gavdos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gavdos"
+ },
+ "source:wikipedia-gregale": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gregale"
+ },
+ "source:wikipedia-gulf-of-sidra": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gulf_of_Sidra"
+ },
+ "source:wikipedia-isis-ship": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isis_(ship)"
+ },
+ "source:wikipedia-kaloi-limenes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Kaloi_Limenes"
+ },
+ "source:wikipedia-kaloi-limenes-acts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Kaloi_Limenes"
+ },
+ "source:wikipedia-lasaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lasaea"
+ },
+ "source:wikipedia-lasaea-caveat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lasaea"
+ },
+ "source:wikipedia-myra": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Myra"
+ },
+ "source:wikipedia-phoenix-crete": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Phoenix_(Crete)"
+ },
+ "source:wikipedia-phoenix-crete-strabo": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Phoenix_(Crete)"
+ },
+ "source:wikipedia-trireme-hypozomata": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Trireme"
+ },
+ "source:wikipedia-yoma": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Yoma"
+ },
+ "source:wikisource-josephus-life-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Life_of_Flavius_Josephus"
+ },
+ "source:wikisource-suetonius-claudius-grain": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars/Claudius"
+ },
+ "source:wikisource-vegetius-uncertain": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://la.wikisource.org/wiki/Epitoma_rei_militaris/Liber_IV"
+ }
+}

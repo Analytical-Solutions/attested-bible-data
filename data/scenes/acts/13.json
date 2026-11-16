@@ -1,0 +1,51 @@
+{
+ "book": "acts",
+ "chapter": 13,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    3
+   ],
+   "setting": "place:antioch-on-the-orontes",
+   "confidence": "stated",
+   "basis": "13:1 \"Now in the assembly that was at Antioch there were some prophets and teachers\""
+  },
+  {
+   "verses": [
+    4,
+    5
+   ],
+   "setting": "place:salamis-cyprus",
+   "confidence": "stated",
+   "basis": "13:4-5 \"they went down to Seleucia. From there they sailed to Cyprus. When they were at Salamis, they proclaimed God's word in the Jewish synagogues\""
+  },
+  {
+   "verses": [
+    6,
+    12
+   ],
+   "setting": "place:paphos",
+   "confidence": "stated",
+   "basis": "13:6 \"When they had gone through the island to Paphos, they found a certain sorcerer, a false prophet, a Jew\""
+  },
+  {
+   "verses": [
+    13,
+    13
+   ],
+   "setting": "place:perga",
+   "confidence": "stated",
+   "basis": "13:13 \"Now Paul and his company set sail from Paphos, and came to Perga in Pamphylia\""
+  },
+  {
+   "verses": [
+    14,
+    52
+   ],
+   "setting": "place:antioch-pisidia",
+   "confidence": "stated",
+   "basis": "13:14 \"But they, passing on from Perga, came to Antioch of Pisidia. They went into the synagogue on the Sabbath day\" - 13:51 \"came to Iconium\" is the departure leg; Iconium becomes the setting at 14:1"
+  }
+ ]
+}

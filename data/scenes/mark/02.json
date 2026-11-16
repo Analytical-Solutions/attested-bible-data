@@ -1,0 +1,33 @@
+{
+  "book": "mark",
+  "chapter": 2,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        12
+      ],
+      "setting": "place:capernaum",
+      "basis": "2:1 \"When he entered again into Capernaum after some days, it was heard that he was in the house\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        13,
+        22
+      ],
+      "setting": "place:capernaum",
+      "basis": "2:13 \"He went out again by the seaside\"; 2:14-15 Levi's tax office and house - Capernaum, continuing 2:1, no departure from the town",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        23,
+        28
+      ],
+      "setting": null,
+      "basis": "2:23 \"He was going on the Sabbath day through the grain fields\" - no place named",
+      "confidence": "stated"
+    }
+  ]
+}

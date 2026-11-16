@@ -1,0 +1,220 @@
+{"from": "passage:ac-24-01", "type": "asserts", "to": "claim:ac-24-01-delegation-accused"}
+{"from": "passage:ac-24-01", "type": "asserts", "to": "claim:ac-23-02-ananias-high-priest"}
+{"from": "passage:ac-24-01", "type": "asserts", "to": "claim:ac-24-01-governor-felix"}
+{"from": "passage:ac-24-01", "type": "asserts", "to": "claim:ac-24-01-tertullus-orator"}
+{"from": "passage:ac-24-02", "type": "asserts", "to": "claim:ac-24-02-03-flattery"}
+{"from": "passage:ac-24-03", "type": "asserts", "to": "claim:ac-24-02-03-flattery"}
+{"from": "passage:ac-24-05", "type": "asserts", "to": "claim:ac-24-05-insurrection-charge"}
+{"from": "passage:ac-24-05", "type": "asserts", "to": "claim:ac-24-05-nazarenes"}
+{"from": "passage:ac-24-06", "type": "asserts", "to": "claim:ac-24-06-temple-profane-charge"}
+{"from": "passage:ac-24-08", "type": "asserts", "to": "claim:ac-24-06-temple-profane-charge"}
+{"from": "passage:ac-24-09", "type": "asserts", "to": "claim:ac-24-05-insurrection-charge"}
+{"from": "passage:ac-24-09", "type": "asserts", "to": "claim:ac-24-06-temple-profane-charge"}
+{"from": "passage:ac-24-10", "type": "asserts", "to": "claim:ac-24-10-judge-many-years"}
+{"from": "passage:ac-24-11", "type": "asserts", "to": "claim:ac-24-11-twelve-days"}
+{"from": "passage:ac-24-12", "type": "asserts", "to": "claim:ac-24-12-13-no-dispute-denial"}
+{"from": "passage:ac-24-13", "type": "asserts", "to": "claim:ac-24-12-13-no-dispute-denial"}
+{"from": "passage:ac-24-14", "type": "asserts", "to": "claim:ac-24-14-the-way"}
+{"from": "passage:ac-24-15", "type": "asserts", "to": "claim:ac-24-15-resurrection-hope"}
+{"from": "passage:ac-24-17", "type": "asserts", "to": "claim:ac-24-17-alms-collection"}
+{"from": "passage:ac-24-18", "type": "asserts", "to": "claim:ac-24-18-purified-temple"}
+{"from": "passage:ac-24-19", "type": "asserts", "to": "claim:ac-24-19-accusers-absent"}
+{"from": "passage:ac-24-20", "type": "asserts", "to": "claim:ac-24-20-council-hearing"}
+{"from": "passage:ac-24-21", "type": "asserts", "to": "claim:ac-24-21-judged-resurrection"}
+{"from": "passage:ac-24-22", "type": "asserts", "to": "claim:ac-24-22-felix-knew-way"}
+{"from": "passage:ac-24-23", "type": "asserts", "to": "claim:ac-24-23-custody-privileges"}
+{"from": "passage:ac-24-24", "type": "asserts", "to": "claim:ac-24-24-drusilla-jewess"}
+{"from": "passage:ac-24-24", "type": "asserts", "to": "claim:ac-24-24-felix-heard-paul"}
+{"from": "passage:ac-24-25", "type": "asserts", "to": "claim:ac-24-25-felix-terrified"}
+{"from": "passage:ac-24-26", "type": "asserts", "to": "claim:ac-24-26-bribe-hope"}
+{"from": "passage:ac-24-27", "type": "asserts", "to": "claim:ac-24-27-festus-succeeded"}
+{"from": "passage:ac-24-27", "type": "asserts", "to": "claim:ac-24-27-two-years"}
+{"from": "passage:ac-24-27", "type": "asserts", "to": "claim:ac-24-27-felix-left-bonds"}
+{"from": "claim:ac-23-02-ananias-high-priest", "type": "mentions", "to": "person:ananias-son-of-nedebaeus"}
+{"from": "claim:ac-24-01-governor-felix", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-01-governor-felix", "type": "mentions", "to": "place:judea"}
+{"from": "claim:ac-24-01-delegation-accused", "type": "mentions", "to": "person:ananias-son-of-nedebaeus"}
+{"from": "claim:ac-24-01-delegation-accused", "type": "mentions", "to": "person:tertullus"}
+{"from": "claim:ac-24-01-delegation-accused", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-01-tertullus-orator", "type": "mentions", "to": "person:tertullus"}
+{"from": "claim:ac-24-02-03-flattery", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-02-03-flattery", "type": "mentions", "to": "person:tertullus"}
+{"from": "claim:ac-24-05-insurrection-charge", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-05-impostors-felix-era", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-06-temple-profane-charge", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-06-temple-profane-charge", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-24-10-judge-many-years", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-10-judge-many-years", "type": "mentions", "to": "place:judea"}
+{"from": "claim:ac-24-11-twelve-days", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-11-twelve-days", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-24-14-the-way", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-15-resurrection-hope", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-17-alms-collection", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-17-alms-collection", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-24-18-purified-temple", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-19-accusers-absent", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-20-council-hearing", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-21-judged-resurrection", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-22-felix-knew-way", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-22-felix-knew-way", "type": "mentions", "to": "person:claudius-lysias"}
+{"from": "claim:ac-24-23-custody-privileges", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-23-custody-privileges", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-24-drusilla-jewess", "type": "mentions", "to": "person:drusilla"}
+{"from": "claim:ac-24-24-drusilla-jewess", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-24-felix-heard-paul", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-24-felix-heard-paul", "type": "mentions", "to": "person:drusilla"}
+{"from": "claim:ac-24-24-felix-heard-paul", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-25-felix-terrified", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-25-felix-terrified", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-26-bribe-hope", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-26-bribe-hope", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-27-festus-succeeded", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-24-27-festus-succeeded", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-27-two-years", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-27-two-years", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-27-felix-left-bonds", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-27-felix-left-bonds", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-24-27-felix-recalled", "type": "mentions", "to": "person:antonius-felix"}
+{"from": "claim:ac-24-27-felix-recalled", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-24-05-impostors-felix-era", "type": "mentions", "to": "place:jerusalem"}
+{"from": "text:josephus-ant-20-137-144", "type": "attests", "to": "claim:ac-24-01-governor-felix", "grade": "A", "note": "Josephus, Ant. 20.137: Claudius sent Felix, the brother of Pallas, to take care of the affairs of Judea, in Claudius's twelfth year (52 CE); 'While Felix was procurator of Judea' (20.141) - the same person and office as Acts 24:1's 'the governor'."}
+{"from": "text:tacitus-annals-12-54", "type": "attests", "to": "claim:ac-24-01-governor-felix", "grade": "A", "note": "Tacitus names 'his brother, surnamed Felix, who had for some time been governor of Judaea' - the same person and office, independent of Josephus and Acts."}
+{"from": "text:tacitus-histories-5-9", "type": "attests", "to": "claim:ac-24-01-governor-felix", "grade": "A", "note": "Tacitus: Claudius 'entrusted the province of Judæa to the Roman Knights or to his own freedmen, one of whom, Antonius Felix' - the same person and office."}
+{"from": "text:josephus-ant-20-137-144", "type": "attests", "to": "claim:ac-24-24-drusilla-jewess", "grade": "B", "note": "Josephus, Ant. 20.141-144: Agrippa gave his sister Drusilla in marriage to Azizus king of Emesa, 'upon his consent to be circumcised'; while Felix was procurator she was 'prevailed upon to transgress the laws of her forefathers, and to marry Felix' - a Jewish princess, the Drusilla of Acts 24:24. Regraded A to B (reviewer 11, architect's titles/offices ruling): the Josephus evidence is A for Drusilla's person and marriage, now anchored on claim:ac-24-24-drusilla-person; it is B for the hearing event."}
+{"from": "text:josephus-ant-20-182", "type": "attests", "to": "claim:ac-24-27-festus-succeeded", "grade": "A", "note": "Josephus, Ant. 20.182: 'Now when Porcius Festus was sent as successor to Felix by Nero' - names the same person, office and succession."}
+{"from": "text:josephus-ant-20-182", "type": "attests", "to": "claim:ac-24-27-felix-recalled", "grade": "B", "note": "The same passage: 'the principal of the Jewish inhabitants of Cesarea went up to Rome to accuse Felix; and he had certainly been brought to punishment, unless Nero had yielded to the importunate solicitations of his brother Pallas.' B: Josephus is the sole direct source and writes partly to defend the Herodian circle."}
+{"from": "text:tacitus-annals-12-54", "type": "attests", "to": "claim:ac-24-10-judge-many-years", "grade": "B", "note": "'who had for some time been governor of Judaea' - confirms Felix had governed for years, though Tacitus gives no span."}
+{"from": "text:josephus-ant-20-137-144", "type": "attests", "to": "claim:ac-24-10-judge-many-years", "grade": "B", "note": "Claudius sent Felix 'when he had already completed the twelfth year of his reign' (52 CE); with the commonly given end c. 59/60 the tenure was about seven or eight years - 'many years' by the hearing."}
+{"from": "text:josephus-ant-20-169-172", "type": "attests", "to": "claim:ac-24-05-impostors-felix-era", "grade": "A", "note": "Josephus, Ant. 20.167-172: impostors 'persuaded the multitude to follow them into the wilderness' and 'Felix brought them back, and then punished them'; the Egyptian prophet led crowds to the Mount of Olives and Felix attacked with cavalry - the same reign of seditious impostors the charge in 24:5 alludes to."}
+{"from": "text:josephus-ant-20-169-172", "type": "attests", "to": "claim:ac-24-05-insurrection-charge", "grade": "C", "note": "Does not attest the charge against Paul; shows the period's epidemic of seditious impostors and staseis 'among all the Jews' that made Tertullus's charge plausible."}
+{"from": "text:tertullian-adv-marcion-4-8", "type": "attests", "to": "claim:ac-24-05-nazarenes", "grade": "D", "note": "Reception: Tertullian records that 'the Jews called Christians Nazarenes' from Jesus being a man of Nazareth - a tradition independent of Acts' wording but two generations later; dependence and distance noted."}
+{"from": "text:birkat-haminim-nazarenes", "type": "attests", "to": "claim:ac-24-05-nazarenes", "grade": "D", "note": "The Cairo Geniza version of the Birkat ha-Minim adds 'the Nazarenes' (ha-nazarim/notzrim) to the curse on the minim - but the date of the addition is disputed (anywhere from before Yavneh to the 4th century), so D."}
+{"from": "artifact:felix-procurator-prutah", "type": "attests", "to": "claim:ac-24-01-governor-felix", "grade": "B", "note": "A bronze prutah minted under Felix's administration carries the emperor's name (Nero/'Caesar'), not Felix's - it confirms Roman procuratorial rule of Judaea in his years, not Felix's personal name."}
+{"from": "artifact:festus-procurator-prutah", "type": "attests", "to": "claim:ac-24-27-festus-succeeded", "grade": "B", "note": "A prutah minted by Festus dated year 5 of Nero (58/59) with the emperor's name - confirms Festus was procurator of Judaea by 58/59, per the fetched caption."}
+{"from": "text:tacitus-histories-5-9", "type": "attests", "to": "claim:ac-24-26-bribe-hope", "grade": "C", "note": "Tacitus's portrait: Felix 'indulging in every kind of barbarity and lust, exercised the power of a king in the spirit of a slave' - the venal, base exercise of power Acts attributes to him; it supports the character trait, not the specific bribe attempt of 24:26."}
+{"from": "text:josephus-ant-20-182", "type": "attests", "to": "claim:ac-24-27-two-years", "grade": "B", "note": "Attests the succession event only ('Porcius Festus was sent as successor to Felix by Nero'); Josephus gives no date, so the two-year chronology's absolute date stays disputed (D) - see the claim note. Regraded A to B by the architect: Josephus names the succession, which is A on claim:ac-24-27-festus-succeeded, but not the two years, so A cannot cover this claim."}
+{"from": "text:tacitus-histories-5-9", "type": "complicates", "to": "claim:ac-24-24-drusilla-jewess", "note": "Tacitus calls Drusilla 'the granddaughter of Antony and Cleopatra' and Felix 'the grandson-in-law' of Antony (so a pagan princess) - a different identification from Josephus's Jewish Agrippid princess, and contrary to Luke's 'a Jewess'."}
+{"from": "text:tacitus-histories-5-9", "type": "complicates", "to": "claim:ac-24-02-03-flattery", "note": "Tacitus records 'every kind of barbarity and lust' under Felix - the opposite of the 'much peace' and prosperity Tertullus's oratory attributes to him."}
+{"from": "text:josephus-ant-20-169-172", "type": "complicates", "to": "claim:ac-24-02-03-flattery", "note": "Josephus records impostors leading crowds into the wilderness, the Egyptian prophet, and Felix suppressing them by force - internal feuds and disturbances, not the peace Tertullus claims."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-01"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-02"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-03"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-04"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-05"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-06"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-06"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-08"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-09"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-10"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-11"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-12"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-13"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-14"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-15"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-16"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-17"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-18"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-19"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-20"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-21"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-22"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-23"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-24"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-25"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-26"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-24-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-24-27"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-24-27"}
+{"from": "artifact:codex-bezae", "type": "preserves", "to": "passage:ac-24-07"}
+{"from": "artifact:papyrus-74", "type": "documented_by", "to": "source:wikipedia-papyrus-74"}
+{"from": "artifact:codex-bezae", "type": "documented_by", "to": "source:wikipedia-acts-24-manuscripts"}
+{"from": "artifact:felix-procurator-prutah", "type": "documented_by", "to": "source:wikipedia-antonius-felix-coin"}
+{"from": "artifact:festus-procurator-prutah", "type": "documented_by", "to": "source:wikipedia-porcius-festus-coin"}
+{"from": "text:daniel-12-2", "type": "documented_by", "to": "source:bible-api-daniel-12-2"}
+{"from": "text:josephus-ant-20-169-172", "type": "documented_by", "to": "source:wikisource-ant-20-egyptian"}
+{"from": "text:josephus-ant-20-137-144", "type": "documented_by", "to": "source:wikisource-ant20-felix"}
+{"from": "text:josephus-ant-20-182", "type": "documented_by", "to": "source:wikisource-ant-20-festus"}
+{"from": "text:tacitus-histories-5-9", "type": "documented_by", "to": "source:wikisource-histories-5-felix"}
+{"from": "text:tacitus-annals-12-54", "type": "documented_by", "to": "source:wikisource-annals-12-felix"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-sects"}
+{"from": "text:tertullian-adv-marcion-4-8", "type": "documented_by", "to": "source:wikipedia-nazarene-sect"}
+{"from": "text:birkat-haminim-nazarenes", "type": "documented_by", "to": "source:wikipedia-birkat-haminim"}
+{"from": "text:romans-15-25-26", "type": "documented_by", "to": "source:bible-api-romans-15-25-26"}
+{"from": "text:1-corinthians-16-1-4", "type": "documented_by", "to": "source:bible-api-1-corinthians-16-1-4"}
+{"from": "claim:ac-24-01-tertullus-orator", "type": "documented_by", "to": "source:wikipedia-tertullus"}
+{"from": "claim:ac-24-01-rhetors-before-governors", "type": "documented_by", "to": "source:wikipedia-acts-24"}
+{"from": "claim:ac-24-27-two-years", "type": "documented_by", "to": "source:wikipedia-porcius-festus"}
+{"from": "claim:ac-24-24-drusilla-jewess", "type": "documented_by", "to": "source:wikipedia-drusilla"}
+{"from": "claim:ac-24-15-resurrection-hope", "type": "related_to", "to": "text:daniel-12-2", "note": "Cross-reference: 'many of those who sleep in the dust of the earth will awake' (Daniel 12:2) is the classic scriptural basis of a resurrection 'both of the just and unjust'. Biblical cross-reference, not independent evidence."}
+{"from": "claim:ac-24-15-resurrection-hope", "type": "related_to", "to": "claim:ac-23-08-pharisees-resurrection", "note": "Paul says his accusers 'also themselves look for' the resurrection (24:15): his confession instantiates the Pharisaic doctrine recorded by Josephus."}
+{"from": "claim:ac-24-21-judged-resurrection", "type": "related_to", "to": "claim:ac-23-08-pharisees-resurrection", "note": "The council dispute Paul recalls (23:6) is the same Pharisee/Sadducee resurrection doctrine."}
+{"from": "claim:ac-24-17-alms-collection", "type": "related_to", "to": "text:romans-15-25-26", "note": "Cross-reference: Paul's collection for Jerusalem - 'Macedonia and Achaia ... a certain contribution for the poor among the saints who are at Jerusalem'. Biblical, not independent evidence."}
+{"from": "claim:ac-24-17-alms-collection", "type": "related_to", "to": "text:1-corinthians-16-1-4", "note": "Cross-reference: 'concerning the collection for the saints' with letters to carry the gift to Jerusalem. Biblical, not independent evidence."}
+{"from": "claim:ac-24-06-temple-profane-charge", "type": "related_to", "to": "claim:ac-21-28-accusation", "note": "The same charge Paul 'tries to profane the temple', made in a Roman court at Caesarea (24:6) after the mob accusation in Jerusalem (21:28); different occasions, same accusation."}
+{"from": "claim:ac-24-06-temple-profane-charge", "type": "related_to", "to": "claim:ac-21-28-gentile-exclusion", "note": "The gravity of the profanation charge rests on the temple's Gentile-exclusion custom (attested by the Temple Warning inscription in data/acts/21)."}
+{"from": "claim:ac-24-18-purified-temple", "type": "related_to", "to": "claim:ac-21-26-purification-temple", "note": "The same purification-rite setting Paul refers back to; Acts 24:18 recaps 21:26."}
+{"from": "claim:ac-24-05-impostors-felix-era", "type": "related_to", "to": "claim:ac-21-38-egyptian-4000", "note": "The Egyptian impostor the tribune names (21:38) is the same figure Josephus places under Felix; Acts 24:5's 'insurrections among all the Jews' belongs to this epidemic."}
+{"from": "claim:ac-24-05-insurrection-charge", "type": "related_to", "to": "text:josephus-ant-20-theudas", "note": "Lead from ch 7: Josephus's Theudas (Ant. 20.97-98, c. 44-46) is one of the impostor-seditions of the decade before Felix; context for the 'instigator of insurrections among all the Jews throughout the world' charge."}
+{"from": "claim:ac-24-05-insurrection-charge", "type": "related_to", "to": "claim:ac-24-05-impostors-felix-era", "note": "The charge presupposes the seditious-impostor epidemic the context claim records."}
+{"from": "claim:ac-24-20-council-hearing", "type": "related_to", "to": "claim:ac-24-21-judged-resurrection", "note": "Both are Paul's recollection of the Sanhedrin hearing of Acts 23."}
+{"from": "text:josephus-ant-20-137-144", "type": "documented_by", "to": "source:wikisource-ant-20-felix-procurator"}
+{"from": "text:josephus-ant-20-137-144", "type": "documented_by", "to": "source:wikisource-ant-20-drusilla-azizus"}
+{"from": "text:josephus-ant-20-137-144", "type": "documented_by", "to": "source:wikisource-ant-20-drusilla-felix"}
+{"from": "text:josephus-ant-20-169-172", "type": "documented_by", "to": "source:wikisource-ant-20-impostors-wilderness"}
+{"from": "text:josephus-ant-20-169-172", "type": "documented_by", "to": "source:wikisource-ant-20-felix-punished"}
+{"from": "text:tacitus-histories-5-9", "type": "documented_by", "to": "source:wikisource-histories-5-drusilla"}
+{"from": "text:josephus-ant-20-137-144", "type": "attests", "to": "claim:ac-24-24-drusilla-person", "grade": "A", "note": "Josephus, Ant. 20.141-144: Agrippa gave his sister Drusilla to Azizus of Emesa 'upon his consent to be circumcised'; while Felix was procurator of Judea she was 'prevailed upon to transgress the laws of her forefathers, and to marry Felix' - grade A for the person and marriage (split from claim:ac-24-24-drusilla-jewess per the architect's titles/offices ruling)."}
+{"from": "text:tacitus-histories-5-9", "type": "complicates", "to": "claim:ac-24-24-drusilla-person", "note": "Tacitus calls Drusilla 'the granddaughter of Antony and Cleopatra' and Felix 'the grandson-in-law' of Antony (so a pagan princess) - a different identification from Josephus's Jewish Agrippid princess, and contrary to Luke's 'a Jewess'. Same tension as on claim:ac-24-24-drusilla-jewess."}
+{"from": "passage:ac-24-24", "type": "asserts", "to": "claim:ac-24-24-drusilla-person", "note": "Acts 24:24 names 'Drusilla his wife, which was a Jewess'; the hearing event is claim:ac-24-24-drusilla-jewess."}
+{"from": "claim:ac-24-24-drusilla-person", "type": "mentions", "to": "person:drusilla"}
+{"from": "claim:ac-24-24-drusilla-person", "type": "mentions", "to": "person:antonius-felix"}

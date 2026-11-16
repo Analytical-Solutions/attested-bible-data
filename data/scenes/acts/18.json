@@ -1,0 +1,60 @@
+{
+ "book": "acts",
+ "chapter": 18,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    17
+   ],
+   "setting": "place:corinth",
+   "confidence": "stated",
+   "basis": "18:1 \"Paul departed from Athens, and came to Corinth\"; 18:4 \"He reasoned in the synagogue every Sabbath, and persuaded Jews and Greeks\""
+  },
+  {
+   "verses": [
+    18,
+    18
+   ],
+   "setting": "place:cenchreae",
+   "confidence": "stated",
+   "basis": "18:18 \"He shaved his head in Cenchreae, for he had a vow\" - the sail-off from Corinth for Syria is the departure leg"
+  },
+  {
+   "verses": [
+    19,
+    21
+   ],
+   "setting": "place:ephesus",
+   "confidence": "stated",
+   "basis": "18:19 \"He came to Ephesus, and he left them there; but he himself entered into the synagogue, and reasoned with the Jews\"; 18:21 \"Then he set sail from Ephesus\" - Jerusalem in 18:21 is a plan, never a setting"
+  },
+  {
+   "verses": [
+    22,
+    22
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "18:22 \"When he had landed at Caesarea, he went up and greeted the assembly, and went down to Antioch\" - the landing is at Caesarea; the greeting and the descent are the onward legs"
+  },
+  {
+   "verses": [
+    23,
+    23
+   ],
+   "setting": "place:antioch-on-the-orontes",
+   "confidence": "stated",
+   "basis": "18:23 \"Having spent some time there, he departed, and went through the region of Galatia, and Phrygia, in order, establishing all the disciples\" - the stay follows 18:22 \"went down to Antioch\"; the journey through Galatia and Phrygia is the departure leg"
+  },
+  {
+   "verses": [
+    24,
+    28
+   ],
+   "setting": "place:ephesus",
+   "confidence": "stated",
+   "basis": "18:24 \"a certain Jew named Apollos, an Alexandrian by race, an eloquent man, came to Ephesus\"; 18:26 \"He began to speak boldly in the synagogue\""
+  }
+ ]
+}

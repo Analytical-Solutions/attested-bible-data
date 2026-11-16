@@ -1,0 +1,33 @@
+{
+ "book": "john",
+ "chapter": 6,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    15
+   ],
+   "setting": "place:sea-of-galilee",
+   "confidence": "stated",
+   "basis": "6:1 \"Jesus went away to the other side of the sea of Galilee\""
+  },
+  {
+   "verses": [
+    16,
+    21
+   ],
+   "setting": "place:sea-of-galilee",
+   "confidence": "stated",
+   "basis": "6:16 \"his disciples went down to the sea\"; 6:19 \"they saw Jesus walking on the sea\""
+  },
+  {
+   "verses": [
+    22,
+    71
+   ],
+   "setting": "place:capernaum",
+   "confidence": "stated",
+   "basis": "6:24 \"came to Capernaum, seeking Jesus\"; 6:59 \"He said these things in the synagogue, as he taught in Capernaum\""
+  }
+ ]
+}

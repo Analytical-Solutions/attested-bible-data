@@ -1,0 +1,42 @@
+{
+  "book": "mark",
+  "chapter": 10,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        16
+      ],
+      "setting": "place:beyond-the-jordan",
+      "basis": "10:1 \"He arose from there and came into the borders of Judea and beyond the Jordan\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        17,
+        31
+      ],
+      "setting": "place:beyond-the-jordan",
+      "basis": "10:17 \"As he was going out into the way\" - the rich ruler scene follows 10:1 with no new place",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        32,
+        45
+      ],
+      "setting": null,
+      "basis": "10:32 \"They were on the way, going up to Jerusalem\" - not yet arrived; the road is not placed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        46,
+        52
+      ],
+      "setting": "place:jericho",
+      "basis": "10:46 \"They came to Jericho. As he went out from Jericho... Bartimaeus... was sitting by the road\"",
+      "confidence": "stated"
+    }
+  ]
+}

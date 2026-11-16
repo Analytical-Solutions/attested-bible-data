@@ -1,0 +1,24 @@
+{
+ "book": "acts",
+ "chapter": 6,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    7
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "6:1 \"a complaint arose from the Hellenists against the Hebrews\" - no place is named; it follows the Jerusalem scenes of 5:27-42"
+  },
+  {
+   "verses": [
+    8,
+    15
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "6:12 \"came against him and seized him, and brought him in to the council\" - the synagogue dispute and the seizure name no place; they follow the Jerusalem scenes"
+  }
+ ]
+}

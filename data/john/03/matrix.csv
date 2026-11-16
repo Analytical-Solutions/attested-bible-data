@@ -1,0 +1,111 @@
+anchor,label,category,status,findings,note
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",inscription,none-found,,"Searched Wikipedia (Nicodemus, Sanhedrin) and the chapter leads; no inscription or bulla names Nicodemus."
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",coin,n/a,,No coinage could bear on Nicodemus's standing.
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",structure-or-site,none-found,,"No excavated structure is tied to Nicodemus; searched Wikipedia Nicodemus, Sanhedrin; only late pilgrimage traditions (not entered)."
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",burial-or-ossuary,none-found,,No tomb or ossuary of Nicodemus is known; searched Wikipedia Nicodemus.
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",manuscript,none-found,,"No manuscript attests this anchor; Codex Sinaiticus, Codex Vaticanus, P66 and P75 only preserve the John 3 text (a copy of the text is not evidence for it)."
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",documentary-papyrus,none-found,,No documentary papyrus names Nicodemus; searched Wikipedia Nicodemus and the Jewish Encyclopedia summary there.
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",jewish-literary,found,text:josephus-ant-18-sects; text:josephus-ant-20-199-sanhedrin; text:talmud-taanit-19b-nakdimon,"Josephus attests the Pharisees (grade C) and the Jerusalem sanhedrin (grade C); the Talmud's Nakdimon ben Guryon is a disputed, later parallel (grade D)."
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",greco-roman-literary,none-found,,No classical author names Nicodemus; searched Wikipedia Nicodemus.
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",material-culture,n/a,,No object could attest Nicodemus's office.
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",geography-or-nature,n/a,,No terrain or natural condition bears on this anchor.
+claim:jn-03-01-nicodemus-ruler,"Nicodemus, a man of the Pharisees, was a ruler of the Jews",astronomy-or-calendar,n/a,,No calendar point is fixed by this claim.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,inscription,n/a,,No inscription could bear on a night visit.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,coin,n/a,,No coinage could bear on this anchor.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,structure-or-site,none-found,,The meeting place in Jerusalem is unnamed in the verse; no site tradition was verifiable from a fetched page.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,manuscript,none-found,,"No manuscript attests this anchor; Codex Sinaiticus, Codex Vaticanus, P66 and P75 only preserve the John 3 text (a copy of the text is not evidence for it)."
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,documentary-papyrus,n/a,,No record could bear on this private meeting.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,jewish-literary,none-found,,"Searched Wikipedia Nicodemus; nothing outside John's Gospel reports the visit ('no clear source of information about Nicodemus outside the Gospel of John', per the fetched article)."
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,greco-roman-literary,n/a,,No classical author could report this meeting.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,material-culture,n/a,,No object bears on the visit.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,geography-or-nature,n/a,,Night as cover for a discreet visit is plausible but nothing external bears on this event.
+claim:jn-03-02-night-visit,Nicodemus came to Jesus by night,astronomy-or-calendar,n/a,,The visit is not dated.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,inscription,n/a,,No inscription could attest the wilderness event.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,coin,none-found,,Searched Wikipedia Nehushtan via 2 Kings 18:4; no ancient coin depiction of the Nehushtan was verifiable from a fetched page.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,structure-or-site,none-found,,Searched Wikipedia Nehushtan; no excavated structure tied to the bronze serpent.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,manuscript,none-found,,"The biblical cross-references (Numbers 21:9; 2 Kings 18:4) stand on the text alone; no pre-Christian manuscript of Numbers 21 was verifiable from a fetched page, and the Gospels' own manuscripts only preserve the passage."
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,documentary-papyrus,n/a,,No documentary record could bear on this anchor.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,jewish-literary,none-found,,"The story is a biblical cross-reference (Numbers 21:9, marked biblical in the graph); Wisdom of Solomon 16:6-7 retells it, but no fetched page states it, so it stays out of the graph. No independent extra-biblical attestation found."
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,greco-roman-literary,n/a,,No classical author could bear on this anchor.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,material-culture,none-found,,The bronze serpent itself was destroyed by Hezekiah (2 Kings 18:4) per the biblical account; no artifact of it exists or was searched further.
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,geography-or-nature,none-found,,"Snakebite in the Arabah/Sinai wilderness is ecological common ground (venomous snakes in the region), but no fetched page tied it specifically to this anchor, so the cell stays empty of evidence."
+claim:jn-03-14-moses-serpent,Moses lifted up the serpent in the wilderness,astronomy-or-calendar,n/a,,No calendar point is fixed by this claim.
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,inscription,n/a,,No inscription could bear on this anchor.
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,coin,n/a,,No coinage could bear on this anchor.
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,structure-or-site,none-found,,"'The land of Judea' is generic; the existing Al-Maghtas site bears on the Jordan baptisms (John 1), not on a separate Judean countryside phase; searched Wikipedia John the Baptist and Judea."
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,manuscript,none-found,,"No manuscript attests this anchor; Codex Sinaiticus, Codex Vaticanus, P66 and P75 only preserve the John 3 text (a copy of the text is not evidence for it)."
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,documentary-papyrus,n/a,,No record could bear on this anchor.
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,jewish-literary,none-found,,Josephus (Ant. 18.116-119) reports John's baptizing movement but never that Jesus baptized; searched Wikipedia John the Baptist (Josephus section).
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,greco-roman-literary,n/a,,No classical author could bear on this anchor.
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,material-culture,n/a,,No object could attest Jesus's baptizing activity.
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,geography-or-nature,none-found,,"Judea's countryside and its water sources are generic; the existing mikveh evidence bears on immersion custom generally (see the purification claim), not on this journey."
+claim:jn-03-22-jesus-judea-baptizing,Jesus with his disciples baptized in the land of Judea,astronomy-or-calendar,none-found,,'After these things' (after the Passover of John 2:13) is relative; no fixed date was verifiable.
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",inscription,none-found,,No inscription names Aenon or Salim; searched Wikipedia Aenon and the Onomasticon text.
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",coin,n/a,,No coinage could bear on this anchor.
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",structure-or-site,found,text:eusebius-onomasticon-aenon,"Eusebius (Onomasticon 190) reports the place 'pointed out even now eight miles south of Scythopolis near Salim' - a 4th-century site tradition, grade D (disputed identification: Tell Shalem/Salumias, Wadi Far'a, or the Madaba map's second Aenon)."
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",manuscript,none-found,,"No manuscript attests this anchor; Codex Sinaiticus, Codex Vaticanus, P66 and P75 only preserve the John 3 text (a copy of the text is not evidence for it)."
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",documentary-papyrus,n/a,,No record could bear on this anchor.
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",jewish-literary,found,text:josephus-ant-18-116-119; text:eusebius-onomasticon-aenon,"Josephus attests John's baptizing activity and crowds, independent of the Gospels (grade B); Eusebius preserves the Aenon site tradition (grade D)."
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",greco-roman-literary,none-found,,No classical author names Aenon or Salim; searched Wikipedia Aenon.
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",material-culture,n/a,,No object could attest the site.
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",geography-or-nature,found,observation:salim-springs,"Gibson (2004, via Wikipedia Aenon) counted thirteen springs in a 4x4 km area near Tell Shalem - 'much water' in the candidate region; grade C, since the identification of Aenon itself is disputed."
+claim:jn-03-23-aenon-baptism,"John was baptizing at Aenon near Salim, because there was much water there",astronomy-or-calendar,n/a,,No calendar point is fixed by this claim.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,inscription,n/a,,No inscription could bear on this anchor.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,coin,none-found,,Antipas's coins (existing nodes in other chapters) fix his reign but not the date of John's arrest; no coin bears on this negative chronology.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,structure-or-site,none-found,,"Machuarenus/Machaerus, where Josephus says John was killed, would bound the claim from the other end, but the existing Machaerus evidence is scheduled for the chapter on John's death (per docs/leads.md) and no fetched page here tied it to the timing of 3:24."
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,manuscript,none-found,,"No manuscript attests this anchor; Codex Sinaiticus, Codex Vaticanus, P66 and P75 only preserve the John 3 text (a copy of the text is not evidence for it)."
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,documentary-papyrus,n/a,,No record could bear on this anchor.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,jewish-literary,none-found,,"Josephus (Ant. 18.116-119) places John's downfall later, at Machaerus, when Herod feared his influence - compatible with 'not yet thrown into prison' but undatable to a moment; searched Wikipedia John the Baptist (Josephus section)."
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,greco-roman-literary,n/a,,No classical author could bear on this anchor.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,material-culture,n/a,,No object could bear on this anchor.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,geography-or-nature,n/a,,No terrain point is fixed by this claim.
+claim:jn-03-24-john-not-imprisoned,John the Baptist not yet thrown into prison,astronomy-or-calendar,none-found,,The claim fixes only relative chronology (John free while Jesus baptizes); no absolute date was verifiable from a fetched page.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,inscription,n/a,,No inscription could bear on this anchor.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,coin,n/a,,No coinage could bear on this anchor.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,structure-or-site,none-found,,"Excavated Second Temple ritual baths (mikvaot) document the practice generally; the existing Gethsemane mikveh source is attached to the claim by documented_by, but no specific excavated bath bears on this particular dispute, so the cell is none-found."
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,manuscript,none-found,,"No manuscript attests this anchor; Codex Sinaiticus, Codex Vaticanus, P66 and P75 only preserve the John 3 text (a copy of the text is not evidence for it)."
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,documentary-papyrus,n/a,,No record could bear on this anchor.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,jewish-literary,found,text:mishnah-mikvaot-1-1,Mishnah Mikvaot 1:1 grades immersion pools - purification by immersion was a regulated custom; grade C (redacted c. 200 CE; may not describe 30s CE practice exactly).
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,greco-roman-literary,n/a,,No classical author could bear on this anchor.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,material-culture,none-found,,No stepped ritual-bath find was verifiable from a fetched page as bearing on this dispute specifically; the category's general mikveh evidence is recorded on the claim via the existing Gethsemane source.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,geography-or-nature,n/a,,No terrain point is fixed by this claim.
+claim:jn-03-25-purification-dispute,A dispute arose between John's disciples and a Jew about purification,astronomy-or-calendar,n/a,,No calendar point is fixed by this claim.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,inscription,n/a,,No inscription could bear on this anchor.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,coin,n/a,,No coinage could bear on this anchor.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,structure-or-site,none-found,,"'Beyond the Jordan' points to the Bethany-beyond-the-Jordan region (John 1:28); the existing Al-Maghtas site attests baptizing activity there but belongs to John 1/3:26's recalled past, not to this reporting scene at Aenon; left none-found."
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,burial-or-ossuary,n/a,,No burial could bear on this anchor.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,manuscript,none-found,,"No manuscript attests this anchor; Codex Sinaiticus, Codex Vaticanus, P66 and P75 only preserve the John 3 text (a copy of the text is not evidence for it)."
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,documentary-papyrus,n/a,,No record could bear on this anchor.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,jewish-literary,none-found,,Josephus attests John's movement and its crowds but not this exchange; searched Wikipedia John the Baptist.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,greco-roman-literary,n/a,,No classical author could bear on this anchor.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,material-culture,n/a,,No object could bear on this anchor.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,geography-or-nature,none-found,,The phrase 'beyond the Jordan' as an east-bank toponym is discussed in the existing Al-Maghtas material; no fetched page tied it to this verse beyond the recall of John 1:28.
+claim:jn-03-26-report,John's disciples reported that Jesus was baptizing and everyone was coming to him,astronomy-or-calendar,n/a,,No calendar point is fixed by this claim.
+person:nicodemus,Nicodemus (John 3),inscription,none-found,,No inscription or bulla names Nicodemus; searched Wikipedia Nicodemus and Sanhedrin.
+person:nicodemus,Nicodemus (John 3),coin,n/a,,No coinage could bear on this person.
+person:nicodemus,Nicodemus (John 3),structure-or-site,none-found,,"No excavated structure tied to Nicodemus; only late pilgrimage chapels (traditions, not entered)."
+person:nicodemus,Nicodemus (John 3),burial-or-ossuary,none-found,,No tomb or ossuary of Nicodemus is known; searched Wikipedia Nicodemus.
+person:nicodemus,Nicodemus (John 3),manuscript,none-found,,No manuscript outside John's Gospel names Nicodemus; John's own manuscripts only preserve the text.
+person:nicodemus,Nicodemus (John 3),documentary-papyrus,none-found,,No documentary papyrus names Nicodemus; searched Wikipedia Nicodemus.
+person:nicodemus,Nicodemus (John 3),jewish-literary,found,text:talmud-taanit-19b-nakdimon,"The Talmud's Nakdimon ben Guryon (Taanit 19b-20a), a wealthy Jerusalem notable, is the classic rabbinic parallel; the identification is disputed (Jewish Encyclopedia for, Carson and Bauckham against) and the Talmud is later - grade D."
+person:nicodemus,Nicodemus (John 3),greco-roman-literary,none-found,,No classical author names Nicodemus.
+person:nicodemus,Nicodemus (John 3),material-culture,n/a,,No object could bear on this person.
+person:nicodemus,Nicodemus (John 3),geography-or-nature,n/a,,No terrain point is fixed by this person.
+person:nicodemus,Nicodemus (John 3),astronomy-or-calendar,n/a,,No date is fixed for this person beyond the Gospel narrative.
+place:aenon-near-salim,Aenon near Salim,inscription,none-found,,No inscription names Aenon or Salim; searched Wikipedia Aenon and the Onomasticon translation.
+place:aenon-near-salim,Aenon near Salim,coin,n/a,,No coinage could bear on this place.
+place:aenon-near-salim,Aenon near Salim,structure-or-site,found,text:eusebius-onomasticon-aenon,"Eusebius (Onomasticon 190) names Aenon near Salim and places it eight miles south of Scythopolis, 'pointed out even now' - a 4th-century toponym tradition; grade D, since the identification with Tell Shalem/Salumias, the Wadi Far'a springs or the Madaba map's Aenon is disputed."
+place:aenon-near-salim,Aenon near Salim,burial-or-ossuary,n/a,,No burial could bear on this place.
+place:aenon-near-salim,Aenon near Salim,manuscript,none-found,,"No manuscript outside John's Gospel names Aenon near Salim; the Madaba Map is a 6th-century mosaic (reception tradition), not a manuscript."
+place:aenon-near-salim,Aenon near Salim,documentary-papyrus,n/a,,No documentary record could bear on this place.
+place:aenon-near-salim,Aenon near Salim,jewish-literary,none-found,,Josephus never names Aenon or Salim; searched Wikipedia Aenon.
+place:aenon-near-salim,Aenon near Salim,greco-roman-literary,none-found,,Pliny and other classical authors do not name Aenon; searched Wikipedia Aenon.
+place:aenon-near-salim,Aenon near Salim,material-culture,n/a,,No object could bear on this place.
+place:aenon-near-salim,Aenon near Salim,geography-or-nature,found,observation:salim-springs,"Thirteen springs counted in a 4x4 km area near Tell Shalem (Gibson 2004, via Wikipedia Aenon) - the water-plentiful setting the name Aenon ('springs') and John 3:23 assume; grade C, identification disputed."
+place:aenon-near-salim,Aenon near Salim,astronomy-or-calendar,n/a,,No calendar point is fixed by this place.

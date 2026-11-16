@@ -1,0 +1,212 @@
+{
+ "source:archive-ryle-james-psolomon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia800803.us.archive.org/35/items/psalmoisolomnto00jamegoog/psalmoisolomnto00jamegoog_djvu.txt"
+ },
+ "source:archive-schechter-damascus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia801907.us.archive.org/14/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910_djvu.txt"
+ },
+ "source:josephus-jesus-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Josephus_on_Jesus"
+ },
+ "source:lachish-reliefs-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lachish_relief"
+ },
+ "source:sefaria-2-kings-1-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/II_Kings_1.2"
+ },
+ "source:sefaria-mishnah-shabbat-7-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shabbat.7.2"
+ },
+ "source:sefaria-mishnah-yoma-8-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Yoma.8.6"
+ },
+ "source:tel-dan-stele-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele"
+ },
+ "source:wikipedia-beelzebub": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beelzebub"
+ },
+ "source:wikipedia-beelzebub-prince": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beelzebub"
+ },
+ "source:wikipedia-beelzebub-tos": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beelzebub"
+ },
+ "source:wikipedia-capernaum-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Capernaum"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-codex-vaticanus-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-damascus-document": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Damascus_Document"
+ },
+ "source:wikipedia-gamla": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gamla"
+ },
+ "source:wikipedia-great-isaiah-scroll": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-great-isaiah-scroll-found": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-james-ossuary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/James_Ossuary"
+ },
+ "source:wikipedia-james-ossuary-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/James_Ossuary"
+ },
+ "source:wikipedia-judaean-desert-arid": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judaean_Desert"
+ },
+ "source:wikipedia-magdala-stone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala_Stone"
+ },
+ "source:wikipedia-messiah-in-judaism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Messiah_in_Judaism"
+ },
+ "source:wikipedia-migdal-synagogue": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Migdal_Synagogue"
+ },
+ "source:wikipedia-mishnah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mishnah"
+ },
+ "source:wikipedia-nineveh": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nineveh"
+ },
+ "source:wikipedia-nineveh-mounds": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nineveh"
+ },
+ "source:wikipedia-palestine-viper": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Vipera_palaestinae"
+ },
+ "source:wikipedia-queen-of-sheba": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Queen_of_Sheba"
+ },
+ "source:wikipedia-queen-of-sheba-disputed": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Queen_of_Sheba"
+ },
+ "source:wikipedia-qumran": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Qumran"
+ },
+ "source:wikipedia-second-temple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Second_Temple"
+ },
+ "source:wikipedia-sheba": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sheba"
+ },
+ "source:wikipedia-sheba-bible-account": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sheba"
+ },
+ "source:wikipedia-solomon-dispute": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Solomon"
+ },
+ "source:wikisource-1-kings-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(American_Standard)/1_Kings"
+ },
+ "source:wikisource-1-samuel-21": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(American_Standard)/1_Samuel"
+ },
+ "source:wikisource-ant-18-sects-three": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ },
+ "source:wikisource-ant-8-eleazar": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ },
+ "source:wikisource-jonah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Bible_(American_Standard)/Jonah"
+ }
+}

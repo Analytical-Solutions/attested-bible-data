@@ -1,0 +1,15 @@
+{
+ "book": "john",
+ "chapter": 14,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    31
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "14:1 \"Don't let your heart be troubled\" - the farewell discourse continues at the supper of 13:1-38"
+  }
+ ]
+}

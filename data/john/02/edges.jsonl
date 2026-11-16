@@ -1,0 +1,159 @@
+{"from": "passage:jn-02-01", "type": "asserts", "to": "claim:jn-02-01-wedding-at-cana"}
+{"from": "passage:jn-02-02", "type": "asserts", "to": "claim:jn-02-01-wedding-at-cana"}
+{"from": "passage:jn-02-06", "type": "asserts", "to": "claim:jn-02-06-stone-jars"}
+{"from": "passage:jn-02-11", "type": "asserts", "to": "claim:jn-02-11-water-into-wine"}
+{"from": "passage:jn-02-12", "type": "asserts", "to": "claim:jn-02-12-capernaum-stay"}
+{"from": "passage:jn-02-13", "type": "asserts", "to": "claim:jn-02-13-passover-pilgrimage"}
+{"from": "passage:jn-02-13", "type": "asserts", "to": "claim:jn-02-13-cleansing-early"}
+{"from": "passage:jn-02-14", "type": "asserts", "to": "claim:jn-02-14-oxen-sheep-sold"}
+{"from": "passage:jn-02-14", "type": "asserts", "to": "claim:mt-21-12-money-changers"}
+{"from": "passage:jn-02-14", "type": "asserts", "to": "claim:mt-21-12-sellers-of-doves"}
+{"from": "passage:jn-02-15", "type": "asserts", "to": "claim:mt-21-12-cleansing-the-temple"}
+{"from": "passage:jn-02-16", "type": "asserts", "to": "claim:mt-21-12-cleansing-the-temple"}
+{"from": "passage:jn-02-19", "type": "asserts", "to": "claim:jn-02-19-temple-saying"}
+{"from": "passage:jn-02-20", "type": "asserts", "to": "claim:jn-02-20-46-years"}
+{"from": "passage:jn-02-23", "type": "asserts", "to": "claim:jn-02-23-believed-at-passover"}
+{"from": "passage:jn-02-14", "type": "parallels", "to": "passage:mt-21-12", "note": "The same cleansing event: sellers, buyers and money changers in the temple; John adds oxen and sheep and a dialogue, and places it at the start of the ministry."}
+{"from": "passage:jn-02-14", "type": "parallels", "to": "passage:mk-11-15", "note": "The same cleansing event; Mark places it in the final week, John at the first Passover."}
+{"from": "passage:jn-02-14", "type": "parallels", "to": "passage:lk-19-45", "note": "The same cleansing event; Luke places it in the final week, John at the first Passover."}
+{"from": "passage:jn-02-15", "type": "parallels", "to": "passage:mt-21-12", "note": "The same cleansing event: overturning the money changers' tables; John places it at the start of the ministry, Matthew in the final week."}
+{"from": "passage:jn-02-15", "type": "parallels", "to": "passage:mk-11-15", "note": "The same cleansing event; Mark has the tables and the dove sellers' seats, John a whip of cords and the sheep and oxen."}
+{"from": "passage:jn-02-15", "type": "parallels", "to": "passage:lk-19-45", "note": "The same cleansing event; Luke places it in the final week, John at the first Passover."}
+{"from": "claim:jn-02-01-wedding-at-cana", "type": "mentions", "to": "place:cana"}
+{"from": "claim:jn-02-01-wedding-at-cana", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-02-01-wedding-at-cana", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:jn-02-06-stone-jars", "type": "mentions", "to": "place:cana"}
+{"from": "claim:jn-02-11-water-into-wine", "type": "mentions", "to": "place:cana"}
+{"from": "claim:jn-02-12-capernaum-stay", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:jn-02-12-capernaum-stay", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-02-13-passover-pilgrimage", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-02-13-cleansing-early", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-02-14-oxen-sheep-sold", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:jn-02-19-temple-saying", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:jn-02-19-temple-saying", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-02-20-46-years", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:jn-02-23-believed-at-passover", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:jn-02-23-believed-at-passover", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "site:khirbet-qana", "type": "attests", "to": "place:cana", "grade": "C", "note": "Excavations by Edwards and McCollough show a modest-sized village from c. 200 BCE to 650 CE with mikveh pools and a Roman-period synagogue-like structure - a Jewish village of the right name, period and region. Identification with Cana is debated (Kafr Kanna, Karm er-Ras, Reineh, Qana in Lebanon are the other candidates per the fetched article); the dispute is recorded here and in the claim's note. Regraded B to C by architect review, consistent with Bethany: a settlement of the right period, but its identification with Cana is debated among four candidates."}
+{"from": "site:khirbet-qana", "type": "attests", "to": "claim:jn-02-01-wedding-at-cana", "grade": "C", "note": "The excavated Roman-period village attests the setting of the wedding - a real Galilean village of the right name, period and Jewish character - not that this wedding was held there, and never the miracle. Regraded B to C by architect review, consistent with Bethany: a settlement of the right period, but its identification with Cana is debated among four candidates."}
+{"from": "artifact:second-temple-stone-vessels", "type": "attests", "to": "claim:jn-02-06-stone-jars", "grade": "B", "note": "Chalk (stone) purity vessels of the Second Temple period, found both near Jerusalem and in Galilee (Reineh, Einot Amitai - near Nazareth and the Beit Netofa valley), because stone is impervious to impurity: the same object, purpose (Jewish purification), period and region as John's six stone water jars."}
+{"from": "site:hizma-stone-vessel-workshop", "type": "attests", "to": "claim:jn-02-06-stone-jars", "grade": "B", "note": "An excavated Second Temple-period stone-vessel workshop near Jerusalem shows the vessels were industrially produced for the purity market and distributed as far as Galilee, so a village household like John's could own six such jars."}
+{"from": "site:capernaum", "type": "attests", "to": "claim:jn-02-12-capernaum-stay", "grade": "B", "note": "The excavated fishing town on the northwest shore (Hasmonean through Byzantine occupation) attests the Capernaum of 2:12 as a real, occupied town in Jesus' period; the visit itself is not independently attested."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:jn-02-13-passover-pilgrimage", "grade": "B", "note": "The Second Temple was the chief place of worship that regularly attracted pilgrims for the Three Pilgrimage Festivals including Passover - the institution the 'went up to Jerusalem' of 2:13 assumes."}
+{"from": "text:josephus-war-6-422-425", "type": "attests", "to": "claim:jn-02-13-passover-pilgrimage", "grade": "C", "note": "Josephus preserves Cestius Gallus' count of the Passover pilgrims (c. 66 CE) - Passover pilgrimage to Jerusalem on a huge scale, a generation after John's scene. Redacted context of 66 CE, not 28 CE."}
+{"from": "observation:grape-fig-cultivation-levant", "type": "attests", "to": "claim:jn-02-01-wedding-at-cana", "grade": "C", "note": "Grapes (and wine) as staples of ancient Israel's agriculture: the wine a village wedding needed was locally produced. Context only; it bears on the wedding's provisions, not the miracle."}
+{"from": "text:josephus-ant-15-380", "type": "attests", "to": "claim:jn-02-20-46-years", "grade": "B", "note": "Josephus dates Herod's start of the temple rebuilding to his 18th year. Arithmetic (recorded per the brief): Herod's 18th year = 20/19 BCE, so 46 years of building puts the saying of 2:20 at a Passover about 26/27-28 CE - consistent with John's early-ministry Passover. Construction was still continuing (the fetched Herod's Temple article: work continued 'possibly until the 60s CE'), which is why 'was being built' fits."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-23"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-01"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-02"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-03"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-06"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-11"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-12"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-13"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-14"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-15"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-16"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-17"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-19"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-20"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-23"}
+{"from": "site:khirbet-qana", "type": "documented_by", "to": "source:wikipedia-cana-qana"}
+{"from": "site:khirbet-qana", "type": "documented_by", "to": "source:wikipedia-cana-cave"}
+{"from": "place:cana", "type": "documented_by", "to": "source:wikipedia-cana-debate"}
+{"from": "text:josephus-ant-15-380", "type": "documented_by", "to": "source:wikisource-ant-15-380"}
+{"from": "artifact:papyrus-66", "type": "documented_by", "to": "source:wikipedia-papyrus-66"}
+{"from": "artifact:papyrus-75", "type": "documented_by", "to": "source:wikipedia-p75-john"}
+{"from": "claim:jn-02-20-46-years", "type": "documented_by", "to": "source:wikipedia-herods-temple"}
+{"from": "claim:jn-02-20-46-years", "type": "documented_by", "to": "source:wikipedia-herods-temple-46"}
+{"from": "claim:jn-02-14-oxen-sheep-sold", "type": "documented_by", "to": "source:wikipedia-cleansing-temple"}
+{"from": "claim:jn-02-13-passover-pilgrimage", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "text:psalm-69-9", "type": "documented_by", "to": "source:wikisource-psalms-web"}
+{"from": "claim:jn-02-13-cleansing-early", "type": "related_to", "to": "claim:mt-21-12-cleansing-the-temple", "note": "Chronology difference: John puts the cleansing at the first Passover at the start of the ministry; Matthew 21:12 puts it in the final week. A Gospel-to-Gospel difference, recorded as related_to, never attests or complicates (docs/calibration.md, brief for John 2)."}
+{"from": "claim:jn-02-19-temple-saying", "type": "related_to", "to": "claim:mk-14-58-destroy-temple-saying", "note": "John 2:19 presents the temple saying as Jesus' own words during the temple confrontation at the first Passover; Mark 14:58 reports it as witness testimony at the trial before the high priest in the final week, with 'made with hands' / 'not made with hands' qualifiers."}
+{"from": "passage:jn-02-17", "type": "related_to", "to": "text:psalm-69-9", "note": "John 2:17 quotes Psalm 69:9 (WEB: 'Zeal for your house will eat me up'). Cross-reference, not evidence (docs/calibration.md)."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-02-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-02-25"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-04"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-05"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-07"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-08"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-09"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-10"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-18"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-21"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-22"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-24"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-02-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:jn-02-25"}

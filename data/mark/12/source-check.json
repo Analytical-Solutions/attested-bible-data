@@ -1,0 +1,77 @@
+{
+ "source:bibleplaces-chorazin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.bibleplaces.com/chorazin/"
+ },
+ "source:sefaria-shekalim-6-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shekalim_6.1"
+ },
+ "source:wikipedia-nash-papyrus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nash_Papyrus"
+ },
+ "source:wikipedia-nash-papyrus-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nash_Papyrus"
+ },
+ "source:wikipedia-nash-papyrus-provenance": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nash_Papyrus"
+ },
+ "source:wikipedia-quadrans": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Quadrans"
+ },
+ "source:wikipedia-quadrans-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Quadrans"
+ },
+ "source:wikipedia-tefillin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tefillin"
+ },
+ "source:wikipedia-tefillin-contents": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tefillin"
+ },
+ "source:wikipedia-tefillin-qumran": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tefillin"
+ },
+ "source:wikipedia-theodotos-inscription": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Theodotos_inscription"
+ },
+ "source:wikipedia-tv-mark-12-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Mark"
+ },
+ "source:wikipedia-tyrian-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_shekel"
+ },
+ "source:wikipedia-widows-mite-coin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Widow%27s_mite"
+ },
+ "source:wikipedia-widows-mite-lepta": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Widow%27s_mite"
+ }
+}

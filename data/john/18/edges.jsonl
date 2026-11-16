@@ -1,0 +1,277 @@
+{"from": "passage:jn-18-01", "type": "asserts", "to": "claim:jn-18-01-kidron-garden"}
+{"from": "passage:jn-18-02", "type": "asserts", "to": "claim:jn-18-02-jesus-met-there"}
+{"from": "passage:jn-18-03", "type": "asserts", "to": "claim:jn-18-03-arrest-party"}
+{"from": "passage:jn-18-03", "type": "asserts", "to": "claim:jn-18-03-roman-cohort"}
+{"from": "passage:jn-18-10", "type": "asserts", "to": "claim:jn-18-10-malchus"}
+{"from": "passage:jn-18-12", "type": "asserts", "to": "claim:jn-18-12-chiliarchos"}
+{"from": "passage:jn-18-12", "type": "asserts", "to": "claim:jn-18-03-roman-cohort"}
+{"from": "passage:jn-18-13", "type": "asserts", "to": "claim:jn-18-13-annas-first"}
+{"from": "passage:jn-18-13", "type": "asserts", "to": "claim:mt-26-03-caiaphas-high-priest"}
+{"from": "passage:jn-18-24", "type": "asserts", "to": "claim:jn-18-13-annas-first"}
+{"from": "passage:jn-18-24", "type": "asserts", "to": "claim:mt-26-03-caiaphas-high-priest"}
+{"from": "passage:jn-18-13", "type": "asserts", "to": "claim:jn-18-13-annas-family"}
+{"from": "passage:jn-18-13", "type": "asserts", "to": "claim:jn-18-13-father-in-law"}
+{"from": "passage:jn-18-15", "type": "asserts", "to": "claim:jn-18-15-other-disciple"}
+{"from": "passage:jn-18-17", "type": "asserts", "to": "claim:jn-18-17-denials"}
+{"from": "passage:jn-18-25", "type": "asserts", "to": "claim:jn-18-17-denials"}
+{"from": "passage:jn-18-27", "type": "asserts", "to": "claim:jn-18-17-denials"}
+{"from": "passage:jn-18-18", "type": "asserts", "to": "claim:jn-18-18-fire-cold"}
+{"from": "passage:jn-18-19", "type": "asserts", "to": "claim:jn-18-19-annas-interrogation"}
+{"from": "passage:jn-18-28", "type": "asserts", "to": "claim:mt-27-27-praetorium"}
+{"from": "passage:jn-18-28", "type": "asserts", "to": "claim:jn-18-28-defilement"}
+{"from": "passage:jn-18-29", "type": "asserts", "to": "claim:mt-27-02-11-pilate-governor"}
+{"from": "passage:jn-18-31", "type": "asserts", "to": "claim:jn-18-31-capital-authority"}
+{"from": "passage:jn-18-33", "type": "asserts", "to": "claim:mt-27-02-11-pilate-governor"}
+{"from": "passage:jn-18-33", "type": "asserts", "to": "claim:jn-18-33-king-question"}
+{"from": "passage:jn-18-37", "type": "asserts", "to": "claim:jn-18-33-king-question"}
+{"from": "passage:jn-18-38", "type": "asserts", "to": "claim:lk-23-04-pilate-no-basis"}
+{"from": "passage:jn-18-39", "type": "asserts", "to": "claim:mt-27-15-passover-release-custom"}
+{"from": "passage:jn-18-40", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:jn-18-40", "type": "asserts", "to": "claim:jn-18-40-barabbas-robber"}
+{"from": "claim:jn-18-01-kidron-garden", "type": "mentions", "to": "place:kidron-valley"}
+{"from": "claim:jn-18-01-kidron-garden", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-18-02-jesus-met-there", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:jn-18-02-jesus-met-there", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-18-03-arrest-party", "type": "mentions", "to": "person:judas-iscariot"}
+{"from": "claim:jn-18-10-malchus", "type": "mentions", "to": "person:malchus"}
+{"from": "claim:jn-18-10-malchus", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-18-13-annas-family", "type": "mentions", "to": "person:annas-high-priest"}
+{"from": "claim:jn-18-13-father-in-law", "type": "mentions", "to": "person:annas-high-priest"}
+{"from": "claim:jn-18-13-father-in-law", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:jn-18-17-denials", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:jn-18-33-king-question", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:jn-18-33-king-question", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:jn-18-40-barabbas-robber", "type": "mentions", "to": "person:barabbas"}
+{"from": "site:antonia-fortress", "type": "attests", "to": "claim:jn-18-03-roman-cohort", "grade": "B", "note": "The Herodian citadel stood 'in Jerusalem at the eastern end of the Second Wall, at the north-western corner of the Temple Mount' - the headquarters the Jerusalem-cohort claim presupposes."}
+{"from": "text:josephus-war-5-238-247", "type": "attests", "to": "claim:jn-18-03-roman-cohort", "grade": "B", "note": "Josephus: 'the temple was a fortress that guarded the city, as was the tower of Antonia a guard to the temple; and in that tower were the guards of those three' - a permanent Roman guard posted in the fortress adjoining the temple."}
+{"from": "text:josephus-war-5-238-247", "type": "attests", "to": "claim:jn-18-12-chiliarchos", "grade": "C", "note": "Josephus shows a permanent Roman guard stationed in the Antonia in Jerusalem, the force a chiliarchos would command; the passage does not name the rank, so grade C for the office's setting."}
+{"from": "site:antonia-fortress", "type": "attests", "to": "claim:jn-18-12-chiliarchos", "grade": "B", "note": "The excavated and model-attested citadel adjoining the Temple was the garrison post from which a commanding officer led troops."}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "attests", "to": "claim:jn-18-13-annas-family", "grade": "B", "note": "Gratus the procurator 'deprived Ananus of the high priesthood' and the succession ran on under Roman appointment - Gratus next made Eleazar, the son of Ananus, high priest, and after two more one-year appointments 'Joseph Caiaphas was made his successor' - the family's grip on the office under Roman appointment, exactly John's setting. (Reviewer 9: the one-year span in the source is Eleazar's, not Ananus's; the former note read it as Ananus's.)"}
+{"from": "text:josephus-ant-20-198", "type": "attests", "to": "claim:jn-18-13-annas-family", "grade": "B", "note": "The elder Ananus 'had five sons who had all performed the office of a high priest to God, and... had himself enjoyed that dignity a long time formerly' - the continuing family domination John presupposes."}
+{"from": "text:josephus-ant-20-198", "type": "attests", "to": "person:annas-high-priest", "grade": "A", "note": "Names the elder Ananus who had long before held the high priesthood and whose sons all held it - the Annas of John 18:13 (the identification of Josephus's 'eldest Ananus' with Annas son of Seth is standard)."}
+{"from": "text:talmud-sanhedrin-41a", "type": "attests", "to": "claim:jn-18-31-capital-authority", "grade": "D", "note": "Reception text: 'forty years before the destruction of the [Second] Temple, capital punishment ceased in Israel' (traditionally c. 28 CE), because the Sanhedrin needed the procurator's approbation for death sentences. Redacted c. 500 CE, so it may not describe the 30s CE exactly."}
+{"from": "text:yerushalmi-sanhedrin-1-1", "type": "attests", "to": "claim:jn-18-31-capital-authority", "grade": "D", "note": "Reception text: 'Forty years before the Temple was destroyed, criminal jurisdiction was removed from Israel', with a modern footnote dating the removal to Judea's passage under direct Roman rule. Redacted c. 400 CE and later; it reports a rabbinic tradition, not a 30s CE record."}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "attests", "to": "claim:jn-18-31-capital-authority", "grade": "B", "note": "In 62 CE 'it was not lawful for Ananus to assemble a sanhedrim without his consent' (the procurator Albinus's) - Judean authorities acted under Roman oversight in capital matters."}
+{"from": "observation:jerusalem-april-night-cold", "type": "attests", "to": "claim:jn-18-18-fire-cold", "grade": "C", "note": "April mean daily minimum 12.5 °C (1991-2020 normals): Passover-season nights in Jerusalem are cool enough for a courtyard fire; a modern climate normal, so context only."}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "complicates", "to": "claim:jn-18-31-capital-authority", "note": "The same passage reports that Ananus assembled the Sanhedrin in 62 CE and had James stoned to death - the council did inflict a death sentence in this period, which a blanket 'not lawful to put anyone to death' must be reconciled with."}
+{"from": "artifact:temple-warning-inscription", "type": "complicates", "to": "claim:jn-18-31-capital-authority", "note": "The balustrade inscription warned pagan visitors 'not to proceed under penalty of death' - some capital jurisdiction existed in the Temple's own sphere, complicating a total absence of capital authority; who executed that penalty (Jewish or Roman authority) is debated."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-01"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-02"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-03"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-04"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-05"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-06"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-07"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-08"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-09"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-10"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-11"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-12"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-13"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-14"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-15"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-16"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-17"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-18"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-19"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-20"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-21"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-22"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-23"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-24"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-25"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-26"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-27"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-28"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-29"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-30"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-31"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-32"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-33"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-34"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-35"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-36"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-37"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-38"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-39"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:jn-18-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:jn-18-40"}
+{"from": "artifact:papyrus-66", "type": "preserves", "to": "passage:jn-18-40"}
+{"from": "artifact:papyrus-52", "type": "preserves", "to": "passage:jn-18-31"}
+{"from": "artifact:papyrus-52", "type": "preserves", "to": "passage:jn-18-32"}
+{"from": "artifact:papyrus-52", "type": "preserves", "to": "passage:jn-18-33"}
+{"from": "artifact:papyrus-52", "type": "preserves", "to": "passage:jn-18-37"}
+{"from": "artifact:papyrus-52", "type": "preserves", "to": "passage:jn-18-38"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-18-36"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-18-37"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-18-38"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-18-39"}
+{"from": "artifact:papyrus-90", "type": "preserves", "to": "passage:jn-18-40"}
+{"from": "claim:jn-18-01-kidron-garden", "type": "related_to", "to": "claim:mt-26-36-gethsemane", "note": "Matthew names the place Gethsemane and sets it on the Mount of Olives; John says only 'a garden' across the Kidron - the same Passion-night venue told with different topographical details."}
+{"from": "claim:jn-18-01-kidron-garden", "type": "related_to", "to": "place:gethsemane", "note": "John never names Gethsemane; 'the garden' across the Kidron is traditionally identified with it."}
+{"from": "claim:jn-18-03-arrest-party", "type": "related_to", "to": "claim:mt-26-47-armed-crowd", "note": "Matthew has a great crowd with swords and clubs sent from the chief priests and elders; John has a Roman detachment (speira) plus officers from the chief priests and Pharisees - different composition of the arresting force."}
+{"from": "claim:jn-18-10-malchus", "type": "related_to", "to": "claim:mt-26-51-sword-ear", "note": "Matthew leaves the high priest's servant unnamed and does not say which ear; John names Malchus and specifies the right ear (Luke adds that Jesus healed it)."}
+{"from": "claim:jn-18-13-annas-first", "type": "related_to", "to": "claim:mt-26-57-led-to-caiaphas", "note": "Matthew and Mark bring Jesus straight to Caiaphas the high priest; John interposes an initial hearing before Annas, then Annas sends him bound to Caiaphas."}
+{"from": "claim:jn-18-15-other-disciple", "type": "related_to", "to": "claim:mt-26-58-peters-in-courtyard", "note": "Matthew has Peter simply follow at a distance into the court; John alone tells how an unnamed disciple known to the high priest brought Peter past the doorkeeper."}
+{"from": "claim:jn-18-17-denials", "type": "related_to", "to": "claim:mt-26-34-cockcrow-denial", "note": "John's three denials in the high priest's courtyard and the cockcrow answer the prediction Matthew and Mark record; John, like Luke, records a single crow after the third denial."}
+{"from": "claim:jn-18-17-denials", "type": "related_to", "to": "claim:mk-14-30-cockcrow-twice", "note": "Mark specifies a second cockcrow within the night ('before the rooster crows twice'); John records only that the rooster crowed after the third denial - no 'twice'."}
+{"from": "claim:jn-18-28-defilement", "type": "related_to", "to": "claim:mt-26-17-prepare-passover", "note": "John's chronology: on the day of the trial the leaders still intend to eat the Passover that evening, so the meal falls after the crucifixion; in the Synoptics the Passover meal was eaten the night before (the Last Supper)."}
+{"from": "claim:jn-18-28-defilement", "type": "related_to", "to": "claim:mk-14-12-sacrificed-passover", "note": "Mark's 'when they sacrificed the Passover' puts the lamb slaughter and meal on the day before the crucifixion; John has the leaders not yet eaten the Passover on the crucifixion day - the two chronologies differ by a day."}
+{"from": "claim:jn-18-33-king-question", "type": "related_to", "to": "claim:mt-27-11-14-jesus-before-governor", "note": "The same hearing before Pilate; Matthew reports the governor's question and Jesus's brief 'You say so' with the silent response to charges, John preserves the extended dialogue about kingship."}
+{"from": "claim:jn-18-33-king-question", "type": "related_to", "to": "claim:lk-23-02-charges", "note": "Luke's leaders spell out the political charges (perverting the nation, forbidding tribute, claiming to be king); John's leaders say only 'evildoer', and the 'King of the Jews' issue emerges in Pilate's questioning."}
+{"from": "claim:jn-18-40-barabbas-robber", "type": "related_to", "to": "claim:mk-15-07-barabbas-insurgents", "note": "Mark binds Barabbas with insurgents who had committed murder in the insurrection; John characterizes him only as a robber (lestes) - different descriptions of the same man."}
+{"from": "passage:jn-18-01", "type": "parallels", "to": "passage:mt-26-36"}
+{"from": "passage:jn-18-01", "type": "parallels", "to": "passage:mk-14-32"}
+{"from": "passage:jn-18-01", "type": "parallels", "to": "passage:lk-22-39"}
+{"from": "passage:jn-18-03", "type": "parallels", "to": "passage:mt-26-47"}
+{"from": "passage:jn-18-03", "type": "parallels", "to": "passage:mk-14-43"}
+{"from": "passage:jn-18-03", "type": "parallels", "to": "passage:lk-22-47"}
+{"from": "passage:jn-18-10", "type": "parallels", "to": "passage:mt-26-51"}
+{"from": "passage:jn-18-10", "type": "parallels", "to": "passage:mk-14-47"}
+{"from": "passage:jn-18-10", "type": "parallels", "to": "passage:lk-22-50"}
+{"from": "passage:jn-18-11", "type": "parallels", "to": "passage:mt-26-52", "note": "John's 'put the sword into its sheath' with the cup saying, without Matthew's rebuke ('all who take the sword will perish by the sword')."}
+{"from": "passage:jn-18-12", "type": "parallels", "to": "passage:mt-26-50"}
+{"from": "passage:jn-18-12", "type": "parallels", "to": "passage:mk-14-46"}
+{"from": "passage:jn-18-13", "type": "parallels", "to": "passage:mt-26-57"}
+{"from": "passage:jn-18-13", "type": "parallels", "to": "passage:mk-14-53"}
+{"from": "passage:jn-18-13", "type": "parallels", "to": "passage:lk-22-54"}
+{"from": "passage:jn-18-15", "type": "parallels", "to": "passage:mt-26-58"}
+{"from": "passage:jn-18-15", "type": "parallels", "to": "passage:mk-14-54"}
+{"from": "passage:jn-18-17", "type": "parallels", "to": "passage:mt-26-69"}
+{"from": "passage:jn-18-17", "type": "parallels", "to": "passage:mk-14-66"}
+{"from": "passage:jn-18-17", "type": "parallels", "to": "passage:lk-22-56"}
+{"from": "passage:jn-18-18", "type": "parallels", "to": "passage:mk-14-54"}
+{"from": "passage:jn-18-18", "type": "parallels", "to": "passage:lk-22-55"}
+{"from": "passage:jn-18-24", "type": "parallels", "to": "passage:mt-26-57"}
+{"from": "passage:jn-18-25", "type": "parallels", "to": "passage:mt-26-71"}
+{"from": "passage:jn-18-25", "type": "parallels", "to": "passage:mk-14-69"}
+{"from": "passage:jn-18-25", "type": "parallels", "to": "passage:lk-22-58"}
+{"from": "passage:jn-18-27", "type": "parallels", "to": "passage:mt-26-75"}
+{"from": "passage:jn-18-27", "type": "parallels", "to": "passage:mk-14-72"}
+{"from": "passage:jn-18-27", "type": "parallels", "to": "passage:lk-22-60"}
+{"from": "passage:jn-18-28", "type": "parallels", "to": "passage:mt-27-02"}
+{"from": "passage:jn-18-28", "type": "parallels", "to": "passage:mk-15-01"}
+{"from": "passage:jn-18-28", "type": "parallels", "to": "passage:lk-23-01"}
+{"from": "passage:jn-18-33", "type": "parallels", "to": "passage:mt-27-11"}
+{"from": "passage:jn-18-33", "type": "parallels", "to": "passage:mk-15-02"}
+{"from": "passage:jn-18-33", "type": "parallels", "to": "passage:lk-23-03"}
+{"from": "passage:jn-18-37", "type": "parallels", "to": "passage:lk-23-03", "note": "John's 'You say that I am a king' expands Luke's 'So you say'."}
+{"from": "passage:jn-18-38", "type": "parallels", "to": "passage:lk-23-04"}
+{"from": "passage:jn-18-38", "type": "parallels", "to": "passage:mk-15-14"}
+{"from": "passage:jn-18-39", "type": "parallels", "to": "passage:mt-27-15"}
+{"from": "passage:jn-18-39", "type": "parallels", "to": "passage:mk-15-06"}
+{"from": "passage:jn-18-39", "type": "parallels", "to": "passage:lk-23-17"}
+{"from": "passage:jn-18-40", "type": "parallels", "to": "passage:mt-27-26"}
+{"from": "passage:jn-18-40", "type": "parallels", "to": "passage:mk-15-15"}
+{"from": "passage:jn-18-40", "type": "parallels", "to": "passage:lk-23-25"}
+{"from": "site:antonia-fortress", "type": "documented_by", "to": "source:wikipedia-antonia-fortress"}
+{"from": "text:josephus-war-5-238-247", "type": "documented_by", "to": "source:wikisource-war5-antonia"}
+{"from": "text:josephus-ant-20-198", "type": "documented_by", "to": "source:wikisource-ant20-five-sons"}
+{"from": "text:yerushalmi-sanhedrin-1-1", "type": "documented_by", "to": "source:sefaria-y-sanhedrin-1-1"}
+{"from": "observation:jerusalem-april-night-cold", "type": "documented_by", "to": "source:wikipedia-jerusalem-climate"}
+{"from": "place:kidron-valley", "type": "documented_by", "to": "source:wikipedia-kidron-valley"}
+{"from": "artifact:papyrus-52", "type": "documented_by", "to": "source:wikipedia-papyrus-52"}
+{"from": "artifact:papyrus-52", "type": "documented_by", "to": "source:wikipedia-papyrus-52-dating"}
+{"from": "artifact:papyrus-90", "type": "documented_by", "to": "source:wikipedia-papyrus-90"}
+{"from": "artifact:papyrus-66", "type": "documented_by", "to": "source:wikipedia-papyrus-66"}
+{"from": "artifact:temple-warning-inscription", "type": "documented_by", "to": "source:wikipedia-temple-warning"}
+{"from": "artifact:temple-warning-inscription", "type": "documented_by", "to": "source:wikipedia-temple-warning-foreigner"}
+{"from": "artifact:caiaphas-ossuary", "type": "documented_by", "to": "source:wikipedia-caiaphas-ossuary"}
+{"from": "artifact:caiaphas-ossuary", "type": "documented_by", "to": "source:wikipedia-caiaphas-ossuary-identification"}
+{"from": "artifact:caiaphas-ossuary", "type": "documented_by", "to": "source:wikipedia-caiaphas-ossuary-dispute"}
+{"from": "text:talmud-sanhedrin-41a", "type": "documented_by", "to": "source:wikipedia-capital-punishment-judaism"}
+{"from": "text:mishnah-pesachim-8-6", "type": "documented_by", "to": "source:sefaria-pesachim-8-6"}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "documented_by", "to": "source:wikisource-ant-18-annas"}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "documented_by", "to": "source:wikisource-ant-18-annas-deprived"}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "documented_by", "to": "source:wikisource-ant20"}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "documented_by", "to": "source:wikisource-ant20-consent"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus-date"}
+{"from": "site:kishle", "type": "documented_by", "to": "source:wikipedia-kishle"}
+{"from": "site:garden-of-gethsemane", "type": "documented_by", "to": "source:wikipedia-gethsemane-name"}
+{"from": "site:garden-of-gethsemane", "type": "documented_by", "to": "source:wikipedia-gethsemane-iaa"}
+{"from": "claim:jn-18-13-father-in-law", "type": "documented_by", "to": "source:wikipedia-annas"}
+{"from": "artifact:temple-warning-inscription", "type": "documented_by", "to": "source:wikipedia-temple-warning-inscription-text"}
+{"from": "site:antonia-fortress", "type": "documented_by", "to": "source:wikipedia-antonia-garrison"}
+{"from": "text:josephus-war-5-238-247", "type": "documented_by", "to": "source:wikisource-war5-roman-legion"}
+{"from": "passage:jn-18-28", "type": "asserts", "to": "claim:jn-18-28-led-into-praetorium"}
+{"from": "site:kishle", "type": "attests", "to": "claim:jn-18-28-led-into-praetorium", "grade": "C", "note": "The Herodian-period buildings by the Tower of David may be the governors' headquarters into which Jesus was led; the identification is qualified ('may have') and the leading itself is the Gospel event, so grade C. Split from the merged praetorium claim per the architect's titles-and-offices ruling (2026-11-15)."}

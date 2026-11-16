@@ -1,0 +1,97 @@
+{
+ "source:bible-api-exodus-13-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/exodus+13:2?translation=web"
+ },
+ "source:bible-api-genesis-17-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+17:12?translation=web"
+ },
+ "source:bible-api-leviticus-12-6-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+12:6-8?translation=web"
+ },
+ "source:wikipedia-census-of-quirinius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Census_of_Quirinius"
+ },
+ "source:wikipedia-census-of-quirinius-luke-error": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Census_of_Quirinius"
+ },
+ "source:wikipedia-census-of-quirinius-no-empire-census": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Census_of_Quirinius"
+ },
+ "source:wikipedia-governors-syria": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_Roman_governors_of_Syria"
+ },
+ "source:wikipedia-governors-syria-augustan": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_Roman_governors_of_Syria"
+ },
+ "source:wikipedia-governors-syria-early": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_Roman_governors_of_Syria"
+ },
+ "source:wikipedia-luke-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Luke_2"
+ },
+ "source:wikipedia-papyrus-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_4"
+ },
+ "source:wikipedia-papyrus-4-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_4"
+ },
+ "source:wikipedia-quirinius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Quirinius"
+ },
+ "source:wikipedia-quirinius-coins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Quirinius"
+ },
+ "source:wikipedia-quirinius-stele": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Quirinius"
+ },
+ "source:wikisource-annals-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_3"
+ },
+ "source:wikisource-annals-3-career": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_3"
+ },
+ "source:wikisource-ant-1-circumcision": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_I"
+ },
+ "source:wikisource-res-gestae": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Deeds_of_the_Divine_Augustus"
+ }
+}

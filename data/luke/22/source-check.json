@@ -1,0 +1,87 @@
+{
+ "source:sefaria-bava-kamma-7-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Kamma.7.7"
+ },
+ "source:sefaria-pesachim-10-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.10.1"
+ },
+ "source:sefaria-pesachim-10-1-first-cup": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.10.1"
+ },
+ "source:sefaria-pesachim-10-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.10.7"
+ },
+ "source:sefaria-pesachim-10-7-third-cup": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.10.7"
+ },
+ "source:sefaria-sanhedrin-4-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sanhedrin.4.1"
+ },
+ "source:wikipedia-cave-of-the-swords": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Archaeology_of_the_Bar_Kokhba_Revolt"
+ },
+ "source:wikipedia-cave-of-the-swords-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Archaeology_of_the_Bar_Kokhba_Revolt"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-euergetes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Euergetes"
+ },
+ "source:wikipedia-hematidrosis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Hematidrosis"
+ },
+ "source:wikipedia-papyrus-69": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_69"
+ },
+ "source:wikipedia-papyrus-69-marcion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_69"
+ },
+ "source:wikipedia-tyrian-shekel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tyrian_shekel"
+ },
+ "source:wikisource-enoch-62": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_62"
+ },
+ "source:wikisource-war-6-temple-captain": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VI"
+ }
+}

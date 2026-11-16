@@ -1,0 +1,47 @@
+{
+ "source:bible-api-zechariah-13-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/zechariah+13:7?translation=web"
+ },
+ "source:sefaria-bava-kamma-7-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Kamma.7.7"
+ },
+ "source:sefaria-pesachim-5-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.5.1"
+ },
+ "source:sefaria-pesachim-5-1-lamb": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.5.1"
+ },
+ "source:wikipedia-abba-aramaic": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Abba_(father)"
+ },
+ "source:wikipedia-cenacle": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cenacle"
+ },
+ "source:wikipedia-naked-fugitive": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Naked_fugitive"
+ },
+ "source:wikipedia-water-carrier": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Water_carrier"
+ },
+ "source:wikisource-pliny-nh-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_12"
+ }
+}

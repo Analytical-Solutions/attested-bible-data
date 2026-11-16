@@ -1,0 +1,102 @@
+{
+ "source:perseus-pliny-5-essenes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D15"
+ },
+ "source:wikipedia-al-maghtas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Al-Maghtas"
+ },
+ "source:wikipedia-al-maghtas-historicity": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Al-Maghtas"
+ },
+ "source:wikipedia-al-maghtas-origen": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Al-Maghtas"
+ },
+ "source:wikipedia-al-maghtas-pools": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Al-Maghtas"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-entomophagy": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Entomophagy_in_humans"
+ },
+ "source:wikipedia-great-isaiah-scroll": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-great-isaiah-scroll-found": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-john-1-23": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/John_1:23"
+ },
+ "source:wikipedia-john-the-baptist": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/John_the_Baptist"
+ },
+ "source:wikipedia-john-the-baptist-jordan": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/John_the_Baptist"
+ },
+ "source:wikipedia-jordan-river": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jordan_River"
+ },
+ "source:wikipedia-judaean-desert": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Judaean_Desert"
+ },
+ "source:wikipedia-mikveh": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mikveh"
+ },
+ "source:wikipedia-qumran": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Qumran"
+ },
+ "source:wikisource-ant18-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-john-baptism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-john-crowds": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-sects": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ }
+}

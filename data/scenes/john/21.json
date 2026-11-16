@@ -1,0 +1,24 @@
+{
+ "book": "john",
+ "chapter": 21,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    23
+   ],
+   "setting": "place:sea-of-galilee",
+   "confidence": "stated",
+   "basis": "21:1 \"Jesus revealed himself again to the disciples at the sea of Tiberias\""
+  },
+  {
+   "verses": [
+    24,
+    25
+   ],
+   "setting": "place:sea-of-galilee",
+   "confidence": "inferred",
+   "basis": "21:24 \"This is the disciple who testifies about these things\" - the closing testimony inherits the lakeside scene"
+  }
+ ]
+}

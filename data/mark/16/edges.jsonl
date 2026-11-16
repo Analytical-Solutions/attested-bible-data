@@ -1,0 +1,89 @@
+{"from": "passage:mk-16-01", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-02", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-03", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-04", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-05", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-06", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-07", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-08", "type": "asserts", "to": "claim:mk-16-01-08-spices-tomb"}
+{"from": "passage:mk-16-01", "type": "asserts", "to": "claim:mt-28-01-mary-tomb"}
+{"from": "passage:mk-16-02", "type": "asserts", "to": "claim:mt-28-01-first-day-week"}
+{"from": "passage:mk-16-04", "type": "asserts", "to": "claim:mt-28-02-06-tomb-stone"}
+{"from": "passage:mk-16-06", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:mk-16-07", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:mk-16-09", "type": "asserts", "to": "claim:mk-16-09-14-appearances"}
+{"from": "passage:mk-16-10", "type": "asserts", "to": "claim:mk-16-09-14-appearances"}
+{"from": "passage:mk-16-11", "type": "asserts", "to": "claim:mk-16-09-14-appearances"}
+{"from": "passage:mk-16-12", "type": "asserts", "to": "claim:mk-16-09-14-appearances"}
+{"from": "passage:mk-16-13", "type": "asserts", "to": "claim:mk-16-09-14-appearances"}
+{"from": "passage:mk-16-14", "type": "asserts", "to": "claim:mk-16-09-14-appearances"}
+{"from": "passage:mk-16-15", "type": "asserts", "to": "claim:mk-16-15-18-commission-signs"}
+{"from": "passage:mk-16-16", "type": "asserts", "to": "claim:mk-16-15-18-commission-signs"}
+{"from": "passage:mk-16-17", "type": "asserts", "to": "claim:mk-16-15-18-commission-signs"}
+{"from": "passage:mk-16-18", "type": "asserts", "to": "claim:mk-16-15-18-commission-signs"}
+{"from": "passage:mk-16-19", "type": "asserts", "to": "claim:mk-16-19-20-ascension"}
+{"from": "passage:mk-16-20", "type": "asserts", "to": "claim:mk-16-19-20-ascension"}
+{"from": "passage:mk-16-01", "type": "parallels", "to": "passage:mt-28-01", "note": "After the Sabbath the women come to the tomb; Mark's three women buy spices where Matthew's two 'came to see the tomb'."}
+{"from": "passage:mk-16-02", "type": "parallels", "to": "passage:mt-28-01", "note": "The first day of the week; Mark 'very early... when the sun had risen' against Matthew 'as it began to dawn'."}
+{"from": "passage:mk-16-03", "type": "parallels", "to": "passage:mt-28-02", "note": "The stone at the tomb's door."}
+{"from": "passage:mk-16-04", "type": "parallels", "to": "passage:mt-28-02", "note": "The stone rolled back; Matthew's angel rolls it away amid an earthquake, Mark's women simply find it rolled back."}
+{"from": "passage:mk-16-05", "type": "parallels", "to": "passage:mt-28-03", "note": "The angelic figure: Mark's young man in a white robe inside the tomb against Matthew's angel 'like lightning' outside, sitting on the stone."}
+{"from": "passage:mk-16-06", "type": "parallels", "to": "passage:mt-28-06", "note": "'He has risen; he is not here. Behold the place where they laid him!'"}
+{"from": "passage:mk-16-07", "type": "parallels", "to": "passage:mt-28-07", "note": "'Go, tell his disciples' - Mark adds 'and Peter' - 'he goes before you into Galilee; there you will see him.'"}
+{"from": "passage:mk-16-08", "type": "parallels", "to": "passage:mt-28-08", "note": "The women leave quickly in fear; Matthew adds 'with fear and great joy' and an immediate report to the disciples, where Mark's women say nothing to anyone."}
+{"from": "passage:mk-16-09", "type": "parallels", "to": "passage:mt-28-09", "note": "An appearance to women at/after the tomb (longer ending); Mark names Mary Magdalene alone, Matthew the two Marys taking hold of his feet."}
+{"from": "passage:mk-16-14", "type": "parallels", "to": "passage:mt-28-17", "note": "The eleven see the risen Jesus (longer ending: at table in Jerusalem; Matthew: on a mountain in Galilee, 'but some doubted')."}
+{"from": "passage:mk-16-15", "type": "parallels", "to": "passage:mt-28-19", "note": "The commission: Mark's 'go into all the world... preach' against Matthew's 'make disciples of all nations, baptizing them in the name...'."}
+{"from": "claim:mk-16-01-08-spices-tomb", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:mk-16-01-08-spices-tomb", "type": "mentions", "to": "person:salome-disciple"}
+{"from": "claim:mk-16-09-14-appearances", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:mk-16-09-14-appearances", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-16-15-18-commission-signs", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-16-19-20-ascension", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "text:irenaeus-haer-3-10-6", "type": "related_to", "to": "passage:mk-16-19", "note": "Reception: Irenaeus, who knows the Gospels, explicitly cites Mark 16:19 in Against Heresies 3.10.6 (c. 184 CE) - over a century older than the earliest manuscript of Mark 16, per the fetched article. Reception of a Gospel text is linked related_to, never attests (calibration). The ending's absence from Sinaiticus and Vaticanus is recorded in the passage variants and in the absent preserves edges."}
+{"from": "claim:mk-16-01-08-spices-tomb", "type": "related_to", "to": "claim:mt-28-01-mary-tomb", "note": "Mark has three women (Mary Magdalene, Mary the mother of James, Salome) buying spices to anoint the body and arriving at sunrise; Matthew has two women at dawn and no spices. Mark's messenger is a young man inside the tomb; Matthew's angel descends amid an earthquake and sits on the stone. Mark ends at v8 with the women fleeing in silence; Matthew continues with a joyful report, a guard scene and appearances."}
+{"from": "claim:mk-16-01-08-spices-tomb", "type": "related_to", "to": "claim:mt-28-02-06-tomb-stone", "note": "Both report the great stone rolled back/away from the tomb's door; Matthew alone supplies the earthquake and the descending angel who rolls it. A Gospel difference, recorded with related_to per calibration."}
+{"from": "claim:mk-16-09-14-appearances", "type": "related_to", "to": "claim:mt-28-09-17-appearances", "note": "Different appearance traditions: Mark's longer ending has Mary Magdalene, two on the road into the country, and the eleven at table, with disbelieving hearers; Matthew has the women on the way and the eleven on a Galilee mountain."}
+{"from": "claim:mk-16-15-18-commission-signs", "type": "related_to", "to": "claim:mt-28-19-baptismal-formula", "note": "Both commissions send the disciples out; Mark's has 'he who believes and is baptized will be saved' without Matthew's triune baptismal formula, and adds the signs (new languages, serpents, deadly drink, healing)."}
+{"from": "text:irenaeus-haer-3-10-6", "type": "documented_by", "to": "source:wikipedia-mark-16-irenaeus"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-mark-16"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-mark-16"}
+{"from": "artifact:codex-washingtonianus", "type": "documented_by", "to": "source:wikipedia-mark-16-freer"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-16-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-16-08"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-09"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-10"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-11"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-12"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-13"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-14"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-15"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-16"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-17"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-18"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-19"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-20"}
+{"from": "text:josephus-war-1-673-spices", "type": "attests", "to": "claim:mk-16-01-08-spices-tomb", "grade": "C", "note": "Herod's 4 BCE funeral: 'five hundred of his domestic servants and freed-men followed, with sweet spices in their hands' - burial spices carried in a first-century Judean funeral procession, the custom of honoring the dead with spices that Mark's spice-buying presupposes; it does not attest the women's purchase itself, so C."}
+{"from": "text:josephus-war-1-673-spices", "type": "documented_by", "to": "source:wikisource-war1"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-01"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-02"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-03"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-04"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-05"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-06"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-07"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-16-08"}

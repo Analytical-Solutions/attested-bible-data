@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 17,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    10
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "17:1 \"He said to the disciples\" - discourse, no place named"
+  },
+  {
+   "verses": [
+    11,
+    19
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "17:11 \"he was passing along the borders of Samaria and Galilee\" - the border region has no graph node"
+  },
+  {
+   "verses": [
+    20,
+    37
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "17:20 \"Being asked by the Pharisees when God's Kingdom would come, he answered them\" - discourse, no place named"
+  }
+ ]
+}

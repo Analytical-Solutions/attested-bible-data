@@ -1,0 +1,12 @@
+{
+ "source:bible-api-2-chronicles-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2%20chronicles+24:20-21?translation=web"
+ },
+ "source:sefaria-avot-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Avot_1.1"
+ }
+}

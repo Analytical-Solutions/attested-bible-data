@@ -1,0 +1,105 @@
+{
+  "book": "mark",
+  "chapter": 1,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        3
+      ],
+      "setting": null,
+      "basis": "Prologue; \"the voice of one crying in the wilderness\" (v3) is a quotation",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        4,
+        8
+      ],
+      "setting": "place:judaean-desert",
+      "basis": "1:4 \"John came baptizing in the wilderness\"; 1:5 \"All the country of Judea... went out to him\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        9,
+        11
+      ],
+      "setting": "place:jordan-river",
+      "basis": "1:9 \"Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        12,
+        13
+      ],
+      "setting": "place:judaean-desert",
+      "basis": "1:12 \"Immediately the Spirit drove him out into the wilderness\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        14,
+        15
+      ],
+      "setting": "place:galilee",
+      "basis": "1:14 \"Jesus came into Galilee, preaching the Good News of God's Kingdom\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        16,
+        20
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "1:16 \"Passing along by the sea of Galilee, he saw Simon and Andrew\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        21,
+        28
+      ],
+      "setting": "place:capernaum",
+      "basis": "1:21 \"They went into Capernaum, and immediately on the Sabbath day he entered into the synagogue and taught\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        29,
+        34
+      ],
+      "setting": "place:capernaum",
+      "basis": "1:29 \"they came into the house of Simon and Andrew\" - in Capernaum (1:21), no movement out of the town",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        35,
+        38
+      ],
+      "setting": null,
+      "basis": "1:35 \"he rose up and went out, and departed into a deserted place, and prayed there\" - the place is unnamed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        39,
+        39
+      ],
+      "setting": "place:galilee",
+      "basis": "1:39 \"He went into their synagogues throughout all Galilee\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        40,
+        45
+      ],
+      "setting": "place:galilee",
+      "basis": "1:40-45 the leper is healed on this Galilee preaching circuit; 1:45 \"he was outside in desert places\" - no town named",
+      "confidence": "inferred"
+    }
+  ]
+}

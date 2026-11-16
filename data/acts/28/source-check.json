@@ -1,0 +1,197 @@
+{
+ "source:newadvent-1-clement-5-paul": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/1010.htm"
+ },
+ "source:newadvent-eusebius-2-22-martyrdom": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/250102.htm"
+ },
+ "source:newadvent-eusebius-book-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/250102.htm"
+ },
+ "source:perseus-cicero-verr-2-4-103": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Cic.+Ver.+2.4.103"
+ },
+ "source:perseus-homeric-hymn-33": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0138%3Ahymn%3D33"
+ },
+ "source:perseus-strabo-6-2-melita": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D6%3Achapter%3D2"
+ },
+ "source:perseus-strabo-6-2-syracuse": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D6%3Achapter%3D2"
+ },
+ "source:perseus-strabo-book-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D6%3Achapter%3D2"
+ },
+ "source:redalyc-malta-gozo": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.redalyc.org/journal/6951/695174009004/html/"
+ },
+ "source:wikipedia-acts-28": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_28"
+ },
+ "source:wikipedia-appian-way": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Appian_Way"
+ },
+ "source:wikipedia-brucella-melitensis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Brucella_melitensis"
+ },
+ "source:wikipedia-castor-and-pollux": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Castor_and_Pollux"
+ },
+ "source:wikipedia-cippi-of-melqart": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cippi_of_Melqart"
+ },
+ "source:wikipedia-dike-mythology": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Dike_(mythology)"
+ },
+ "source:wikipedia-forum-appii": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Forum_Appii"
+ },
+ "source:wikipedia-gregale": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gregale"
+ },
+ "source:wikipedia-malta": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Malta"
+ },
+ "source:wikipedia-omitted-verses-ac-28-29": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_New_Testament_verses_not_included_in_modern_English_translations"
+ },
+ "source:wikipedia-paul-brown": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+ },
+ "source:wikipedia-paul-the-apostle": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+ },
+ "source:wikipedia-pozzuoli": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pozzuoli"
+ },
+ "source:wikipedia-rhegium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Reggio_Calabria"
+ },
+ "source:wikipedia-saint-publius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Saint_Publius"
+ },
+ "source:wikipedia-st-pauls-catacombs": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/St._Paul%27s_Catacombs"
+ },
+ "source:wikipedia-syracuse-sicily": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Syracuse,_Sicily"
+ },
+ "source:wikipedia-telescopus-fallax": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Telescopus_fallax"
+ },
+ "source:wikipedia-telescopus-venom": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Telescopus_fallax"
+ },
+ "source:wikipedia-tres-tabernae": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tres_Tabernae"
+ },
+ "source:wikipedia-vigna-randanini": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Vigna_Randanini"
+ },
+ "source:wikisource-annals-15-multitude": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+ },
+ "source:wikisource-antiquities-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-antiquities-18": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-cicero-atticus-2-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Letters_to_Atticus/2.12"
+ },
+ "source:wikisource-horace-satire-1-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Satires,_Epistles_%26_Art_of_Poetry_of_Horace/Sat1-5"
+ },
+ "source:wikisource-philo-embassy-tiber": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Embassy_to_Gaius"
+ },
+ "source:wikisource-seneca-77-docks": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_77"
+ },
+ "source:wikisource-seneca-letter-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_5"
+ },
+ "source:wikisource-seneca-letter-77": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_77"
+ }
+}

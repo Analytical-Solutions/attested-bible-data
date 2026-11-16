@@ -1,0 +1,155 @@
+anchor,label,category,status,findings,note
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,inscription,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,coin,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,structure-or-site,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,burial-or-ossuary,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,manuscript,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,documentary-papyrus,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,jewish-literary,found,text:josephus-ant-18-116-119,"Josephus attests John the Baptist's popular baptizing movement drawing crowds (Ant. 18.116-119, existing node) - the baseline of the comparison 'more disciples than John'; he knows nothing of Jesus baptizing (grade C on the edge)."
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,greco-roman-literary,none-found,,Searched via the graph's Tacitus material and Wikipedia; no classical text records Jesus's baptizing activity.
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,material-culture,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,geography-or-nature,n/a,,
+claim:jn-04-01-02-more-disciples,Jesus was making and baptizing more disciples than John,astronomy-or-calendar,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,inscription,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,coin,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,structure-or-site,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,burial-or-ossuary,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,manuscript,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,documentary-papyrus,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,jewish-literary,none-found,,"Josephus documents Galilean travel through Samaria toward Jerusalem (Ant. 20.118-124, in the graph) but not this Judea-Galilee route; searched."
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,greco-roman-literary,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,material-culture,n/a,,
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,geography-or-nature,none-found,,"Searched Josephus route passages and Wikipedia; the Judea-Galilee road through Samaria is standard geography, but no fetched page states that passing through Samaria was necessary."
+claim:jn-04-03-04-through-samaria,Jesus left Judea for Galilee and had to pass through Samaria,astronomy-or-calendar,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,inscription,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,coin,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,structure-or-site,none-found,,"Searched the Jacob's Well, Shechem and Joseph's Tomb pages; no excavated boundary of the field Jacob gave Joseph."
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,burial-or-ossuary,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,manuscript,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,documentary-papyrus,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,jewish-literary,none-found,,"Genesis 33/48 (the field 'within sight' of Shechem) is a biblical cross-reference, not evidence; Josephus retells the Shechem traditions but no fetched passage identifies the field."
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,greco-roman-literary,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,material-culture,n/a,,
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,geography-or-nature,found,artifact:madaba-map,The 6th-century Madaba Map legend 'Joseph's' at the Jacob's Well area marks the local tradition of Joseph's ground near the well (grade D on the edge: reception tradition).
+claim:jn-04-05-jacobs-field,Sychar was near the parcel of ground Jacob gave to his son Joseph,astronomy-or-calendar,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",inscription,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",coin,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",structure-or-site,found,site:jacobs-well,"An ancient 41 m deep well sunk through rock and lined with masonry stands at Bir Ya'qub, 76 m from Tell Balata; identification with John's well rests on Christian tradition from the 330s CE (grade D on the edge)."
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",burial-or-ossuary,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",manuscript,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",documentary-papyrus,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",jewish-literary,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",greco-roman-literary,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",material-culture,n/a,,
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",geography-or-nature,none-found,,"The well's depth and construction are covered by the site node; searched for separate natural-history evidence, none fetched."
+claim:jn-04-06-jacobs-well,"Jacob's well was there, and Jesus sat down by it about the sixth hour",astronomy-or-calendar,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,inscription,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,coin,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,structure-or-site,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,burial-or-ossuary,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,manuscript,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,documentary-papyrus,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,jewish-literary,found,text:josephus-ant-20-cumanus,"Josephus: Galilean pilgrims travelling through Samaria were attacked and many killed at Ginea under Cumanus, c. 48 CE - mutual Jew-Samaritan hostility in the period (grade C on the edge); it shows hostility, not the specific avoidance custom."
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,greco-roman-literary,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,material-culture,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,geography-or-nature,n/a,,
+claim:jn-04-09-no-dealings,Jews have no dealings with Samaritans,astronomy-or-calendar,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,inscription,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,coin,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,structure-or-site,found,site:mount-gerizim-temple,"Excavations (1983-2006) identified the Samaritan temple atop Mount Gerizim, standing until the Hasmonean destruction of 111-110 BCE - the ancestral 'this mountain' worship in the same place (grade B on the edge)."
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,burial-or-ossuary,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,manuscript,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,documentary-papyrus,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,jewish-literary,found,text:josephus-ant-13-254-256,Josephus: Hyrcanus took Shechem and Gerizzim and the temple there was 'now deserted two hundred years after it was built' (c. 110 BCE) - the temple behind the Samaritan claim (grade B on the edge).
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,greco-roman-literary,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,material-culture,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,geography-or-nature,n/a,,
+claim:jn-04-20-gerizim-worship,Our fathers worshiped in this mountain; you Jews say Jerusalem is the place to worship,astronomy-or-calendar,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),inscription,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),coin,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),structure-or-site,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),burial-or-ossuary,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),manuscript,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),documentary-papyrus,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),jewish-literary,found,text:josephus-ant-18-85-89,"Josephus: a Samaritan prophet led an armed crowd up Mount Gerizim promising to reveal the sacred vessels, and Pilate slaughtered them - Gerizim-centred restorative expectation among Samaritans in the period (grade C on the edge); it names no Messiah figure."
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),greco-roman-literary,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),material-culture,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),geography-or-nature,n/a,,
+claim:jn-04-25-samaritan-messiah,The Samaritan woman expects the Messiah ('I know that Messiah comes'),astronomy-or-calendar,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',inscription,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',coin,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',structure-or-site,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',burial-or-ossuary,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',manuscript,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',documentary-papyrus,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',jewish-literary,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',greco-roman-literary,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',material-culture,n/a,,
+claim:jn-04-35-four-months,'There are yet four months until the harvest',geography-or-nature,none-found,,Searched Wikipedia Barley and agriculture searches; no fetched page states a sowing-to-harvest interval for first-century Galilee or Judea.
+claim:jn-04-35-four-months,'There are yet four months until the harvest',astronomy-or-calendar,none-found,,The saying is seasonal; searched agricultural-calendar material; nothing fetched ties a four-month interval to the region's grain cycle.
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,inscription,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,coin,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,structure-or-site,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,burial-or-ossuary,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,manuscript,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,documentary-papyrus,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,jewish-literary,none-found,,"Searched Josephus's Samaritan passages (Ant. 18.85-89, 20.118-136, in the graph) and Wikisource; no record of a Sychar conversion or of Jesus staying in Samaria."
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,greco-roman-literary,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,material-culture,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,geography-or-nature,n/a,,
+claim:jn-04-39-42-samaritans-believed,Many Samaritans of the city believed and Jesus stayed two days,astronomy-or-calendar,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",inscription,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",coin,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",structure-or-site,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",burial-or-ossuary,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",manuscript,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",documentary-papyrus,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",jewish-literary,found,text:josephus-ant-20-cumanus,"Josephus: 'It was the custom of the Galileans, when they came to the holy city at the festivals, to take their journeys through the country of the Samaritans' - the standing Galilean festival pilgrimage the verse presupposes (grade C on the edge)."
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",greco-roman-literary,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",material-culture,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",geography-or-nature,n/a,,
+claim:jn-04-45-galilean-pilgrims,"The Galileans received him, having seen what he did at the feast, for they also went to the feast",astronomy-or-calendar,n/a,,
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,inscription,n/a,,
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,coin,found,artifact:antipas-coins,Antipas's coinage inscribed 'Herod the Tetrarch' attests his rule over Galilee in the period - the royal court whose service the basilikos plausibly rendered (grade C on the edge); the coins say nothing of the official himself.
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,structure-or-site,found,site:capernaum,"Capernaum, excavated as a first-century fishing town, was the home town of the official's son; it attests the setting, not the office (grade C on the edge)."
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,burial-or-ossuary,n/a,,
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,manuscript,n/a,,
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,documentary-papyrus,n/a,,
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,jewish-literary,none-found,,Josephus names Antipas's household and court figures but none matches; searched the Herod Antipas article and the Josephus passages in the graph.
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,greco-roman-literary,none-found,,Searched the Wikipedia 'Healing the royal official's son' commentary; no ancient source names this basilikos.
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,material-culture,n/a,,
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,geography-or-nature,n/a,,
+claim:jn-04-46-royal-official,A royal official (basilikos) whose son was sick at Capernaum begged Jesus to heal him,astronomy-or-calendar,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",inscription,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",coin,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",structure-or-site,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",burial-or-ossuary,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",manuscript,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",documentary-papyrus,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",jewish-literary,none-found,,"No external record of the official, his son or the healing; searched Josephus passages in the graph and the Wikipedia article's commentary. The claim is a miracle; setting evidence is recorded on 4:46 claims."
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",greco-roman-literary,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",material-culture,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",geography-or-nature,n/a,,
+claim:jn-04-50-53-son-healed,"The son was healed at the seventh hour, the very hour Jesus spoke",astronomy-or-calendar,n/a,,
+place:cana,Cana of Galilee,inscription,none-found,,The annals of Tiglath-Pileser III were once thought to name a city 'Kana'; a revised transliteration reads 'Ku'. No inscription names Cana of Galilee.
+place:cana,Cana of Galilee,coin,n/a,,
+place:cana,Cana of Galilee,structure-or-site,found,site:khirbet-qana,"site:khirbet-qana (John 2 node, reused): Edwards/McCollough excavations show a modest Roman-period Jewish village with mikvehs - a village of the right name, period and region; identification with Cana remains debated (grade C on the edge)."
+place:cana,Cana of Galilee,burial-or-ossuary,n/a,,
+place:cana,Cana of Galilee,manuscript,n/a,,
+place:cana,Cana of Galilee,documentary-papyrus,n/a,,
+place:cana,Cana of Galilee,jewish-literary,none-found,,"The fetched Cana article says Josephus mentions more than one Cana; the Wikisource Life fetched for this run names only a road to Cana near Julias/Gamala, not the Galilean Cana of John - not entered."
+place:cana,Cana of Galilee,greco-roman-literary,n/a,,
+place:cana,Cana of Galilee,material-culture,n/a,,
+place:cana,Cana of Galilee,geography-or-nature,n/a,,
+place:cana,Cana of Galilee,astronomy-or-calendar,n/a,,
+place:sychar,Sychar,inscription,none-found,,Searched the Sychar/Shechem Wikipedia pages; no inscription names Sychar.
+place:sychar,Sychar,coin,n/a,,
+place:sychar,Sychar,structure-or-site,found,site:tell-balata,"Tell Balata, identified with ancient Shechem, is the leading candidate for Sychar, but the identification is disputed (a village under Mount Ebal is argued) - grade D on the edge."
+place:sychar,Sychar,burial-or-ossuary,n/a,,
+place:sychar,Sychar,manuscript,n/a,,
+place:sychar,Sychar,documentary-papyrus,n/a,,
+place:sychar,Sychar,jewish-literary,none-found,,"Josephus does not name Sychar; Eusebius's Onomasticon discusses it only in modern summaries - no page stating it was fetched, so not entered."
+place:sychar,Sychar,greco-roman-literary,n/a,,
+place:sychar,Sychar,material-culture,n/a,,
+place:sychar,Sychar,geography-or-nature,none-found,,"The location debate (Shechem vs a village under Mount Ebal, about 1 km from Jacob's Well) is recorded on the attests edges; no further geographical evidence fetched."
+place:sychar,Sychar,astronomy-or-calendar,n/a,,

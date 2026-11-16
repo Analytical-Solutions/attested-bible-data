@@ -1,0 +1,57 @@
+{
+ "source:bible-api-isaiah-5-1-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/Isaiah%205:1-2?translation=web"
+ },
+ "source:bible-api-psalm-69-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalms+69:4?translation=web"
+ },
+ "source:wikipedia-ancient-cuisine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ancient_Israelite_cuisine"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-codex-vaticanus-date": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-herodian-coinage-archelaus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodian_coinage"
+ },
+ "source:wikipedia-israeli-wine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Israeli_wine"
+ },
+ "source:wikipedia-papyrus-66": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_66"
+ },
+ "source:wikipedia-papyrus-75-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ },
+ "source:wikisource-war-5-temple-gold": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_V"
+ }
+}

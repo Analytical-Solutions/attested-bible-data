@@ -1,0 +1,69 @@
+{
+ "book": "acts",
+ "chapter": 21,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    2
+   ],
+   "setting": "place:patara",
+   "confidence": "stated",
+   "basis": "21:1 \"we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara\"; 21:2 \"Having found a ship crossing over to Phoenicia, we went aboard, and set sail\" - the ship is found at Patara, the last stop of 21:1"
+  },
+  {
+   "verses": [
+    3,
+    6
+   ],
+   "setting": "place:tyre",
+   "confidence": "stated",
+   "basis": "21:3 \"we sailed to Syria, and landed at Tyre, for there the ship was to unload her cargo\"; 21:4 \"Having found disciples, we stayed there seven days\""
+  },
+  {
+   "verses": [
+    7,
+    7
+   ],
+   "setting": "place:ptolemais",
+   "confidence": "stated",
+   "basis": "21:7 \"When we had finished the voyage from Tyre, we arrived at Ptolemais. We greeted the brothers, and stayed with them one day\""
+  },
+  {
+   "verses": [
+    8,
+    16
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "21:8 \"we, who were Paul’s companions, departed, and came to Caesarea. We entered into the house of Philip the evangelist\"; 21:10 \"As we stayed there some days, a certain prophet named Agabus came down from Judea\""
+  },
+  {
+   "verses": [
+    17,
+    25
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "21:17 \"When we had come to Jerusalem, the brothers received us gladly\"; 21:18 \"Paul went in with us to James; and all the elders were present\""
+  },
+  {
+   "verses": [
+    26,
+    30
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "21:26 \"purified himself and went with them into the temple, declaring the fulfillment of the days of purification\"; 21:27 \"the Jews from Asia, when they saw him in the temple, stirred up all the multitude\"; 21:30 \"They seized Paul and dragged him out of the temple\""
+  },
+  {
+   "verses": [
+    31,
+    40
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "21:31 \"news came up to the commanding officer of the regiment that all Jerusalem was in an uproar\"; 21:34 \"he commanded him to be brought into the barracks\"; 21:40 \"Paul, standing on the stairs, beckoned with his hand to the people\""
+  }
+ ]
+}

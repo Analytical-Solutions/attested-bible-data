@@ -1,0 +1,265 @@
+{"from": "passage:lk-24-01", "type": "asserts", "to": "claim:mt-28-01-mary-tomb"}
+{"from": "passage:lk-24-01", "type": "asserts", "to": "claim:mt-28-01-first-day-week"}
+{"from": "passage:lk-24-02", "type": "asserts", "to": "claim:mt-28-02-06-tomb-stone"}
+{"from": "passage:lk-24-03", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:lk-24-05", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:lk-24-06", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:lk-24-20", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:lk-24-47", "type": "asserts", "to": "claim:mk-16-15-18-commission-signs"}
+{"from": "passage:lk-24-01", "type": "asserts", "to": "claim:lk-24-01-spices-prepared"}
+{"from": "passage:lk-24-04", "type": "asserts", "to": "claim:lk-24-04-two-men-dazzling"}
+{"from": "passage:lk-24-05", "type": "asserts", "to": "claim:lk-24-04-two-men-dazzling"}
+{"from": "passage:lk-24-09", "type": "asserts", "to": "claim:lk-24-09-11-report-disbelieved"}
+{"from": "passage:lk-24-10", "type": "asserts", "to": "claim:lk-24-09-11-report-disbelieved"}
+{"from": "passage:lk-24-11", "type": "asserts", "to": "claim:lk-24-09-11-report-disbelieved"}
+{"from": "passage:lk-24-10", "type": "asserts", "to": "claim:lk-24-10-women-named"}
+{"from": "passage:lk-24-12", "type": "asserts", "to": "claim:lk-24-12-peter-tomb"}
+{"from": "passage:lk-24-13", "type": "asserts", "to": "claim:lk-24-13-emmaus-distance"}
+{"from": "passage:lk-24-18", "type": "asserts", "to": "claim:lk-24-18-cleopas"}
+{"from": "passage:lk-24-15", "type": "asserts", "to": "claim:lk-24-15-31-emmaus-appearance"}
+{"from": "passage:lk-24-28", "type": "asserts", "to": "claim:lk-24-15-31-emmaus-appearance"}
+{"from": "passage:lk-24-30", "type": "asserts", "to": "claim:lk-24-15-31-emmaus-appearance"}
+{"from": "passage:lk-24-31", "type": "asserts", "to": "claim:lk-24-15-31-emmaus-appearance"}
+{"from": "passage:lk-24-33", "type": "asserts", "to": "claim:lk-24-33-35-report-simon"}
+{"from": "passage:lk-24-34", "type": "asserts", "to": "claim:lk-24-33-35-report-simon"}
+{"from": "passage:lk-24-36", "type": "asserts", "to": "claim:lk-24-36-43-jerusalem-appearance"}
+{"from": "passage:lk-24-39", "type": "asserts", "to": "claim:lk-24-36-43-jerusalem-appearance"}
+{"from": "passage:lk-24-42", "type": "asserts", "to": "claim:lk-24-36-43-jerusalem-appearance"}
+{"from": "passage:lk-24-49", "type": "asserts", "to": "claim:lk-24-49-wait-power"}
+{"from": "passage:lk-24-50", "type": "asserts", "to": "claim:lk-24-50-51-ascension-bethany"}
+{"from": "passage:lk-24-51", "type": "asserts", "to": "claim:lk-24-50-51-ascension-bethany"}
+{"from": "passage:lk-24-52", "type": "asserts", "to": "claim:lk-24-52-53-temple-praise"}
+{"from": "passage:lk-24-53", "type": "asserts", "to": "claim:lk-24-52-53-temple-praise"}
+{"from": "claim:lk-24-10-women-named", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:lk-24-10-women-named", "type": "mentions", "to": "person:joanna"}
+{"from": "claim:lk-24-12-peter-tomb", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:lk-24-13-emmaus-distance", "type": "mentions", "to": "place:emmaus"}
+{"from": "claim:lk-24-13-emmaus-distance", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-24-15-31-emmaus-appearance", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-24-15-31-emmaus-appearance", "type": "mentions", "to": "place:emmaus"}
+{"from": "claim:lk-24-33-35-report-simon", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:lk-24-33-35-report-simon", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-24-36-43-jerusalem-appearance", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-24-36-43-jerusalem-appearance", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-24-49-wait-power", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-24-50-51-ascension-bethany", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-24-50-51-ascension-bethany", "type": "mentions", "to": "place:bethany"}
+{"from": "claim:lk-24-52-53-temple-praise", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:lk-24-01-spices-prepared", "type": "related_to", "to": "claim:mk-16-01-08-spices-tomb", "note": "Luke says the women brought spices they had prepared; Mark has them buy spices after the Sabbath to anoint the body."}
+{"from": "claim:lk-24-04-two-men-dazzling", "type": "related_to", "to": "claim:mt-28-02-04-angel", "note": "Matthew has one angel of the Lord who descends like lightning amid an earthquake; Luke has two men in dazzling clothing already standing by the women (Mark 16:5, a young man in a white robe)."}
+{"from": "claim:lk-24-09-11-report-disbelieved", "type": "related_to", "to": "claim:mk-16-01-08-spices-tomb", "note": "Mark's canonical ending has the women flee and tell no one out of fear (16:8); Luke has them report at once and be disbelieved (24:11)."}
+{"from": "claim:lk-24-09-11-report-disbelieved", "type": "related_to", "to": "claim:mt-28-06-resurrection", "note": "Matthew's women depart quickly with fear and great joy to report; Luke reports the message and adds the disciples' disbelief."}
+{"from": "claim:lk-24-10-women-named", "type": "related_to", "to": "claim:mt-28-01-mary-tomb", "note": "Luke names Mary Magdalene, Joanna and Mary the mother of James; Matthew names Mary Magdalene and the other Mary; Mark 16:1 adds Salome."}
+{"from": "claim:lk-24-15-31-emmaus-appearance", "type": "related_to", "to": "claim:mk-16-09-14-appearances", "note": "Mark's longer ending: revealed 'in another form to two of them as they walked, on their way into the country' (16:12-13), place unnamed; Luke names Emmaus and the recognition in the breaking of bread."}
+{"from": "claim:lk-24-33-35-report-simon", "type": "related_to", "to": "claim:mk-16-09-14-appearances", "note": "Luke reports an appearance to Simon before the Jerusalem gathering (24:34); Mark's longer ending lists Mary Magdalene and two on the road, but no appearance to Simon alone."}
+{"from": "claim:lk-24-36-43-jerusalem-appearance", "type": "related_to", "to": "claim:mt-28-09-17-appearances", "note": "Matthew's appearances are to the women (28:9) and to the eleven on a Galilean mountain, 'but some doubted' (28:17); Luke has the gathered disciples in Jerusalem, invited to touch and eating fish."}
+{"from": "claim:lk-24-36-43-jerusalem-appearance", "type": "related_to", "to": "claim:mk-16-09-14-appearances", "note": "Mark's longer ending: revealed to the eleven as they sat at table and rebuking their unbelief (16:14); Luke: standing among them, showing hands and feet, eating broiled fish."}
+{"from": "claim:lk-24-49-wait-power", "type": "related_to", "to": "claim:mk-16-15-18-commission-signs", "note": "Luke has the disciples wait in Jerusalem until clothed with power from on high; Mark's commission sends them out at once; Matthew's is given on a Galilean mountain."}
+{"from": "claim:lk-24-50-51-ascension-bethany", "type": "related_to", "to": "claim:mk-16-19-20-ascension", "note": "Luke localizes the ascension 'as far as Bethany' (24:50); Mark's longer ending gives no location and adds sitting at the right hand of God; Acts 1 places the ascension on the Mount of Olives."}
+{"from": "passage:lk-24-01", "type": "parallels", "to": "passage:mt-28-01", "note": "The women at the tomb on the first day of the week; Luke's group is larger ('they and some others') and brings spices already prepared."}
+{"from": "passage:lk-24-01", "type": "parallels", "to": "passage:mk-16-01", "note": "The women and the spices; Mark's three women buy spices, Luke's bring spices they had prepared."}
+{"from": "passage:lk-24-01", "type": "parallels", "to": "passage:mk-16-02", "note": "Early dawn on the first day of the week; Mark 'when the sun had risen', Luke 'at early dawn'."}
+{"from": "passage:lk-24-02", "type": "parallels", "to": "passage:mt-28-02", "note": "The stone at the tomb's door; Matthew's angel rolls it away amid an earthquake, Luke's women simply find it rolled away."}
+{"from": "passage:lk-24-02", "type": "parallels", "to": "passage:mk-16-04", "note": "The stone found rolled back/away from the tomb."}
+{"from": "passage:lk-24-03", "type": "parallels", "to": "passage:mt-28-06", "note": "The tomb without the body: 'He is not here, for he has risen.'"}
+{"from": "passage:lk-24-03", "type": "parallels", "to": "passage:mk-16-06", "note": "'He has risen. He is not here.'"}
+{"from": "passage:lk-24-04", "type": "parallels", "to": "passage:mt-28-03", "note": "The angelic figure(s): Matthew one angel whose appearance is 'like lightning', Luke two men in dazzling clothing."}
+{"from": "passage:lk-24-04", "type": "parallels", "to": "passage:mk-16-05", "note": "A young man in a white robe inside the tomb (Mark) against two men in dazzling clothing (Luke)."}
+{"from": "passage:lk-24-05", "type": "parallels", "to": "passage:mt-28-05", "note": "The women's fear answered at the tomb."}
+{"from": "passage:lk-24-05", "type": "parallels", "to": "passage:mk-16-06", "note": "The heavenly figure's message at the tomb."}
+{"from": "passage:lk-24-06", "type": "parallels", "to": "passage:mt-28-06", "note": "'He is not here, but is risen', with the recall of his words."}
+{"from": "passage:lk-24-06", "type": "parallels", "to": "passage:mk-16-06", "note": "'He has risen. He is not here.'"}
+{"from": "passage:lk-24-08", "type": "parallels", "to": "passage:mt-28-08", "note": "The women leave the tomb to report; Matthew adds 'with fear and great joy'."}
+{"from": "passage:lk-24-08", "type": "parallels", "to": "passage:mk-16-08", "note": "The women's departure; Mark's ending has them flee in fear and tell no one, Luke has them report."}
+{"from": "passage:lk-24-09", "type": "parallels", "to": "passage:mt-28-08", "note": "The report to the disciples."}
+{"from": "passage:lk-24-10", "type": "parallels", "to": "passage:mk-16-01", "note": "The named women: Luke adds Joanna and omits Salome."}
+{"from": "passage:lk-24-20", "type": "parallels", "to": "passage:mt-27-26", "note": "The condemnation to death and crucifixion, summarized in Cleopas's words on the Emmaus road."}
+{"from": "passage:lk-24-36", "type": "parallels", "to": "passage:mk-16-14", "note": "The risen Jesus with the gathered eleven; Mark's longer ending has him revealed at table, Luke standing among them."}
+{"from": "passage:lk-24-36", "type": "parallels", "to": "passage:mt-28-17", "note": "The eleven see the risen Jesus; Matthew on a mountain in Galilee, Luke in Jerusalem that same day."}
+{"from": "passage:lk-24-47", "type": "parallels", "to": "passage:mk-16-15", "note": "The commission to preach to all: Luke 'to all the nations, beginning at Jerusalem', Mark 'into all the world'."}
+{"from": "passage:lk-24-47", "type": "parallels", "to": "passage:mt-28-19", "note": "The commission to all nations; Matthew adds baptizing in the triune name."}
+{"from": "passage:lk-24-50", "type": "parallels", "to": "passage:mk-16-19", "note": "The ascension; Luke localizes it at Bethany and has the blessing with lifted hands, Mark's longer ending adds sitting at the right hand of God."}
+{"from": "passage:lk-24-51", "type": "parallels", "to": "passage:mk-16-19", "note": "'Was carried up into heaven' (Luke, where the words are present) against 'received up into heaven' (Mark)."}
+{"from": "text:josephus-war-1-673-spices", "type": "attests", "to": "claim:lk-24-01-spices-prepared", "grade": "C", "note": "Herod's 4 BCE funeral: 'five hundred of his domestic servants and freed-men followed, with sweet spices in their hands' - burial spices in a first-century Judean funeral of the period; it attests the custom, not the women's purchase or their visit."}
+{"from": "site:emmaus-nicopolis", "type": "attests", "to": "claim:lk-24-13-emmaus-distance", "grade": "D", "note": "The oldest known identification (Eusebius, Onomasticon, 4th century; the site of the Byzantine basilica), but the fetched Emmaus article places Imwas at 153-161 stadia from Jerusalem - fitting the 160-stadia variant reading, not the 60 stadia of the standard text. The identification is disputed and this site attests an Emmaus tradition, not Luke's distance."}
+{"from": "site:emmaus-colonia-motza", "type": "attests", "to": "claim:lk-24-13-emmaus-distance", "grade": "D", "note": "Motza/Colonia (Qalunya), about 8 km west of Jerusalem, identified as Luke's Emmaus by Birch (1881) and Savi (1893); excavated by Thiede (2001-2003), a strong proponent of the identification. Josephus's War 7.217 veteran settlement is tied to this area, but whether Josephus's Emmaus is this place is 'now uncertain' per the fetched article."}
+{"from": "site:emmaus-qubeibeh", "type": "attests", "to": "claim:lk-24-13-emmaus-distance", "grade": "D", "note": "El-Qubeibeh on the Roman road to Lydda: the fetched article gives 63 stadia from Jerusalem and says Luke's 60 stadia is 'a distance very close to the actual 65 stadia to Qubeibeh', but also that there is no source from the Roman, Byzantine or Early Muslim periods naming it 'Emmaus' for the time of Jesus - a later (Crusader-era) tradition."}
+{"from": "site:emmaus-abu-ghosh", "type": "attests", "to": "claim:lk-24-13-emmaus-distance", "grade": "D", "note": "Abu Ghosh, c. 7 mi (11 km) west of Jerusalem, roughly Luke's 60 stadia; per the fetched article the celebration of the Emmaus apparition there began in the Crusader period, so the identification is late tradition, not period evidence."}
+{"from": "site:emmaus-nicopolis", "type": "complicates", "to": "claim:lk-24-13-emmaus-distance", "note": "Nicopolis/Imwas lies about 153-161 stadia (18.6-19.6 miles) from Jerusalem per the fetched article - roughly three times Luke's sixty stadia; the site fits the 160-stadia variant manuscripts, not the standard text, so the oldest identification is in tension with the claim as written."}
+{"from": "text:josephus-war-7-217-emmaus", "type": "attests", "to": "claim:lk-24-13-emmaus-distance", "grade": "D", "note": "Josephus: Caesar 'assigned a place for eight hundred men only, whom he had dismissed from his army... it is called Emmaus, and is distant from Jerusalem threescore furlongs' - a village named Emmaus with 800 veteran settlers near Jerusalem. Whiston's English says 'threescore' (60) furlongs, matching Luke; his footnote notes the Greek copies usually read sixty 'though the Latin copies say only thirty' (the reading behind the brief's '30 stadia'). The identification of Josephus's Emmaus with Luke's is 'now uncertain' per the fetched Emmaus article."}
+{"from": "text:eusebius-onomasticon-emmaus", "type": "attests", "to": "place:emmaus", "grade": "D", "note": "Reception: Eusebius was 'probably the first to mention Nicopolis as biblical Emmaus in his Onomasticon' and Jerome implied a church at Nicopolis in the house of Cleopas - a 4th-century pilgrimage tradition dependent on Luke, not independent evidence for the village's identity."}
+{"from": "site:bethany-al-eizariya", "type": "attests", "to": "claim:lk-24-50-51-ascension-bethany", "grade": "C", "note": "The excavated village of Bethany (al-Eizariya; Saller 1949-1953: houses, rock-cut tombs, wine-presses, cisterns, Persian-to-Roman pottery) confirms the specific setting - a village named Bethany about 3 km east of Jerusalem on the Mount of Olives road 'as far as' which Jesus led them; it attests the setting, not the ascension. The fetched article records that some believe the present village does not occupy the ancient site. Regraded B to C by architect review, consistent with Luke 21 and Matthew 26: the identification of al-Eizariya with the ancient village is debated."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:lk-24-52-53-temple-praise", "grade": "B", "note": "Herod's Second Temple stood in Jerusalem through this period and was the city's place of daily worship; it attests the setting of 'continually in the temple, praising and blessing God', not the disciples' practice itself."}
+{"from": "site:emmaus-nicopolis", "type": "documented_by", "to": "source:wikipedia-emmaus"}
+{"from": "site:emmaus-nicopolis", "type": "documented_by", "to": "source:wikipedia-emmaus-eusebius"}
+{"from": "site:emmaus-nicopolis", "type": "documented_by", "to": "source:wikipedia-emmaus-nicopolis"}
+{"from": "site:emmaus-colonia-motza", "type": "documented_by", "to": "source:wikipedia-emmaus"}
+{"from": "site:emmaus-colonia-motza", "type": "documented_by", "to": "source:wikipedia-emmaus-josephus"}
+{"from": "site:emmaus-qubeibeh", "type": "documented_by", "to": "source:wikipedia-emmaus-qubeibeh"}
+{"from": "site:emmaus-qubeibeh", "type": "documented_by", "to": "source:wikipedia-emmaus-qubeibeh-nosource"}
+{"from": "site:emmaus-abu-ghosh", "type": "documented_by", "to": "source:wikipedia-emmaus-abu-ghosh"}
+{"from": "text:josephus-war-7-217-emmaus", "type": "documented_by", "to": "source:wikisource-war7-emmaus"}
+{"from": "text:josephus-war-7-217-emmaus", "type": "documented_by", "to": "source:wikisource-war7-reland"}
+{"from": "text:eusebius-onomasticon-emmaus", "type": "documented_by", "to": "source:wikipedia-emmaus-eusebius"}
+{"from": "claim:lk-24-13-emmaus-distance", "type": "documented_by", "to": "source:wikipedia-emmaus"}
+{"from": "claim:lk-24-13-emmaus-distance", "type": "documented_by", "to": "source:wikipedia-emmaus-identification"}
+{"from": "claim:lk-24-18-cleopas", "type": "documented_by", "to": "source:wikipedia-cleopas"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-36"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-37"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-38"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-39"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-40"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-41"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-42"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-43"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-44"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-45"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-46"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-47"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-48"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-49"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-50"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-51"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-52"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-52"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-24-53"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-24-53"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-24-53"}

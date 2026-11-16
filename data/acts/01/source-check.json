@@ -1,0 +1,42 @@
+{
+ "source:bible-api-psalm-109-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalm+109:8?translation=web"
+ },
+ "source:bible-api-psalm-69-25": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalm+69:25?translation=web"
+ },
+ "source:sefaria-mishnah-eruvin-4-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Eruvin.4.3"
+ },
+ "source:sefaria-mishnah-eruvin-5-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Eruvin.5.7"
+ },
+ "source:sefaria-mishnah-tamid-3-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Tamid.3.7"
+ },
+ "source:wikipedia-akeldama-judas-accounts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Akeldama"
+ },
+ "source:wikipedia-cenacle": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cenacle"
+ },
+ "source:wikipedia-sabbath-days-journey": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sabbath_day%27s_journey"
+ }
+}

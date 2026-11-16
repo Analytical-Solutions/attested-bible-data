@@ -1,0 +1,78 @@
+{
+  "book": "mark",
+  "chapter": 14,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        2
+      ],
+      "setting": "place:jerusalem",
+      "basis": "14:1 \"the chief priests and the scribes sought how they might seize him\" - the authorities in Jerusalem (11:27), no movement of Jesus",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        3,
+        9
+      ],
+      "setting": "place:bethany",
+      "basis": "14:3 \"While he was at Bethany, in the house of Simon the leper\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        10,
+        11
+      ],
+      "setting": "place:jerusalem",
+      "basis": "14:10 \"Judas Iscariot... went away to the chief priests\" - in Jerusalem (14:1)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        12,
+        16
+      ],
+      "setting": "place:jerusalem",
+      "basis": "14:13 \"Go into the city\"; 14:16 \"His disciples went out, and came into the city\" - Jerusalem (11:27; 15:41)",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        17,
+        25
+      ],
+      "setting": "place:jerusalem",
+      "basis": "14:17 \"When it was evening he came with the twelve\" - to the prepared upper room in the city (14:15)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        26,
+        31
+      ],
+      "setting": "place:mount-of-olives",
+      "basis": "14:26 \"When they had sung a hymn, they went out to the Mount of Olives\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        32,
+        52
+      ],
+      "setting": "place:gethsemane",
+      "basis": "14:32 \"They came to a place which was named Gethsemane\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        53,
+        72
+      ],
+      "setting": "place:jerusalem",
+      "basis": "14:53 \"They led Jesus away to the high priest... until he came into the court of the high priest\" - in Jerusalem",
+      "confidence": "inferred"
+    }
+  ]
+}

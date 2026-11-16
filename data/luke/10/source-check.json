@@ -1,0 +1,47 @@
+{
+ "source:bible-api-numbers-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/numbers+19:11-13?translation=web"
+ },
+ "source:sefaria-oholot-2-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Oholot_2.1"
+ },
+ "source:wikipedia-adummim": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Adummim"
+ },
+ "source:wikipedia-deathstalker": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Leiurus_quinquestriatus"
+ },
+ "source:wikipedia-good-samaritan-inn": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Inn_of_the_Good_Samaritan"
+ },
+ "source:wikipedia-seventy-disciples": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Seventy_disciples"
+ },
+ "source:wikipedia-wound-care": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/History_of_wound_care"
+ },
+ "source:wikisource-war2-bethboron": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wikisource-war4-jericho-road": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_IV"
+ }
+}

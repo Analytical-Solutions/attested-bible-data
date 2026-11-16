@@ -1,0 +1,51 @@
+{
+ "book": "luke",
+ "chapter": 19,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    10
+   ],
+   "setting": "place:jericho",
+   "confidence": "stated",
+   "basis": "19:1 \"He entered and was passing through Jericho\"; 19:2 \"a man named Zacchaeus. He was a chief tax collector\""
+  },
+  {
+   "verses": [
+    11,
+    27
+   ],
+   "setting": "place:jericho",
+   "confidence": "inferred",
+   "basis": "19:11 \"he went on and told a parable, because he was near Jerusalem\" - the parable is told while leaving Jericho (19:1), before \"he went on ahead\" (19:28)"
+  },
+  {
+   "verses": [
+    28,
+    40
+   ],
+   "setting": "place:bethphage",
+   "confidence": "stated",
+   "basis": "19:29 \"he came near to Bethsphage and Bethany, at the mountain that is called Olivet\"; 19:30 \"Go your way into the village on the other side\" - the colt is found in Bethsphage and the procession begins (19:36-38)"
+  },
+  {
+   "verses": [
+    41,
+    44
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "19:41 \"he saw the city and wept over it\""
+  },
+  {
+   "verses": [
+    45,
+    48
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "19:45 \"He entered into the temple, and began to drive out those who bought and sold in it\""
+  }
+ ]
+}

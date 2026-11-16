@@ -1,0 +1,207 @@
+{"from": "passage:lk-13-01", "type": "asserts", "to": "claim:lk-13-01-galileans-killed"}
+{"from": "passage:lk-13-02", "type": "asserts", "to": "claim:lk-13-01-galileans-killed"}
+{"from": "passage:lk-13-03", "type": "asserts", "to": "claim:lk-13-01-galileans-killed"}
+{"from": "passage:lk-13-04", "type": "asserts", "to": "claim:lk-13-04-tower-siloam"}
+{"from": "passage:lk-13-04", "type": "asserts", "to": "claim:lk-13-04-siloam-fountain"}
+{"from": "passage:lk-13-05", "type": "asserts", "to": "claim:lk-13-04-tower-siloam"}
+{"from": "passage:lk-13-06", "type": "asserts", "to": "claim:lk-13-06-09-fig-tree-cultivation"}
+{"from": "passage:lk-13-07", "type": "asserts", "to": "claim:lk-13-06-09-fig-tree-cultivation"}
+{"from": "passage:lk-13-08", "type": "asserts", "to": "claim:lk-13-06-09-fig-tree-cultivation"}
+{"from": "passage:lk-13-09", "type": "asserts", "to": "claim:lk-13-06-09-fig-tree-cultivation"}
+{"from": "passage:lk-13-10", "type": "asserts", "to": "claim:mt-12-09-taught-in-their-synagogue"}
+{"from": "passage:lk-13-11", "type": "asserts", "to": "claim:lk-13-11-13-bent-woman-healed"}
+{"from": "passage:lk-13-12", "type": "asserts", "to": "claim:lk-13-11-13-bent-woman-healed"}
+{"from": "passage:lk-13-13", "type": "asserts", "to": "claim:lk-13-11-13-bent-woman-healed"}
+{"from": "passage:lk-13-16", "type": "asserts", "to": "claim:lk-13-11-13-bent-woman-healed"}
+{"from": "passage:lk-13-14", "type": "asserts", "to": "claim:lk-13-14-archisynagogos"}
+{"from": "passage:lk-13-14", "type": "asserts", "to": "claim:mt-12-10-sabbath-healing-debate"}
+{"from": "passage:lk-13-15", "type": "asserts", "to": "claim:lk-13-15-sabbath-animal-watering"}
+{"from": "passage:lk-13-19", "type": "asserts", "to": "claim:mt-13-32-mustard-tree-birds"}
+{"from": "passage:lk-13-19", "type": "asserts", "to": "claim:lk-13-19-mustard-garden"}
+{"from": "passage:lk-13-21", "type": "asserts", "to": "claim:mt-13-33-leaven-three-measures"}
+{"from": "passage:lk-13-22", "type": "asserts", "to": "claim:mt-09-35-teaching-synagogues"}
+{"from": "passage:lk-13-24", "type": "asserts", "to": "claim:lk-13-24-narrow-door"}
+{"from": "passage:lk-13-29", "type": "asserts", "to": "claim:mt-08-11-east-west-banquet"}
+{"from": "passage:lk-13-30", "type": "asserts", "to": "claim:mt-19-30-first-last"}
+{"from": "passage:lk-13-31", "type": "asserts", "to": "claim:lk-13-31-herod-fox"}
+{"from": "passage:lk-13-32", "type": "asserts", "to": "claim:lk-13-31-herod-fox"}
+{"from": "passage:lk-13-34", "type": "asserts", "to": "claim:mt-23-37-38-jerusalem-desolate"}
+{"from": "passage:lk-13-35", "type": "asserts", "to": "claim:mt-23-39-psalm-118-26"}
+{"from": "passage:lk-13-15", "type": "parallels", "to": "passage:mt-12-11"}
+{"from": "passage:lk-13-16", "type": "parallels", "to": "passage:mt-12-12"}
+{"from": "passage:lk-13-19", "type": "parallels", "to": "passage:mt-13-31"}
+{"from": "passage:lk-13-19", "type": "parallels", "to": "passage:mt-13-32"}
+{"from": "passage:lk-13-19", "type": "parallels", "to": "passage:mk-04-31"}
+{"from": "passage:lk-13-19", "type": "parallels", "to": "passage:mk-04-32"}
+{"from": "passage:lk-13-21", "type": "parallels", "to": "passage:mt-13-33"}
+{"from": "passage:lk-13-24", "type": "parallels", "to": "passage:mt-07-13"}
+{"from": "passage:lk-13-24", "type": "parallels", "to": "passage:mt-07-14"}
+{"from": "passage:lk-13-25", "type": "parallels", "to": "passage:mt-25-11"}
+{"from": "passage:lk-13-26", "type": "parallels", "to": "passage:mt-07-22"}
+{"from": "passage:lk-13-27", "type": "parallels", "to": "passage:mt-07-23"}
+{"from": "passage:lk-13-28", "type": "parallels", "to": "passage:mt-08-12"}
+{"from": "passage:lk-13-29", "type": "parallels", "to": "passage:mt-08-11"}
+{"from": "passage:lk-13-30", "type": "parallels", "to": "passage:mt-19-30"}
+{"from": "passage:lk-13-30", "type": "parallels", "to": "passage:mt-20-16"}
+{"from": "passage:lk-13-30", "type": "parallels", "to": "passage:mk-10-31"}
+{"from": "passage:lk-13-34", "type": "parallels", "to": "passage:mt-23-37"}
+{"from": "passage:lk-13-34", "type": "parallels", "to": "passage:mt-23-38"}
+{"from": "passage:lk-13-35", "type": "parallels", "to": "passage:mt-23-39"}
+{"from": "claim:lk-13-15-sabbath-animal-watering", "type": "related_to", "to": "claim:mt-12-11-sheep-in-pit", "note": "Luke's Sabbath example is untying an ox or donkey to water it; Matthew's is lifting a sheep out of a pit - the same Sabbath-animal debate, different cases."}
+{"from": "claim:lk-13-19-mustard-garden", "type": "related_to", "to": "claim:mt-13-31-mustard-sown-in-field", "note": "Luke says the man put the mustard seed in his own garden; Matthew says he sowed it in his field - the same parable, different venue."}
+{"from": "claim:lk-13-24-narrow-door", "type": "related_to", "to": "claim:mt-07-13-14-gate-road", "note": "Luke's image is the narrow door of a house whose master shuts it; Matthew's is the narrow gate and broad road of a town."}
+{"from": "claim:lk-13-31-herod-fox", "type": "related_to", "to": "claim:mt-14-10-john-beheaded-in-prison", "note": "The same Herod Antipas had already beheaded John the Baptist in the prison (Matt 14:10); Luke 13:31 reports a threat against Jesus that no other Gospel records."}
+{"from": "text:josephus-war-2-169-177", "type": "attests", "to": "claim:lk-13-01-galileans-killed", "grade": "C", "note": "The Corban-aqueduct uproar: Pilate's soldiers clubbed the crowd around his tribunal in Jerusalem, 'many of them perished by the stripes' - Pilate's documented use of lethal force against Judean crowds in Jerusalem. It does not name the Galileans' event."}
+{"from": "text:josephus-ant-18-85-89", "type": "attests", "to": "claim:lk-13-01-galileans-killed", "grade": "C", "note": "The Samaritan tumult (c. 36 CE): 'Pilate destroyed many of them' at Mount Gerizim - the same governor's troops massacring a crowd gathered at a sacred place. A different region and people, so context, not the event."}
+{"from": "text:philo-embassy-38-pilate", "type": "attests", "to": "claim:lk-13-01-galileans-killed", "grade": "C", "note": "Philo's indictment of Pilate's governorship (executions without trial, ceaseless slaughter) confirms the reputation for deadly violence that makes Luke's report credible; it names no Galilean victims."}
+{"from": "text:josephus-war-5-siloam", "type": "attests", "to": "place:siloam", "grade": "A", "note": "Josephus: the Valley of the Cheesemongers 'extended as far as Siloam; for that is the name of a fountain which hath sweet water in it, and this in great plenty also' - the name and the water at the city's south."}
+{"from": "text:josephus-war-5-siloam", "type": "attests", "to": "claim:lk-13-04-siloam-fountain", "grade": "A", "note": "Josephus names Siloam as a plentiful sweet-water fountain at the southern wall of Jerusalem - the same named place the 'tower in Siloam' belongs to."}
+{"from": "site:pool-of-siloam", "type": "attests", "to": "place:siloam", "grade": "A", "note": "The Second Temple period pool rediscovered in 2004 (Shukron and Reich) excavates Siloam's waterworks in use in the first century."}
+{"from": "site:pool-of-siloam", "type": "identified_as", "to": "place:siloam", "note": "The excavated pool and the village of Silwan carry the name; the identification is not disputed for the pool itself."}
+{"from": "site:pool-of-siloam", "type": "attests", "to": "claim:lk-13-04-tower-siloam", "grade": "B", "note": "The excavated pool and its setting fix the first-century Siloam the tower belonged to; the site does not attest the collapse or the eighteen deaths."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:lk-13-14-archisynagogos", "grade": "C", "note": "The Theodotos inscription (Jerusalem, 1st century BCE-70 CE) commemorates a synagogue built by 'a priest and a synagogue leader (archisynagogos)' - the exact office of Luke's indignant ruler. Regraded A to C by architect review for consistency with Mark 5:22 (Jairus): the inscription attests the office in a Jerusalem synagogue; Luke's synagogue and its ruler are unnamed and elsewhere."}
+{"from": "text:damascus-document-11-13-14", "type": "attests", "to": "claim:lk-13-15-sabbath-animal-watering", "grade": "C", "note": "The Damascus Document forbids raising an animal that has fallen into a pit on the Sabbath - the same live debate over Sabbath help to animals among Second Temple Jewish groups. It does not state the permissive watering rule; grade covers the debate, not the custom as Luke states it. Regraded B to C by reviewer 7: calibration B requires the same practice in the same place and period, and a grade covers the whole claim (docs/calibration.md); CD's pit rule never states the watering custom and comes from one strict sect, so it is context for the Sabbath-animal debate, not the practice the claim asserts."}
+{"from": "observation:grape-fig-cultivation-levant", "type": "attests", "to": "claim:lk-13-06-09-fig-tree-cultivation", "grade": "C", "note": "Figs were a staple of ancient Israel's agriculture, matching the parable's cultivated fig tree in a vineyard; the observation is general, not about this tree."}
+{"from": "observation:fig-breba-crop", "type": "attests", "to": "claim:lk-13-06-09-fig-tree-cultivation", "grade": "C", "note": "Fig trees' bearing behavior (a spring breba crop before the main crop) is the botanical context for judging a tree's fruitlessness over seasons; it does not attest the parable's three years."}
+{"from": "observation:mustard-botany", "type": "attests", "to": "claim:lk-13-19-mustard-garden", "grade": "C", "note": "Black mustard is a fast-growing herb of the region grown for its tiny seeds - the botanical setting of the parable; the observation documents the plant, not the saying."}
+{"from": "observation:salvadora-mustard-tree", "type": "attests", "to": "claim:lk-13-19-mustard-garden", "grade": "C", "note": "Salvadora persica, the 'mustard tree', is a small tree of the region - a candidate for the tree the birds lodge in; its identification is one modern proposal among several."}
+{"from": "observation:red-fox-range-levant", "type": "attests", "to": "claim:lk-13-31-herod-fox", "grade": "C", "note": "The red fox is native and common in the Levant and digs dens - the animal is familiar in the region, giving the epithet its edge; it attests the fauna, not the exchange with Antipas."}
+{"from": "site:pool-of-siloam", "type": "documented_by", "to": "source:wikipedia-pool-of-siloam"}
+{"from": "text:josephus-war-5-siloam", "type": "documented_by", "to": "source:wikisource-war5-siloam"}
+{"from": "claim:lk-13-04-tower-siloam", "type": "documented_by", "to": "source:wikipedia-tower-of-siloam"}
+{"from": "claim:lk-13-01-galileans-killed", "type": "documented_by", "to": "source:wikipedia-tower-of-siloam"}
+{"from": "place:siloam", "type": "documented_by", "to": "source:wikipedia-pool-of-siloam"}
+{"from": "artifact:papyrus-75", "type": "documented_by", "to": "source:wikipedia-papyrus-75"}
+{"from": "artifact:papyrus-45", "type": "documented_by", "to": "source:wikipedia-p45-luke-content"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-01"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-06"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-07"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-08"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-09"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-10"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-11"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-12"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-13"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-14"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-16"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-17"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-17"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-18"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-19"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-20"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-21"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-22"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-23"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-24"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-29"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-30"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-31"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-32"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-33"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-34"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-13-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-13-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-13-35"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:lk-13-35"}

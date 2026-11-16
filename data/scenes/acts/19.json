@@ -1,0 +1,51 @@
+{
+ "book": "acts",
+ "chapter": 19,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    7
+   ],
+   "setting": "place:ephesus",
+   "confidence": "stated",
+   "basis": "19:1 \"Paul, having passed through the upper country, came to Ephesus, and found certain disciples\""
+  },
+  {
+   "verses": [
+    8,
+    20
+   ],
+   "setting": "place:ephesus",
+   "confidence": "stated",
+   "basis": "19:8 \"He entered into the synagogue, and spoke boldly for a period of three months\"; 19:9 \"he departed from them, and separated the disciples, reasoning daily in the school of Tyrannus\""
+  },
+  {
+   "verses": [
+    21,
+    22
+   ],
+   "setting": "place:ephesus",
+   "confidence": "inferred",
+   "basis": "19:22 \"Having sent into Macedonia two of those who served him, Timothy and Erastus, he himself stayed in Asia for a while\" - Paul is at Ephesus (19:1); the plan to see Rome (19:21) is a plan, never a setting"
+  },
+  {
+   "verses": [
+    23,
+    28
+   ],
+   "setting": "place:ephesus",
+   "confidence": "inferred",
+   "basis": "19:24 \"a certain man named Demetrius, a silversmith, who made silver shrines of Artemis, brought no little business to the craftsmen\" - Demetrius's gathering names no place; the stir is at Ephesus (19:17 \"who lived at Ephesus\")"
+  },
+  {
+   "verses": [
+    29,
+    41
+   ],
+   "setting": "site:great-theater-ephesus",
+   "confidence": "stated",
+   "basis": "19:29 \"The whole city was filled with confusion, and they rushed with one accord into the theater\"; 19:31 \"begged him not to venture into the theater\""
+  }
+ ]
+}

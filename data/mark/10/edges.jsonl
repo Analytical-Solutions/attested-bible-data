@@ -1,0 +1,278 @@
+{"from": "passage:mk-10-01", "type": "asserts", "to": "claim:mt-19-01-journey-beyond-jordan"}
+{"from": "passage:mk-10-01", "type": "asserts", "to": "claim:mt-19-02-healed-multitudes"}
+{"from": "passage:mk-10-01", "type": "parallels", "to": "passage:mt-19-01", "note": "Same journey to the region of Judea beyond the Jordan; Mark adds 'as he usually did, he was again teaching them'."}
+{"from": "passage:mk-10-02", "type": "asserts", "to": "claim:mk-10-02-divorce-question"}
+{"from": "passage:mk-10-02", "type": "parallels", "to": "passage:mt-19-03", "note": "The same test question; Mark asks simply whether a man may divorce his wife, Matthew adds 'for any cause'."}
+{"from": "passage:mk-10-04", "type": "asserts", "to": "claim:mt-19-07-bill-of-divorce"}
+{"from": "passage:mk-10-04", "type": "parallels", "to": "passage:mt-19-07", "note": "The Pharisees cite Moses' permission of a written certificate of divorce."}
+{"from": "passage:mk-10-05", "type": "asserts", "to": "claim:mt-19-07-bill-of-divorce"}
+{"from": "passage:mk-10-06", "type": "asserts", "to": "claim:mt-19-04-male-female-quote"}
+{"from": "passage:mk-10-06", "type": "parallels", "to": "passage:mt-19-04", "note": "The same Genesis 1:27 quotation; Mark introduces it 'from the beginning of the creation'."}
+{"from": "passage:mk-10-07", "type": "asserts", "to": "claim:mt-19-05-one-flesh-quote"}
+{"from": "passage:mk-10-07", "type": "parallels", "to": "passage:mt-19-05", "note": "The same Genesis 2:24 quotation."}
+{"from": "passage:mk-10-08", "type": "asserts", "to": "claim:mt-19-05-one-flesh-quote"}
+{"from": "passage:mk-10-09", "type": "asserts", "to": "claim:mt-19-05-one-flesh-quote"}
+{"from": "passage:mk-10-09", "type": "parallels", "to": "passage:mt-19-06", "note": "'What therefore God has joined together, let no man separate.'"}
+{"from": "passage:mk-10-11", "type": "asserts", "to": "claim:mk-10-11-adultery-no-exception"}
+{"from": "passage:mk-10-11", "type": "parallels", "to": "passage:mt-19-09", "note": "Mark states the adultery rule without Matthew's 'except for sexual immorality' exception and adds 'against her'."}
+{"from": "passage:mk-10-12", "type": "asserts", "to": "claim:mk-10-12-wife-divorce"}
+{"from": "passage:mk-10-13", "type": "asserts", "to": "claim:mt-19-13-children-blessing"}
+{"from": "passage:mk-10-13", "type": "parallels", "to": "passage:mt-19-13", "note": "Little children brought for his touch; Mark adds that Jesus was moved with indignation."}
+{"from": "passage:mk-10-14", "type": "asserts", "to": "claim:mt-19-13-children-blessing"}
+{"from": "passage:mk-10-15", "type": "asserts", "to": "claim:mt-18-03-04-become-like-children"}
+{"from": "passage:mk-10-15", "type": "parallels", "to": "passage:mt-18-03", "note": "'Whoever will not receive God's Kingdom like a little child will in no way enter into it' parallels 'turn and become like little children'."}
+{"from": "passage:mk-10-16", "type": "asserts", "to": "claim:mt-19-13-children-blessing"}
+{"from": "passage:mk-10-16", "type": "parallels", "to": "passage:mt-19-15", "note": "He took the children in his arms and blessed them, laying his hands on them."}
+{"from": "passage:mk-10-17", "type": "asserts", "to": "claim:mt-19-16-rich-young-man"}
+{"from": "passage:mk-10-17", "type": "parallels", "to": "passage:mt-19-16", "note": "The same rich man; Mark adds that he ran up and knelt, and addresses 'Good Teacher'."}
+{"from": "passage:mk-10-18", "type": "asserts", "to": "claim:mt-19-16-rich-young-man"}
+{"from": "passage:mk-10-19", "type": "asserts", "to": "claim:mt-19-18-commandments"}
+{"from": "passage:mk-10-19", "type": "asserts", "to": "claim:mk-10-19-do-not-defraud"}
+{"from": "passage:mk-10-21", "type": "asserts", "to": "claim:mt-19-21-sell-give-poor"}
+{"from": "passage:mk-10-21", "type": "asserts", "to": "claim:mk-10-21-take-up-cross"}
+{"from": "passage:mk-10-22", "type": "asserts", "to": "claim:mt-19-16-rich-young-man"}
+{"from": "passage:mk-10-23", "type": "asserts", "to": "claim:mt-19-24-camel-needle"}
+{"from": "passage:mk-10-23", "type": "parallels", "to": "passage:mt-19-23", "note": "How hard for the rich to enter the Kingdom; Mark addresses 'those who have riches', Matthew 'a rich man'."}
+{"from": "passage:mk-10-24", "type": "asserts", "to": "claim:mt-19-24-camel-needle"}
+{"from": "passage:mk-10-25", "type": "asserts", "to": "claim:mt-19-24-camel-needle"}
+{"from": "passage:mk-10-25", "type": "parallels", "to": "passage:mt-19-24", "note": "The identical camel and needle's eye saying."}
+{"from": "passage:mk-10-28", "type": "asserts", "to": "claim:mt-19-29-hundredfold"}
+{"from": "passage:mk-10-28", "type": "parallels", "to": "passage:mt-19-27", "note": "Peter: 'we have left all and followed you'; Matthew adds 'What then will we have?'."}
+{"from": "passage:mk-10-29", "type": "asserts", "to": "claim:mt-19-29-hundredfold"}
+{"from": "passage:mk-10-30", "type": "asserts", "to": "claim:mt-19-29-hundredfold"}
+{"from": "passage:mk-10-30", "type": "parallels", "to": "passage:mt-19-29", "note": "The hundredfold reward; Mark's list adds 'mothers' and adds 'with persecutions' to what is received now."}
+{"from": "passage:mk-10-31", "type": "asserts", "to": "claim:mt-19-30-first-last"}
+{"from": "passage:mk-10-31", "type": "parallels", "to": "passage:mt-19-30", "note": "The same first/last saying; Mark gives the halves in the opposite order: 'many who are first will be last; and the last first'."}
+{"from": "passage:mk-10-32", "type": "asserts", "to": "claim:mt-20-17-18-going-up-jerusalem"}
+{"from": "passage:mk-10-32", "type": "parallels", "to": "passage:mt-20-17", "note": "Going up to Jerusalem; Mark adds that Jesus walked ahead of them and that the followers were amazed and afraid."}
+{"from": "passage:mk-10-33", "type": "asserts", "to": "claim:mt-20-17-18-going-up-jerusalem"}
+{"from": "passage:mk-10-33", "type": "asserts", "to": "claim:mt-20-18-condemned-by-chief-priests"}
+{"from": "passage:mk-10-33", "type": "parallels", "to": "passage:mt-20-18", "note": "The same prediction: delivered to the chief priests and scribes, condemned to death, delivered to the Gentiles."}
+{"from": "passage:mk-10-34", "type": "asserts", "to": "claim:mt-20-19-mocked-scourged-crucified"}
+{"from": "passage:mk-10-34", "type": "parallels", "to": "passage:mt-20-19", "note": "Mark: mock, spit on, scourge, kill, rise on the third day; Matthew: mock, flog, crucify, rise."}
+{"from": "passage:mk-10-35", "type": "asserts", "to": "claim:mk-10-35-sons-request"}
+{"from": "passage:mk-10-35", "type": "parallels", "to": "passage:mt-20-20", "note": "The same request for the seats of honor: Matthew tells it as made by the mother of the sons of Zebedee with her sons, Mark by the two themselves."}
+{"from": "passage:mk-10-36", "type": "asserts", "to": "claim:mk-10-35-sons-request"}
+{"from": "passage:mk-10-37", "type": "asserts", "to": "claim:mk-10-35-sons-request"}
+{"from": "passage:mk-10-38", "type": "asserts", "to": "claim:mt-20-22-the-cup"}
+{"from": "passage:mk-10-38", "type": "parallels", "to": "passage:mt-20-22", "note": "The same cup-and-baptism question and answer."}
+{"from": "passage:mk-10-39", "type": "asserts", "to": "claim:mt-20-22-the-cup"}
+{"from": "passage:mk-10-42", "type": "asserts", "to": "claim:mt-20-25-rulers-lord-it-over"}
+{"from": "passage:mk-10-42", "type": "parallels", "to": "passage:mt-20-25", "note": "The rulers of the nations lord it over their subjects."}
+{"from": "passage:mk-10-43", "type": "asserts", "to": "claim:mk-10-43-44-great-servant"}
+{"from": "passage:mk-10-43", "type": "parallels", "to": "passage:mt-20-26", "note": "Whoever wants to become great shall be your servant; Mark adds 'bondservant of all' at v44."}
+{"from": "passage:mk-10-44", "type": "asserts", "to": "claim:mk-10-43-44-great-servant"}
+{"from": "passage:mk-10-45", "type": "asserts", "to": "claim:mt-20-28-ransom-for-many"}
+{"from": "passage:mk-10-45", "type": "parallels", "to": "passage:mt-20-28", "note": "The identical ransom saying: the Son of Man came not to be served but to serve."}
+{"from": "passage:mk-10-46", "type": "asserts", "to": "claim:mt-20-29-out-of-jericho"}
+{"from": "passage:mk-10-46", "type": "asserts", "to": "claim:mk-10-46-47-bartimaeus"}
+{"from": "passage:mk-10-46", "type": "parallels", "to": "passage:mt-20-29", "note": "Leaving Jericho on the way up to Jerusalem."}
+{"from": "passage:mk-10-47", "type": "asserts", "to": "claim:mk-10-46-47-bartimaeus"}
+{"from": "passage:mk-10-47", "type": "parallels", "to": "passage:mt-20-30", "note": "The blind man(s) by the road crying 'son of David, have mercy on me'; Mark names one blind beggar, Bartimaeus son of Timaeus, Matthew two unnamed blind men."}
+{"from": "passage:mk-10-48", "type": "asserts", "to": "claim:mk-10-46-47-bartimaeus"}
+{"from": "passage:mk-10-51", "type": "asserts", "to": "claim:mk-10-51-52-sight-restored"}
+{"from": "passage:mk-10-51", "type": "parallels", "to": "passage:mt-20-33", "note": "The healing of the blind at Jericho; Mark has Bartimaeus address 'Rabboni', Matthew has the two men ask directly."}
+{"from": "passage:mk-10-52", "type": "asserts", "to": "claim:mk-10-51-52-sight-restored"}
+{"from": "passage:mk-10-52", "type": "parallels", "to": "passage:mt-20-34", "note": "Their eyes opened and they followed him; Mark adds that Bartimaeus followed 'on the way'."}
+{"from": "text:mishnah-gittin-9-10", "type": "attests", "to": "claim:mk-10-02-divorce-question", "grade": "C", "note": "Mishnah Gittin 9:10 preserves the dispute between the Houses of Shammai and Hillel over the grounds for divorce - the lawfulness of divorce was a live, disputed question. Redacted c. 200 CE; it may not describe the practice of the 30s CE exactly."}
+{"from": "text:damascus-document-4-20-5-1", "type": "attests", "to": "claim:mk-10-11-adultery-no-exception", "grade": "C", "note": "The Damascus Document forbids taking a second wife while the first lives - remarriage while a spouse lived was treated as a serious offense at Qumran. It attests a strict view of the custom in the period, not Mark's exact rule."}
+{"from": "text:josephus-ant-15-259", "type": "attests", "to": "claim:mk-10-12-wife-divorce", "grade": "B", "note": "Salome 'sent him a bill of divorce' and dissolved her marriage with Costobarus - a named woman divorcing her husband in Herod's Judea, the same period and place. It attests the practice, not Jesus's saying."}
+{"from": "text:josephus-ant-15-259", "type": "complicates", "to": "claim:mk-10-12-wife-divorce", "note": "The same passage states she divorced him 'though this was not according to the Jewish laws' - the source that attests the practice states Jewish law did not sanction it."}
+{"from": "artifact:elephantine-marriage-contracts", "type": "attests", "to": "claim:mk-10-12-wife-divorce", "grade": "D", "note": "The Elephantine archives of the Judean military colony (5th century BCE) include divorce documents - context for divorce law, not the 1st-century practice, and far earlier. Unprovenanced: the papyri surfaced on the local antiquities grey market from the late 19th century, so their authenticity cannot be secured."}
+{"from": "artifact:yehohanan-heel-bone", "type": "attests", "to": "claim:mk-10-21-take-up-cross", "grade": "C", "note": "The crucified man's heel bone from Giv'at ha-Mivtar attests 1st-century crucifixion practice in Judea - the brutal custom behind the 'take up the cross' idiom. It does not attest the saying or its metaphorical use."}
+{"from": "text:psalms-of-solomon-17", "type": "attests", "to": "claim:mk-10-46-47-bartimaeus", "grade": "C", "note": "Psalms of Solomon 17 asks God to raise up 'their king, the son of David' - the 'son of David' royal-expectation idiom was current in Judea. It attests the acclamation's background, not Bartimaeus or the cry."}
+{"from": "site:herodian-jericho-palaces", "type": "attests", "to": "claim:mk-10-46-47-bartimaeus", "grade": "C", "note": "The Herodian winter palaces at Jericho (Tulul Abu el-'Alayiq) confirm Jericho as the Herodian city on the road to Jerusalem in the 1st century - the setting of the scene, not the beggar. Regraded B to C by architect review: a grade covers the whole claim; the palaces confirm the Jericho setting, not the named beggar or his cry."}
+{"from": "observation:jerusalem-jericho-ascent", "type": "attests", "to": "claim:mk-10-46-47-bartimaeus", "grade": "C", "note": "Jericho lies far below Jerusalem on the ascent road - the road by which travellers went up from Jericho; context for the road-side scene."}
+{"from": "text:josephus-ant-15-259", "type": "documented_by", "to": "source:wikisource-ant15-salome"}
+{"from": "artifact:elephantine-marriage-contracts", "type": "documented_by", "to": "source:wikipedia-elephantine-papyri"}
+{"from": "claim:mk-10-12-wife-divorce", "type": "documented_by", "to": "source:wikipedia-women-in-judaism"}
+{"from": "claim:mk-10-02-divorce-question", "type": "related_to", "to": "claim:mt-19-03-divorce-question", "note": "The same test question; Mark asks it without Matthew's qualifier 'for any cause' (Matthew 19:3)."}
+{"from": "claim:mk-10-11-adultery-no-exception", "type": "related_to", "to": "claim:mt-19-09-divorce-adultery", "note": "Mark states the adultery rule without Matthew's 'except for sexual immorality' exception and adds 'against her'."}
+{"from": "claim:mk-10-12-wife-divorce", "type": "related_to", "to": "claim:mt-19-09-divorce-adultery", "note": "Mark extends the adultery rule to a woman who divorces her husband and remarries; Matthew addresses only the man's divorce and remarriage."}
+{"from": "claim:mk-10-19-do-not-defraud", "type": "related_to", "to": "claim:mt-19-18-commandments", "note": "Mark adds 'Do not defraud' to the commandment list; Matthew's list (19:18-19) does not have it."}
+{"from": "claim:mk-10-21-take-up-cross", "type": "related_to", "to": "claim:mt-19-21-sell-give-poor", "note": "The same 'sell, give to the poor, follow me' saying; Mark adds 'taking up the cross' where Matthew 19:21 reads simply 'come, follow me'."}
+{"from": "claim:mk-10-35-sons-request", "type": "related_to", "to": "claim:mt-20-20-21-mother-request", "note": "The same request: Matthew tells it as made by the mother of the sons of Zebedee with her sons; Mark by the two sons themselves. A difference between Gospels, not evidence."}
+{"from": "claim:mk-10-43-44-great-servant", "type": "related_to", "to": "claim:mk-09-35-first-servant", "note": "Mark repeats the saying in a second setting (9:35 at Capernaum; 10:43-44 on the way up to Jerusalem); Matthew has it at 20:26-27."}
+{"from": "claim:mk-10-46-47-bartimaeus", "type": "related_to", "to": "claim:mt-20-30-31-cry-son-of-david", "note": "The same acclamation at the same place; Mark names one blind beggar, Bartimaeus son of Timaeus (Mark only), Matthew two unnamed blind men."}
+{"from": "claim:mk-10-02-divorce-question", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-11-adultery-no-exception", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-12-wife-divorce", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-19-do-not-defraud", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-21-take-up-cross", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-35-sons-request", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-35-sons-request", "type": "mentions", "to": "person:james-son-of-zebedee"}
+{"from": "claim:mk-10-35-sons-request", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:mk-10-43-44-great-servant", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-46-47-bartimaeus", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-46-47-bartimaeus", "type": "mentions", "to": "person:bartimaeus"}
+{"from": "claim:mk-10-46-47-bartimaeus", "type": "mentions", "to": "place:jericho"}
+{"from": "claim:mk-10-51-52-sight-restored", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-10-51-52-sight-restored", "type": "mentions", "to": "person:bartimaeus"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-52"}
+{"from": "text:mishnah-gittin-9-10", "type": "documented_by", "to": "source:sefaria-gittin-9-10"}
+{"from": "text:mishnah-gittin-9-10", "type": "documented_by", "to": "source:sefaria-gittin-9-10-shammai"}
+{"from": "text:damascus-document-4-20-5-1", "type": "documented_by", "to": "source:schechter-damascus-creation"}
+{"from": "text:damascus-document-4-20-5-1", "type": "documented_by", "to": "source:schechter-damascus-divorce-note"}
+{"from": "artifact:yehohanan-heel-bone", "type": "documented_by", "to": "source:wikipedia-crucifixion-heel"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:archive-ryle-james-psolomon"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:wikipedia-messiah-in-judaism"}
+{"from": "site:herodian-jericho-palaces", "type": "documented_by", "to": "source:wikipedia-jericho"}
+{"from": "site:herodian-jericho-palaces", "type": "documented_by", "to": "source:wikipedia-jericho-herod"}
+{"from": "site:herodian-jericho-palaces", "type": "documented_by", "to": "source:wikipedia-jericho-netzer"}
+{"from": "observation:jerusalem-jericho-ascent", "type": "documented_by", "to": "source:wikipedia-jerusalem"}
+{"from": "observation:jerusalem-jericho-ascent", "type": "documented_by", "to": "source:wikipedia-jericho-elevation"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-10-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-10-50"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-01"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-02"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-04"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-05"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-06"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-07"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-08"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-09"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-11"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-12"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-13"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-14"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-15"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-16"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-17"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-18"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-19"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-21"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-22"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-23"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-24"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-25"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-28"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-29"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-30"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-31"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-32"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-33"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-34"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-35"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-36"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-37"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-38"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-39"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-42"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-43"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-44"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-45"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-46"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-47"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-48"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-51"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-52"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-03"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-10"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-20"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-26"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-27"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-40"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-41"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-49"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-10-50"}

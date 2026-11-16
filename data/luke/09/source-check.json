@@ -1,0 +1,22 @@
+{
+ "source:bible-api-2-kings-1-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2+kings+1:10-12?translation=web"
+ },
+ "source:wikipedia-papyrus-45-luke-contents": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_New_Testament_papyri"
+ },
+ "source:wikisource-ant20-cumanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant20-ginea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ }
+}

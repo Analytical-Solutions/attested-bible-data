@@ -1,0 +1,51 @@
+{
+ "book": "acts",
+ "chapter": 5,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    11
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "5:2 \"brought a certain part, and laid it at the apostles' feet\" - no place is named; it follows the Jerusalem community scenes of 4:23-37"
+  },
+  {
+   "verses": [
+    12,
+    16
+   ],
+   "setting": "place:solomons-porch",
+   "confidence": "stated",
+   "basis": "5:12 \"They were all with one accord in Solomon's porch\""
+  },
+  {
+   "verses": [
+    17,
+    20
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "5:18 \"laid hands on the apostles, and put them in public custody\" - the arrest and the prison name no place; they follow the Jerusalem scenes"
+  },
+  {
+   "verses": [
+    21,
+    26
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "5:21 \"they entered into the temple about daybreak, and taught\"; 5:25 \"the men whom you put in prison are in the temple\""
+  },
+  {
+   "verses": [
+    27,
+    42
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "5:27 \"they set them before the council\" - the council scene names no place; it follows the Jerusalem scenes of 4:5-22"
+  }
+ ]
+}

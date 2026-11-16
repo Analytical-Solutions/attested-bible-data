@@ -1,0 +1,24 @@
+{
+  "book": "matthew",
+  "chapter": 19,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        15
+      ],
+      "setting": "place:beyond-the-jordan",
+      "basis": "19:1 \"he departed from Galilee, and came into the borders of Judea beyond the Jordan\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        16,
+        30
+      ],
+      "setting": "place:beyond-the-jordan",
+      "basis": "19:16-30 follow 19:2 \"Great multitudes followed him, and he healed them there\", no movement",
+      "confidence": "inferred"
+    }
+  ]
+}

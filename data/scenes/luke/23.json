@@ -1,0 +1,42 @@
+{
+ "book": "luke",
+ "chapter": 23,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    7
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "23:1 \"The whole company of them rose up and brought him before Pilate\" - Pilate's seat at the feast, unnamed in Luke"
+  },
+  {
+   "verses": [
+    8,
+    12
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "23:7 \"he sent him to Herod, who was also in Jerusalem during those days\""
+  },
+  {
+   "verses": [
+    13,
+    25
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "23:13 \"Pilate called together the chief priests, the rulers, and the people\""
+  },
+  {
+   "verses": [
+    26,
+    56
+   ],
+   "setting": "place:golgotha",
+   "confidence": "stated",
+   "basis": "23:33 \"When they came to the place that is called The Skull, they crucified him there\"; the tomb of 23:53 is nearby"
+  }
+ ]
+}

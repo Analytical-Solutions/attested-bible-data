@@ -1,0 +1,24 @@
+{
+  "book": "mark",
+  "chapter": 15,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        20
+      ],
+      "setting": "place:jerusalem",
+      "basis": "15:1 \"the chief priests... bound Jesus, and carried him away, and delivered him up to Pilate\"; 15:16 \"the Praetorium\" - Pilate at the feast in Jerusalem",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        21,
+        47
+      ],
+      "setting": "place:golgotha",
+      "basis": "15:22 \"They brought him to the place called Golgotha\"; Cyrene (15:21) names Simon, not the scene",
+      "confidence": "stated"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+ "source:wikipedia-beloved-disciple": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Disciple_whom_Jesus_loved"
+ },
+ "source:wikipedia-holy-sepulchre-garden": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre"
+ }
+}

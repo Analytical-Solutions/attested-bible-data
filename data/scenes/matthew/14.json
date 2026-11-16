@@ -1,0 +1,42 @@
+{
+  "book": "matthew",
+  "chapter": 14,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        12
+      ],
+      "setting": null,
+      "basis": "14:3-11 Herod's birthday feast and the prison where John is beheaded; no place named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        13,
+        21
+      ],
+      "setting": null,
+      "basis": "14:13 \"he withdrew from there in a boat, to a deserted place apart\" - the place is unnamed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        22,
+        33
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "14:22 \"made the disciples get into the boat, and to go ahead of him to the other side\"; 14:24 \"the boat was now in the middle of the sea\"; 14:25 \"walking on the sea\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        34,
+        36
+      ],
+      "setting": "place:gennesaret",
+      "basis": "14:34 \"When they had crossed over, they came to the land of Gennesaret\"",
+      "confidence": "stated"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+ "book": "john",
+ "chapter": 18,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    11
+   ],
+   "setting": "place:gethsemane",
+   "confidence": "inferred",
+   "basis": "18:1 \"he went out with his disciples over the brook Kidron, where there was a garden\" - the unnamed garden across the Kidron is Gethsemane by the parallel passion narrative; the arrest (18:3-11) follows there"
+  },
+  {
+   "verses": [
+    12,
+    27
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "18:13 \"led him to Annas first\" - the high priest's house in the city"
+  },
+  {
+   "verses": [
+    28,
+    40
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "18:28 \"They led Jesus therefore from Caiaphas into the Praetorium\" - the governor's seat in the city"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "book": "matthew",
+  "chapter": 23,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        39
+      ],
+      "setting": "site:second-temple",
+      "basis": "23:1 \"Then Jesus spoke to the multitudes and to his disciples\" - continuing the temple discourses (21:23); Jerusalem (23:37) is addressed, not visited",
+      "confidence": "inferred"
+    }
+  ]
+}

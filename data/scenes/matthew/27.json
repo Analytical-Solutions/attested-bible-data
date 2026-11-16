@@ -1,0 +1,60 @@
+{
+  "book": "matthew",
+  "chapter": 27,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        10
+      ],
+      "setting": "place:jerusalem",
+      "basis": "27:1 \"all the chief priests and the elders of the people took counsel against Jesus\" - continuing 26:57 in the court of Caiaphas; Judas throws the silver in the sanctuary (27:5)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        11,
+        26
+      ],
+      "setting": "place:jerusalem",
+      "basis": "27:11 \"Now Jesus stood before the governor\" - Pilate at the feast in Jerusalem; 27:19 \"sitting on the judgment seat\"",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        27,
+        31
+      ],
+      "setting": "place:jerusalem",
+      "basis": "27:27 \"the governor's soldiers took Jesus into the Praetorium\" - the governor's court in Jerusalem",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        32,
+        54
+      ],
+      "setting": "place:golgotha",
+      "basis": "27:33 \"When they came to a place called Golgotha\"; Cyrene (27:32) names Simon, not the scene",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        55,
+        61
+      ],
+      "setting": "place:golgotha",
+      "basis": "27:55 \"Many women were there watching\"; 27:59-60 the burial in the rock tomb at that place (27:33)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        62,
+        66
+      ],
+      "setting": "place:jerusalem",
+      "basis": "27:62 \"the chief priests and the Pharisees were gathered together to Pilate\" - in Jerusalem (27:11)",
+      "confidence": "inferred"
+    }
+  ]
+}

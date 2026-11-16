@@ -1,0 +1,112 @@
+{
+ "source:bible-api-1-kings-17-8-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1%20kings+17:8-16?translation=web"
+ },
+ "source:bible-api-2-kings-5-1-14": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2%20kings+5:1-14?translation=web"
+ },
+ "source:bible-api-deut-6-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+6:13?translation=web"
+ },
+ "source:bible-api-deut-6-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+6:16?translation=web"
+ },
+ "source:bible-api-deut-8-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+8:3?translation=web"
+ },
+ "source:bible-api-james-5-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/james+5:17?translation=web"
+ },
+ "source:biblehub-cambridge-luke-4-44": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://biblehub.com/commentaries/luke/4-44.htm"
+ },
+ "source:sefaria-sotah-7-7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sotah.7.7"
+ },
+ "source:sefaria-sotah-7-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sotah.7.8"
+ },
+ "source:wikipedia-4q521": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/4Q521"
+ },
+ "source:wikipedia-great-isaiah-scroll-complete": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-mount-precipice": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mount_Precipice"
+ },
+ "source:wikipedia-nash-papyrus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nash_Papyrus"
+ },
+ "source:wikipedia-nash-papyrus-dating": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nash_Papyrus"
+ },
+ "source:wikipedia-nash-papyrus-provenance": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nash_Papyrus"
+ },
+ "source:wikipedia-papyrus-75-contents": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_New_Testament_papyri"
+ },
+ "source:wikipedia-qumran-cave-4-list": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_manuscripts_from_Qumran_Cave_4"
+ },
+ "source:wikipedia-sarepta": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sarepta"
+ },
+ "source:wikipedia-sarepta-pritchard": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Sarepta"
+ },
+ "source:wikipedia-theodotos-reading": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Theodotos_inscription"
+ },
+ "source:wikisource-ant-8-menander": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ },
+ "source:wikisource-ant-8-zarephath": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ }
+}

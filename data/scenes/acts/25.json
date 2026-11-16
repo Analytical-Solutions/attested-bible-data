@@ -1,0 +1,33 @@
+{
+ "book": "acts",
+ "chapter": 25,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    5
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "25:1 \"Festus therefore, having come into the province, after three days went up to Jerusalem from Caesarea\"; 25:2 \"Then the high priest and the principal men of the Jews informed him against Paul\""
+  },
+  {
+   "verses": [
+    6,
+    12
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "25:6 \"he went down to Caesarea, and on the next day he sat on the judgment seat, and commanded Paul to be brought\""
+  },
+  {
+   "verses": [
+    13,
+    27
+   ],
+   "setting": "place:caesarea",
+   "confidence": "stated",
+   "basis": "25:13 \"King Agrippa and Bernice arrived at Caesarea, and greeted Festus\"; 25:23 \"Agrippa and Bernice had come with great pomp, and they had entered into the place of hearing\""
+  }
+ ]
+}

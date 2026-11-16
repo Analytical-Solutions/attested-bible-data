@@ -1,0 +1,133 @@
+anchor,label,category,status,findings,note
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",inscription,n/a,,
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",coin,n/a,,
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",structure-or-site,n/a,,No excavated structure records an hour of prayer.
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",burial-or-ossuary,n/a,,
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",documentary-papyrus,n/a,,
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",jewish-literary,found,text:josephus-ant-14-65;text:mishnah-pesachim-5-1,"Josephus: the priests offered the daily sacrifice 'twice a-day, in the morning and about the ninth hour'; Mishnah Pesachim 5:1 places the afternoon offering at 8.5-9.5 hours. Both linked to the claim."
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",greco-roman-literary,n/a,,
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",material-culture,n/a,,
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",geography-or-nature,n/a,,
+claim:ac-03-01-ninth-hour-prayer,"Peter and John went up to the temple at the hour of prayer, the ninth hour",astronomy-or-calendar,found,text:josephus-ant-14-65,Josephus's 'about the ninth hour' is independent witness to the Jewish hour reckoning (about 3 p.m.) for the daily rite.
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,inscription,n/a,,
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,coin,n/a,,
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,structure-or-site,found,site:second-temple,"The temple with its gates stood and was used daily in the 30s CE; it attests the setting, not the man."
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,burial-or-ossuary,n/a,,
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,documentary-papyrus,n/a,,No documentary papyrus could bear on alms-seeking at the Jerusalem temple gates.
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,jewish-literary,none-found,,"Searched Josephus (War, Antiquities) and Mishnah alms material (Peah) via Sefaria and Wikipedia for a lame beggar laid at a temple gate; nothing external names this man or the practice at this gate."
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,greco-roman-literary,n/a,,
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,material-culture,none-found,,Searched Wikipedia and Israel Museum for any object connected with alms-seeking at the temple gates; nothing found.
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,geography-or-nature,n/a,,
+claim:ac-03-02-04-lame-beggar,A man lame from birth was carried daily to the temple's Beautiful Gate to beg,astronomy-or-calendar,n/a,,
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,inscription,found,artifact:nicanor-ossuary,"The ossuary's bilingual inscription 'Nicanor of Alexandria, who made the gates' is an inscribed witness to a temple-gate maker of the period."
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,coin,n/a,,
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,structure-or-site,none-found,,"Searched Wikipedia (Beautiful Gate, Gates of the Temple Mount, Nicanor's Gate) and excavation reports for a gate physically identified as the Beautiful Gate; none has been identified in the excavations."
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,burial-or-ossuary,found,artifact:nicanor-ossuary,"The Nicanor ossuary (graded C for the gate's identity: it attests the door-maker tradition, not which gate Acts means)."
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,documentary-papyrus,n/a,,
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,jewish-literary,found,text:josephus-war-5-201-206,"Josephus, War 5.201-206: one gate 'of Corinthian brass' excelling all silver-and-gold-covered gates (B, with the disputed identification recorded as complicates)."
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,greco-roman-literary,n/a,,
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,material-culture,none-found,,The Corinthian-bronze gate did not survive 70 CE; searched Wikipedia and museum collections for any fragment of the Nicanor or Shushan gate doors; none found.
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,geography-or-nature,n/a,,
+claim:ac-03-02-beautiful-gate,One of the temple doors was called the Beautiful Gate,astronomy-or-calendar,n/a,,
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,inscription,n/a,,
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,coin,n/a,,
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,structure-or-site,none-found,,"The temple setting is attested by site:second-temple, but no structure or excavation bears on the healing itself."
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,burial-or-ossuary,n/a,,
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,documentary-papyrus,n/a,,
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,jewish-literary,none-found,,"Searched Josephus (Antiquities, War) and rabbinic literature via Sefaria and Wikipedia for any external report of Peter healing a lame man at the temple; nothing found."
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,greco-roman-literary,none-found,,"Searched Tacitus, Suetonius and other classical authors via Wikipedia for any notice of the healing; nothing found."
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,material-culture,n/a,,
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,geography-or-nature,n/a,,
+claim:ac-03-06-08-healing-walk,Peter healed the lame man in the name of Jesus and he walked into the temple,astronomy-or-calendar,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,inscription,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,coin,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,structure-or-site,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,burial-or-ossuary,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,documentary-papyrus,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,jewish-literary,none-found,,Searched Josephus and rabbinic literature for any report of a crowd wonder at the temple after Peter's healing; nothing found.
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,greco-roman-literary,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,material-culture,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,geography-or-nature,n/a,,
+claim:ac-03-09-10-crowd-wonder,The people recognized the healed man and were filled with wonder,astronomy-or-calendar,n/a,,
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,inscription,none-found,,"Searched Wikipedia (Solomon's Porch, Herod's Temple) for an inscription naming the eastern cloister or Solomon's porch; none found."
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,coin,n/a,,
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,structure-or-site,found,site:second-temple,"Herod's temple with its porticoes stood in Jerusalem through the 30s CE (linked to the claim, grade B)."
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,burial-or-ossuary,n/a,,
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,documentary-papyrus,n/a,,
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,jewish-literary,found,text:josephus-ant-20-220-221,"Josephus: the eastern cloister was 'the work of king Solomon' (grade B, reused node from John 10)."
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,greco-roman-literary,n/a,,
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,material-culture,none-found,,Searched Wikipedia and excavation reports for excavated remains identified as Solomon's porch; none found.
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,geography-or-nature,found,text:josephus-ant-20-220-221,Josephus situates the eastern cloister 'in a deep valley' - the Kidron-side terrain of the porch (part of the same passage).
+claim:ac-03-11-solomons-porch,The people ran together to Peter and John in the porch called Solomon's,astronomy-or-calendar,n/a,,
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",inscription,found,artifact:pilate-stone,The Pilate stone names Pilate prefect of Judea (grade B for this delivery claim; A for his office).
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",coin,found,artifact:pilate-prutahs,Pilate's dated prutahs (29/30-31/32 CE) fix his governorship years inside which the delivery is placed.
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",structure-or-site,n/a,,
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",burial-or-ossuary,n/a,,
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",documentary-papyrus,n/a,,
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",jewish-literary,found,text:josephus-ant-18-116-119,Josephus (Testimonium): Pilate condemned Jesus to the cross at the accusation of the leading men (grade B; interpolations noted).
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",greco-roman-literary,found,text:tacitus-annals-15-44,Tacitus: Christus suffered the extreme penalty at the hands of Pontius Pilatus (grade B for this claim).
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",material-culture,n/a,,
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",geography-or-nature,n/a,,
+claim:ac-03-13-delivered-denied-before-pilate,"Peter accused his hearers of delivering Jesus up before Pilate, who had determined to release him",astronomy-or-calendar,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,inscription,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,coin,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,structure-or-site,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,burial-or-ossuary,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,documentary-papyrus,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,jewish-literary,none-found,,Searched Josephus (Antiquities 18 on Pilate's tenure) and rabbinic literature for any report of a Passover amnesty or the Barabbas release; Josephus records no such custom.
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,greco-roman-literary,none-found,,Searched classical authors via Wikipedia for any notice of a prisoner-release custom at Passover; nothing found.
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,material-culture,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,geography-or-nature,n/a,,
+claim:ac-03-14-murderer-requested,They asked for a murderer to be granted to them,astronomy-or-calendar,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,inscription,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,coin,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,structure-or-site,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,burial-or-ossuary,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,manuscript,n/a,,A manuscript of Acts only preserves the passages it carries and never attests a claim (calibration rule).
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,documentary-papyrus,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,jewish-literary,found,text:josephus-ant-18-116-119,"The disputed Testimonium's 'he appeared to them alive again the third day' is graded D: a report of claimed appearances, its authenticity disputed, and no attestation of the apostles' witness status."
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,greco-roman-literary,none-found,,Searched classical authors via Wikipedia for independent reports of the apostles proclaiming a risen Jesus; nothing found.
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,material-culture,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,geography-or-nature,n/a,,
+claim:ac-03-15-god-raised-witnesses,Peter told the crowd that God raised Jesus and that the apostles were witnesses,astronomy-or-calendar,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,inscription,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,coin,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,structure-or-site,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,burial-or-ossuary,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,manuscript,none-found,,"Searched the Dead Sea Scrolls via Wikipedia for a Qumran Deuteronomy manuscript whose published contents include 18:15, 18 (as the Great Isaiah Scroll does for Isaiah); no fetched page lists those verses, so none entered."
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,documentary-papyrus,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,jewish-literary,n/a,,"The quotation is a biblical cross-reference (text:deuteronomy-18-15-18, linked related_to); Josephus and the rabbis are not independent witnesses to this speech."
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,greco-roman-literary,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,material-culture,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,geography-or-nature,n/a,,
+claim:ac-03-22-prophet-like-moses,Peter quoted Moses: God will raise up a prophet like me,astronomy-or-calendar,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,inscription,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,coin,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,structure-or-site,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,burial-or-ossuary,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,manuscript,none-found,,"Searched the Dead Sea Scrolls via Wikipedia for a Genesis manuscript whose published contents include 22:18; no fetched page lists that verse, so none entered."
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,documentary-papyrus,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,jewish-literary,n/a,,"The quotation is a biblical cross-reference (text:genesis-22-18, linked related_to)."
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,greco-roman-literary,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,material-culture,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,geography-or-nature,n/a,,
+claim:ac-03-25-offspring-blessing,Peter quoted the covenant promise that all families of the earth will be blessed in Abraham's offspring,astronomy-or-calendar,n/a,,
+person:nicanor-of-alexandria,Nicanor of Alexandria,inscription,found,artifact:nicanor-ossuary,"The bilingual inscription names 'Nicanor of Alexandria, who made the gates' (grade A)."
+person:nicanor-of-alexandria,Nicanor of Alexandria,coin,n/a,,
+person:nicanor-of-alexandria,Nicanor of Alexandria,structure-or-site,found,site:cave-of-nicanor,"His documented burial cave on Mount Scopus, excavated 1902 and dated to the mid-first century CE."
+person:nicanor-of-alexandria,Nicanor of Alexandria,burial-or-ossuary,found,artifact:nicanor-ossuary,"His ossuary, found in the Cave of Nicanor (grade A)."
+person:nicanor-of-alexandria,Nicanor of Alexandria,manuscript,n/a,,
+person:nicanor-of-alexandria,Nicanor of Alexandria,documentary-papyrus,n/a,,
+person:nicanor-of-alexandria,Nicanor of Alexandria,jewish-literary,none-found,,"The Cave of Nicanor article states he is mentioned in Josephus and the Talmud as donor of the bronze doors, but no fetched Josephus or Talmud passage naming Nicanor's doors could be excerpted for a text node this run."
+person:nicanor-of-alexandria,Nicanor of Alexandria,greco-roman-literary,n/a,,
+person:nicanor-of-alexandria,Nicanor of Alexandria,material-culture,n/a,,
+person:nicanor-of-alexandria,Nicanor of Alexandria,geography-or-nature,n/a,,
+person:nicanor-of-alexandria,Nicanor of Alexandria,astronomy-or-calendar,n/a,,

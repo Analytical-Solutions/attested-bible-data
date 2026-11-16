@@ -1,0 +1,142 @@
+{"from": "passage:mt-07-01", "type": "asserts", "to": "claim:mt-07-02-measure-for-measure"}
+{"from": "passage:mt-07-02", "type": "asserts", "to": "claim:mt-07-02-standard-measures"}
+{"from": "passage:mt-07-03", "type": "asserts", "to": "claim:mt-07-03-5-beam"}
+{"from": "passage:mt-07-06", "type": "asserts", "to": "claim:mt-07-06-dogs-pigs"}
+{"from": "passage:mt-07-06", "type": "asserts", "to": "claim:mt-07-06-pearls"}
+{"from": "passage:mt-07-09", "type": "asserts", "to": "claim:mt-07-09-bread"}
+{"from": "passage:mt-07-10", "type": "asserts", "to": "claim:mt-07-10-fish-serpent"}
+{"from": "passage:mt-07-12", "type": "asserts", "to": "claim:mt-07-12-golden-rule"}
+{"from": "passage:mt-07-13", "type": "asserts", "to": "claim:mt-07-13-14-gate-road"}
+{"from": "passage:mt-07-15", "type": "asserts", "to": "claim:mt-07-15-false-prophets"}
+{"from": "passage:mt-07-15", "type": "asserts", "to": "claim:mt-07-15-wolves"}
+{"from": "passage:mt-07-16", "type": "asserts", "to": "claim:mt-07-16-fruit-thorns"}
+{"from": "passage:mt-07-19", "type": "asserts", "to": "claim:mt-07-19-axe-fire"}
+{"from": "passage:mt-07-22", "type": "asserts", "to": "claim:mt-07-22-exorcism"}
+{"from": "passage:mt-07-24", "type": "asserts", "to": "claim:mt-07-24-27-foundations"}
+{"from": "passage:mt-07-25", "type": "asserts", "to": "claim:mt-07-25-floods"}
+{"from": "passage:mt-07-28", "type": "asserts", "to": "claim:mt-07-28-29-scribes"}
+{"from": "claim:mt-07-10-fish-serpent", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-07-15-false-prophets", "type": "mentions", "to": "place:judea"}
+{"from": "claim:mt-07-16-fruit-thorns", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-07-24-27-foundations", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-07-25-floods", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-07-28-29-scribes", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-07-28-29-scribes", "type": "mentions", "to": "place:galilee"}
+{"from": "text:mishnah-sotah-1-7", "type": "attests", "to": "claim:mt-07-02-measure-for-measure", "grade": "B", "note": "Mishnah Sotah 1:7: 'With the measure that a person measures, he is measured with it' - the measure-for-measure principle the verse gives in positive form; the Mishnah was codified c. 200 CE and records the teaching. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "artifact:bath-measure-jars", "type": "attests", "to": "claim:mt-07-02-standard-measures", "grade": "C", "note": "Jar remains marked 'bath' and 'royal bath' from Tell Beit Mirsim, by which the bath was fixed at about 22 liters - standardized marked measures in Judea. The source gives no date for the jars; the Tell Beit Mirsim jars are earlier than the Roman period, so they attest the practice, not the 1st-century economy."}
+{"from": "claim:mt-07-03-5-beam", "type": "documented_by", "to": "source:wikipedia-architecture-of-israel"}
+{"from": "artifact:ashkelon-dog-cemetery", "type": "attests", "to": "claim:mt-07-06-dogs-pigs", "grade": "C", "note": "Thousands of dogs buried at Ashkelon (5th-3rd century BC) show dogs as familiar animals around a Levantine town; the cemetery is centuries earlier than the 1st century, so it attests the region's practice, not the period."}
+{"from": "claim:mt-07-06-dogs-pigs", "type": "documented_by", "to": "source:wikipedia-ancient-cuisine-diet"}
+{"from": "text:pliny-pearls", "type": "attests", "to": "claim:mt-07-06-pearls", "grade": "C", "note": "Pliny the Elder (23-79 AD) 'praised the pearl fishery of the Gulf as most productive in the world' - pearls as prized goods in the Roman economy of the 1st century."}
+{"from": "claim:mt-07-09-bread", "type": "documented_by", "to": "source:wikipedia-ancient-cuisine"}
+{"from": "claim:mt-07-09-bread", "type": "documented_by", "to": "source:wikipedia-ancient-cuisine-stones"}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:mt-07-10-fish-serpent", "grade": "C", "note": "A 1st-century fishing boat from the north-west shore of the Sea of Galilee, with the Magdala net weights: fishing was part of the lake economy the saying assumes. The serpent half is evidenced by the viper node, not the boat."}
+{"from": "artifact:magdala-fishing-gear", "type": "attests", "to": "claim:mt-07-10-fish-serpent", "grade": "C", "note": "'A needle and lead weights for repairing and holding down fishing nets' from the 1970s excavations at Magdala - the equipment of the Galilean fish trade."}
+{"from": "observation:palestine-viper-range", "type": "attests", "to": "claim:mt-07-10-fish-serpent", "grade": "C", "note": "The Palestine viper 'is found in northern and central Israel, Palestine, western Syria, northwestern Jordan, and Lebanon' - a venomous snake familiar in the region."}
+{"from": "text:talmud-shabbat-31a", "type": "attests", "to": "claim:mt-07-12-golden-rule", "grade": "C", "note": "Hillel, challenged to state the whole Torah on one foot: 'That which is hateful to you do not do to another; that is the entire Torah' - the negative golden rule. The Babylonian Talmud (c. 500 CE) records the saying attributed to Hillel (c. 30 BCE-10 CE)."}
+{"from": "text:tobit-4-15", "type": "related_to", "to": "claim:mt-07-12-golden-rule", "note": "Cross-reference: 'And what you hate, do not do to anyone' (Tobit 4:15, NRSVUE) - the same negative golden rule in a deuterocanonical book held canonical by some churches; not evidence, only parallel."}
+{"from": "text:tobit-4-15", "type": "related_to", "to": "passage:mt-07-12", "note": "Cross-reference to the verse itself."}
+{"from": "site:hippos", "type": "attests", "to": "claim:mt-07-13-14-gate-road", "grade": "C", "note": "Excavations at Hippos (Decapolis, east of the lake) 'unearthed some domestic buildings, the main city gate at the east' - a gate of a nearby town of the period; Hippos was a Gentile city, not a Jewish village."}
+{"from": "site:via-maris", "type": "attests", "to": "claim:mt-07-13-14-gate-road", "grade": "C", "note": "'The Via Maris passed through Migdal, Capernaum, and Hazor' - the great road of Galilee that the image of the broad way presupposes; the saying's contrast is figurative."}
+{"from": "site:via-maris", "type": "attests", "to": "place:galilee", "grade": "C", "note": "The main international road ran along the lake shore through Galilean towns, fixing the region's route network."}
+{"from": "text:josephus-ant-20-theudas", "type": "attests", "to": "claim:mt-07-15-false-prophets", "grade": "C", "note": "c. 44-46 CE: 'a certain magician, whose name was Theudas... told them he was a prophet' and led the people to the Jordan - prophet-claimants drawing crowds in Judea within a decade of the Sermon."}
+{"from": "observation:arabian-wolf-range", "type": "attests", "to": "claim:mt-07-15-wolves", "grade": "C", "note": "'It is also found in Israel's Negev and Arava Deserts, Jordan, Palestine, and Egypt's Sinai Peninsula' - wolves in the region; the fetched source is the desert subspecies, so the note does not extend it to Galilee's hills."}
+{"from": "observation:grape-fig-cultivation-levant", "type": "attests", "to": "claim:mt-07-16-fruit-thorns", "grade": "C", "note": "Wine 'has been produced in the Land of Israel since biblical times' and was 'exported to Rome during the Roman period'; grapes and figs are staples of ancient Israelite agriculture."}
+{"from": "observation:levantine-thorny-plants", "type": "attests", "to": "claim:mt-07-16-fruit-thorns", "grade": "C", "note": "Ziziphus spina-christi, 'known as the Christ's thorn jujube' (the common name itself carries the thorn), grows 'in the Levant' and is 'native to the Western Asia from the Levant and Sinai to Pakistan'; Gundelia tournefortii, a thistle-like plant, 'is native to the eastern Mediterranean and the Middle-East'."}
+{"from": "text:deuteronomy-20-19-20", "type": "related_to", "to": "claim:mt-07-19-axe-fire", "note": "Cross-reference: the law of the siege 'you shall not destroy its trees by wielding an axe against them' (Deut 20:19) - the axe against trees is biblical imagery; not evidence for the custom."}
+{"from": "text:josephus-ant-8-eleazar", "type": "attests", "to": "claim:mt-07-22-exorcism", "grade": "C", "note": "Josephus saw Eleazar 'releasing people that were demoniacal in the presence of Vespasian', using a ring with a root 'mentioned by Solomon' to draw out the demon - exorcism as practiced craft in 1st-century Judea."}
+{"from": "text:psalm-6-8", "type": "related_to", "to": "passage:mt-07-23", "note": "Cross-reference: 'Depart from me, all you workers of iniquity' (Ps 6:8, WEB) - the words of Matt 7:23 echo the psalm."}
+{"from": "observation:wadi-flash-floods", "type": "attests", "to": "claim:mt-07-25-floods", "grade": "C", "note": "'Sudden but infrequent heavy rainfall, often resulting in flash floods' strikes dry wadis - the flood that beats on a house in the parable is a real regional hazard."}
+{"from": "observation:wadi-flash-floods", "type": "attests", "to": "claim:mt-07-24-27-foundations", "grade": "C", "note": "'Wadis tend to be associated with centers of human population because sub-surface water is sometimes available in them' - people settled in wadi beds where floods strike; the parable's rock-versus-sand contrast itself is not separately evidenced."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-07-28-29-scribes", "grade": "C", "note": "Josephus names the Pharisees as one of the three sects 'peculiar' to the Jews, held in great esteem; his account evidences the sects, not the scribes as a separate scribal office (not fetched this run)."}
+{"from": "site:mount-of-beatitudes", "type": "attests", "to": "place:galilee", "grade": "B", "note": "'A hill in northern Israel, in the Korazim Plateau' on the northwestern shore of the Sea of Galilee - the hill country of the Sermon's setting."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "place:sea-of-galilee", "grade": "C", "note": "Found on the north-west shore of the Sea of Galilee; the 1st-century lake economy."}
+{"from": "artifact:magdala-fishing-gear", "type": "attests", "to": "place:sea-of-galilee", "grade": "C", "note": "Net-repair gear from Magdala on the lake's western shore."}
+{"from": "text:josephus-ant-20-theudas", "type": "attests", "to": "place:judea", "grade": "C", "note": "Theudas's following gathered 'while Fadus was procurator of Judea' - prophetic movements inside the province."}
+{"from": "text:mishnah-sotah-1-7", "type": "documented_by", "to": "source:sefaria-mishnah-sotah-1-7"}
+{"from": "text:talmud-shabbat-31a", "type": "documented_by", "to": "source:sefaria-shabbat-31a"}
+{"from": "text:tobit-4-15", "type": "documented_by", "to": "source:wikipedia-golden-rule"}
+{"from": "text:tobit-4-15", "type": "documented_by", "to": "source:wikipedia-golden-rule-tobit"}
+{"from": "text:deuteronomy-20-19-20", "type": "documented_by", "to": "source:wikisource-deuteronomy"}
+{"from": "text:psalm-6-8", "type": "documented_by", "to": "source:wikisource-psalms-6-8"}
+{"from": "text:josephus-ant-20-theudas", "type": "documented_by", "to": "source:wikisource-ant-20-theudas"}
+{"from": "text:josephus-ant-20-theudas", "type": "documented_by", "to": "source:wikipedia-theudas"}
+{"from": "text:josephus-ant-8-eleazar", "type": "documented_by", "to": "source:wikisource-ant-8-eleazar"}
+{"from": "text:pliny-pearls", "type": "documented_by", "to": "source:wikipedia-pearl"}
+{"from": "text:pliny-pearls", "type": "documented_by", "to": "source:wikipedia-pearl-diving"}
+{"from": "site:via-maris", "type": "documented_by", "to": "source:wikipedia-via-maris"}
+{"from": "observation:arabian-wolf-range", "type": "documented_by", "to": "source:wikipedia-arabian-wolf"}
+{"from": "observation:palestine-viper-range", "type": "documented_by", "to": "source:wikipedia-palestine-viper"}
+{"from": "observation:grape-fig-cultivation-levant", "type": "documented_by", "to": "source:wikipedia-israeli-wine"}
+{"from": "observation:grape-fig-cultivation-levant", "type": "documented_by", "to": "source:wikipedia-ancient-cuisine"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-ziziphus"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-ziziphus-native"}
+{"from": "observation:levantine-thorny-plants", "type": "documented_by", "to": "source:wikipedia-gundelia"}
+{"from": "observation:wadi-flash-floods", "type": "documented_by", "to": "source:wikipedia-wadi"}
+{"from": "observation:wadi-flash-floods", "type": "documented_by", "to": "source:wikipedia-wadi-settlements"}
+{"from": "artifact:bath-measure-jars", "type": "documented_by", "to": "source:wikipedia-units-of-measurement"}
+{"from": "artifact:ashkelon-dog-cemetery", "type": "documented_by", "to": "source:wikipedia-ashkelon-dog-cemetery"}
+{"from": "site:hippos", "type": "documented_by", "to": "source:wikipedia-hippos-sussita"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "artifact:magdala-fishing-gear", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant-18-sects-three"}
+{"from": "site:mount-of-beatitudes", "type": "documented_by", "to": "source:wikipedia-mount-of-beatitudes"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-07-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-07-29"}

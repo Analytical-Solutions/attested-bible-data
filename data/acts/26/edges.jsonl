@@ -1,0 +1,184 @@
+{"from": "passage:ac-26-01", "type": "asserts", "to": "claim:ac-26-02-03-defense-before-agrippa"}
+{"from": "passage:ac-26-02", "type": "asserts", "to": "claim:ac-26-02-03-defense-before-agrippa"}
+{"from": "passage:ac-26-03", "type": "asserts", "to": "claim:ac-26-02-03-defense-before-agrippa"}
+{"from": "passage:ac-26-05", "type": "asserts", "to": "claim:ac-26-05-pharisee-strictest"}
+{"from": "passage:ac-26-06", "type": "asserts", "to": "claim:ac-26-06-08-resurrection-hope"}
+{"from": "passage:ac-26-07", "type": "asserts", "to": "claim:ac-26-06-08-resurrection-hope"}
+{"from": "passage:ac-26-08", "type": "asserts", "to": "claim:ac-26-06-08-resurrection-hope"}
+{"from": "passage:ac-26-09", "type": "asserts", "to": "claim:ac-26-09-11-persecution-vote"}
+{"from": "passage:ac-26-10", "type": "asserts", "to": "claim:ac-26-09-11-persecution-vote"}
+{"from": "passage:ac-26-11", "type": "asserts", "to": "claim:ac-26-09-11-persecution-vote"}
+{"from": "passage:ac-26-12", "type": "asserts", "to": "claim:ac-26-13-14-light-voice"}
+{"from": "passage:ac-26-13", "type": "asserts", "to": "claim:ac-26-13-14-light-voice"}
+{"from": "passage:ac-26-14", "type": "asserts", "to": "claim:ac-26-13-14-light-voice"}
+{"from": "passage:ac-26-14", "type": "asserts", "to": "claim:ac-26-14-goads-proverb"}
+{"from": "passage:ac-26-15", "type": "asserts", "to": "claim:ac-26-15-18-commission"}
+{"from": "passage:ac-26-16", "type": "asserts", "to": "claim:ac-26-15-18-commission"}
+{"from": "passage:ac-26-17", "type": "asserts", "to": "claim:ac-26-15-18-commission"}
+{"from": "passage:ac-26-18", "type": "asserts", "to": "claim:ac-26-15-18-commission"}
+{"from": "passage:ac-26-19", "type": "asserts", "to": "claim:ac-26-19-20-obedience-preaching"}
+{"from": "passage:ac-26-20", "type": "asserts", "to": "claim:ac-26-19-20-obedience-preaching"}
+{"from": "passage:ac-26-21", "type": "asserts", "to": "claim:ac-26-21-seized-temple"}
+{"from": "passage:ac-26-22", "type": "asserts", "to": "claim:ac-26-22-23-prophets-moses"}
+{"from": "passage:ac-26-23", "type": "asserts", "to": "claim:ac-26-22-23-prophets-moses"}
+{"from": "passage:ac-26-24", "type": "asserts", "to": "claim:ac-26-24-festus-mad"}
+{"from": "passage:ac-26-25", "type": "asserts", "to": "claim:ac-26-25-26-king-knows"}
+{"from": "passage:ac-26-26", "type": "asserts", "to": "claim:ac-26-25-26-king-knows"}
+{"from": "passage:ac-26-26", "type": "asserts", "to": "claim:ac-26-26-corner-idiom"}
+{"from": "passage:ac-26-27", "type": "asserts", "to": "claim:ac-26-25-26-king-knows"}
+{"from": "passage:ac-26-28", "type": "asserts", "to": "claim:ac-26-28-christian-name"}
+{"from": "passage:ac-26-30", "type": "asserts", "to": "claim:ac-26-30-31-withdrew-agreed"}
+{"from": "passage:ac-26-31", "type": "asserts", "to": "claim:ac-26-30-31-withdrew-agreed"}
+{"from": "passage:ac-26-32", "type": "asserts", "to": "claim:ac-26-32-appeal-prevented-release"}
+{"from": "claim:ac-26-02-03-defense-before-agrippa", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-02-03-defense-before-agrippa", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-26-05-pharisee-strictest", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-09-11-persecution-vote", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-13-14-light-voice", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-13-14-light-voice", "type": "mentions", "to": "place:damascus"}
+{"from": "claim:ac-26-14-goads-proverb", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-15-18-commission", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-19-20-obedience-preaching", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-19-20-obedience-preaching", "type": "mentions", "to": "place:damascus"}
+{"from": "claim:ac-26-19-20-obedience-preaching", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-26-19-20-obedience-preaching", "type": "mentions", "to": "place:judea"}
+{"from": "claim:ac-26-21-seized-temple", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-21-seized-temple", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-26-22-23-prophets-moses", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-24-festus-mad", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-26-25-26-king-knows", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-26-25-26-king-knows", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-26-28-christian-name", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-26-30-31-withdrew-agreed", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-26-30-31-withdrew-agreed", "type": "mentions", "to": "person:bernice"}
+{"from": "claim:ac-26-30-31-withdrew-agreed", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "claim:ac-26-32-appeal-prevented-release", "type": "mentions", "to": "person:herod-agrippa-ii"}
+{"from": "claim:ac-26-32-appeal-prevented-release", "type": "mentions", "to": "person:porcius-festus"}
+{"from": "text:euripides-bacchae", "type": "attests", "to": "claim:ac-26-14-goads-proverb", "grade": "A", "note": "Euripides, Bacchae 794-795: Dionysus to Pentheus, 'Better to yield him prayer and sacrifice than kick against the pricks, since Dionyse is God, and thou but mortal' (Greek: pros kentra laktizoimi thnetos on theo) - the proverb's existence in Greek is exactly the claim."}
+{"from": "text:plato-gorgias", "type": "attests", "to": "claim:ac-26-26-corner-idiom", "grade": "C", "note": "Callicles on philosophers: 'they avoid the busy haunts of men, and skulk in corners' (Gorgias 485d-e) - the same Greek idiom of corner-seclusion versus public life, three centuries earlier."}
+{"from": "text:josephus-war-2-162", "type": "attests", "to": "claim:ac-26-05-pharisee-strictest", "grade": "B", "note": "Josephus: 'the Pharisees are those who are esteemed most skillful in the exact explication of their laws' - the sect's superlative reputation for exactness (akribeia) in the same period and region; it does not name Paul, so B not A."}
+{"from": "text:josephus-war-1-110", "type": "attests", "to": "claim:ac-26-05-pharisee-strictest", "grade": "C", "note": "'a certain sect of the Jews that appear more religious than others, and seem to interpret the laws more accurately' - a comparative, earlier notice of the same reputation."}
+{"from": "text:josephus-ant-18-13", "type": "attests", "to": "claim:ac-26-06-08-resurrection-hope", "grade": "B", "note": "Josephus: the Pharisees believe 'the former shall have power to revive and live again' - the same sect's resurrection doctrine, the hope Paul says the twelve tribes serve night and day to attain."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:ac-26-28-christian-name", "grade": "B", "note": "Tacitus: 'Christus, from whom the name had its origin' - the name Christianoi/Chrestianoi in Roman use from Nero's reign onward; it does not name Agrippa's exchange, so B."}
+{"from": "text:suetonius-nero-16", "type": "attests", "to": "claim:ac-26-28-christian-name", "grade": "B", "note": "'Punishment was inflicted on the Christians, a class of men given to a new and mischievous superstition' - the name in currency under Nero, the emperor before whom Paul's appeal would be heard."}
+{"from": "text:pliny-epistles-10-96", "type": "attests", "to": "claim:ac-26-28-christian-name", "grade": "B", "note": "Pliny's trials asked whether 'the \"name\" of Christianity itself' sufficed to condemn, or only the crimes attached to the name - the name as a recognized charge in the period."}
+{"from": "text:euripides-bacchae", "type": "documented_by", "to": "source:gutenberg-bacchae-murray"}
+{"from": "text:euripides-bacchae", "type": "documented_by", "to": "source:wikisource-vakchai"}
+{"from": "claim:ac-26-14-goads-proverb", "type": "documented_by", "to": "source:wikipedia-acts-26"}
+{"from": "text:plato-gorgias", "type": "documented_by", "to": "source:gutenberg-gorgias"}
+{"from": "text:suetonius-nero-16", "type": "documented_by", "to": "source:wikisource-nero-16"}
+{"from": "text:josephus-war-2-162", "type": "documented_by", "to": "source:wikisource-war-2-pharisees"}
+{"from": "text:josephus-war-1-110", "type": "documented_by", "to": "source:wikisource-war-1-pharisees"}
+{"from": "text:josephus-ant-18-13", "type": "documented_by", "to": "source:wikisource-ant-18-pharisees"}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}
+{"from": "text:pliny-epistles-10-96", "type": "documented_by", "to": "source:wikipedia-pliny-on-christians"}
+{"from": "artifact:papyrus-29", "type": "documented_by", "to": "source:wikipedia-acts-26"}
+{"from": "claim:ac-26-13-14-light-voice", "type": "related_to", "to": "claim:ac-09-03-06-road-vision", "note": "Third telling of the conversion: Acts 26 adds noon, a light 'brighter than the sun', the Hebrew language, all companions fallen, and the goads proverb, which 9:3-6 lacks; the core (light from the sky, falling, voice of Jesus) is the same fact."}
+{"from": "claim:ac-26-13-14-light-voice", "type": "related_to", "to": "claim:ac-22-09-companions-light", "note": "Acts 22:9 says the companions saw the light and did not understand the voice; Acts 26:13-14 has the light around all and 'we had all fallen to the earth' - the retellings differ on the companions."}
+{"from": "claim:ac-26-14-goads-proverb", "type": "related_to", "to": "claim:ac-09-03-06-road-vision", "note": "The goads saying appears only in the Acts 26 retelling; Acts 9:4 (and 22:7) lack it - the fetched Wikipedia 'Acts 26' article states this explicitly."}
+{"from": "claim:ac-26-15-18-commission", "type": "related_to", "to": "claim:ac-09-03-06-road-vision", "note": "The 26 retelling adds the commission content (servant and witness; open their eyes; darkness to light; Satan to God) not in the Acts 9 telling."}
+{"from": "claim:ac-26-19-20-obedience-preaching", "type": "related_to", "to": "claim:ac-09-19-22-preached-damascus", "note": "Same Damascus preaching; Acts 26:20 adds Jerusalem, all Judea and the Gentiles, and repentance language."}
+{"from": "claim:ac-26-09-11-persecution-vote", "type": "related_to", "to": "claim:ac-22-04-persecution", "note": "The same persecution report; Acts 26 adds the authority from the chief priests, the vote against those put to death, and the synagogues."}
+{"from": "claim:ac-26-05-pharisee-strictest", "type": "related_to", "to": "claim:ac-22-03-gamaliel-jerusalem", "note": "Both are Paul's self-reports of Pharisaic exactness; 22:3 has training under Gamaliel in the strict tradition, 26:5 names the sect as 'the strictest' (akribeistaten)."}
+{"from": "claim:ac-26-28-christian-name", "type": "related_to", "to": "claim:ac-11-26-christian-name", "note": "Acts 11:26 records the name's origin in Antioch; Acts 26:28 shows Agrippa using the name c. 59/60 - the name's currency, not its origin, is the claim here."}
+{"from": "claim:ac-26-32-appeal-prevented-release", "type": "related_to", "to": "claim:ac-25-10-11-appeal-caesar", "note": "The consequence of the appeal: Agrippa says Paul might have been freed had he not appealed."}
+{"from": "claim:ac-26-30-31-withdrew-agreed", "type": "related_to", "to": "claim:ac-25-25-nothing-worthy-death", "note": "Agrippa's circle reach the same judgment as Festus: nothing worthy of death or bonds."}
+{"from": "claim:ac-26-21-seized-temple", "type": "related_to", "to": "claim:ac-21-30-city-uproar", "note": "Same event told later: the temple seizure and the attempt to kill Paul (Acts 21:30-31)."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-01"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-02"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-03"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-04"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-05"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-06"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-07"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-08"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-09"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-10"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-11"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-12"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-13"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-14"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-15"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-16"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-17"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-18"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-19"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-20"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-21"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-22"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-23"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-24"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-25"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-26"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-27"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-28"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-29"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-30"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-31"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-26-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-26-32"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-26-32"}
+{"from": "artifact:papyrus-29", "type": "preserves", "to": "passage:ac-26-20"}
+{"from": "claim:ac-26-09-11-persecution-vote", "type": "related_to", "to": "claim:ac-09-01-02-letters-to-damascus", "note": "The same commission: Acts 26:10-12 recalls the authority and commission from the chief priests that took Paul to Damascus; Acts 9:1-2 (and 22:5) record it as letters to the Damascus synagogues."}

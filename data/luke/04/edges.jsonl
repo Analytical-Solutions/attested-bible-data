@@ -1,0 +1,232 @@
+{"from": "passage:lk-04-01", "type": "asserts", "to": "claim:mt-04-01-wilderness-retreat"}
+{"from": "passage:lk-04-02", "type": "asserts", "to": "claim:mt-04-02-forty-days-fasting"}
+{"from": "passage:lk-04-05", "type": "asserts", "to": "claim:mt-04-08-high-mountain-kingdoms"}
+{"from": "passage:lk-04-09", "type": "asserts", "to": "claim:mt-04-05-pinnacle-of-temple"}
+{"from": "passage:lk-04-15", "type": "asserts", "to": "claim:mt-04-23-teaching-synagogues"}
+{"from": "passage:lk-04-16", "type": "asserts", "to": "claim:mt-13-54-nazareth-synagogue"}
+{"from": "passage:lk-04-24", "type": "asserts", "to": "claim:mt-13-57-prophet-without-honor"}
+{"from": "passage:lk-04-31", "type": "asserts", "to": "claim:mk-01-21-taught-capernaum-synagogue"}
+{"from": "passage:lk-04-32", "type": "asserts", "to": "claim:mk-01-21-taught-capernaum-synagogue"}
+{"from": "passage:lk-04-33", "type": "asserts", "to": "claim:mk-01-23-synagogue-exorcism"}
+{"from": "passage:lk-04-38", "type": "asserts", "to": "claim:mt-08-14-mother-in-law-fever"}
+{"from": "passage:lk-04-39", "type": "asserts", "to": "claim:mt-08-14-mother-in-law-fever"}
+{"from": "passage:lk-04-40", "type": "asserts", "to": "claim:mt-08-16-evening-exorcisms"}
+{"from": "passage:lk-04-44", "type": "asserts", "to": "claim:mt-04-23-teaching-synagogues"}
+{"from": "passage:lk-04-03", "type": "asserts", "to": "claim:lk-04-03-stone-to-bread"}
+{"from": "passage:lk-04-04", "type": "asserts", "to": "claim:lk-04-04-deut-8-3-quoted"}
+{"from": "passage:lk-04-08", "type": "asserts", "to": "claim:lk-04-08-deut-6-13-quoted"}
+{"from": "passage:lk-04-12", "type": "asserts", "to": "claim:lk-04-12-deut-6-16-quoted"}
+{"from": "passage:lk-04-14", "type": "asserts", "to": "claim:lk-04-14-return-galilee"}
+{"from": "passage:lk-04-16", "type": "asserts", "to": "claim:lk-04-16-sabbath-synagogue-custom"}
+{"from": "passage:lk-04-17", "type": "asserts", "to": "claim:lk-04-17-isaiah-scroll-handed"}
+{"from": "passage:lk-04-18", "type": "asserts", "to": "claim:lk-04-18-isaiah-61-quoted"}
+{"from": "passage:lk-04-19", "type": "asserts", "to": "claim:lk-04-18-isaiah-61-quoted"}
+{"from": "passage:lk-04-20", "type": "asserts", "to": "claim:lk-04-20-attendant-sat-down"}
+{"from": "passage:lk-04-22", "type": "asserts", "to": "claim:lk-04-22-josephs-son"}
+{"from": "passage:lk-04-25", "type": "asserts", "to": "claim:lk-04-25-famine-three-and-a-half-years"}
+{"from": "passage:lk-04-26", "type": "asserts", "to": "claim:lk-04-26-elijah-sent-to-zarephath"}
+{"from": "passage:lk-04-27", "type": "asserts", "to": "claim:lk-04-27-naaman-the-syrian"}
+{"from": "passage:lk-04-28", "type": "asserts", "to": "claim:lk-04-29-thrown-out-brow-of-hill"}
+{"from": "passage:lk-04-29", "type": "asserts", "to": "claim:lk-04-29-thrown-out-brow-of-hill"}
+{"from": "passage:lk-04-30", "type": "asserts", "to": "claim:lk-04-29-thrown-out-brow-of-hill"}
+{"from": "passage:lk-04-41", "type": "asserts", "to": "claim:lk-04-41-demons-acclaim-christ"}
+{"from": "passage:lk-04-43", "type": "asserts", "to": "claim:lk-04-43-preach-kingdom-other-cities"}
+{"from": "claim:lk-04-03-stone-to-bread", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-04-04-deut-8-3-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-04-08-deut-6-13-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-04-12-deut-6-16-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-04-14-return-galilee", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:lk-04-16-sabbath-synagogue-custom", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:lk-04-17-isaiah-scroll-handed", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:lk-04-18-isaiah-61-quoted", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:lk-04-20-attendant-sat-down", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:lk-04-22-josephs-son", "type": "mentions", "to": "person:joseph-husband-of-mary"}
+{"from": "claim:lk-04-26-elijah-sent-to-zarephath", "type": "mentions", "to": "place:sarepta-zarephath"}
+{"from": "claim:lk-04-29-thrown-out-brow-of-hill", "type": "mentions", "to": "place:nazareth"}
+{"from": "claim:lk-04-41-demons-acclaim-christ", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-04-43-preach-kingdom-other-cities", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:lk-04-03-stone-to-bread", "type": "related_to", "to": "claim:mt-04-03-stones-to-bread", "note": "Luke's tempter says 'command this stone to become bread' (one stone); Matthew 4:3 has 'command that these stones become bread'."}
+{"from": "claim:lk-04-04-deut-8-3-quoted", "type": "related_to", "to": "text:deuteronomy-8-3", "note": "The first temptation answer quotes Deuteronomy 8:3; the WEB of Deuteronomy has 'man lives by every word that proceeds out of the mouth of Yahweh'."}
+{"from": "claim:lk-04-08-deut-6-13-quoted", "type": "related_to", "to": "text:deuteronomy-6-13", "note": "The second answer quotes Deuteronomy 6:13; Luke's 'you shall worship... and you shall serve him only' follows the Septuagint wording."}
+{"from": "claim:lk-04-12-deut-6-16-quoted", "type": "related_to", "to": "text:deuteronomy-6-16", "note": "The third answer quotes Deuteronomy 6:16, 'You shall not tempt the Lord your God'."}
+{"from": "claim:lk-04-14-return-galilee", "type": "related_to", "to": "claim:mt-04-12-john-arrested", "note": "Matthew ties Jesus's withdrawal to Galilee to John's arrest; Luke ties his return to the temptation and says nothing of John here."}
+{"from": "claim:lk-04-16-sabbath-synagogue-custom", "type": "related_to", "to": "claim:mt-13-54-nazareth-synagogue", "note": "Luke adds the Sabbath custom, standing up to read and the handing of the Isaiah scroll; Matthew 13:54 says only that he taught in their synagogue."}
+{"from": "claim:lk-04-18-isaiah-61-quoted", "type": "related_to", "to": "text:isaiah-61-1", "note": "Luke's reading follows Isaiah 61:1-2 but inserts 'recovering of sight to the blind' and stops before 'the day of vengeance' (61:2b)."}
+{"from": "claim:lk-04-18-isaiah-61-quoted", "type": "related_to", "to": "text:isaiah-35-5-6", "note": "The inserted phrase 'recovering of sight to the blind' is not in Isaiah 61:1 of the Masoretic Text; Isaiah 35:5 has 'the eyes of the blind shall be opened'."}
+{"from": "claim:lk-04-22-josephs-son", "type": "related_to", "to": "claim:mt-13-55-tekton-son", "note": "Luke's Nazarenes call Jesus 'Joseph's son'; Matthew 13:55 has 'the carpenter's son'; Mark 6:3 calls Jesus himself the carpenter."}
+{"from": "claim:lk-04-25-famine-three-and-a-half-years", "type": "related_to", "to": "text:1-kings-17-8-16", "note": "1 Kings 17-18 tells the drought and the widow of Zarephath; 1 Kings 18:1 says 'in the third year'."}
+{"from": "claim:lk-04-25-famine-three-and-a-half-years", "type": "related_to", "to": "text:james-5-17", "note": "James 5:17 is the other New Testament witness to the 'three years and six months' figure, which 1 Kings does not give."}
+{"from": "claim:lk-04-26-elijah-sent-to-zarephath", "type": "related_to", "to": "text:1-kings-17-8-16", "note": "The Zarephath widow episode is told in 1 Kings 17:8-16; a biblical cross-reference, not external evidence."}
+{"from": "claim:lk-04-27-naaman-the-syrian", "type": "related_to", "to": "text:2-kings-5-1-14", "note": "Naaman's cleansing is told in 2 Kings 5:1-14; a biblical cross-reference, not external evidence."}
+{"from": "claim:lk-04-29-thrown-out-brow-of-hill", "type": "related_to", "to": "claim:mt-13-57-prophet-without-honor", "note": "Matthew and Mark record the Nazareth rejection without the expulsion attempt; Luke alone has the crowd lead Jesus to the brow of the hill to throw him off."}
+{"from": "claim:lk-04-43-preach-kingdom-other-cities", "type": "related_to", "to": "claim:mt-04-17-preaching-repentance", "note": "Matthew summarizes the Galilean preaching as 'Repent, for the kingdom of heaven is at hand'; Luke has Jesus define his mission as preaching the good news of God's Kingdom to the other cities."}
+{"from": "passage:lk-04-01", "type": "parallels", "to": "passage:mt-04-01", "note": "The Spirit leads Jesus into the wilderness after the baptism; Luke has the return 'from the Jordan'."}
+{"from": "passage:lk-04-01", "type": "parallels", "to": "passage:mk-01-12"}
+{"from": "passage:lk-04-02", "type": "parallels", "to": "passage:mt-04-02", "note": "Forty days; Luke says 'he ate nothing in those days' where Matthew has forty days and nights of fasting."}
+{"from": "passage:lk-04-02", "type": "parallels", "to": "passage:mk-01-13"}
+{"from": "passage:lk-04-03", "type": "parallels", "to": "passage:mt-04-03", "note": "'This stone' (Luke, singular) against 'these stones' (Matthew)."}
+{"from": "passage:lk-04-04", "type": "parallels", "to": "passage:mt-04-04", "note": "The Deuteronomy 8:3 answer, quoted in both."}
+{"from": "passage:lk-04-05", "type": "parallels", "to": "passage:mt-04-08", "note": "The high mountain showing all the kingdoms; second temptation in Luke, third in Matthew."}
+{"from": "passage:lk-04-08", "type": "parallels", "to": "passage:mt-04-10", "note": "The Deuteronomy 6:13 answer, quoted in both."}
+{"from": "passage:lk-04-09", "type": "parallels", "to": "passage:mt-04-05", "note": "The temple pinnacle; Luke names Jerusalem where Matthew says 'the holy city'."}
+{"from": "passage:lk-04-10", "type": "parallels", "to": "passage:mt-04-06", "note": "The devil quotes Psalm 91:11-12."}
+{"from": "passage:lk-04-11", "type": "parallels", "to": "passage:mt-04-06", "note": "The devil quotes Psalm 91:11-12."}
+{"from": "passage:lk-04-12", "type": "parallels", "to": "passage:mt-04-07", "note": "The Deuteronomy 6:16 answer, quoted in both."}
+{"from": "passage:lk-04-14", "type": "parallels", "to": "passage:mk-01-14", "note": "Return to Galilee; Mark ties it to John's arrest, Luke to the temptation."}
+{"from": "passage:lk-04-15", "type": "parallels", "to": "passage:mt-04-23", "note": "Teaching in the synagogues of Galilee."}
+{"from": "passage:lk-04-16", "type": "parallels", "to": "passage:mt-13-54", "note": "Teaching in the Nazareth synagogue; Matthew places it after the Galilean ministry, Luke at its start and with the Isaiah reading."}
+{"from": "passage:lk-04-24", "type": "parallels", "to": "passage:mt-13-57", "note": "'No prophet is acceptable in his hometown' against Matthew's 'a prophet is not without honor, except in his own country, and in his own house'."}
+{"from": "passage:lk-04-24", "type": "parallels", "to": "passage:mk-06-04"}
+{"from": "passage:lk-04-31", "type": "parallels", "to": "passage:mk-01-21", "note": "Sabbath teaching in the Capernaum synagogue; Matthew has no Capernaum synagogue scene (Wikipedia, Capernaum)."}
+{"from": "passage:lk-04-33", "type": "parallels", "to": "passage:mk-01-23", "note": "The man with an unclean spirit in the synagogue; Luke says 'spirit of an unclean demon' and adds that the possessed man was thrown down 'having done him no harm'."}
+{"from": "passage:lk-04-38", "type": "parallels", "to": "passage:mt-08-14", "note": "Simon's house in Capernaum; Luke calls him Simon, where Matthew's summary already uses 'Peter's house'."}
+{"from": "passage:lk-04-38", "type": "parallels", "to": "passage:mk-01-29"}
+{"from": "passage:lk-04-38", "type": "parallels", "to": "passage:mk-01-30"}
+{"from": "passage:lk-04-39", "type": "parallels", "to": "passage:mt-08-15", "note": "The fever leaves and she serves them; Luke adds that Jesus 'stood over her and rebuked the fever'."}
+{"from": "passage:lk-04-39", "type": "parallels", "to": "passage:mk-01-31"}
+{"from": "passage:lk-04-40", "type": "parallels", "to": "passage:mt-08-16", "note": "At evening the sick and demon-possessed are brought to him."}
+{"from": "passage:lk-04-40", "type": "parallels", "to": "passage:mk-01-32"}
+{"from": "passage:lk-04-41", "type": "parallels", "to": "passage:mk-01-34", "note": "Luke alone reports the demons crying 'You are the Christ, the Son of God'."}
+{"from": "passage:lk-04-42", "type": "parallels", "to": "passage:mk-01-35", "note": "Departure before daybreak to an uninhabited place."}
+{"from": "passage:lk-04-43", "type": "parallels", "to": "passage:mk-01-38", "note": "'I must preach the good news of God's Kingdom to the other cities also' against Mark's 'Let's go elsewhere into the next towns'."}
+{"from": "passage:lk-04-44", "type": "parallels", "to": "passage:mk-01-39", "note": "Preaching in the synagogues; Luke's 'Galilee' against the variant 'Judaea' of א, B, C, L."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:lk-04-18-isaiah-61-quoted", "grade": "B", "note": "The Great Isaiah Scroll (1QIsa-a, ca. 125 BCE) 'contains the entire Book of Isaiah from beginning to end, apart from a few small damaged portions', so it carries Isaiah 61 - the quoted passage existed on a pre-Christian scroll. It attests the currency of the quoted text, not the Nazareth reading; it cannot confirm Luke's inserted phrase or the stopping point."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:lk-04-17-isaiah-scroll-handed", "grade": "C", "note": "A complete copy of Isaiah written on a single pre-Christian scroll shows the prophet's text circulated in this scroll form in the period; the find is from Qumran, not Galilee, and attests the setting, not the handing of the scroll."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:lk-04-16-sabbath-synagogue-custom", "grade": "C", "note": "The Theodotos inscription (Jerusalem, 1st century BCE-70 CE) records a synagogue built for the 'reading of the Law' and the 'teaching of the commandments' - synagogue Torah reading as an institution in the period. It is from Jerusalem, not Galilee."}
+{"from": "site:migdal-synagogue", "type": "attests", "to": "claim:lk-04-16-sabbath-synagogue-custom", "grade": "B", "note": "A first-century synagogue excavated at Magdala, a Galilean fishing village, confirms the institution in which the Nazareth Sabbath reading is set - same region and period, though Magdala is not Nazareth and the building is not Nazareth's synagogue."}
+{"from": "text:mishnah-sotah-7-7-8", "type": "attests", "to": "claim:lk-04-16-sabbath-synagogue-custom", "grade": "B", "note": "Mishnah Sotah 7:7-8: 'The synagogue attendant takes a Torah scroll and gives it...' and the reader 'stands, and receives the Torah scroll; and reads' - the reading procedure Luke depicts. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "text:mishnah-sotah-7-7-8", "type": "attests", "to": "claim:lk-04-20-attendant-sat-down", "grade": "C", "note": "Mishnah Sotah 7:7-8 has the synagogue attendant take and hand over the scroll and the reader stand, receive, read and furl it - matching Luke's closing the scroll, returning it to the attendant and sitting. Redacted c. 200 CE, so it may not describe 30s CE practice exactly."}
+{"from": "site:mount-of-precipice", "type": "attests", "to": "claim:lk-04-29-thrown-out-brow-of-hill", "grade": "D", "note": "Mount Precipice (395 m, 2 km southwest of Nazareth) is 'believed by some to be the site of the Rejection of Jesus described in the Gospel of Luke (Luke 4:29-30)' - a commemorative tradition received from the Gospel, not independent evidence, and the Wikipedia article itself tags the claim '[better source needed]'."}
+{"from": "site:sarepta", "type": "attests", "to": "place:sarepta-zarephath", "grade": "A", "note": "Sarepta, a Phoenician city on the Mediterranean coast between Sidon and Tyre, 'also known biblically as Zarephath', excavated by James B. Pritchard (1969-1974) - the place is named and located."}
+{"from": "artifact:4qdeut-c", "type": "attests", "to": "claim:lk-04-04-deut-8-3-quoted", "grade": "B", "note": "4QDeut c (4Q30, 175-150 BCE, Qumran Cave 4) carries Deuteronomy 8:1-5, which includes verse 3, 'man shall not live by bread alone' - the quoted passage existed in Hebrew more than a century before the Gospel."}
+{"from": "text:josephus-ant-8-319-320", "type": "attests", "to": "claim:lk-04-26-elijah-sent-to-zarephath", "grade": "C", "note": "Josephus (Ant. 8.13.2): Elijah 'came to Zarephath, a city not far from Sidon and Tyre, for it lay between them... that he should there find a woman who was a widow' - the episode and its location as known in the 1st century. He retells 1 Kings 17, so this is not independent confirmation of the event."}
+{"from": "text:josephus-ant-8-319-320", "type": "complicates", "to": "claim:lk-04-25-famine-three-and-a-half-years", "note": "Josephus cites Menander's Tyrian records: under Ethbaal, Ahab's contemporary, 'there was a want of rain from the month Hyperberetmus till the month Hyperberetmus of the year following' - a drought of about one year in the Tyrian annals, not the three and a half years of Luke 4:25 and James 5:17."}
+{"from": "artifact:4qdeut-c", "type": "documented_by", "to": "source:wikipedia-qumran-cave-4-list"}
+{"from": "artifact:nash-papyrus", "type": "documented_by", "to": "source:wikipedia-nash-papyrus"}
+{"from": "artifact:nash-papyrus", "type": "documented_by", "to": "source:wikipedia-nash-papyrus-provenance"}
+{"from": "site:sarepta", "type": "documented_by", "to": "source:wikipedia-sarepta"}
+{"from": "site:sarepta", "type": "documented_by", "to": "source:wikipedia-sarepta-pritchard"}
+{"from": "site:mount-of-precipice", "type": "documented_by", "to": "source:wikipedia-mount-precipice"}
+{"from": "text:mishnah-sotah-7-7-8", "type": "documented_by", "to": "source:sefaria-sotah-7-8"}
+{"from": "text:mishnah-sotah-7-7-8", "type": "documented_by", "to": "source:sefaria-sotah-7-7"}
+{"from": "text:josephus-ant-8-319-320", "type": "documented_by", "to": "source:wikisource-ant-8-zarephath"}
+{"from": "text:josephus-ant-8-319-320", "type": "documented_by", "to": "source:wikisource-ant-8-menander"}
+{"from": "text:deuteronomy-8-3", "type": "documented_by", "to": "source:bible-api-deut-8-3"}
+{"from": "text:deuteronomy-6-13", "type": "documented_by", "to": "source:bible-api-deut-6-13"}
+{"from": "text:deuteronomy-6-16", "type": "documented_by", "to": "source:bible-api-deut-6-16"}
+{"from": "text:1-kings-17-8-16", "type": "documented_by", "to": "source:bible-api-1-kings-17-8-16"}
+{"from": "text:2-kings-5-1-14", "type": "documented_by", "to": "source:bible-api-2-kings-5-1-14"}
+{"from": "text:james-5-17", "type": "documented_by", "to": "source:bible-api-james-5-17"}
+{"from": "place:sarepta-zarephath", "type": "documented_by", "to": "source:wikipedia-sarepta"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-36"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-38"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-39"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-40"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-41"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-42"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-43"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-44"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-44"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-01"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-02"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-29"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-30"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-31"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-32"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-34"}
+{"from": "artifact:papyrus-4", "type": "preserves", "to": "passage:lk-04-35"}
+{"from": "text:4q521-2", "to": "claim:lk-04-18-isaiah-61-quoted", "type": "attests", "grade": "C", "note": "4Q521, a pre-Christian Qumran text, expects God's agent to 'proclaim good news to the poor... freeing prisoners, giving sight to the blind' - the same Isaianic liberation cluster as Luke 4:18 already applied to an eschatological figure in Judaism before Jesus. It attests the currency of that hope, not that Jesus read Isaiah 61 in Nazareth."}
+{"from": "text:4q521-2", "to": "source:wikipedia-4q521", "type": "documented_by"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-04-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-04-37"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-04-37"}
+{"from": "artifact:papyrus-75", "type": "documented_by", "to": "source:wikipedia-papyrus-75-contents"}

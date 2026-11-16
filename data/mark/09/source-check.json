@@ -1,0 +1,92 @@
+{
+ "source:bible-api-isaiah-66-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+66:24?translation=web"
+ },
+ "source:bible-api-leviticus-2-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+2:13?translation=web"
+ },
+ "source:isaiah-7-14-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_7:14"
+ },
+ "source:isaiah-scroll-date-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+ },
+ "source:isaiah-scroll-wiki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+ },
+ "source:wikipedia-gehenna-targum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gehenna"
+ },
+ "source:wikipedia-great-isaiah-scroll": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-great-isaiah-scroll-found": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Great_Isaiah_Scroll"
+ },
+ "source:wikipedia-omitted-verses": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_omitted_Bible_verses"
+ },
+ "source:wikipedia-on-the-sacred-disease": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/On_the_Sacred_Disease"
+ },
+ "source:wikipedia-papyrus-45": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-45-contents": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-45-extant": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-45-mark": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-salt-in-bible": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Salt_in_the_Bible"
+ },
+ "source:wikisource-ant-8-eleazar": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_VIII"
+ },
+ "source:wikisource-ant3-sacrifices": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_III"
+ },
+ "source:wikisource-sacred-disease": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/On_the_Sacred_Disease"
+ }
+}

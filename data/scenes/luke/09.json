@@ -1,0 +1,78 @@
+{
+ "book": "luke",
+ "chapter": 9,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    6
+   ],
+   "setting": "place:capernaum",
+   "confidence": "inferred",
+   "basis": "9:1 \"He called the twelve together\" - the commissioning discourse names no place; it follows the unnamed city of 8:40-56"
+  },
+  {
+   "verses": [
+    7,
+    9
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "9:7 \"Herod the tetrarch heard of all that was done by him\" - Herod's court is not named"
+  },
+  {
+   "verses": [
+    10,
+    17
+   ],
+   "setting": "place:bethsaida",
+   "confidence": "stated",
+   "basis": "9:10 \"He took them, and withdrew apart to a desert region of a city called Bethsaida\""
+  },
+  {
+   "verses": [
+    18,
+    27
+   ],
+   "setting": "place:bethsaida",
+   "confidence": "inferred",
+   "basis": "9:18 \"As he was praying alone, the disciples were with him\" - no place is named; the confession and passion prediction follow the Bethsaida scene"
+  },
+  {
+   "verses": [
+    28,
+    36
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "9:28 \"he took with him Peter, John, and James, and went up onto the mountain to pray\" - the mountain of the transfiguration is not named"
+  },
+  {
+   "verses": [
+    37,
+    50
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "9:37 \"On the next day, when they had come down from the mountain, a great multitude met him\" - no place is named for the healing and the discourses of 9:44-50"
+  },
+  {
+   "verses": [
+    51,
+    56
+   ],
+   "setting": "place:samaria",
+   "confidence": "stated",
+   "basis": "9:52 \"entered into a village of the Samaritans\""
+  },
+  {
+   "verses": [
+    57,
+    62
+   ],
+   "setting": "place:samaria",
+   "confidence": "inferred",
+   "basis": "9:57 \"As they went on the way, a certain man said to him\" - the road inherits the Samaritan journey of 9:52"
+  }
+ ]
+}

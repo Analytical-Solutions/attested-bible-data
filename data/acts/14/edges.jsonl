@@ -1,0 +1,188 @@
+{"from": "passage:ac-14-01", "type": "asserts", "to": "claim:ac-14-01-iconium-synagogue"}
+{"from": "passage:ac-14-02", "type": "asserts", "to": "claim:ac-14-02-05-iconium-opposition"}
+{"from": "passage:ac-14-03", "type": "asserts", "to": "claim:ac-14-02-05-iconium-opposition"}
+{"from": "passage:ac-14-04", "type": "asserts", "to": "claim:ac-14-02-05-iconium-opposition"}
+{"from": "passage:ac-14-05", "type": "asserts", "to": "claim:ac-14-02-05-iconium-opposition"}
+{"from": "passage:ac-14-06", "type": "asserts", "to": "claim:ac-14-06-lycaonia-cities"}
+{"from": "passage:ac-14-07", "type": "asserts", "to": "claim:ac-14-06-lycaonia-cities"}
+{"from": "passage:ac-14-08", "type": "asserts", "to": "claim:ac-14-08-10-cripple-healed"}
+{"from": "passage:ac-14-09", "type": "asserts", "to": "claim:ac-14-08-10-cripple-healed"}
+{"from": "passage:ac-14-10", "type": "asserts", "to": "claim:ac-14-08-10-cripple-healed"}
+{"from": "passage:ac-14-11", "type": "asserts", "to": "claim:ac-14-11-gods-come-down"}
+{"from": "passage:ac-14-11", "type": "asserts", "to": "claim:ac-14-11-lycaonian-language"}
+{"from": "passage:ac-14-12", "type": "asserts", "to": "claim:ac-14-12-barnabas-zeus-paul-hermes"}
+{"from": "passage:ac-14-13", "type": "asserts", "to": "claim:ac-14-13-priest-zeus-temple"}
+{"from": "passage:ac-14-14", "type": "asserts", "to": "claim:ac-14-13-priest-zeus-temple"}
+{"from": "passage:ac-14-19", "type": "asserts", "to": "claim:ac-14-19-jews-stoned-paul"}
+{"from": "passage:ac-14-20", "type": "asserts", "to": "claim:ac-14-19-jews-stoned-paul"}
+{"from": "passage:ac-14-21", "type": "asserts", "to": "claim:ac-14-21-23-revisited-elders"}
+{"from": "passage:ac-14-22", "type": "asserts", "to": "claim:ac-14-21-23-revisited-elders"}
+{"from": "passage:ac-14-23", "type": "asserts", "to": "claim:ac-14-21-23-revisited-elders"}
+{"from": "passage:ac-14-24", "type": "asserts", "to": "claim:ac-14-24-25-perga-pamphylia"}
+{"from": "passage:ac-14-25", "type": "asserts", "to": "claim:ac-14-24-25-perga-pamphylia"}
+{"from": "passage:ac-14-25", "type": "asserts", "to": "claim:ac-14-25-attalia"}
+{"from": "passage:ac-14-26", "type": "asserts", "to": "claim:ac-14-26-28-sailed-antioch"}
+{"from": "passage:ac-14-27", "type": "asserts", "to": "claim:ac-14-26-28-sailed-antioch"}
+{"from": "passage:ac-14-28", "type": "asserts", "to": "claim:ac-14-26-28-sailed-antioch"}
+{"from": "claim:ac-14-01-iconium-synagogue", "type": "mentions", "to": "place:iconium"}
+{"from": "claim:ac-14-01-iconium-synagogue", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-01-iconium-synagogue", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-14-02-05-iconium-opposition", "type": "mentions", "to": "place:iconium"}
+{"from": "claim:ac-14-02-05-iconium-opposition", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-02-05-iconium-opposition", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-14-06-lycaonia-cities", "type": "mentions", "to": "place:lycaonia"}
+{"from": "claim:ac-14-06-lycaonia-cities", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-06-lycaonia-cities", "type": "mentions", "to": "place:derbe"}
+{"from": "claim:ac-14-06-lycaonia-cities", "type": "mentions", "to": "place:iconium"}
+{"from": "claim:ac-14-06-lycaonia-cities", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-06-lycaonia-cities", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-14-08-10-cripple-healed", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-08-10-cripple-healed", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-11-gods-come-down", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-11-gods-come-down", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-11-lycaonian-language", "type": "mentions", "to": "place:lycaonia"}
+{"from": "claim:ac-14-11-lycaonian-language", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-12-barnabas-zeus-paul-hermes", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-14-12-barnabas-zeus-paul-hermes", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-12-barnabas-zeus-paul-hermes", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-13-priest-zeus-temple", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-19-jews-stoned-paul", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-19-jews-stoned-paul", "type": "mentions", "to": "place:iconium"}
+{"from": "claim:ac-14-19-jews-stoned-paul", "type": "mentions", "to": "place:antioch-pisidia"}
+{"from": "claim:ac-14-19-jews-stoned-paul", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-21-23-revisited-elders", "type": "mentions", "to": "place:lystra"}
+{"from": "claim:ac-14-21-23-revisited-elders", "type": "mentions", "to": "place:iconium"}
+{"from": "claim:ac-14-21-23-revisited-elders", "type": "mentions", "to": "place:antioch-pisidia"}
+{"from": "claim:ac-14-21-23-revisited-elders", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-21-23-revisited-elders", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-14-24-25-perga-pamphylia", "type": "mentions", "to": "place:pisidia"}
+{"from": "claim:ac-14-24-25-perga-pamphylia", "type": "mentions", "to": "place:pamphylia"}
+{"from": "claim:ac-14-24-25-perga-pamphylia", "type": "mentions", "to": "place:perga"}
+{"from": "claim:ac-14-24-25-perga-pamphylia", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-24-25-perga-pamphylia", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-14-25-attalia", "type": "mentions", "to": "place:attalia"}
+{"from": "claim:ac-14-25-attalia", "type": "mentions", "to": "place:perga"}
+{"from": "claim:ac-14-26-28-sailed-antioch", "type": "mentions", "to": "place:attalia"}
+{"from": "claim:ac-14-26-28-sailed-antioch", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-14-26-28-sailed-antioch", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-14-26-28-sailed-antioch", "type": "mentions", "to": "person:barnabas"}
+{"from": "text:strabo-geography-12-6", "type": "attests", "to": "place:iconium", "grade": "A", "note": "Strabo, Geography 12.6.1 names Iconium, 'a small town, well built' in Lycaonia - the city Acts 14:1 names."}
+{"from": "text:strabo-geography-12-6", "type": "attests", "to": "place:lycaonia", "grade": "A", "note": "Strabo, Geography 12.6.1 names Lycaonia and describes its 'mountainous plains... cold and bare, affording pasture only for wild asses' - the region Acts 14:6 names."}
+{"from": "text:strabo-geography-12-6", "type": "attests", "to": "place:derbe", "grade": "A", "note": "Strabo, Geography 12.6.3 names Derbe as 'the royal seat of the tyrant Antipater, surnamed Derbates' - the city Acts 14:6 and 14:20-21 name."}
+{"from": "text:strabo-geography-12-6", "type": "attests", "to": "claim:ac-14-01-iconium-synagogue", "grade": "B", "note": "Confirms the setting only: Strabo names Iconium as an existing Lycaonian town in the period. It says nothing of a synagogue or of the believing multitude."}
+{"from": "text:strabo-geography-12-6", "type": "attests", "to": "claim:ac-14-06-lycaonia-cities", "grade": "B", "note": "Strabo names Lycaonia and Derbe, and the fetched Wikipedia Lystra article places Lystra in Lycaonia, but Strabo's text names neither Lystra nor Lycaonia as Derbe's region (see the complicates edge)."}
+{"from": "text:strabo-geography-12-6", "type": "complicates", "to": "claim:ac-14-06-lycaonia-cities", "note": "Strabo, Geography 12.6.3 puts Derbe 'on the side of the Isaurian territory close upon Cappadocia', not in Lycaonia; the fetched Wikipedia Derbe article adds that Stephanus of Byzantium places Derbe in Isauria. Ancient regional assignments for Derbe vary."}
+{"from": "text:strabo-geography-14-4-1", "type": "attests", "to": "place:attalia", "grade": "A", "note": "Strabo, Geography 14.4.1 names Attaleia, 'a city, so called from its founder Attalus Philadelphus', on the Pamphylian coast - the port Acts 14:25 names."}
+{"from": "text:strabo-geography-14-4-1", "type": "attests", "to": "claim:ac-14-25-attalia", "grade": "B", "note": "Confirms the setting only: Attaleia was an existing coastal city of Pamphylia in the period. It does not attest that Paul and Barnabas went down to it."}
+{"from": "text:strabo-geography-14-4-1", "type": "attests", "to": "place:pamphylia", "grade": "A", "note": "Strabo, Geography 14.4.1: 'here Pamphylia begins' - the region Acts 14:24 names, entered after Pisidia on the same coastal route."}
+{"from": "text:strabo-geography-12-7", "type": "attests", "to": "place:pisidia", "grade": "B", "note": "Strabo, Geography 12.7.1-2 names the Pisidians occupying the summits of Taurus and 'cities of the Pisidians'; it names the people and their country but the fetched chapters do not use the region name 'Pisidia' itself."}
+{"from": "text:ovid-metamorphoses-8-611-737", "type": "attests", "to": "claim:ac-14-11-gods-come-down", "grade": "C", "note": "Context: Ovid, Metamorphoses 8.611-737, tells of Jupiter and Mercury - the same divine pair as Acts 14:12's Zeus and Hermes - visiting mortals 'disguised in human shape' in Phrygia, the neighbouring region. A parallel from the wider Greco-Roman world showing the custom of expecting gods in human form; it does not attest the Lystran acclamation."}
+{"from": "text:ovid-metamorphoses-8-611-737", "type": "attests", "to": "claim:ac-14-12-barnabas-zeus-paul-hermes", "grade": "C", "note": "Context: the same region and the same divine pair (Jupiter and Mercury = Zeus and Hermes) in a Greek-Roman divine-visitation story; it shows the currency of the pair, not that the Lystrans so called the apostles."}
+{"from": "artifact:lystra-zeus-hermes-inscriptions", "type": "attests", "to": "claim:ac-14-12-barnabas-zeus-paul-hermes", "grade": "B", "note": "Two inscriptions discovered in 1909 near Lystra testify to the worship of Zeus and Hermes in that city (fetched Wikipedia Zeus article); the same pair Acts 14:12 names. The fetched page does not date the stones or quote a dedication identifying a living pair with them."}
+{"from": "artifact:lystra-zeus-hermes-inscriptions", "type": "attests", "to": "claim:ac-14-13-priest-zeus-temple", "grade": "B", "note": "One of the two 1909 inscriptions near Lystra 'refers to the \"priests of Zeus\"' (fetched Wikipedia Zeus article) - the same priestly office Acts 14:13 presupposes at Lystra. It says nothing of a temple 'in front of the city'; that part of the claim rests on the text alone."}
+{"from": "artifact:lystra-zeus-hermes-inscriptions", "type": "attests", "to": "place:lystra", "grade": "B", "note": "The inscriptions were found near Lystra and attest worship there (fetched Wikipedia Zeus article); the attribution to Lystra rests on the modern identification of the findspot, which the fetched page does not detail."}
+{"from": "artifact:derbe-kerti-huyuk-inscription", "type": "attests", "to": "claim:ac-14-06-lycaonia-cities", "grade": "D", "note": "Disputed identification: Michael Ballance fixed Derbe's site at Kerti Hüyük in 1956 on the basis of this 157 AD inscription, but the fetched Wikipedia Derbe article states the identification is 'subject to controversy' while being 'considered the most likely site'."}
+{"from": "site:perga", "type": "attests", "to": "place:perga", "grade": "A", "note": "The excavated ruins 15 km east of Antalya are Perga, capital of the Roman province of Pamphylia Secunda (fetched Wikipedia Perga article) - the city Acts 14:25 names."}
+{"from": "site:perga", "type": "attests", "to": "claim:ac-14-24-25-perga-pamphylia", "grade": "B", "note": "Confirms the setting only: a major Pamphylian city stood at Perga in the Roman period. It does not attest that Paul and Barnabas spoke the word there."}
+{"from": "site:antioch-pisidia", "type": "attests", "to": "place:antioch-pisidia", "grade": "A", "note": "The excavated ruins about 1 km northeast of Yalvaç are Antioch of Pisidia, a Seleucid foundation and Roman colony Colonia Caesarea (fetched Wikipedia Antioch of Pisidia article) - the city the Jews of Acts 14:19 and the return visit of 14:21 name."}
+{"from": "site:antioch-pisidia", "type": "attests", "to": "claim:ac-14-21-23-revisited-elders", "grade": "B", "note": "Confirms the setting only: the Roman colony existed in the period. It does not attest the return visit or the appointment of elders."}
+{"from": "artifact:perga-artemis-coins", "type": "attests", "to": "place:perga", "grade": "B", "note": "Perga minted its own coins in the 2nd century BC 'with the image of Artemis and her temple' (fetched Wikipedia Perga article) - a city coinage naming the city's cult, issued well before the Acts period."}
+{"from": "text:josephus-war-7-43-antioch-jews", "type": "attests", "to": "place:antioch-on-the-orontes", "grade": "A", "note": "Josephus, War 7.3 names Antioch, 'the largeness of the city', as the seat of the greatest Jewish multitudes of the dispersion in Syria - the city Acts 14:26 names as the reporting destination."}
+{"from": "text:josephus-war-7-43-antioch-jews", "type": "attests", "to": "claim:ac-14-19-jews-stoned-paul", "grade": "C", "note": "Context: Josephus attests a large, long-settled Jewish community at Antioch (War 7.3, c. 66-70 CE), the kind of diaspora community the Acts 14:19 Jews came from; it attests the community, not the expedition to Lystra or the stoning."}
+{"from": "text:strabo-geography-12-6", "type": "documented_by", "to": "source:perseus-strabo-12-6-lycaonia"}
+{"from": "text:strabo-geography-12-6", "type": "documented_by", "to": "source:perseus-strabo-12-6-iconium"}
+{"from": "text:strabo-geography-12-6", "type": "documented_by", "to": "source:perseus-strabo-12-6-derbe"}
+{"from": "text:strabo-geography-12-7", "type": "documented_by", "to": "source:perseus-strabo-12-7-pisidians"}
+{"from": "text:strabo-geography-14-4-1", "type": "documented_by", "to": "source:perseus-strabo-14-4-1"}
+{"from": "text:ovid-metamorphoses-8-611-737", "type": "documented_by", "to": "source:gutenberg-ovid-met-8"}
+{"from": "text:josephus-war-7-43-antioch-jews", "type": "documented_by", "to": "source:wikisource-war7-antioch-jews"}
+{"from": "text:2-corinthians-11-25", "type": "documented_by", "to": "source:bible-api-2-corinthians-11-25"}
+{"from": "artifact:lystra-zeus-hermes-inscriptions", "type": "documented_by", "to": "source:wikipedia-zeus"}
+{"from": "artifact:derbe-kerti-huyuk-inscription", "type": "documented_by", "to": "source:wikipedia-derbe"}
+{"from": "artifact:derbe-kerti-huyuk-inscription", "type": "documented_by", "to": "source:wikipedia-derbe-controversy"}
+{"from": "artifact:perga-artemis-coins", "type": "documented_by", "to": "source:wikipedia-perga"}
+{"from": "site:perga", "type": "documented_by", "to": "source:wikipedia-perga"}
+{"from": "site:antioch-pisidia", "type": "documented_by", "to": "source:wikipedia-antioch-pisidia"}
+{"from": "site:antioch-pisidia", "type": "documented_by", "to": "source:wikipedia-antioch-pisidia-excavations"}
+{"from": "place:iconium", "type": "documented_by", "to": "source:wikipedia-konya-iconium"}
+{"from": "place:lystra", "type": "documented_by", "to": "source:wikipedia-lystra"}
+{"from": "place:derbe", "type": "documented_by", "to": "source:wikipedia-derbe"}
+{"from": "place:lycaonia", "type": "documented_by", "to": "source:wikipedia-lycaonia"}
+{"from": "place:perga", "type": "documented_by", "to": "source:wikipedia-perga"}
+{"from": "place:attalia", "type": "documented_by", "to": "source:wikipedia-antalya-attalia"}
+{"from": "place:pamphylia", "type": "documented_by", "to": "source:wikipedia-pamphylia"}
+{"from": "place:pisidia", "type": "documented_by", "to": "source:wikipedia-pisidia"}
+{"from": "place:antioch-pisidia", "type": "documented_by", "to": "source:wikipedia-antioch-pisidia"}
+{"from": "place:antioch-on-the-orontes", "type": "documented_by", "to": "source:wikipedia-antioch"}
+{"from": "claim:ac-14-11-lycaonian-language", "type": "documented_by", "to": "source:wikipedia-lycaonian-language"}
+{"from": "claim:ac-14-11-lycaonian-language", "type": "documented_by", "to": "source:wikipedia-acts-14"}
+{"from": "claim:ac-14-08-10-cripple-healed", "type": "documented_by", "to": "source:wikipedia-lystra"}
+{"from": "text:2-corinthians-11-25", "type": "related_to", "to": "claim:ac-14-19-jews-stoned-paul", "note": "Paul's own list of hardships (2 Corinthians 11:25): 'Three times I was beaten with rods. Once I was stoned.' Consistent with the Lystra stoning, though Paul does not name the city; biblical cross-reference, not independent evidence."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-14-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-14-28"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-01"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-02"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-03"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-15"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-16"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-17"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-18"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-19"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-20"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-21"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-22"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-14-23"}

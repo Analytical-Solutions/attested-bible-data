@@ -1,0 +1,51 @@
+{
+  "book": "matthew",
+  "chapter": 9,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        8
+      ],
+      "setting": "place:capernaum",
+      "basis": "9:1 \"entered into a boat, and crossed over, and came into his own city\" - his city is Capernaum (4:13)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        9,
+        17
+      ],
+      "setting": "place:capernaum",
+      "basis": "9:9 \"As Jesus passed by from there, he saw a man called Matthew sitting at the tax collection office\" - at Capernaum, no departure narrated",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        18,
+        26
+      ],
+      "setting": "place:capernaum",
+      "basis": "9:23 \"When Jesus came into the ruler's house\" - still in his own city (9:1)",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        27,
+        34
+      ],
+      "setting": "place:capernaum",
+      "basis": "9:27-28 \"As Jesus passed by from there... he had come into the house\" - still in Capernaum",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        35,
+        38
+      ],
+      "setting": "place:galilee",
+      "basis": "9:35 \"Jesus went about all the cities and the villages, teaching in their synagogues\"",
+      "confidence": "stated"
+    }
+  ]
+}

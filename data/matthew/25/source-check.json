@@ -1,0 +1,117 @@
+{
+ "source:bible-api-daniel-7-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+7:13?translation=web"
+ },
+ "source:sefaria-bava-batra-5-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Batra.5.9"
+ },
+ "source:sefaria-bava-metzia-3-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Metzia.3.11"
+ },
+ "source:sefaria-sotah-9-14": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sotah.9.14"
+ },
+ "source:wikipedia-babatha": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Babatha"
+ },
+ "source:wikipedia-babatha-loan": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Babatha"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-copper-scroll": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Copper_Scroll"
+ },
+ "source:wikipedia-copper-scroll-talents": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Copper_Scroll"
+ },
+ "source:wikipedia-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Machaerus"
+ },
+ "source:wikipedia-oil-lamp": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Oil_lamp"
+ },
+ "source:wikipedia-oil-lamp-fuel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Oil_lamp"
+ },
+ "source:wikipedia-papyrus-35": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_35"
+ },
+ "source:wikipedia-papyrus-45": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-parable-of-the-ten-virgins": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Parable_of_the_Ten_Virgins"
+ },
+ "source:wikipedia-parable-talents-value": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Parable_of_the_Talents"
+ },
+ "source:wikipedia-talent": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Talent_(measurement)"
+ },
+ "source:wikipedia-the-sheep-and-the-goats": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/The_Sheep_and_the_Goats"
+ },
+ "source:wikipedia-wadi-murabbaat": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Wadi_Murabba%27at"
+ },
+ "source:wikisource-ant-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant18-machaerus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-enoch-62": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_62"
+ }
+}

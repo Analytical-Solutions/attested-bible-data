@@ -1,0 +1,164 @@
+{"from": "passage:mt-05-01", "type": "asserts", "to": "claim:mt-05-01-taught-on-mountain"}
+{"from": "passage:mt-05-13", "type": "asserts", "to": "claim:mt-05-13-salt"}
+{"from": "passage:mt-05-14", "type": "asserts", "to": "claim:mt-05-14-city-on-hill"}
+{"from": "passage:mt-05-15", "type": "asserts", "to": "claim:mt-05-15-lamp-and-stand"}
+{"from": "passage:mt-05-18", "type": "asserts", "to": "claim:mt-05-18-law-transmitted-exactly"}
+{"from": "passage:mt-05-20", "type": "asserts", "to": "claim:mt-05-19-20-scribes-pharisees"}
+{"from": "passage:mt-05-22", "type": "asserts", "to": "claim:mt-05-21-22-council-judgment"}
+{"from": "passage:mt-05-22", "type": "asserts", "to": "claim:mt-05-22-gehenna-fire"}
+{"from": "passage:mt-05-23", "type": "asserts", "to": "claim:mt-05-23-24-altar-gift"}
+{"from": "passage:mt-05-25", "type": "asserts", "to": "claim:mt-05-25-26-imprisoned-for-debt"}
+{"from": "passage:mt-05-26", "type": "asserts", "to": "claim:mt-05-26-quadrans"}
+{"from": "passage:mt-05-31", "type": "asserts", "to": "claim:mt-05-31-32-certificate-of-divorce"}
+{"from": "passage:mt-05-34", "type": "asserts", "to": "claim:mt-05-34-35-oaths"}
+{"from": "passage:mt-05-38", "type": "asserts", "to": "claim:mt-05-38-eye-for-eye"}
+{"from": "passage:mt-05-40", "type": "asserts", "to": "claim:mt-05-40-tunic-and-cloak"}
+{"from": "passage:mt-05-41", "type": "asserts", "to": "claim:mt-05-41-angaria-mile"}
+{"from": "claim:mt-05-01-taught-on-mountain", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-05-01-taught-on-mountain", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-05-21-22-council-judgment", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-05-22-gehenna-fire", "type": "mentions", "to": "place:valley-of-hinnom"}
+{"from": "claim:mt-05-23-24-altar-gift", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-05-34-35-oaths", "type": "mentions", "to": "place:jerusalem"}
+{"from": "site:mount-of-beatitudes", "type": "attests", "to": "claim:mt-05-01-taught-on-mountain", "grade": "D", "note": "The Mount of Beatitudes is 'the traditional site of Jesus' Sermon on the Mount', venerated since a 4th-century Byzantine church stood lower on the slope; the tradition is commemorative, not proof of the event."}
+{"from": "site:sepphoris", "type": "attests", "to": "claim:mt-05-14-city-on-hill", "grade": "C", "note": "The excavated Galilean city stands on a hill: 'The Crusaders built a fort and watchtower atop the hill overlooking the town' - the hilltop-city setting of the saying."}
+{"from": "site:mount-sodom", "type": "attests", "to": "claim:mt-05-13-salt", "grade": "C", "note": "The Dead Sea ridge 'is about 80% salt'; Wikipedia (Salt in the Bible): the Dead Sea's salt cliffs at Jebel Usdum were 'the main source of salt in the region', harvested 'for seasoning and as a preservative'."}
+{"from": "artifact:herodian-oil-lamp", "type": "attests", "to": "claim:mt-05-15-lamp-and-stand", "grade": "C", "note": "'Very common throughout all of Judea' from the 1st century BC to the end of the 1st century AD - the household clay oil lamp of the saying. The lamp stand itself is not evidenced by this find."}
+{"from": "text:josephus-against-apion-1", "type": "attests", "to": "claim:mt-05-18-law-transmitted-exactly", "grade": "C", "note": "Josephus: for so many ages 'no one has been so bold as either to add any thing to them, to take any thing from them, or to make any change in them' - the Jewish reverence for the fixed written text of scripture."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-05-18-law-transmitted-exactly", "grade": "C", "note": "Attests that Hebrew scripture circulated as a complete written text (c. 125 BCE) whose copying guarded every letter; the scroll carries Isaiah, not the Torah itself."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-05-19-20-scribes-pharisees", "grade": "C", "note": "Josephus names the Pharisees as one of the three sects 'peculiar' to the Jews; his fuller account of their teaching authority was not fetched this run."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "claim:mt-05-21-22-council-judgment", "grade": "A", "note": "c. 62 CE: Ananus 'assembled the sanhedrim of judges, and brought before them the brother of Jesus, who was called Christ... and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned' - the source names the sanhedrim acting as a court, which is grade A (reviewer-1 calibration, 2026-11-11)."}
+{"from": "text:targum-jonathan-isaiah-66-24", "type": "attests", "to": "claim:mt-05-22-gehenna-fire", "grade": "C", "note": "'the evildoers shall be judged in Gehenna' - the judgment association in Jewish exegetical tradition; the Targum's final form postdates the Second Temple period, so it evidences the tradition, not a 1st-century date."}
+{"from": "site:akeldama-tombs", "type": "attests", "to": "claim:mt-05-22-gehenna-fire", "grade": "B", "note": "'Rock-cut Second Temple period burial caves known as the Akeldama tombs on the southern slope' of the Valley of Hinnom - fixes the valley as a real, used place in the period."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-05-23-24-altar-gift", "grade": "B", "note": "'The Second Temple served as the chief place of worship, ritual sacrifice (korban), and communal gathering for the Jewish people, among whom it regularly attracted pilgrims for the Three Pilgrimage Festivals'."}
+{"from": "artifact:temple-warning-inscription", "type": "attests", "to": "claim:mt-05-23-24-altar-gift", "grade": "C", "note": "The balustrade inscription (c. 23 BCE - 70 CE) hung 'along the balustrade outside the Sanctuary of the Second Temple in Jerusalem', attesting the regulated precinct worshippers crossed to bring offerings; it does not name the gifts themselves."}
+{"from": "artifact:babatha-archive", "type": "attests", "to": "claim:mt-05-25-26-imprisoned-for-debt", "grade": "C", "note": "The archive documents debts and legal contracts among Judean Jews (96-134 CE); it shows debt handled by contract and courts, and does not itself evidence imprisonment for debt."}
+{"from": "artifact:quadrans-coin", "type": "attests", "to": "claim:mt-05-26-quadrans", "grade": "C", "note": "'A low-value Roman bronze coin worth one quarter of an as', 'produced sporadically until the time of Antoninus Pius (AD 138-161)'; its Greek name kodrantes is Matthew's word for the last farthing."}
+{"from": "text:erusin-betrothal-law", "type": "attests", "to": "claim:mt-05-31-32-certificate-of-divorce", "grade": "C", "note": "Jewish law of divorce: 'A divorce document must be written... in the presence of two witnesses' - rabbinic law codified after 200 CE describing the practice the verse assumes."}
+{"from": "text:josephus-ant-4-injuries", "type": "attests", "to": "claim:mt-05-38-eye-for-eye", "grade": "C", "note": "Josephus renders the law: 'He that maimeth any one, let him undergo the like himself, and be deprived of the same member of which he hath deprived the other'."}
+{"from": "artifact:judean-desert-textiles", "type": "attests", "to": "claim:mt-05-40-tunic-and-cloak", "grade": "C", "note": "'The remains of a child dressed in a tunic' and 'a complete set of clothes' dated c. 135 CE from the Cave of Letters - ordinary dress of Judean Jews a generation after the Sermon."}
+{"from": "text:roman-angaria", "type": "attests", "to": "claim:mt-05-41-angaria-mile", "grade": "C", "note": "The fetched article states, citing Xenophon (Cyropaedia 8.6), that mounted couriers were posted at stages carrying royal dispatches day and night in all weather, and that the Roman imperial government adopted this angaria system from the Persians; in the Roman system the supply of horses and their maintenance was a compulsory duty from which the emperor alone could grant exemption - the requisition custom Matthew's compelled mile evokes."}
+{"from": "text:josephus-ant-4-injuries", "type": "complicates", "to": "claim:mt-05-38-eye-for-eye", "note": "Josephus continues: 'unless he that is maimed will accept of money instead of it' - in his rendering the law was satisfied by monetary compensation, not literal maiming."}
+{"from": "place:valley-of-hinnom", "type": "documented_by", "to": "source:wikipedia-gehenna-identity"}
+{"from": "site:mount-of-beatitudes", "type": "documented_by", "to": "source:wikipedia-mount-of-beatitudes"}
+{"from": "site:mount-of-beatitudes", "type": "documented_by", "to": "source:wikipedia-mount-of-beatitudes-dispute"}
+{"from": "site:sepphoris", "type": "documented_by", "to": "source:wikipedia-sepphoris"}
+{"from": "site:mount-sodom", "type": "documented_by", "to": "source:wikipedia-mount-sodom"}
+{"from": "site:mount-sodom", "type": "documented_by", "to": "source:wikipedia-salt-in-the-bible"}
+{"from": "site:mount-sodom", "type": "documented_by", "to": "source:wikipedia-salt-in-the-bible-use"}
+{"from": "site:akeldama-tombs", "type": "documented_by", "to": "source:wikipedia-gehenna"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-korban"}
+{"from": "artifact:herodian-oil-lamp", "type": "documented_by", "to": "source:wikipedia-oil-lamp"}
+{"from": "artifact:quadrans-coin", "type": "documented_by", "to": "source:wikipedia-quadrans"}
+{"from": "artifact:quadrans-coin", "type": "documented_by", "to": "source:wikipedia-quadrans-date"}
+{"from": "artifact:babatha-archive", "type": "documented_by", "to": "source:wikipedia-babatha"}
+{"from": "artifact:judean-desert-textiles", "type": "documented_by", "to": "source:wikipedia-cave-of-letters"}
+{"from": "artifact:temple-warning-inscription", "type": "documented_by", "to": "source:wikipedia-temple-warning"}
+{"from": "text:josephus-against-apion-1", "type": "documented_by", "to": "source:wikisource-apion-1"}
+{"from": "text:josephus-ant-4-injuries", "type": "documented_by", "to": "source:wikisource-ant-4"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:wikisource-ant-20"}
+{"from": "text:targum-jonathan-isaiah-66-24", "type": "documented_by", "to": "source:wikipedia-gehenna-targum"}
+{"from": "text:roman-angaria", "type": "documented_by", "to": "source:wikipedia-angaria"}
+{"from": "text:psalm-48-2", "type": "documented_by", "to": "source:wikisource-psalms-web"}
+{"from": "text:erusin-betrothal-law", "type": "documented_by", "to": "source:wikipedia-get"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-05-48"}
+{"from": "text:psalm-48-2", "type": "related_to", "to": "claim:mt-05-34-35-oaths", "note": "Psalm 48:2 (WEB) calls Mount Zion 'the city of the great King' - the phrase behind Matt 5:35; a biblical cross-reference, not independent evidence."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-05-48"}
+{"from": "text:mishnah-nedarim-1-3", "type": "documented_by", "to": "source:sefaria-nedarim-1-3"}
+{"from": "text:mishnah-nedarim-1-3", "type": "attests", "to": "claim:mt-05-34-35-oaths", "grade": "B", "note": "Nedarim 1:3 treats a vow associating food with 'the altar, the Sanctuary, or Jerusalem' as binding - the live practice of swearing by Jerusalem and holy things that 5:34-35 addresses; Matthew's teaching renounces such oaths. Redacted c. 200 CE, so it may not describe 30 CE practice exactly. Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}

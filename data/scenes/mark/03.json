@@ -1,0 +1,42 @@
+{
+  "book": "mark",
+  "chapter": 3,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        6
+      ],
+      "setting": "place:capernaum",
+      "basis": "3:1 \"He entered again into the synagogue\" - the Capernaum synagogue (1:21; 2:1), no town change narrated",
+      "confidence": "inferred"
+    },
+    {
+      "verses": [
+        7,
+        12
+      ],
+      "setting": "place:sea-of-galilee",
+      "basis": "3:7 \"Jesus withdrew to the sea with his disciples\" - the sea of the Galilee ministry (1:16; 3:8 multitudes \"from Galilee\")",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        13,
+        19
+      ],
+      "setting": null,
+      "basis": "3:13 \"He went up into the mountain\" - the mountain is unnamed",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        20,
+        35
+      ],
+      "setting": null,
+      "basis": "3:19 \"Then he came into a house\" - the house and town are not named",
+      "confidence": "stated"
+    }
+  ]
+}

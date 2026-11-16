@@ -1,0 +1,82 @@
+{
+ "source:bible-api-daniel-12-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/daniel+12:2?translation=web"
+ },
+ "source:tertullian-onomasticon-ephraim": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.tertullian.org/fathers/eusebius_onomasticon_02_trans.htm"
+ },
+ "source:tertullian-onomasticon-ephron": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.tertullian.org/fathers/eusebius_onomasticon_02_trans.htm"
+ },
+ "source:wikipedia-4q521-dead": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/4Q521"
+ },
+ "source:wikipedia-bethany-distance": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethany"
+ },
+ "source:wikipedia-bethany-lazarus-name": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bethany"
+ },
+ "source:wikipedia-ephraim-wilderness": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ephraim_in_the_wilderness"
+ },
+ "source:wikipedia-papyrus-45-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-66": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_66"
+ },
+ "source:wikipedia-papyrus-75-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ },
+ "source:wikipedia-shiva-consolation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Shiva_(Judaism)"
+ },
+ "source:wikipedia-taybeh-ophrah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Taybeh,_Ramallah"
+ },
+ "source:wikipedia-tomb-of-lazarus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tomb_of_Lazarus"
+ },
+ "source:wikipedia-tomb-of-lazarus-cemetery": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tomb_of_Lazarus"
+ },
+ "source:wikipedia-tomb-of-lazarus-identity": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tomb_of_Lazarus"
+ },
+ "source:wikisource-war-4-ephraim": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_IV"
+ }
+}

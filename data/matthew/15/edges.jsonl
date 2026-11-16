@@ -1,0 +1,183 @@
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-15-39"}
+{"from": "passage:mt-15-01", "type": "asserts", "to": "claim:mt-15-01-scribes-pharisees-jerusalem"}
+{"from": "passage:mt-15-02", "type": "asserts", "to": "claim:mt-15-02-tradition-of-elders"}
+{"from": "passage:mt-15-02", "type": "asserts", "to": "claim:mt-15-02-handwashing-before-eating"}
+{"from": "passage:mt-15-05", "type": "asserts", "to": "claim:mt-15-05-korban-vow"}
+{"from": "passage:mt-15-06", "type": "asserts", "to": "claim:mt-15-05-korban-vow"}
+{"from": "passage:mt-15-08", "type": "asserts", "to": "claim:mt-15-08-isaiah-29-13-quoted"}
+{"from": "passage:mt-15-09", "type": "asserts", "to": "claim:mt-15-08-isaiah-29-13-quoted"}
+{"from": "passage:mt-15-11", "type": "asserts", "to": "claim:mt-15-11-what-enters-mouth"}
+{"from": "passage:mt-15-17", "type": "asserts", "to": "claim:mt-15-11-what-enters-mouth"}
+{"from": "passage:mt-15-20", "type": "asserts", "to": "claim:mt-15-11-what-enters-mouth"}
+{"from": "passage:mt-15-13", "type": "asserts", "to": "claim:mt-15-13-plant-uprooted"}
+{"from": "passage:mt-15-14", "type": "asserts", "to": "claim:mt-15-14-blind-guides"}
+{"from": "passage:mt-15-21", "type": "asserts", "to": "claim:mt-15-21-region-tyre-sidon"}
+{"from": "passage:mt-15-22", "type": "asserts", "to": "claim:mt-15-22-canaanite-woman"}
+{"from": "passage:mt-15-22", "type": "asserts", "to": "claim:mt-15-22-son-of-david"}
+{"from": "passage:mt-15-26", "type": "asserts", "to": "claim:mt-15-26-dogs-crumbs"}
+{"from": "passage:mt-15-27", "type": "asserts", "to": "claim:mt-15-26-dogs-crumbs"}
+{"from": "passage:mt-15-29", "type": "asserts", "to": "claim:mt-15-29-sea-galilee-mountain"}
+{"from": "passage:mt-15-30", "type": "asserts", "to": "claim:mt-15-30-healed-multitudes"}
+{"from": "passage:mt-15-32", "type": "asserts", "to": "claim:mt-15-32-three-days-nothing-eat"}
+{"from": "passage:mt-15-34", "type": "asserts", "to": "claim:mt-15-34-seven-loaves-fish"}
+{"from": "passage:mt-15-37", "type": "asserts", "to": "claim:mt-15-37-seven-baskets"}
+{"from": "passage:mt-15-38", "type": "asserts", "to": "claim:mt-15-38-four-thousand-men"}
+{"from": "passage:mt-15-39", "type": "asserts", "to": "claim:mt-15-39-borders-magdala"}
+{"from": "claim:mt-15-01-scribes-pharisees-jerusalem", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-01-scribes-pharisees-jerusalem", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-15-02-tradition-of-elders", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-02-handwashing-before-eating", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-05-korban-vow", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-08-isaiah-29-13-quoted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-08-isaiah-29-13-quoted", "type": "mentions", "to": "person:isaiah-the-prophet"}
+{"from": "claim:mt-15-11-what-enters-mouth", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-13-plant-uprooted", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-14-blind-guides", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-21-region-tyre-sidon", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-21-region-tyre-sidon", "type": "mentions", "to": "place:tyre"}
+{"from": "claim:mt-15-21-region-tyre-sidon", "type": "mentions", "to": "place:sidon"}
+{"from": "claim:mt-15-22-canaanite-woman", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-22-son-of-david", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-26-dogs-crumbs", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-29-sea-galilee-mountain", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-29-sea-galilee-mountain", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-15-30-healed-multitudes", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-32-three-days-nothing-eat", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-34-seven-loaves-fish", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-37-seven-baskets", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-38-four-thousand-men", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-39-borders-magdala", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-15-39-borders-magdala", "type": "mentions", "to": "place:magdala"}
+{"from": "text:josephus-ant-13-traditions", "type": "documented_by", "to": "source:wikisource-ant13-traditions"}
+{"from": "text:mishnah-yadayim-2-1", "type": "documented_by", "to": "source:sefaria-yadayim-2-1"}
+{"from": "artifact:korban-ossuary", "type": "documented_by", "to": "source:wol-corban"}
+{"from": "artifact:second-temple-stone-vessels", "type": "documented_by", "to": "source:wikipedia-stone-vessels-purity"}
+{"from": "site:hizma-stone-vessel-workshop", "type": "documented_by", "to": "source:wikipedia-stone-vessels-judaea"}
+{"from": "artifact:second-temple-stone-vessels", "type": "found_at", "to": "site:hizma-stone-vessel-workshop"}
+{"from": "text:josephus-ant-4-corban", "type": "documented_by", "to": "source:wikisource-ant4-corban"}
+{"from": "text:josephus-apion-1-corban", "type": "documented_by", "to": "source:wikisource-apion-corban"}
+{"from": "text:isaiah-29-13", "type": "documented_by", "to": "source:bible-api-isaiah-29-13"}
+{"from": "text:augustine-chanani", "type": "documented_by", "to": "source:wikipedia-punic-chanani"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "documented_by", "to": "source:perseus-pliny-5-tyre"}
+{"from": "text:pliny-nh-5-julias", "type": "documented_by", "to": "source:perseus-pliny-5-julias"}
+{"from": "text:psalms-of-solomon-17", "type": "documented_by", "to": "source:archive-ryle-james-psolomon"}
+{"from": "artifact:ashkelon-dog-cemetery", "type": "documented_by", "to": "source:wikipedia-ashkelon-dog-cemetery"}
+{"from": "artifact:tabun-oven", "type": "documented_by", "to": "source:wikipedia-tabun-oven"}
+{"from": "observation:galilee-fish-species", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-fish"}
+{"from": "site:migdal-synagogue", "type": "documented_by", "to": "source:wikipedia-migdal-synagogue"}
+{"from": "site:migdal-synagogue", "type": "documented_by", "to": "source:wikipedia-migdal-synagogue-seven"}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-tarichaea"}
+{"from": "artifact:magdala-stone", "type": "documented_by", "to": "source:wikipedia-magdala-stone"}
+{"from": "artifact:magdala-fishing-gear", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "text:josephus-war-3-gennesaret", "type": "documented_by", "to": "source:wikisource-war3-gennesaret"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:great-isaiah-scroll", "type": "documented_by", "to": "source:wikipedia-great-isaiah-scroll"}
+{"from": "text:josephus-ant-13-traditions", "type": "attests", "to": "claim:mt-15-02-tradition-of-elders", "grade": "C", "note": "Josephus, Ant. 13.297: 'the Pharisees have delivered to the people a great many observances by succession from their fathers, which are not written in the laws of Moses' - the Pharisaic unwritten tradition, written c. 93 CE about the earlier period."}
+{"from": "text:mishnah-yadayim-2-1", "type": "attests", "to": "claim:mt-15-02-handwashing-before-eating", "grade": "B", "note": "Mishnah Yadayim ('Hands') 2:1 rules on hands that 'become unclean and are made clean' by poured water - the tractate of ritual handwashing in the rabbinic tradition the Pharisaic practice grew into (redacted c. 200 CE, later than the dispute). Regraded C to B per the architect's Mishnah ruling (2026-11-15): the Mishnah names the same practice the claim states."}
+{"from": "artifact:second-temple-stone-vessels", "type": "attests", "to": "claim:mt-15-02-handwashing-before-eating", "grade": "C", "note": "Chalk vessels, impervious to impurity when pottery could contract it, spread in the Second Temple period 'when adherence to purity laws was paramount' - the material culture of eating under purity rules that the handwashing dispute assumes. Confirms the purity context, not handwashing before meals specifically."}
+{"from": "site:hizma-stone-vessel-workshop", "type": "attests", "to": "claim:mt-15-02-handwashing-before-eating", "grade": "C", "note": "A Second Temple period stone-vessel workshop near Jerusalem (Hizma is one of at least five, with Mount Scopus, Reineh, Einot Amitai, Wadi es-Sufera) - an industry producing purity vessels at scale. Context for the purity practice, not the specific custom."}
+{"from": "artifact:korban-ossuary", "type": "attests", "to": "claim:mt-15-05-korban-vow", "grade": "D", "note": "An Aramaic inscription on the lid of an ossuary from Jebel Hallet et-Turi, SE of Jerusalem, uses the word for 'corban', with the suggested reading 'All that a man may find-to-his-profit in this ossuary (is) an offering to God from him who is within it' - strong inscriptional evidence for the Korban vow formula. Graded D because the fetched source says its wording 'is somewhat uncertain' and its date is only 'said to date from the beginning of the Common Era'."}
+{"from": "text:josephus-ant-4-corban", "type": "attests", "to": "claim:mt-15-05-korban-vow", "grade": "C", "note": "Josephus, Ant. 4.73: 'Such also as dedicate themselves to God, as a corban, which denotes what the Greeks call a gift' - the term as a dedication that withdraws a thing from ordinary use (here of persons), written in the first century."}
+{"from": "text:josephus-apion-1-corban", "type": "attests", "to": "claim:mt-15-05-korban-vow", "grade": "C", "note": "Josephus, Against Apion 1 (the Theophrastus passage): the oath 'called Corban... can only be found among the Jews, and declares what a man may call a thing devoted to God' - a first-century author's confirmation that the formula was distinctively Jewish."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mt-15-08-isaiah-29-13-quoted", "grade": "B", "note": "The Great Isaiah Scroll, ca. 125 BCE, is the oldest known complete copy of the Book of Isaiah, including chapter 29 - the wording of the passage Matthew quotes existed in Hebrew a century and a half before the Gospel. Architect rule: a quoted passage carried by the scroll is grade B."}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "attests", "to": "claim:mt-15-21-region-tyre-sidon", "grade": "C", "note": "Pliny, NH 5.76, describes Tyre ('so famous in ancient times') and Sidon ('famous for its manufacture of glass') as standing first-century Phoenician cities - the region Jesus withdrew to. Confirms the setting, not the journey itself (reused from ch 11)."}
+{"from": "text:augustine-chanani", "type": "attests", "to": "claim:mt-15-22-canaanite-woman", "grade": "C", "note": "Augustine reports Punic speakers (descendants of the Phoenicians) still calling themselves 'chanani' (Canaanite) around 401 CE in North Africa - the ethnonym survived as a Phoenician self-designation. 5th-century North Africa: it attests the name's survival, not first-century Galilee usage."}
+{"from": "text:psalms-of-solomon-17", "type": "attests", "to": "claim:mt-15-22-son-of-david", "grade": "C", "note": "'Raise up unto them their king, the son of David' - a Jewish psalm of the first century BCE expecting a Davidic messiah, the title the woman gives Jesus (reused from ch 12)."}
+{"from": "artifact:ashkelon-dog-cemetery", "type": "attests", "to": "claim:mt-15-26-dogs-crumbs", "grade": "C", "note": "Thousands of dogs buried at Ashkelon show dogs as familiar animals around a Levantine town living on what humans discard (reused from ch 07); the cemetery is 5th-3rd century BC, centuries earlier, so it attests the region's practice, not the period."}
+{"from": "artifact:tabun-oven", "type": "attests", "to": "claim:mt-15-34-seven-loaves-fish", "grade": "C", "note": "The clay tabun oven, used since antiquity, is the household baking installation behind bread loaves as the region's staple (reused from ch 13). Confirms loaves as ordinary food, not the seven."}
+{"from": "observation:galilee-fish-species", "type": "attests", "to": "claim:mt-15-34-seven-loaves-fish", "grade": "C", "note": "The lake holds musht (tilapia), sardin, biny and catfish - 'a few small fish' is the ordinary small catch of this lake (reused from ch 13/14)."}
+{"from": "site:migdal-synagogue", "type": "attests", "to": "claim:mt-15-39-borders-magdala", "grade": "B", "note": "A first-century synagogue excavated at Migdal (Magdala) on the lake's north-west shore - a real Second Temple period town of the name Matthew's ending gives (reused from ch 04/06/09)."}
+{"from": "site:magdala", "type": "attests", "to": "claim:mt-15-39-borders-magdala", "grade": "B", "note": "Excavated Magdala (Migdal) with Early Roman remains on the Sea of Galilee shore - the 'borders' the boat came to (reused from ch 04)."}
+{"from": "artifact:magdala-stone", "type": "attests", "to": "claim:mt-15-39-borders-magdala", "grade": "B", "note": "A carved stone block unearthed in the 2009 excavation of the Migdal Synagogue, dating before 70 CE - decorated furnishing from a first-century synagogue of Magdala (reused from ch 12)."}
+{"from": "artifact:magdala-fishing-gear", "type": "attests", "to": "claim:mt-15-39-borders-magdala", "grade": "C", "note": "A needle and lead net weights from the 1970s Magdala excavations - the fishing economy of the shore town the boat reached (reused from ch 04/13)."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-15-01-scribes-pharisees-jerusalem", "grade": "C", "note": "The Second Temple in Jerusalem was 'the chief place of worship... and communal gathering' drawing pilgrims - the religious centre whose teachers scribes and Pharisees were. Confirms the Jerusalem setting, not the specific journey."}
+{"from": "text:josephus-antiquities-20", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Josephus, Ant. 20.200, names 'the brother of Jesus, who was called Christ, whose name was James' (reused from ch 13)."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "person:simon-peter", "grade": "C", "note": "A 1st-century fishing boat from the lake - the working context of Peter the fisherman; it attests his trade, not the man (reused from ch 04)."}
+{"from": "text:pliny-nh-5-tyre-sidon", "type": "attests", "to": "place:sidon", "grade": "B", "note": "Pliny describes 'Sidon, famous for its manufacture of glass' as a standing first-century town (reused from ch 11)."}
+{"from": "site:second-temple", "type": "attests", "to": "place:jerusalem", "grade": "B", "note": "The Second Temple stood in Jerusalem and was the chief place of worship and pilgrimage (reused from ch 05)."}
+{"from": "text:pliny-nh-5-julias", "type": "attests", "to": "claim:mt-15-29-sea-galilee-mountain", "grade": "C", "note": "Pliny, NH 5.75, describes the lake skirted by towns (Julias, Tarichea, Tiberias) - first-century geography of the sea of Galilee Jesus came near. Confirms the lake, not the unidentified mountain."}
+{"from": "text:josephus-war-3-gennesaret", "type": "attests", "to": "place:sea-of-galilee", "grade": "A", "note": "Josephus names the lake: 'This lake is called by the people of the country the Lake of Gennesareth' - the same water by its local first-century name (reused from ch 14)."}
+{"from": "site:magdala", "type": "complicates", "to": "claim:mt-15-39-borders-magdala", "note": "The identification remains disputed: the fetched Wikipedia article records Joan Taylor (2014) arguing against identifying al-Majdal with Magdala or Tarichaea, and Mark's parallel (8:10) reads 'Dalmanutha' in the majority of manuscripts. The Magadan/Magdala substitution itself is dismissed by some commentators as 'to substitute a known for an unknown place'."}
+{"from": "artifact:second-temple-stone-vessels", "type": "complicates", "to": "claim:mt-15-02-handwashing-before-eating", "note": "The same article reports that the scholarly nickname 'measuring cups' for the hand-made vessels does not survive scrutiny: a study by Ronnie Reich found no correlation between their volumes and any known ancient measuring system, so the vessels' exact function is unsettled."}
+{"from": "text:isaiah-29-13", "type": "related_to", "to": "claim:mt-15-08-isaiah-29-13-quoted", "note": "The quotation source (Matt 15:8-9 = Isa 29:13); a cross-reference, not independent evidence."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-15-39"}

@@ -1,0 +1,33 @@
+{
+ "book": "john",
+ "chapter": 7,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    9
+   ],
+   "setting": "place:galilee",
+   "confidence": "stated",
+   "basis": "7:1 \"Jesus was walking in Galilee\""
+  },
+  {
+   "verses": [
+    10,
+    24
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "7:14 \"Jesus went up into the temple and taught\""
+  },
+  {
+   "verses": [
+    25,
+    53
+   ],
+   "setting": "site:second-temple",
+   "confidence": "inferred",
+   "basis": "7:37 \"on the last and greatest day of the feast, Jesus stood and cried out\" - the feast continues in the temple courts; the crowds disperse (7:53)"
+  }
+ ]
+}

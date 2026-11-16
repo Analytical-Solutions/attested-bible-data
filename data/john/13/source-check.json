@@ -1,0 +1,47 @@
+{
+ "source:bible-api-1-samuel-25-41": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+samuel+25:41?translation=web"
+ },
+ "source:bible-api-2-chronicles-24-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2+chronicles+24:11?translation=web"
+ },
+ "source:bible-api-psalm-41-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalm+41:9?translation=web"
+ },
+ "source:sefaria-pesachim-10-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.10.3"
+ },
+ "source:wikipedia-chronology-of-jesus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Chronology_of_Jesus"
+ },
+ "source:wikipedia-john-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/John_13"
+ },
+ "source:wikipedia-last-supper": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Last_Supper"
+ },
+ "source:wikipedia-maundy-foot-washing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Maundy_(foot_washing)"
+ },
+ "source:wikisource-odyssey-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Odyssey_(Butler)/Book_XIX"
+ }
+}

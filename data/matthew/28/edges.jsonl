@@ -1,0 +1,108 @@
+{"from": "passage:mt-28-01", "type": "asserts", "to": "claim:mt-28-01-mary-tomb"}
+{"from": "passage:mt-28-01", "type": "asserts", "to": "claim:mt-28-01-mary-from-magdala"}
+{"from": "passage:mt-28-01", "type": "asserts", "to": "claim:mt-28-01-first-day-week"}
+{"from": "passage:mt-28-02", "type": "asserts", "to": "claim:mt-28-02-04-angel"}
+{"from": "passage:mt-28-02", "type": "asserts", "to": "claim:mt-28-02-earthquake"}
+{"from": "passage:mt-28-02", "type": "asserts", "to": "claim:mt-28-02-06-tomb-stone"}
+{"from": "passage:mt-28-03", "type": "asserts", "to": "claim:mt-28-02-04-angel"}
+{"from": "passage:mt-28-04", "type": "asserts", "to": "claim:mt-28-02-04-angel"}
+{"from": "passage:mt-28-05", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:mt-28-06", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:mt-28-07", "type": "asserts", "to": "claim:mt-28-06-resurrection"}
+{"from": "passage:mt-28-09", "type": "asserts", "to": "claim:mt-28-09-17-appearances"}
+{"from": "passage:mt-28-11", "type": "asserts", "to": "claim:mt-28-11-12-guards-bribed"}
+{"from": "passage:mt-28-13", "type": "asserts", "to": "claim:mt-28-11-15-stolen-body"}
+{"from": "passage:mt-28-13", "type": "asserts", "to": "claim:mt-28-11-12-guards-bribed"}
+{"from": "passage:mt-28-15", "type": "asserts", "to": "claim:mt-28-11-15-stolen-body"}
+{"from": "passage:mt-28-16", "type": "asserts", "to": "claim:mt-28-16-mountain-galilee"}
+{"from": "passage:mt-28-17", "type": "asserts", "to": "claim:mt-28-09-17-appearances"}
+{"from": "passage:mt-28-19", "type": "asserts", "to": "claim:mt-28-19-baptismal-formula"}
+{"from": "passage:mt-28-19", "type": "asserts", "to": "claim:mt-28-19-all-nations"}
+{"from": "passage:mt-28-20", "type": "asserts", "to": "claim:mt-28-19-baptismal-formula"}
+{"from": "passage:mt-28-20", "type": "asserts", "to": "claim:mt-28-19-all-nations"}
+{"from": "claim:mt-28-01-mary-tomb", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:mt-28-01-mary-tomb", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:mt-28-01-mary-from-magdala", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:mt-28-06-resurrection", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-28-09-17-appearances", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-28-09-17-appearances", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-28-11-12-guards-bribed", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mt-28-16-mountain-galilee", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-28-19-baptismal-formula", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-28-19-all-nations", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "site:magdala", "type": "related_to", "to": "claim:mt-28-01-mary-from-magdala", "note": "The excavated Early Roman town confirms the place the epithet points to; that Mary came from it rests on the Gospel epithet and later tradition ('It is believed to be the birthplace of Mary Magdalene'), not on the site. Follows the ch 27 architect review: a town is not evidence that a person from it existed."}
+{"from": "site:magdala", "type": "related_to", "to": "person:mary-magdalene", "note": "Mary's name 'Magdalene' points to Magdala; the excavated Early Roman town confirms the place existed. Converted from attests C by architect review: a town is not evidence that a person from it existed."}
+{"from": "site:tombs-of-the-kings", "type": "attests", "to": "claim:mt-28-02-06-tomb-stone", "grade": "B", "note": "In the Tombs of the Kings (identified with Queen Helena of Adiabene's 1st-century CE monument) 'the access from the antechamber to the exterior courtyard could be sealed closed by rolling a round stone across it, and the stone still remains in-situ' - the same closure practice in Jerusalem in the period, though not Jesus's own tomb."}
+{"from": "text:josephus-war-1-pompey-sabbath", "type": "attests", "to": "claim:mt-28-01-first-day-week", "grade": "C", "note": "At Pompey's siege of Jerusalem 'the Jews abstain from all sorts of work on a religious account' on 'the seventh days... for the Jews only acted defensively on sabbath days' - the Sabbath rest that ended the Judean week, so the day after the Sabbath was the week's first day."}
+{"from": "text:justin-dialogue-108", "type": "attests", "to": "claim:mt-28-11-15-stolen-body", "grade": "C", "note": "Justin (c. 155-160 CE) reports that Jewish leaders 'sent chosen and ordained men throughout all the world' proclaiming 'his disciples stole him by night from the tomb' - the counter-story circulating among Jews in his own day, reported independently of Matthew's account of its origin. The dependence on Matthew is named: Justin knew and quotes Matthew, so this is reception of the dispute, graded C only for the circulation of the story."}
+{"from": "text:toledot-yeshu", "type": "attests", "to": "claim:mt-28-11-15-stolen-body", "grade": "D", "note": "Medieval Jewish polemic with no definitive version (manuscripts across medieval Europe and the Middle East): a rabbi learns that 'a gardener... had stolen the body of Jesus' - a rival counter-story to the empty tomb. Medieval polemic per calibration, graded D at most; its date and sources are disputed."}
+{"from": "artifact:nazareth-inscription", "type": "attests", "to": "claim:mt-28-11-12-guards-bribed", "grade": "D", "note": "An imperial edict ordering capital punishment for anyone caught disturbing graves or tombs, dated by epigraphy to the first half of the 1st century AD - the legal world of tomb-guarding and tomb-violation behind the guard report. Graded D: provenance unknown (antiquities market), and a 2020 isotope study traced the marble to Kos, 'casting much doubt on the theory that it has any relationship to Jesus'."}
+{"from": "text:polybius-6-watches", "type": "attests", "to": "claim:mt-28-11-12-guards-bribed", "grade": "C", "note": "Polybius 6.36-38: a sentry found asleep is tried by court-martial and punished by the fustuarium, 'and owing to the extreme severity and inevitableness of the penalty, the night watches of the Roman army are most scrupulously kept' - the military background of the guards' fear and of the sleeping-on-watch story (28:13-14)."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:mt-28-19-all-nations", "grade": "C", "note": "The movement 'again broke out not only in Judaea, the first source of the evil, but even in Rome' (per the fetched Wikisource text) - the spread beyond Judea within three decades of the commission; Tacitus attests the spread, not the commission itself."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "person:jesus-of-nazareth", "grade": "A", "note": "Names Christus, the founder of the 'mischievous superstition', executed under Pilate in Judea - a Roman literary witness to the man."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "person:pontius-pilate", "grade": "A", "note": "Tacitus names 'Pontius Pilatus' as the procurator who executed Christus under Tiberius - a Roman witness to the man."}
+{"from": "text:josephus-ant-18-55-64", "type": "attests", "to": "person:pontius-pilate", "grade": "A", "note": "Josephus narrates Pilate's governorship from appointment to his Jerusalem provocations - the same man and office."}
+{"from": "text:didache-7", "type": "related_to", "to": "passage:mt-28-19", "note": "Early Christian witness of the text, not the events: Didache 7 instructs that baptism is 'to be conferred \"in the Name of the Father, and of the Son and of the Holy Ghost\"', dependent on the baptismal tradition of Matthew 28:19; linked related_to and never used to attest."}
+{"from": "text:justin-first-apology-61", "type": "related_to", "to": "passage:mt-28-19", "note": "Justin (c. 155 CE) describes baptism 'in the name of God, the Father and Lord of the universe, and of our Saviour Jesus Christ, and of the Holy Spirit'; he knew Matthew, so this is reception of the baptismal tradition, linked related_to and never used to attest."}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-20"}
+{"from": "artifact:papyrus-105", "type": "preserves", "to": "passage:mt-28-02"}
+{"from": "artifact:papyrus-105", "type": "preserves", "to": "passage:mt-28-03"}
+{"from": "artifact:papyrus-105", "type": "preserves", "to": "passage:mt-28-04"}
+{"from": "artifact:papyrus-105", "type": "preserves", "to": "passage:mt-28-05"}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "site:magdala", "type": "documented_by", "to": "source:wikipedia-magdala-tarichaea"}
+{"from": "claim:mt-28-01-mary-from-magdala", "type": "documented_by", "to": "source:wikipedia-magdala-mary"}
+{"from": "site:tombs-of-the-kings", "type": "documented_by", "to": "source:wikipedia-tombs-of-the-kings"}
+{"from": "site:tombs-of-the-kings", "type": "documented_by", "to": "source:wikipedia-tombs-rolling-stone"}
+{"from": "claim:mt-28-02-06-tomb-stone", "type": "documented_by", "to": "source:wikipedia-rock-cut-tombs"}
+{"from": "text:josephus-war-1-pompey-sabbath", "type": "documented_by", "to": "source:wikisource-war1-pompey-sabbath"}
+{"from": "text:justin-dialogue-108", "type": "documented_by", "to": "source:justin-dialogue-108"}
+{"from": "text:justin-first-apology-61", "type": "documented_by", "to": "source:justin-first-apology-61"}
+{"from": "text:didache-7", "type": "documented_by", "to": "source:cathen-didache"}
+{"from": "text:toledot-yeshu", "type": "documented_by", "to": "source:wikipedia-toledot-yeshu"}
+{"from": "artifact:nazareth-inscription", "type": "documented_by", "to": "source:wikipedia-nazareth-decree"}
+{"from": "text:polybius-6-watches", "type": "documented_by", "to": "source:wikisource-polybius-6-fustuarium"}
+{"from": "text:tacitus-annals-15-44", "type": "documented_by", "to": "source:wikisource-tacitus-annals-15"}
+{"from": "text:josephus-ant-18-55-64", "type": "documented_by", "to": "source:wikisource-ant18-standards"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "artifact:papyrus-105", "type": "documented_by", "to": "source:wikipedia-papyrus-105"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-28-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-28-18"}

@@ -1,0 +1,117 @@
+{
+ "source:bible-api-isaiah-53-7-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+53:7-8?translation=web"
+ },
+ "source:justin-first-apology-26": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/0126.htm"
+ },
+ "source:perseus-pliny-6-candace": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D6%3Achapter%3D35"
+ },
+ "source:perseus-strabo-17-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D17%3Achapter%3D1"
+ },
+ "source:wikipedia-acts-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_8"
+ },
+ "source:wikipedia-acts-8-37": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Acts_8"
+ },
+ "source:wikipedia-ashdod": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ashdod"
+ },
+ "source:wikipedia-caesarea-maritima": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-caesarea-maritima-excavations": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-ethiopian-eunuch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ethiopian_eunuch"
+ },
+ "source:wikipedia-ethiopian-eunuch-irenaeus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ethiopian_eunuch"
+ },
+ "source:wikipedia-ethiopian-eunuch-meroe": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ethiopian_eunuch"
+ },
+ "source:wikipedia-history-of-gaza": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/History_of_Gaza"
+ },
+ "source:wikipedia-history-of-gaza-routes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/History_of_Gaza"
+ },
+ "source:wikipedia-kandake": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Kandake"
+ },
+ "source:wikipedia-omitted-verses-acts-8": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_omitted_Bible_verses"
+ },
+ "source:wikipedia-papyrus-50": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_50"
+ },
+ "source:wikipedia-samaria-sebaste": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Samaria_(ancient_city)"
+ },
+ "source:wikipedia-samaria-sebaste-augusteum": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Samaria_(ancient_city)"
+ },
+ "source:wikipedia-samaria-sebaste-excavations": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Samaria_(ancient_city)"
+ },
+ "source:wikipedia-simon-magus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Simon_Magus"
+ },
+ "source:wikipedia-textual-variants-acts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Acts_of_the_Apostles"
+ },
+ "source:wikisource-ant-20-simon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "source:thelatinlibrary-digest-48": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2024/https://www.thelatinlibrary.com/justinian/digest48.shtml"
+ },
+ "source:wikipedia-berenice": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Berenice_(daughter_of_Herod_Agrippa_I)"
+ },
+ "source:wikipedia-berenice-beirut": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Berenice_(daughter_of_Herod_Agrippa_I)"
+ },
+ "source:wikipedia-caesarea-maritima": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-herod-agrippa-ii": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Agrippa_II"
+ },
+ "source:wikipedia-herodian-coinage-agrippa-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodian_coinage"
+ },
+ "source:wikipedia-high-priests-list": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_High_Priests_of_Israel"
+ },
+ "source:wikipedia-papyrus-74": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_74"
+ },
+ "source:wikipedia-pliny-citizens-rome": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians"
+ },
+ "source:wikipedia-pliny-on-christians": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians"
+ },
+ "source:wikipedia-porcius-festus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Porcius_Festus"
+ },
+ "source:wikipedia-roman-governor": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Roman_governor"
+ },
+ "source:wikisource-ant-19-pomp": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-ant-20-agrippa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-agrippa-realm": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-ananias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-bernice": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-ant-20-ismael": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-histories-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_2"
+ },
+ "source:wikisource-war-2-festus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ }
+}

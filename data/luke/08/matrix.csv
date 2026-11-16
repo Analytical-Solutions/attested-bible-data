@@ -1,0 +1,133 @@
+anchor,label,category,status,findings,note
+person:joanna,Joanna (wife of Chuza),inscription,none-found,,"Searched the List of biblical figures identified in extra-biblical sources and the Joanna, wife of Chuza article; no inscription names Luke's Joanna."
+person:joanna,Joanna (wife of Chuza),coin,n/a,,Category cannot bear evidence for this person.
+person:joanna,Joanna (wife of Chuza),structure-or-site,n/a,,Category cannot bear evidence for this person.
+person:joanna,Joanna (wife of Chuza),burial-or-ossuary,found,artifact:joanna-ossuary,"Ossuary inscribed 'Johanna, granddaughter of Theophilus, the High Priest' (Barag-Flusser, IEJ 36, 1986); identification with Luke's Joanna expressly uncertain - grade D on the edge."
+person:joanna,Joanna (wife of Chuza),manuscript,n/a,,Category cannot bear evidence for this person.
+person:joanna,Joanna (wife of Chuza),documentary-papyrus,none-found,,No documentary papyrus naming her was found on the fetched pages.
+person:joanna,Joanna (wife of Chuza),jewish-literary,none-found,,"Josephus never names her; the Joanna, wife of Chuza article's sources name none."
+person:joanna,Joanna (wife of Chuza),greco-roman-literary,none-found,,No classical author names her.
+person:joanna,Joanna (wife of Chuza),material-culture,n/a,,Category cannot bear evidence for this person.
+person:joanna,Joanna (wife of Chuza),geography-or-nature,n/a,,Category cannot bear evidence for this person.
+person:joanna,Joanna (wife of Chuza),astronomy-or-calendar,n/a,,Category cannot bear evidence for this person.
+person:chuza,Chuza (Herod's steward),inscription,none-found,,"Searched Wikipedia (Chuza is only a disambiguation page) and the Joanna, wife of Chuza article; no inscription names him."
+person:chuza,Chuza (Herod's steward),coin,n/a,,Category cannot bear evidence for this person.
+person:chuza,Chuza (Herod's steward),structure-or-site,n/a,,Category cannot bear evidence for this person.
+person:chuza,Chuza (Herod's steward),burial-or-ossuary,n/a,,Category cannot bear evidence for this person.
+person:chuza,Chuza (Herod's steward),manuscript,n/a,,Category cannot bear evidence for this person.
+person:chuza,Chuza (Herod's steward),documentary-papyrus,none-found,,No papyrus names him.
+person:chuza,Chuza (Herod's steward),jewish-literary,none-found,,The seed-lead claim that 'Chuza' is a Nabataean name found no fetchable page stating it; recorded as a gap in notes.md.
+person:chuza,Chuza (Herod's steward),greco-roman-literary,none-found,,No classical author names him.
+person:chuza,Chuza (Herod's steward),material-culture,n/a,,Category cannot bear evidence for this person.
+person:chuza,Chuza (Herod's steward),geography-or-nature,n/a,,Category cannot bear evidence for this person.
+person:chuza,Chuza (Herod's steward),astronomy-or-calendar,n/a,,Category cannot bear evidence for this person.
+person:susanna,Susanna (one of the women who followed Jesus),inscription,none-found,,Searched the List of biblical figures identified in extra-biblical sources; no inscription names this Susanna.
+person:susanna,Susanna (one of the women who followed Jesus),coin,n/a,,Category cannot bear evidence for this person.
+person:susanna,Susanna (one of the women who followed Jesus),structure-or-site,n/a,,Category cannot bear evidence for this person.
+person:susanna,Susanna (one of the women who followed Jesus),burial-or-ossuary,n/a,,Category cannot bear evidence for this person.
+person:susanna,Susanna (one of the women who followed Jesus),manuscript,n/a,,Category cannot bear evidence for this person.
+person:susanna,Susanna (one of the women who followed Jesus),documentary-papyrus,none-found,,No papyrus names her.
+person:susanna,Susanna (one of the women who followed Jesus),jewish-literary,none-found,,Josephus and the fetched pages name none.
+person:susanna,Susanna (one of the women who followed Jesus),greco-roman-literary,none-found,,No classical author names her.
+person:susanna,Susanna (one of the women who followed Jesus),material-culture,n/a,,Category cannot bear evidence for this person.
+person:susanna,Susanna (one of the women who followed Jesus),geography-or-nature,n/a,,Category cannot bear evidence for this person.
+person:susanna,Susanna (one of the women who followed Jesus),astronomy-or-calendar,n/a,,Category cannot bear evidence for this person.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,inscription,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,structure-or-site,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,documentary-papyrus,none-found,,Searched for papyri on women patrons or supporters of itinerant teachers; nothing fetched.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,jewish-literary,none-found,,Searched Josephus and the fetched pages for women supporting teachers in that period and region; nothing fetched.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,greco-roman-literary,none-found,,"Roman patronage parallels are empire-wide, not region-specific, and none were fetched."
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-03-women-followed-serving,Women healed by Jesus travelled with the Twelve and provided for them,astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,inscription,none-found,,No inscription or ossuary names her deliverance; the Miriam/Korban ossuaries name no Magdalene.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,structure-or-site,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,documentary-papyrus,none-found,,No papyrus bears on it.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,jewish-literary,none-found,,"Searched the existing Josephus exorcist node (text:josephus-ant-8-eleazar, Eleazar before Vespasian) and the fetched pages; exorcism is attested, the number seven is not."
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,greco-roman-literary,none-found,,No classical author bears on it.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-02-mary-magdalene-seven-demons,Mary Magdalene delivered of seven demons,astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),inscription,none-found,,Searched for Herodian epitropos inscriptions on the fetched pages; none fetched.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),structure-or-site,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),documentary-papyrus,none-found,,No papyrus names a Herodian steward.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),jewish-literary,found,text:josephus-ant-17-13-steward,"Josephus shows the office in the Herodian house: Caesar 'called for Archelaus's steward, who took care of his affairs at Rome' - a steward managing a Herodian ruler's affairs in the same generation (grade C on the edge)."
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),greco-roman-literary,none-found,,No classical locus fetched.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-03-herods-steward,Chuza was Herod's steward (epitropos),astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,inscription,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,structure-or-site,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,manuscript,found,artifact:great-isaiah-scroll,The Great Isaiah Scroll (ca. 125 BCE) carries Isaiah 6 - the exact pre-Christian wording of the passage quoted (grade B on the edge).
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,documentary-papyrus,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,jewish-literary,none-found,,No other Jewish literary locus on the quotation's use was fetched.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,greco-roman-literary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-10-isaiah-6-quoted,Isaiah 6:9-10 quoted on seeing and not perceiving,astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,inscription,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,structure-or-site,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,documentary-papyrus,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,jewish-literary,none-found,,Searched for a Jewish locus on 'doing the word' kinship language; nothing fetched.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,greco-roman-literary,none-found,,Nothing fetched.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-21-hearers-family,Hearers of the word called mother and brothers,astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,inscription,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,structure-or-site,none-found,,The city is not named; the Kursi/Gadara/Hippos candidates are attached to the location claims (Matthew 8 / Mark 5 / Luke 8:26).
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,documentary-papyrus,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,jewish-literary,none-found,,Mark's Decapolis version differs (related_to); no independent locus was fetched.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,greco-roman-literary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-38-39-proclaimed-in-city,The healed Gerasene sent home to proclaim in his city,astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",inscription,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",structure-or-site,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",documentary-papyrus,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",jewish-literary,none-found,,"Searched for the age of twelve in Jewish law (a girl's majority) on the fetched pages; no page was fetched tying age twelve to this context, so no node was entered."
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",greco-roman-literary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-42-only-daughter-twelve,"Jairus's only daughter, about twelve, dying",astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",inscription,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",structure-or-site,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",documentary-papyrus,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",jewish-literary,none-found,,Witness-list detail; nothing fetchable.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",greco-roman-literary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-51-inside-with-parents,"Peter, John, James and the parents inside the house",astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,inscription,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,coin,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,structure-or-site,n/a,,No site could bear on the mourning custom.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,burial-or-ossuary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,manuscript,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,documentary-papyrus,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,jewish-literary,found,text:mishnah-ketubot-4-5,"Mishnah Ketubot 4:5: even the poorest must provide two flutes and a lamenting woman - professional mourning was expected (grade C on the edge, with the c. 200 CE redaction caveat)."
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,greco-roman-literary,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,material-culture,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,geography-or-nature,n/a,,Category cannot bear evidence for this claim.
+claim:lk-08-52-53-mourners,Household and neighbours weeping and mourning over the girl,astronomy-or-calendar,n/a,,Category cannot bear evidence for this claim.

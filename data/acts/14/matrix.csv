@@ -1,0 +1,276 @@
+anchor,label,category,status,findings,note
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,inscription,none-found,,"No inscription bears on the Iconium synagogue; searched Wikipedia (Konya, Iconium)."
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,coin,n/a,,
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,structure-or-site,none-found,,Iconium has been continuously inhabited and no Roman-period synagogue structure is quoted; searched Wikipedia (Konya).
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,burial-or-ossuary,n/a,,
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,documentary-papyrus,n/a,,
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,jewish-literary,none-found,,"Josephus, Philo and rabbinic literature say nothing of a synagogue dispute at Iconium; searched Wikisource (War 7), Wikipedia (Konya)."
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,greco-roman-literary,found,text:strabo-geography-12-6,
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,material-culture,n/a,,
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,geography-or-nature,n/a,,
+claim:ac-14-01-iconium-synagogue,Synagogue preaching at Iconium,astronomy-or-calendar,n/a,,
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,inscription,none-found,,"No inscription bears on the dispute; searched Wikipedia (Konya, Acts 14)."
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,coin,n/a,,
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,structure-or-site,n/a,,
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,burial-or-ossuary,n/a,,
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,documentary-papyrus,n/a,,
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,jewish-literary,none-found,,"Josephus, Philo and rabbinic literature record no such dispute at Iconium; searched Wikisource (War 7), Wikipedia (Konya, Acts 14)."
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,greco-roman-literary,none-found,,"No classical author mentions the Iconium opposition; searched Perseus (Strabo 12.6), Wikipedia (Acts 14)."
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,material-culture,n/a,,
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,geography-or-nature,n/a,,
+claim:ac-14-02-05-iconium-opposition,Opposition and stoning attempt at Iconium,astronomy-or-calendar,n/a,,
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,inscription,none-found,,"The 1909 Lystra inscriptions concern the Zeus and Hermes cult, not the healing; searched Wikipedia (Lystra, Zeus)."
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,coin,n/a,,
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,structure-or-site,none-found,,"Lystra's site awaits excavation (fetched Wikipedia Lystra article); nothing external bears on the healing; searched Wikipedia (Lystra, Zeus, Acts 14)."
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,burial-or-ossuary,n/a,,
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,documentary-papyrus,n/a,,
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,jewish-literary,n/a,,
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,greco-roman-literary,none-found,,"No classical text mentions the healing; searched Wikipedia (Lystra, Zeus, Acts 14)."
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,material-culture,n/a,,
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,geography-or-nature,n/a,,
+claim:ac-14-08-10-cripple-healed,Paul heals the cripple at Lystra,astronomy-or-calendar,n/a,,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,inscription,none-found,,"The 1909 inscriptions attest the cult pair, not the acclamation (they are linked to the Zeus/Hermes claims); searched Wikipedia (Zeus, Lystra)."
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,coin,n/a,,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,structure-or-site,none-found,,"Lystra's site awaits excavation (fetched Wikipedia Lystra article); searched Wikipedia (Lystra, Zeus)."
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,burial-or-ossuary,n/a,,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,documentary-papyrus,n/a,,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,jewish-literary,n/a,,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,greco-roman-literary,found,text:ovid-metamorphoses-8-611-737,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,material-culture,n/a,,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,geography-or-nature,n/a,,
+claim:ac-14-11-gods-come-down,Lystran crowd: the gods have come down,astronomy-or-calendar,n/a,,
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,inscription,none-found,,"The fetched Acts 14 article says 'ancient inscriptions confirm' the Lycaonian language but names none on the page; the fetched Lycaonian language article classifies the language as unattested; searched Wikipedia (Lycaonian language, Acts 14)."
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,coin,n/a,,
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,structure-or-site,n/a,,
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,burial-or-ossuary,n/a,,
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,documentary-papyrus,n/a,,
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,jewish-literary,none-found,,"Josephus and rabbinic literature say nothing of the Lycaonian speech; searched Wikisource (War 7), Wikipedia."
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,greco-roman-literary,none-found,,"Strabo (12.6, fetched Perseus) distinguishes the Lycaonians as a people but the fetched text says nothing of their speech; searched Perseus (Strabo 12.6), Wikipedia (Lycaonian language)."
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,material-culture,n/a,,
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,geography-or-nature,n/a,,
+claim:ac-14-11-lycaonian-language,The Lycaonian language of the crowd,astronomy-or-calendar,n/a,,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",inscription,found,artifact:lystra-zeus-hermes-inscriptions,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",coin,n/a,,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",structure-or-site,none-found,,"Lystra's site awaits excavation (fetched Wikipedia Lystra article); searched Wikipedia (Lystra, Zeus)."
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",burial-or-ossuary,n/a,,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",documentary-papyrus,n/a,,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",jewish-literary,n/a,,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",greco-roman-literary,found,text:ovid-metamorphoses-8-611-737,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",material-culture,n/a,,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",geography-or-nature,n/a,,
+claim:ac-14-12-barnabas-zeus-paul-hermes,"Barnabas called Zeus, Paul called Hermes",astronomy-or-calendar,n/a,,
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,inscription,found,artifact:lystra-zeus-hermes-inscriptions,
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,coin,n/a,,
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,structure-or-site,none-found,,"No temple of Zeus at Lystra has been excavated or quoted; Lystra awaits excavation; searched Wikipedia (Lystra, Zeus)."
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,burial-or-ossuary,n/a,,
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,documentary-papyrus,n/a,,
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,jewish-literary,n/a,,
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,greco-roman-literary,none-found,,"No classical text names a priest of Zeus at Lystra or a temple before the city; searched Wikipedia (Zeus, Lystra)."
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,material-culture,none-found,,"No find bears on the oxen and garlands; searched Wikipedia (Lystra, Zeus, Acts 14)."
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,geography-or-nature,n/a,,
+claim:ac-14-13-priest-zeus-temple,The priest of Zeus and the sacrifice,astronomy-or-calendar,n/a,,
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,inscription,none-found,,"No inscription bears on the stoning; searched Wikipedia (Lystra, Konya, Antioch of Pisidia)."
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,coin,n/a,,
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,structure-or-site,none-found,,"Nothing at Lystra's unexcavated site bears on the stoning; searched Wikipedia (Lystra, Acts 14)."
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,burial-or-ossuary,n/a,,
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,documentary-papyrus,n/a,,
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,jewish-literary,found,text:josephus-war-7-43-antioch-jews,
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,greco-roman-literary,none-found,,"No classical author mentions the stoning; searched Wikipedia (Acts 14, Lystra), Perseus (Strabo 12.6)."
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,material-culture,n/a,,
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,geography-or-nature,n/a,,
+claim:ac-14-19-jews-stoned-paul,Jews from Antioch and Iconium stone Paul,astronomy-or-calendar,n/a,,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,inscription,n/a,,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,coin,n/a,,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,structure-or-site,found,site:antioch-pisidia,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,burial-or-ossuary,n/a,,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,documentary-papyrus,n/a,,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,jewish-literary,none-found,,"Josephus and rabbinic literature say nothing of the return visit or the elders; searched Wikisource (War 7), Wikipedia (Antioch of Pisidia, Acts 14)."
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,greco-roman-literary,none-found,,"No classical text mentions the visit or church appointments; searched Perseus (Strabo 12.6-7), Wikipedia (Acts 14)."
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,material-culture,n/a,,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,geography-or-nature,n/a,,
+claim:ac-14-21-23-revisited-elders,Return visit and appointment of elders,astronomy-or-calendar,n/a,,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,inscription,none-found,,"No inscription quoted on the fetched pages bears on Acts 14:24-25; searched Wikipedia (Perga, Pamphylia)."
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,coin,n/a,,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,structure-or-site,found,site:perga,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,burial-or-ossuary,n/a,,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,documentary-papyrus,n/a,,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,jewish-literary,n/a,,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,greco-roman-literary,none-found,,"The fetched Strabo chapters (12.6-7, 14.4.1) name Pamphylia and its rivers but not Perga by name; searched Perseus, Wikipedia (Perga, Pamphylia)."
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,material-culture,n/a,,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,geography-or-nature,n/a,,
+claim:ac-14-24-25-perga-pamphylia,Through Pisidia and Pamphylia to Perga,astronomy-or-calendar,n/a,,
+claim:ac-14-25-attalia,Down to Attalia,inscription,none-found,,No inscription quoted on the fetched pages bears on Attalia; searched Wikipedia (Antalya).
+claim:ac-14-25-attalia,Down to Attalia,coin,n/a,,
+claim:ac-14-25-attalia,Down to Attalia,structure-or-site,none-found,,The modern city was built on the ancient city and its ancient structures are not well preserved (fetched Wikipedia Antalya article); searched Wikipedia (Antalya).
+claim:ac-14-25-attalia,Down to Attalia,burial-or-ossuary,n/a,,
+claim:ac-14-25-attalia,Down to Attalia,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-25-attalia,Down to Attalia,documentary-papyrus,n/a,,
+claim:ac-14-25-attalia,Down to Attalia,jewish-literary,n/a,,
+claim:ac-14-25-attalia,Down to Attalia,greco-roman-literary,found,text:strabo-geography-14-4-1,
+claim:ac-14-25-attalia,Down to Attalia,material-culture,n/a,,
+claim:ac-14-25-attalia,Down to Attalia,geography-or-nature,n/a,,
+claim:ac-14-25-attalia,Down to Attalia,astronomy-or-calendar,n/a,,
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,inscription,n/a,,
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,coin,n/a,,
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,structure-or-site,none-found,,"Antioch on the Orontes is mostly buried (excavated 1932-1939, fetched Wikipedia Antioch article); nothing quoted bears on the church report; searched Wikipedia (Antioch)."
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,burial-or-ossuary,n/a,,
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,documentary-papyrus,n/a,,
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,jewish-literary,none-found,,"Josephus says nothing of this report to the Antioch church; searched Wikisource (War 7), Wikipedia (Antioch)."
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,greco-roman-literary,none-found,,"Strabo names Attaleia's coast but says nothing of a voyage to Antioch; searched Perseus (Strabo 14.4.1), Wikipedia (Antioch, Antalya)."
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,material-culture,n/a,,
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,geography-or-nature,n/a,,
+claim:ac-14-26-28-sailed-antioch,Sail to Antioch in Syria and report,astronomy-or-calendar,n/a,,
+person:barnabas,Barnabas (Joses),inscription,none-found,,"No inscription names Barnabas; searched Wikipedia (Lystra, Acts 14)."
+person:barnabas,Barnabas (Joses),coin,n/a,,
+person:barnabas,Barnabas (Joses),structure-or-site,n/a,,
+person:barnabas,Barnabas (Joses),burial-or-ossuary,none-found,,No burial or relic of Barnabas is stated on the fetched pages; searched Wikipedia (Acts 14).
+person:barnabas,Barnabas (Joses),manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+person:barnabas,Barnabas (Joses),documentary-papyrus,none-found,,No documentary papyrus names Barnabas; searched Wikipedia.
+person:barnabas,Barnabas (Joses),jewish-literary,none-found,,"Josephus, Philo and rabbinic literature do not mention Barnabas; searched Wikisource (War 7), Wikipedia."
+person:barnabas,Barnabas (Joses),greco-roman-literary,none-found,,"No classical author mentions Barnabas; searched Perseus (Strabo 12.6-7, 14.4.1), Wikipedia."
+person:barnabas,Barnabas (Joses),material-culture,n/a,,
+person:barnabas,Barnabas (Joses),geography-or-nature,n/a,,
+person:barnabas,Barnabas (Joses),astronomy-or-calendar,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),inscription,none-found,,"No inscription names Paul of Tarsus; searched Wikipedia (Lystra, Acts 14, Konya)."
+person:paul-of-tarsus,Paul (Saul of Tarsus),coin,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),structure-or-site,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),burial-or-ossuary,none-found,,"No burial or relic of Paul is stated on the fetched pages; searched Wikipedia (Lystra, Acts 14)."
+person:paul-of-tarsus,Paul (Saul of Tarsus),manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry all 28 verses of Acts 14 (preserves edges); no papyrus reaches chapter 14 (the fetched Wikipedia Papyrus 45 Acts verse list stops at Acts 7:60). A copy of the text is not independent evidence for the claim.
+person:paul-of-tarsus,Paul (Saul of Tarsus),documentary-papyrus,none-found,,No documentary papyrus names Paul in Lycaonia; searched Wikipedia.
+person:paul-of-tarsus,Paul (Saul of Tarsus),jewish-literary,none-found,,"Josephus, Philo and rabbinic literature do not mention Paul's Lycaonian journey; searched Wikisource (War 7), Wikipedia."
+person:paul-of-tarsus,Paul (Saul of Tarsus),greco-roman-literary,none-found,,"No classical author mentions Paul's Lycaonian journey; searched Perseus (Strabo 12.6-7, 14.4.1), Wikipedia."
+person:paul-of-tarsus,Paul (Saul of Tarsus),material-culture,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),geography-or-nature,n/a,,
+person:paul-of-tarsus,Paul (Saul of Tarsus),astronomy-or-calendar,n/a,,
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),inscription,none-found,,"The Res Gestae Divi Augusti fragments found at the site are an imperial inscription, not a naming of the city, and are quoted only in fragments on the fetched page; searched Wikipedia (Antioch of Pisidia)."
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),coin,none-found,,No coinage of Colonia Caesarea is stated on the fetched page; searched Wikipedia (Antioch of Pisidia).
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),structure-or-site,found,site:antioch-pisidia,
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),burial-or-ossuary,n/a,,
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),manuscript,n/a,,
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),documentary-papyrus,n/a,,
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),jewish-literary,none-found,,"Josephus does not name a Jewish community at Pisidian Antioch; searched Wikisource (War 7), Wikipedia (Antioch of Pisidia)."
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),greco-roman-literary,none-found,,"The fetched Strabo chapters (12.6-7) do not name Antioch of Pisidia; searched Perseus, Wikipedia (Antioch of Pisidia)."
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),material-culture,n/a,,
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),geography-or-nature,n/a,,
+place:antioch-pisidia,Antioch of Pisidia (Pisidian Antioch),astronomy-or-calendar,n/a,,
+place:antioch-on-the-orontes,Antioch in Syria,inscription,none-found,,No inscription naming Antioch quoted on the fetched pages; searched Wikipedia (Antioch).
+place:antioch-on-the-orontes,Antioch in Syria,coin,none-found,,Antioch's coinage is not stated on the fetched Antioch page; searched Wikipedia (Antioch).
+place:antioch-on-the-orontes,Antioch in Syria,structure-or-site,none-found,,Antioch was excavated 1932-1939 and is mostly buried (fetched Wikipedia Antioch article); no specific structure quoted; searched Wikipedia (Antioch).
+place:antioch-on-the-orontes,Antioch in Syria,burial-or-ossuary,n/a,,
+place:antioch-on-the-orontes,Antioch in Syria,manuscript,n/a,,
+place:antioch-on-the-orontes,Antioch in Syria,documentary-papyrus,n/a,,
+place:antioch-on-the-orontes,Antioch in Syria,jewish-literary,found,text:josephus-war-7-43-antioch-jews,
+place:antioch-on-the-orontes,Antioch in Syria,greco-roman-literary,found,text:josephus-war-7-43-antioch-jews,
+place:antioch-on-the-orontes,Antioch in Syria,material-culture,n/a,,
+place:antioch-on-the-orontes,Antioch in Syria,geography-or-nature,n/a,,
+place:antioch-on-the-orontes,Antioch in Syria,astronomy-or-calendar,n/a,,
+place:attalia,Attalia (Attaleia),inscription,none-found,,No inscription naming Attaleia quoted on the fetched Antalya page; searched Wikipedia (Antalya).
+place:attalia,Attalia (Attaleia),coin,none-found,,Attaleia's Hellenistic/Roman coinage is not stated on the fetched Antalya page; searched Wikipedia (Antalya).
+place:attalia,Attalia (Attaleia),structure-or-site,none-found,,The modern city was built on the ancient city; ancient structures are not well preserved (fetched Antalya article); searched Wikipedia (Antalya).
+place:attalia,Attalia (Attaleia),burial-or-ossuary,n/a,,
+place:attalia,Attalia (Attaleia),manuscript,n/a,,
+place:attalia,Attalia (Attaleia),documentary-papyrus,n/a,,
+place:attalia,Attalia (Attaleia),jewish-literary,n/a,,
+place:attalia,Attalia (Attaleia),greco-roman-literary,found,text:strabo-geography-14-4-1,
+place:attalia,Attalia (Attaleia),material-culture,n/a,,
+place:attalia,Attalia (Attaleia),geography-or-nature,n/a,,
+place:attalia,Attalia (Attaleia),astronomy-or-calendar,n/a,,
+place:derbe,Derbe,inscription,found,artifact:derbe-kerti-huyuk-inscription,
+place:derbe,Derbe,coin,none-found,,No coinage of Derbe is stated on the fetched pages; searched Wikipedia (Derbe).
+place:derbe,Derbe,structure-or-site,none-found,,Kerti Hüyük is a mound; the identification is 'subject to controversy' (fetched Wikipedia Derbe article); searched Wikipedia (Derbe).
+place:derbe,Derbe,burial-or-ossuary,n/a,,
+place:derbe,Derbe,manuscript,n/a,,
+place:derbe,Derbe,documentary-papyrus,n/a,,
+place:derbe,Derbe,jewish-literary,none-found,,"Josephus never mentions Derbe; searched Wikisource (War 7), Wikipedia (Derbe)."
+place:derbe,Derbe,greco-roman-literary,found,text:strabo-geography-12-6,
+place:derbe,Derbe,material-culture,n/a,,
+place:derbe,Derbe,geography-or-nature,n/a,,
+place:derbe,Derbe,astronomy-or-calendar,n/a,,
+place:iconium,Iconium,inscription,none-found,,"No inscription naming Iconium is quoted on the fetched pages; searched Wikipedia (Konya), Perseus (Strabo 12.6)."
+place:iconium,Iconium,coin,none-found,,No coinage of Iconium is stated on the fetched pages (a Colonia Aelia Hadriana title is mentioned without a coin); searched Wikipedia (Konya).
+place:iconium,Iconium,structure-or-site,none-found,,Konya has been continuously inhabited; no excavated Roman-period structure is quoted; searched Wikipedia (Konya).
+place:iconium,Iconium,burial-or-ossuary,n/a,,
+place:iconium,Iconium,manuscript,n/a,,
+place:iconium,Iconium,documentary-papyrus,n/a,,
+place:iconium,Iconium,jewish-literary,none-found,,"Josephus does not name Iconium's Jewish community; searched Wikisource (War 7), Wikipedia (Konya)."
+place:iconium,Iconium,greco-roman-literary,found,text:strabo-geography-12-6,
+place:iconium,Iconium,material-culture,n/a,,
+place:iconium,Iconium,geography-or-nature,n/a,,
+place:iconium,Iconium,astronomy-or-calendar,n/a,,
+place:lycaonia,Lycaonia (region),inscription,n/a,,
+place:lycaonia,Lycaonia (region),coin,n/a,,
+place:lycaonia,Lycaonia (region),structure-or-site,n/a,,
+place:lycaonia,Lycaonia (region),burial-or-ossuary,n/a,,
+place:lycaonia,Lycaonia (region),manuscript,n/a,,
+place:lycaonia,Lycaonia (region),documentary-papyrus,n/a,,
+place:lycaonia,Lycaonia (region),jewish-literary,n/a,,
+place:lycaonia,Lycaonia (region),greco-roman-literary,found,text:strabo-geography-12-6,
+place:lycaonia,Lycaonia (region),material-culture,n/a,,
+place:lycaonia,Lycaonia (region),geography-or-nature,n/a,,
+place:lycaonia,Lycaonia (region),astronomy-or-calendar,n/a,,
+place:lystra,Lystra,inscription,found,artifact:lystra-zeus-hermes-inscriptions,
+place:lystra,Lystra,coin,none-found,,A 'Coins of the Ancient city of Lystra' link hangs off the fetched Wikipedia Lystra article but no page states the coinage; searched Wikipedia (Lystra).
+place:lystra,Lystra,structure-or-site,none-found,,"The site near Hatunsaray is unexcavated - 'still awaiting excavation' (fetched Wikipedia Lystra article); the BIAA record 'Site.638 Hatunsaray (Lystra)' is only linked, not quoted; searched Wikipedia (Lystra)."
+place:lystra,Lystra,burial-or-ossuary,n/a,,
+place:lystra,Lystra,manuscript,n/a,,
+place:lystra,Lystra,documentary-papyrus,n/a,,
+place:lystra,Lystra,jewish-literary,none-found,,"Josephus never mentions Lystra; searched Wikisource (War 7), Wikipedia (Lystra)."
+place:lystra,Lystra,greco-roman-literary,none-found,,"Strabo's Lycaonia chapter (12.6, fetched Perseus) does not name Lystra; searched Perseus, Wikipedia (Lystra)."
+place:lystra,Lystra,material-culture,n/a,,
+place:lystra,Lystra,geography-or-nature,n/a,,
+place:lystra,Lystra,astronomy-or-calendar,n/a,,
+place:pamphylia,Pamphylia (region),inscription,n/a,,
+place:pamphylia,Pamphylia (region),coin,n/a,,
+place:pamphylia,Pamphylia (region),structure-or-site,n/a,,
+place:pamphylia,Pamphylia (region),burial-or-ossuary,n/a,,
+place:pamphylia,Pamphylia (region),manuscript,n/a,,
+place:pamphylia,Pamphylia (region),documentary-papyrus,n/a,,
+place:pamphylia,Pamphylia (region),jewish-literary,n/a,,
+place:pamphylia,Pamphylia (region),greco-roman-literary,found,text:strabo-geography-14-4-1,
+place:pamphylia,Pamphylia (region),material-culture,n/a,,
+place:pamphylia,Pamphylia (region),geography-or-nature,n/a,,
+place:pamphylia,Pamphylia (region),astronomy-or-calendar,n/a,,
+place:perga,Perga (Perge),inscription,none-found,,No inscription naming Perga quoted on the fetched Perga article; searched Wikipedia (Perga).
+place:perga,Perga (Perge),coin,found,artifact:perga-artemis-coins,
+place:perga,Perga (Perge),structure-or-site,found,site:perga,
+place:perga,Perga (Perge),burial-or-ossuary,n/a,,
+place:perga,Perga (Perge),manuscript,n/a,,
+place:perga,Perga (Perge),documentary-papyrus,n/a,,
+place:perga,Perga (Perge),jewish-literary,n/a,,
+place:perga,Perga (Perge),greco-roman-literary,none-found,,"The fetched Strabo chapters (12.6-7, 14.4.1) name Pamphylia and the Cestrus/Eurymedon rivers but not Perga; searched Perseus, Wikipedia (Perga)."
+place:perga,Perga (Perge),material-culture,n/a,,
+place:perga,Perga (Perge),geography-or-nature,n/a,,
+place:perga,Perga (Perge),astronomy-or-calendar,n/a,,
+place:pisidia,Pisidia (region),inscription,n/a,,
+place:pisidia,Pisidia (region),coin,n/a,,
+place:pisidia,Pisidia (region),structure-or-site,n/a,,
+place:pisidia,Pisidia (region),burial-or-ossuary,n/a,,
+place:pisidia,Pisidia (region),manuscript,n/a,,
+place:pisidia,Pisidia (region),documentary-papyrus,n/a,,
+place:pisidia,Pisidia (region),jewish-literary,n/a,,
+place:pisidia,Pisidia (region),greco-roman-literary,found,text:strabo-geography-12-7,
+place:pisidia,Pisidia (region),material-culture,n/a,,
+place:pisidia,Pisidia (region),geography-or-nature,n/a,,
+place:pisidia,Pisidia (region),astronomy-or-calendar,n/a,,
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",inscription,found,artifact:derbe-kerti-huyuk-inscription,The 157 AD Derbe inscription on whose basis Ballance fixed Derbe's site; grade D edge on this claim (the identification is disputed).
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",structure-or-site,none-found,,No structure-or-site node for Lystra or Derbe in the graph; the cities are carried by place nodes.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry Acts 14:6-7 (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",jewish-literary,none-found,,Josephus and the rabbinic texts in the graph say nothing of the flight into Lycaonia.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",greco-roman-literary,found,text:strabo-geography-12-6,"Strabo names Lycaonia and Derbe (grade B edge, with his complicates note on Derbe's region)."
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-14-06-lycaonia-cities,"Paul and Barnabas fled to the cities of Lycaonia, Lystra and Derbe",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

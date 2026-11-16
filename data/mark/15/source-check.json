@@ -1,0 +1,47 @@
+{
+ "source:bible-api-isaiah-53-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+53:12?translation=web"
+ },
+ "source:bible-api-psalm-22-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalm+22:1?translation=web"
+ },
+ "source:bible-api-romans-16-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/romans+16:13?translation=web"
+ },
+ "source:earlychristianwritings-didache": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2024/https://earlychristianwritings.com/text/didache-roberts.html"
+ },
+ "source:latin-library-digest-48-24": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2024/https://www.thelatinlibrary.com/justinian/digest48.shtml"
+ },
+ "source:wikipedia-codex-washingtonianus-lacunae": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Washingtonianus"
+ },
+ "source:wikisource-ant20": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-war1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ },
+ "source:wikisource-war7": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_VII"
+ }
+}

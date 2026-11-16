@@ -1,0 +1,24 @@
+{
+  "book": "matthew",
+  "chapter": 3,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        12
+      ],
+      "setting": "place:judaean-desert",
+      "basis": "3:1 \"John the Baptizer came, preaching in the wilderness of Judea\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        13,
+        17
+      ],
+      "setting": "place:jordan-river",
+      "basis": "3:13 \"Jesus came from Galilee to the Jordan to John, to be baptized by him\"",
+      "confidence": "stated"
+    }
+  ]
+}

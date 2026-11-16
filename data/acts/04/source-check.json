@@ -1,0 +1,47 @@
+{
+ "source:bible-api-psalm-118-22": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalms+118:22?translation=web"
+ },
+ "source:bible-api-psalm-2-1-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/psalms+2:1-2?translation=web"
+ },
+ "source:biblehub-acts-4-6": {
+  "http": null,
+  "status": "unreachable",
+  "url": "https://biblehub.com/commentaries/acts/4-6.htm"
+ },
+ "source:wikipedia-annas-acts-4-6": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Annas"
+ },
+ "source:wikipedia-jonathan-high-priest": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jonathan_(High_Priest)"
+ },
+ "source:wikipedia-papyrus-45-acts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikisource-ant-18-95": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-ant18-sadducee-doctrine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-war-2-essenes": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ }
+}

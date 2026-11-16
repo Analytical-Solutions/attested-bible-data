@@ -1,0 +1,167 @@
+{
+ "source:archive-ryle-james-psolomon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://ia800803.us.archive.org/35/items/psalmoisolomnto00jamegoog/psalmoisolomnto00jamegoog_djvu.txt"
+ },
+ "source:attalus-delphi-manumission": {
+  "http": 200,
+  "status": "verified",
+  "url": "http://www.attalus.org/docs/other/inscr_24.html"
+ },
+ "source:bible-api-1-kings-2-19": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/1+kings+2:19?translation=web"
+ },
+ "source:bible-api-deuteronomy-24-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/deuteronomy+24:15?translation=web"
+ },
+ "source:bible-api-isaiah-51-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/isaiah+51:17?translation=web"
+ },
+ "source:bible-api-john-11-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/john+11:9?translation=web"
+ },
+ "source:bible-api-leviticus-19-13": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+19:13?translation=web"
+ },
+ "source:sefaria-bm-7-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Metzia.7.1"
+ },
+ "source:sefaria-bm-9-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Metzia.9.11"
+ },
+ "source:sefaria-bm-9-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Bava_Metzia.9.12"
+ },
+ "source:sefaria-pesachim-5-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.5.1"
+ },
+ "source:sefaria-tobit-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Tobit.5"
+ },
+ "source:wikipedia-ancient-cuisine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ancient_Israelite_cuisine"
+ },
+ "source:wikipedia-crucifixion-heel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Crucifixion"
+ },
+ "source:wikipedia-denarius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Denarius"
+ },
+ "source:wikipedia-denarius-coin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Denarius"
+ },
+ "source:wikipedia-herod-the-great": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_the_Great"
+ },
+ "source:wikipedia-hurvat-itri": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Hurvat_Itri"
+ },
+ "source:wikipedia-israeli-wine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Israeli_wine"
+ },
+ "source:wikipedia-jericho": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jericho-elevation": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jericho-herod": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jericho-josephus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jericho-netzer": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jericho"
+ },
+ "source:wikipedia-jerusalem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jerusalem"
+ },
+ "source:wikipedia-messiah-in-judaism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Messiah_in_Judaism"
+ },
+ "source:wikipedia-romantimekeeping": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Roman_timekeeping"
+ },
+ "source:wikipedia-textual-variants": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_Matthew"
+ },
+ "source:wikisource-ant17-cruelty": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant17-herod-death": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-ant17-jericho": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ },
+ "source:wikisource-jw-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ },
+ "source:wiktionary-lytron": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wiktionary.org/wiki/%CE%BB%CF%8D%CF%84%CF%81%CE%BF%CE%BD"
+ }
+}

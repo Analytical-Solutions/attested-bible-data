@@ -1,0 +1,189 @@
+{"from": "passage:mt-09-01", "type": "asserts", "to": "claim:mt-09-01-return-crossing"}
+{"from": "passage:mt-09-02", "type": "asserts", "to": "claim:mt-09-02-paralytic-carried"}
+{"from": "passage:mt-09-03", "type": "asserts", "to": "claim:mt-09-03-scribes-blasphemy"}
+{"from": "passage:mt-09-06", "type": "asserts", "to": "claim:mt-09-06-son-of-man-authority"}
+{"from": "passage:mt-09-09", "type": "asserts", "to": "claim:mt-09-09-matthew-tax-office"}
+{"from": "passage:mt-09-10", "type": "asserts", "to": "claim:mt-09-10-11-eating-sinners"}
+{"from": "passage:mt-09-11", "type": "asserts", "to": "claim:mt-09-10-11-eating-sinners"}
+{"from": "passage:mt-09-13", "type": "asserts", "to": "claim:mt-09-13-mercy-not-sacrifice"}
+{"from": "passage:mt-09-14", "type": "asserts", "to": "claim:mt-09-14-15-fasting"}
+{"from": "passage:mt-09-15", "type": "asserts", "to": "claim:mt-09-14-15-fasting"}
+{"from": "passage:mt-09-16", "type": "asserts", "to": "claim:mt-09-16-unshrunk-cloth"}
+{"from": "passage:mt-09-17", "type": "asserts", "to": "claim:mt-09-17-wineskins"}
+{"from": "passage:mt-09-18", "type": "asserts", "to": "claim:mt-09-18-ruler-office"}
+{"from": "passage:mt-09-20", "type": "asserts", "to": "claim:mt-09-20-21-fringe"}
+{"from": "passage:mt-09-21", "type": "asserts", "to": "claim:mt-09-20-21-fringe"}
+{"from": "passage:mt-09-23", "type": "asserts", "to": "claim:mt-09-23-flute-players"}
+{"from": "passage:mt-09-26", "type": "asserts", "to": "claim:mt-09-26-31-fame-spread"}
+{"from": "passage:mt-09-27", "type": "asserts", "to": "claim:mt-09-27-son-of-david"}
+{"from": "passage:mt-09-31", "type": "asserts", "to": "claim:mt-09-26-31-fame-spread"}
+{"from": "passage:mt-09-32", "type": "asserts", "to": "claim:mt-09-32-33-mute-demoniac"}
+{"from": "passage:mt-09-33", "type": "asserts", "to": "claim:mt-09-32-33-mute-demoniac"}
+{"from": "passage:mt-09-34", "type": "asserts", "to": "claim:mt-09-34-prince-of-demons"}
+{"from": "passage:mt-09-35", "type": "asserts", "to": "claim:mt-09-35-teaching-synagogues"}
+{"from": "passage:mt-09-36", "type": "asserts", "to": "claim:mt-09-36-sheep-shepherd"}
+{"from": "passage:mt-09-37", "type": "asserts", "to": "claim:mt-09-37-38-harvest"}
+{"from": "passage:mt-09-38", "type": "asserts", "to": "claim:mt-09-37-38-harvest"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-09-38"}
+{"from": "claim:mt-09-01-return-crossing", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-09-02-paralytic-carried", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-09-03-scribes-blasphemy", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-06-son-of-man-authority", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-09-matthew-tax-office", "type": "mentions", "to": "person:matthew-the-apostle"}
+{"from": "claim:mt-09-09-matthew-tax-office", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-09-09-matthew-tax-office", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-09-10-11-eating-sinners", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-10-11-eating-sinners", "type": "mentions", "to": "person:matthew-the-apostle"}
+{"from": "claim:mt-09-14-15-fasting", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-09-18-ruler-office", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-20-21-fringe", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-23-flute-players", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-27-son-of-david", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-27-son-of-david", "type": "mentions", "to": "person:david"}
+{"from": "claim:mt-09-32-33-mute-demoniac", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-34-prince-of-demons", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-35-teaching-synagogues", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-36-sheep-shepherd", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-09-37-38-harvest", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:mt-09-01-return-crossing", "grade": "C", "note": "A 1st-century fishing boat from the lake's north-west shore - the kind of vessel the return crossing used (no direct link to the event itself). Regraded by architect review: context for the setting or title, not the specific event."}
+{"from": "site:capernaum", "type": "attests", "to": "claim:mt-09-01-return-crossing", "grade": "B", "note": "Capernaum is excavated and was established in the 2nd century BC as a Hasmonean fishing village - the real lakeside town the return crossing reaches ('his own city', identified with Capernaum from 4:13)."}
+{"from": "site:capernaum", "type": "attests", "to": "claim:mt-09-02-paralytic-carried", "grade": "B", "note": "The excavated town of Capernaum - a real first-century lakeside town whose narrow basalt-house districts a carried bed had to traverse."}
+{"from": "site:capernaum-peter-house", "type": "attests", "to": "claim:mt-09-02-paralytic-carried", "grade": "C", "note": "A first-century domestic dwelling in Capernaum - ordinary housing of the kind into which the paralytic was carried home. Regraded by architect review: context for the setting or title, not the specific event."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:mt-09-10-11-eating-sinners", "grade": "C", "note": "Josephus: 'the third sort of opinions was that of those called Pharisees' - the Pharisees are a real, strict-observance party of the period; the fetched passage names the sects, not their table-fellowship rules."}
+{"from": "text:mishnah-taanit-2-1", "type": "attests", "to": "claim:mt-09-14-15-fasting", "grade": "C", "note": "Mishnah Taanit 2:1: on public fast days ashes are placed on the ark and on the head of every member of the community - fasting visibly practised in the period; voluntary disciple-fasting is a different rite and the Mishnah is a later redaction of earlier practice. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "artifact:judean-desert-textiles", "type": "attests", "to": "claim:mt-09-16-unshrunk-cloth", "grade": "C", "note": "A complete set of clothes and woollen textiles of Judean Jews (c. 135 CE) - garments of woven, shrinkable cloth were ordinary possessions; the patching practice itself leaves no trace."}
+{"from": "artifact:judean-desert-textiles", "type": "attests", "to": "claim:mt-09-20-21-fringe", "grade": "C", "note": "Woollen garments and a child's linen tunic from the Cave of Letters - the kind of garment whose corner-fringe the woman touched; the fetched source does not state that these garments carried tzitzit."}
+{"from": "artifact:tekhelet-fabrics", "type": "attests", "to": "claim:mt-09-20-21-fringe", "grade": "C", "note": "Blue (murex-dyed) wool fabrics of the period from Masada and Wadi Murabba'at - the dyeing tradition behind the tzitzit's 'cord of blue'; no excavated tzitzit itself was found this run."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:mt-09-18-ruler-office", "grade": "A", "note": "The Theodotos inscription names Theodotos son of Vettenus 'a priest and a synagogue leader (archisynagogos)', Herodian/early Roman Jerusalem - the office of the ruler of 9:18 by name."}
+{"from": "artifact:second-temple-ossuaries", "type": "attests", "to": "claim:mt-09-18-ruler-office", "grade": "C", "note": "Second Temple burial caves with primary burial followed by secondary burial in ossuaries - the real funerary system into which a dead daughter would have been placed."}
+{"from": "text:mishnah-ketubot-4-5", "type": "attests", "to": "claim:mt-09-23-flute-players", "grade": "C", "note": "Rabbi Yehuda: 'Even the poorest man of the Jewish people may not provide fewer than two flutes and a lamenting woman, which it was customary to hire for a funeral' - professional flute players and wailing women are standard Jewish funeral practice; Sefaria numbers the passage 4:5, some editions 4:4. Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:josephus-ant-8-eleazar", "type": "attests", "to": "claim:mt-09-32-33-mute-demoniac", "grade": "C", "note": "Josephus saw Eleazar 'releasing people that were demoniacal in the presence of Vespasian' - exorcism as a practised craft in 1st-century Judea, the milieu of the mute demoniac's exorcism."}
+{"from": "text:testament-of-solomon", "type": "attests", "to": "claim:mt-09-34-prince-of-demons", "grade": "C", "note": "In the Testament of Solomon Beelzebul 'appears as prince of the demons' - the concept's currency in ancient Jewish-Christian literature; the work is pseudepigraphic with substantial Christian interpolations, so it shows the concept, not the event."}
+{"from": "site:migdal-synagogue", "type": "attests", "to": "claim:mt-09-35-teaching-synagogues", "grade": "B", "note": "A first-century synagogue excavated at Migdal (Magdala) on the lake's shore - a real Galilean town synagogue of the period 9:35 describes."}
+{"from": "site:gamla-synagogue", "type": "attests", "to": "claim:mt-09-35-teaching-synagogues", "grade": "B", "note": "One of the earliest known synagogues in the Land of Israel, believed late 1st century BCE, at a Galilean town - synagogue teaching in 'cities and villages' before 70 CE."}
+{"from": "site:capernaum-synagogue", "type": "attests", "to": "claim:mt-09-35-teaching-synagogues", "grade": "D", "note": "The visible limestone synagogue is 4th-5th century; Loffreda suggests the basalt foundation beneath it is a 1st-century synagogue - the suggestion is not settled and excavation beneath the floor was disputed."}
+{"from": "artifact:tel-dan-stele", "type": "attests", "to": "claim:mt-09-27-son-of-david", "grade": "C", "note": "The stele's 'House of David' (bytdwd) attests the Davidic royal dynasty - the line the messianic title 'Son of David' invokes; it says nothing about the healing. Regraded by architect review: context for the setting or title, not the specific event."}
+{"from": "artifact:tel-dan-stele", "type": "attests", "to": "person:david", "grade": "A", "note": "An Old Aramaic royal inscription boasting of victory over the king of Israel and the king of the 'House of David' (bytdwd); the earliest widely accepted extra-biblical reference to David as founder of a dynasty."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Coins struck under Antipas are attested; Wikipedia notes his coins carried no images (aniconic), so they confirm his minting rule without naming him."}
+{"from": "site:machaerus", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Upon Herod the Great's death the fortress passed to Herod Antipas, who ruled from 4 BC until 39 AD; John the Baptist was imprisoned and beheaded there during this time."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "The passage names 'Herod, who had slain him' - Herod the tetrarch - and his execution of John at Macherus; the identification of that Herod with Herod Antipas, tetrarch of Galilee and Perea, rests on context, which Wikipedia (John the Baptist) states explicitly. Downgraded A to B by reviewer 1 (2026-11-11): the text names the tetrarch, not Antipas by name."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:john-the-baptist", "grade": "A", "note": "Josephus names 'John, that was called the Baptist', a good man who commanded the Jews to exercise virtue and come to baptism, and records Herod Antipas putting him to death."}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:judean-desert-textiles", "type": "documented_by", "to": "source:wikipedia-cave-of-letters"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "artifact:second-temple-ossuaries", "type": "documented_by", "to": "source:wikipedia-ossuary"}
+{"from": "artifact:tel-dan-stele", "type": "documented_by", "to": "source:tel-dan-stele-wiki"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herod-antipas-coins"}
+{"from": "artifact:theodotos-inscription", "type": "documented_by", "to": "source:wikipedia-theodotos-inscription"}
+{"from": "artifact:tekhelet-fabrics", "type": "documented_by", "to": "source:wikipedia-tekhelet"}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-sects"}
+{"from": "text:josephus-ant-8-eleazar", "type": "documented_by", "to": "source:wikisource-ant-8-eleazar"}
+{"from": "text:mishnah-taanit-2-1", "type": "documented_by", "to": "source:sefaria-taanit-2-1"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-machaerus"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus-john"}
+{"from": "site:capernaum", "type": "documented_by", "to": "source:wikipedia-capernaum"}
+{"from": "site:capernaum-peter-house", "type": "documented_by", "to": "source:wikipedia-capernaum-peter-house"}
+{"from": "site:capernaum-synagogue", "type": "documented_by", "to": "source:wikipedia-capernaum-synagogue"}
+{"from": "site:migdal-synagogue", "type": "documented_by", "to": "source:wikipedia-migdal-synagogue"}
+{"from": "site:gamla-synagogue", "type": "documented_by", "to": "source:wikipedia-gamla"}
+{"from": "text:mishnah-ketubot-4-5", "type": "documented_by", "to": "source:sefaria-ketubot-4-5"}
+{"from": "text:testament-of-solomon", "type": "documented_by", "to": "source:wikipedia-beelzebub-tos"}
+{"from": "text:hosea-6", "type": "documented_by", "to": "source:wikisource-hosea"}
+{"from": "text:leviticus-24", "type": "documented_by", "to": "source:wikisource-leviticus-24"}
+{"from": "text:numbers-15", "type": "documented_by", "to": "source:wikisource-numbers-15"}
+{"from": "text:numbers-27", "type": "documented_by", "to": "source:wikisource-numbers-27"}
+{"from": "text:2-samuel-7", "type": "documented_by", "to": "source:wikisource-2-samuel"}
+{"from": "claim:mt-09-01-return-crossing", "type": "documented_by", "to": "source:wikipedia-calling-matthew-setting"}
+{"from": "claim:mt-09-02-paralytic-carried", "type": "documented_by", "to": "source:wikipedia-capernaum-basalt"}
+{"from": "claim:mt-09-09-matthew-tax-office", "type": "documented_by", "to": "source:wikipedia-calling-matthew-telonion"}
+{"from": "claim:mt-09-09-matthew-tax-office", "type": "documented_by", "to": "source:wikipedia-calling-matthew-antipas"}
+{"from": "claim:mt-09-09-matthew-tax-office", "type": "documented_by", "to": "source:wikipedia-calling-matthew-traffic"}
+{"from": "claim:mt-09-09-matthew-tax-office", "type": "documented_by", "to": "source:wikipedia-tax-collector"}
+{"from": "claim:mt-09-10-11-eating-sinners", "type": "documented_by", "to": "source:wikipedia-tax-collector"}
+{"from": "claim:mt-09-17-wineskins", "type": "documented_by", "to": "source:wikipedia-wineskin"}
+{"from": "claim:mt-09-27-son-of-david", "type": "documented_by", "to": "source:wikipedia-names-titles-jesus"}
+{"from": "claim:mt-09-34-prince-of-demons", "type": "documented_by", "to": "source:wikipedia-beelzebub-prince"}
+{"from": "artifact:tekhelet-fabrics", "type": "complicates", "to": "claim:mt-09-20-21-fringe", "note": "The ritual identification of murex blue is disputed: 'Others have also disputed that Murex trunculus might not be the correct chilazon due to its failure in fitting many Rabbinic criteria' - so linking the Masada/Murabba'at fabrics to the biblical tekhelet of the tzitzit is contested."}
+{"from": "artifact:tekhelet-fabrics", "type": "documented_by", "to": "source:wikipedia-tzitzit"}
+{"from": "text:hosea-6", "type": "related_to", "to": "claim:mt-09-13-mercy-not-sacrifice", "note": "Hosea 6:6, 'I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings' - the quotation of 9:13. Cross-reference only; it does not attest."}
+{"from": "text:leviticus-24", "type": "related_to", "to": "claim:mt-09-03-scribes-blasphemy", "note": "Leviticus 24:16: 'He who blasphemes the name of Yahweh, he shall surely be put to death' - the Torah law behind the scribes' charge of blasphemy. Cross-reference only."}
+{"from": "text:numbers-15", "type": "related_to", "to": "claim:mt-09-20-21-fringe", "note": "Numbers 15:38-39 commands fringes on the garment corners with 'a cord of blue' - the tzitzit of 9:20. Cross-reference only."}
+{"from": "text:numbers-27", "type": "related_to", "to": "claim:mt-09-36-sheep-shepherd", "note": "Numbers 27:17: 'that the congregation of Yahweh not be as sheep which have no shepherd' - the shepherd image of 9:36. Cross-reference only."}
+{"from": "text:2-samuel-7", "type": "related_to", "to": "claim:mt-09-27-son-of-david", "note": "2 Samuel 7:12-16, Nathan's promise that David's house, throne and kingdom shall be made sure forever - the scriptural background of the title 'Son of David'. Cross-reference only."}
+{"from": "text:4q521-2", "type": "related_to", "to": "claim:mt-09-35-teaching-synagogues", "note": "Cross-reference: 4Q521 (pre-Christian Qumran) expects the anointed one to 'proclaim good news to the poor' among his works - the messianic 'good news' idiom of 9:35 (cf. 11:5). A cross-reference only; it does not attest the claim or mark a cell found (link added by review 2)."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-09-38"}

@@ -1,0 +1,118 @@
+{"from": "passage:ac-03-01", "type": "asserts", "to": "claim:ac-03-01-ninth-hour-prayer"}
+{"from": "passage:ac-03-02", "type": "asserts", "to": "claim:ac-03-02-04-lame-beggar"}
+{"from": "passage:ac-03-03", "type": "asserts", "to": "claim:ac-03-02-04-lame-beggar"}
+{"from": "passage:ac-03-04", "type": "asserts", "to": "claim:ac-03-02-04-lame-beggar"}
+{"from": "passage:ac-03-02", "type": "asserts", "to": "claim:ac-03-02-beautiful-gate"}
+{"from": "passage:ac-03-10", "type": "asserts", "to": "claim:ac-03-02-beautiful-gate"}
+{"from": "passage:ac-03-06", "type": "asserts", "to": "claim:ac-03-06-08-healing-walk"}
+{"from": "passage:ac-03-07", "type": "asserts", "to": "claim:ac-03-06-08-healing-walk"}
+{"from": "passage:ac-03-08", "type": "asserts", "to": "claim:ac-03-06-08-healing-walk"}
+{"from": "passage:ac-03-09", "type": "asserts", "to": "claim:ac-03-09-10-crowd-wonder"}
+{"from": "passage:ac-03-10", "type": "asserts", "to": "claim:ac-03-09-10-crowd-wonder"}
+{"from": "passage:ac-03-11", "type": "asserts", "to": "claim:ac-03-11-solomons-porch"}
+{"from": "passage:ac-03-13", "type": "asserts", "to": "claim:ac-03-13-delivered-denied-before-pilate"}
+{"from": "passage:ac-03-14", "type": "asserts", "to": "claim:ac-03-14-murderer-requested"}
+{"from": "passage:ac-03-15", "type": "asserts", "to": "claim:ac-03-15-god-raised-witnesses"}
+{"from": "passage:ac-03-22", "type": "asserts", "to": "claim:ac-03-22-prophet-like-moses"}
+{"from": "passage:ac-03-23", "type": "asserts", "to": "claim:ac-03-22-prophet-like-moses"}
+{"from": "passage:ac-03-25", "type": "asserts", "to": "claim:ac-03-25-offspring-blessing"}
+{"from": "claim:ac-03-01-ninth-hour-prayer", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-03-01-ninth-hour-prayer", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:ac-03-01-ninth-hour-prayer", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:ac-03-02-04-lame-beggar", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:ac-03-02-beautiful-gate", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:ac-03-06-08-healing-walk", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-03-06-08-healing-walk", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-03-06-08-healing-walk", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:ac-03-09-10-crowd-wonder", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:ac-03-11-solomons-porch", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-03-11-solomons-porch", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:ac-03-11-solomons-porch", "type": "mentions", "to": "person:solomon"}
+{"from": "claim:ac-03-11-solomons-porch", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:ac-03-13-delivered-denied-before-pilate", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-03-13-delivered-denied-before-pilate", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:ac-03-14-murderer-requested", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-03-15-god-raised-witnesses", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "text:josephus-ant-14-65", "type": "attests", "to": "claim:ac-03-01-ninth-hour-prayer", "grade": "B", "note": "Josephus: even under Pompey's siege the priests 'did still twice a-day, in the morning and about the ninth hour, offer their sacrifices on the altar' - the daily temple rite about the ninth hour, the same institution in the same place; it attests the temple hour, not that Peter and John went up at it."}
+{"from": "text:mishnah-pesachim-5-1", "type": "attests", "to": "claim:ac-03-01-ninth-hour-prayer", "grade": "C", "note": "The Mishnah fixes the daily afternoon offering between eight and a half and nine and a half hours - the ninth-hour rite Luke calls 'the hour of prayer'. Redacted c. 200 CE; it may not describe the practice of the 30s CE exactly."}
+{"from": "text:josephus-war-5-201-206", "type": "attests", "to": "claim:ac-03-02-beautiful-gate", "grade": "B", "note": "Josephus describes one temple gate 'of Corinthian brass' that 'greatly excelled those that were only covered over with silver and gold', facing east over against the sanctuary - a renowned magnificent door of the temple that Luke's 'Beautiful' could name; Josephus never uses the name 'Beautiful'."}
+{"from": "text:josephus-war-5-201-206", "type": "complicates", "to": "claim:ac-03-02-beautiful-gate", "note": "Whether the Corinthian-bronze gate is the inner Nicanor Gate or the outer Shushan (Eastern) Gate is disputed, and Acts' 'Beautiful Gate' has been identified with either; the fetched Wikipedia 'Beautiful Gate' article records that scholarly agreement on the identity 'met with little success'."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:ac-03-02-beautiful-gate", "grade": "B", "note": "Herod's temple stood in Jerusalem through the 30s CE with its courts and gates; it attests the setting of a temple door, not the gate's name."}
+{"from": "artifact:nicanor-ossuary", "type": "attests", "to": "person:nicanor-of-alexandria", "grade": "A", "note": "The ossuary is inscribed 'Nicanor of Alexandria, who made the gates' - an excavated 1902 find naming the same Alexandrian door-maker whom Josephus and the Talmud describe as donor of the bronze temple doors."}
+{"from": "artifact:nicanor-ossuary", "type": "attests", "to": "claim:ac-03-02-beautiful-gate", "grade": "C", "note": "A first-century Alexandrian temple-door maker is independently attested, supporting the tradition of doors called Nicanor's; it cannot fix which gate Acts calls Beautiful, so it is graded C for the gate's identity."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:ac-03-11-solomons-porch", "grade": "B", "note": "Herod's temple stood in Jerusalem through the 30s CE with its porticoes; it attests the setting of a crowd gathering in a colonnade, not this particular gathering."}
+{"from": "text:josephus-ant-20-220-221", "type": "attests", "to": "claim:ac-03-11-solomons-porch", "grade": "B", "note": "Josephus: Agrippa's workmen rebuilt the eastern cloisters, 'the work of king Solomon' - a colonnade of Herod's temple traditionally ascribed to Solomon, the same porch Acts 3:11 names; Josephus confirms the portico and its attribution, not this gathering."}
+{"from": "claim:ac-03-11-solomons-porch", "type": "related_to", "to": "claim:jn-10-23-solomons-porch", "note": "The same colonnade as John 10:23 (Jesus walking in Solomon's porch); Acts 3:11 has a crowd running to Peter and John there after the healing."}
+{"from": "claim:ac-03-13-delivered-denied-before-pilate", "type": "related_to", "to": "claim:lk-23-16-chastise-release", "note": "Pilate's resolve to release Jesus; Luke 23:16 has Pilate proposing to chastise and release him - the same Passion detail, recalled in a speech here."}
+{"from": "claim:ac-03-13-delivered-denied-before-pilate", "type": "related_to", "to": "claim:mt-27-01-02-delivered-to-pilate", "note": "The delivery of Jesus to Pilate by the chief priests and elders (Matthew 27:1-2); Acts 3:13 recalls it in Peter's speech."}
+{"from": "claim:ac-03-14-murderer-requested", "type": "related_to", "to": "claim:mt-27-16-26-barabbas-released", "note": "The request for a murderer corresponds to the crowd choosing Barabbas at the Passover release (Matthew 27:16-26); Acts 3:14 does not name Barabbas."}
+{"from": "claim:ac-03-22-prophet-like-moses", "type": "related_to", "to": "text:deuteronomy-18-15-18", "note": "Peter's quotation is Deuteronomy 18:15, 18 (biblical cross-reference, not evidence)."}
+{"from": "claim:ac-03-25-offspring-blessing", "type": "related_to", "to": "text:genesis-22-18", "note": "Peter's quotation is Genesis 22:18 (biblical cross-reference, not evidence)."}
+{"from": "text:josephus-war-5-201-206", "type": "documented_by", "to": "source:wikisource-war-5-corinthian-gate"}
+{"from": "artifact:nicanor-ossuary", "type": "documented_by", "to": "source:wikipedia-cave-of-nicanor"}
+{"from": "artifact:nicanor-ossuary", "type": "documented_by", "to": "source:wikipedia-cave-of-nicanor-ossuary"}
+{"from": "text:josephus-ant-14-65", "type": "documented_by", "to": "source:wikisource-ant-14-65"}
+{"from": "text:mishnah-pesachim-5-1", "type": "documented_by", "to": "source:sefaria-pesachim-5-1"}
+{"from": "claim:ac-03-02-beautiful-gate", "type": "documented_by", "to": "source:wikipedia-beautiful-gate"}
+{"from": "text:genesis-22-18", "type": "documented_by", "to": "source:bible-api-genesis-22-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-03-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-03-26"}
+{"from": "site:second-temple", "type": "attests", "to": "claim:ac-03-02-04-lame-beggar", "grade": "B", "note": "Herod's temple stood in Jerusalem through the 30s CE with gates through which worshippers entered daily; it attests the setting of alms-seeking at a temple door, not this man or his laying there."}
+{"from": "artifact:pilate-stone", "type": "attests", "to": "claim:ac-03-13-delivered-denied-before-pilate", "grade": "B", "note": "The Caesarea inscription names '[Po]ntius Pilatus, [praef]ectus Iuda[e]ae' - the governor before whom Acts 3:13 says Jesus was delivered up and denied; the delivery itself it does not attest."}
+{"from": "text:tacitus-annals-15-44", "type": "attests", "to": "claim:ac-03-13-delivered-denied-before-pilate", "grade": "B", "note": "Tacitus: Christus 'suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus' - the Passion outcome of the delivery Peter recalls; not the denial or Pilate's resolve to release."}
+{"from": "text:josephus-ant-18-63-64-testimonium", "type": "attests", "to": "claim:ac-03-13-delivered-denied-before-pilate", "grade": "B", "note": "Josephus (Testimonium): Pilate condemned Jesus to the cross after the leading men accused him - the same Passion sequence in the same period; the Christian interpolations in the passage are disputed, and Josephus never mentions Pilate's resolve to release."}
+{"from": "text:josephus-ant-18-63-64-testimonium", "type": "attests", "to": "claim:ac-03-15-god-raised-witnesses", "grade": "D", "note": "The disputed Testimonium reports 'for he appeared to them alive again the third day' - a report that Jesus' followers claimed appearances, but the clause's authenticity is disputed and it does not attest the apostles' witness status. (Quote trimmed by reviewer 10 to what the fetched excerpt carries.)"}
+{"from": "site:cave-of-nicanor", "type": "attests", "to": "person:nicanor-of-alexandria", "grade": "B", "note": "The elaborate burial complex on Mount Scopus contains the ossuary inscribed for Nicanor the door maker; the fetched page describes the burial cave containing Nicanor's ossuary as typical of the Second Temple period - the documented tomb of the man. (Note corrected by reviewer 10: the page does not carry the 'dated by plan, style and finds' wording.)"}
+{"from": "site:cave-of-nicanor", "type": "documented_by", "to": "source:wikipedia-cave-of-nicanor"}
+{"from": "text:josephus-ant-18-63-64-testimonium", "type": "documented_by", "to": "source:wikisource-ant18-testimonium"}
+{"from": "text:josephus-ant-18-63-64-testimonium", "type": "documented_by", "to": "source:wikisource-ant18-testimonium-appearances"}

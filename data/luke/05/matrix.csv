@@ -1,0 +1,133 @@
+anchor,label,category,status,findings,note
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,inscription,n/a,,"No inscription could plausibly carry this anchor; the chapter's inscription leads (Capernaum, Magdala, Sepphoris pages) name nothing relevant."
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,coin,n/a,,No coinage could bear on this anchor.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,structure-or-site,none-found,,Searched Wikipedia Capernaum and Gennesaret; the shore sites bear no direct witness to the crowd.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,burial-or-ossuary,n/a,,No burial or ossuary could bear on this anchor.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,documentary-papyrus,none-found,,"Searched for documentary-papyrus leads in the seed docs (tax records, contracts); nothing fetchable bears on this anchor."
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,jewish-literary,found,text:josephus-war-3-gennesaret,Josephus (War 3.506-521) names 'the Lake of Gennesareth' as the country people's name for the lake: the same named body of water in the period; grade B for the setting.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,greco-roman-literary,none-found,,Searched the Wikisource War Book III; Pliny and Strabo passages on the lake were not fetched in a stateable form.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,material-culture,none-found,,Searched the Magdala and Capernaum finds; nothing specific to this scene.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,geography-or-nature,none-found,,Searched Wikipedia Luke 5 and Sea of Galilee; the lake's geography is uncontested but states no evidence for the crowd.
+claim:lk-05-gennesaret-lake,Multitude pressed to hear him; he stood by the lake of Gennesaret,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,inscription,n/a,,"No inscription could plausibly carry this anchor; the chapter's inscription leads (Capernaum, Magdala, Sepphoris pages) name nothing relevant."
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,coin,n/a,,No coinage could bear on this anchor.
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,burial-or-ossuary,n/a,,No burial or ossuary could bear on this anchor.
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,documentary-papyrus,none-found,,"Searched for documentary-papyrus leads in the seed docs (tax records, contracts); nothing fetchable bears on this anchor."
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,jewish-literary,found,text:josephus-war-3-gennesaret,"Josephus on the lake: 'There are several kinds of fish in it, different both to the taste and the sight from those elsewhere' - the rich fishery the nets assume; grade C."
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,greco-roman-literary,none-found,,Searched the Wikisource War Book III; no Roman author passage on the lake fishery fetched.
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,material-culture,found,artifact:galilee-boat; artifact:magdala-fishing-gear,The 1986 1st-century boat and Magdala net needle and lead weights: net washing and repair as excavated practice; grade C.
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,geography-or-nature,none-found,,Searched Wikipedia Sea of Galilee fishing; the fishery is described but the modern summaries are not ancient evidence.
+claim:lk-05-washing-nets,Fishermen washing their nets by two boats on the lake,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,inscription,n/a,,"No inscription could plausibly carry this anchor; the chapter's inscription leads (Capernaum, Magdala, Sepphoris pages) name nothing relevant."
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,coin,n/a,,No coinage could bear on this anchor.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,structure-or-site,none-found,,Searched Wikipedia Capernaum and Gennesaret; no harbour or shore structure bears on the scene.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,burial-or-ossuary,n/a,,No burial or ossuary could bear on this anchor.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,documentary-papyrus,none-found,,"Searched for documentary-papyrus leads in the seed docs (tax records, contracts); nothing fetchable bears on this anchor."
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,jewish-literary,none-found,,Searched the Wikisource War Book III; Josephus describes boats on the lake but not teaching from one.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,greco-roman-literary,none-found,,No classical passage fetched that describes speaking from a boat to a shore crowd.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,material-culture,found,artifact:galilee-boat,"The excavated boat (8.2 m long, 2.3 m wide) shows the kind of platform a teacher could push out from the shore; grade C context."
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,geography-or-nature,none-found,,The lake's acoustics/shoreline are modern commentary only; nothing fetchable that states ancient evidence.
+claim:lk-05-taught-from-boat,Jesus taught the multitudes from Simon's boat,astronomy-or-calendar,n/a,,Nothing in this anchor is datable by calendar or astronomy.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,inscription,n/a,,No inscription could record this event.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,coin,n/a,,No coinage bears on the event.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,structure-or-site,none-found,,Searched Capernaum/Gennesaret site pages; nothing bears on the catch.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,documentary-papyrus,n/a,,No documentary papyrus could record the catch.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,jewish-literary,none-found,,Searched the Wikisource War Book III and Josephus-related leads; Josephus documents the fish-rich lake (recorded on claim:lk-05-washing-nets) but nothing bears on the miracle itself.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,greco-roman-literary,none-found,,No classical author passage fetched on a miraculous catch on this lake.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,material-culture,none-found,,"The Galilee boat and Magdala gear document the fishery (recorded on claim:lk-05-washing-nets), not the catch."
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,geography-or-nature,none-found,,Searched Wikipedia Miraculous catch of fish and Sea of Galilee; no independent evidence for the event.
+claim:lk-05-catch-of-fish,Great catch of fish at Jesus' word; the net broke,astronomy-or-calendar,n/a,,Nothing in the catch is datable by calendar or astronomy.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),inscription,n/a,,No inscription could record this event.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),coin,n/a,,No coinage bears on the event.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),structure-or-site,none-found,,Searched Magdala/Tarichaea and Capernaum pages; partnership structures leave no site evidence.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),documentary-papyrus,none-found,,Searched for fishing-partnership leads; no documentary papyrus naming fishing partnerships from Galilee was fetchable.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),jewish-literary,none-found,,Searched the Wikisource War Book III and rabbinic leads; nothing on lake-fishing partnerships.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),greco-roman-literary,none-found,,No fetched classical passage on fishing partnerships in Galilee.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),material-culture,none-found,,"The excavated gear shows the trade, not its business structure."
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),geography-or-nature,n/a,,Geography cannot bear on the partnership.
+claim:lk-05-fishing-partners,Simon had fishing partners in the other boat (koinonoi),astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',inscription,n/a,,No inscription could record this event.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',coin,n/a,,No coinage bears on the event.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',structure-or-site,none-found,,Searched the Capernaum pages; nothing bears on the call.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',documentary-papyrus,n/a,,No documentary papyrus could record the call.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',jewish-literary,none-found,,Searched the DSS leads (4Q521) and Josephus; the fishers-of-men idiom has no independent attestation.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',greco-roman-literary,none-found,,No classical passage fetched.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',material-culture,none-found,,"The fishing equipment documents the trade being left, not the call."
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',geography-or-nature,n/a,,Geography cannot bear on the saying.
+claim:lk-05-catching-people,Jesus told Simon: 'From now on you will be catching people alive',astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",inscription,n/a,,No inscription could record this event.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",coin,n/a,,No coinage bears on the event.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",structure-or-site,none-found,,Searched Capernaum pages; nothing bears on the abandonment of the boats.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",documentary-papyrus,n/a,,No documentary papyrus could record it.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",jewish-literary,none-found,,Searched Josephus and rabbinic leads; nothing independent on disciples leaving a trade.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",greco-roman-literary,none-found,,No classical passage fetched.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",material-culture,none-found,,The Galilee boat shows the property left behind existed; it does not evidence the leaving.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",geography-or-nature,n/a,,Geography cannot bear on the act.
+claim:lk-05-left-everything,"They brought the boats to land, left everything and followed him",astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",inscription,n/a,,No inscription could record this event.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",coin,n/a,,No coinage bears on the event.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",structure-or-site,none-found,,Searched Wikipedia Jerusalem and Galilee; synagogues of the period are attested but nothing ties this gathering to a site.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",documentary-papyrus,none-found,,No documentary papyrus naming Pharisees travelling from Judea to Galilee was fetchable.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",jewish-literary,none-found,,Searched Josephus on Pharisees and Jerusalem teachers; nothing on this gathering.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",greco-roman-literary,none-found,,No classical passage fetched.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",material-culture,n/a,,No object could bear on the gathering.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",geography-or-nature,none-found,,Searched Wikipedia Galilee/Judea; the route is uncontested but states no evidence for the journey.
+claim:lk-05-teachers-from-judea,"Pharisees and teachers of the law came from every village of Galilee, Judea and Jerusalem",astronomy-or-calendar,n/a,,'One of those days' is not datable.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,inscription,n/a,,No inscription could record this event.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,coin,n/a,,No coinage bears on the event.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,structure-or-site,none-found,,"Searched Wikipedia Capernaum: the excavated basalt houses had roofs of 'light wooden beams and thatch mixed with mud' (source:wikipedia-capernaum-roof, attached as documented_by) - in tension with Luke's tiles; no excavated tile roof from a Capernaum house was fetchable."
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,documentary-papyrus,n/a,,No documentary papyrus could record the lowering.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,jewish-literary,none-found,,Searched rabbinic leads on roof construction; nothing fetchable.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,greco-roman-literary,none-found,,"Ellicott (biblehub, documented_by) compares Cicero's 'per tegulas demittere', but the classical locus itself was not fetchable this run."
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,material-culture,none-found,,Searched for Galilean roof tiles; no fetchable find of 1st-century tiles from a Capernaum house.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,geography-or-nature,n/a,,Geography cannot bear on the construction detail.
+claim:lk-05-roof-tiles,Paralytic lowered through the roof tiles,astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",inscription,n/a,,No inscription could record this event.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",coin,n/a,,No coinage bears on the event.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",structure-or-site,none-found,,Searched Capernaum pages; nothing bears on the healing.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",documentary-papyrus,n/a,,No documentary papyrus could record it.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",jewish-literary,none-found,,Searched Josephus and rabbinic leads; nothing independent on the healing.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",greco-roman-literary,none-found,,No classical passage fetched.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",material-culture,none-found,,The cot/mat is not evidenced by a fetchable find.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",geography-or-nature,n/a,,Geography cannot bear on the healing.
+claim:lk-05-rose-glorified,"The paralytic rose, took up his cot and went home glorifying God",astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,inscription,n/a,,No inscription could record this event.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,coin,none-found,,Searched for toll/tax coins of the period; nothing specific to the Capernaum toll.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,structure-or-site,none-found,,"Searched Wikipedia Capernaum and Calling of Matthew: Capernaum's road traffic is described, but no toll-station structure is identified; nothing bears on Levi himself."
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,burial-or-ossuary,n/a,,No burial or ossuary bears on the event.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,documentary-papyrus,none-found,,No documentary papyrus naming a telones/toll collector at Capernaum was fetchable.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,jewish-literary,none-found,,Searched Josephus and rabbinic leads on tax collectors; nothing names Levi.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,greco-roman-literary,none-found,,No classical passage fetched on the Galilee tolls.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,material-culture,n/a,,No object could bear on the call.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,geography-or-nature,none-found,,Capernaum's position on the Via Maris trade route is described on the Wikipedia page but is not evidence for the office-holder.
+claim:lk-05-levi-called,Levi the tax collector called at the tax office,astronomy-or-calendar,n/a,,Nothing datable.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,inscription,n/a,,No inscription could carry a teaching.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,coin,n/a,,No coinage bears on the saying.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,structure-or-site,none-found,,"Searched the chapter's site pages (Capernaum, Gennesaret, Magdala, Sepphoris, Capernaum synagogue and Peter's house); no fetched page bears on this anchor."
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,burial-or-ossuary,n/a,,No burial or ossuary could bear on a teaching.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Papyrus 4 and Papyrus 45 preserves edges are recorded on the passages.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,documentary-papyrus,n/a,,No documentary papyrus could record a spoken teaching.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,jewish-literary,none-found,,Searched DSS/Mishnah leads for the physician-for-the-sick idiom; nothing fetchable.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,greco-roman-literary,none-found,,"Physician proverbs exist in classical literature, but no fetchable passage matches this usage."
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,material-culture,n/a,,No object could bear on the comparison.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,geography-or-nature,n/a,,Geography cannot bear on the comparison.
+claim:lk-05-physician-sinners,Physician for the sick; not the righteous but sinners to repentance,astronomy-or-calendar,n/a,,Nothing in this saying is datable by calendar or astronomy.

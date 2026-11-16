@@ -1,0 +1,33 @@
+{
+ "book": "luke",
+ "chapter": 6,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    5
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "6:1 \"he was going through the grain fields\" - the grainfields are not named and have no id"
+  },
+  {
+   "verses": [
+    6,
+    11
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "6:6 \"he entered into the synagogue and taught\" - the city is not named"
+  },
+  {
+   "verses": [
+    12,
+    49
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "6:12 \"he went out to the mountain to pray\"; 6:17 \"He came down with them, and stood on a level place\" - the mountain and the plain are not named"
+  }
+ ]
+}

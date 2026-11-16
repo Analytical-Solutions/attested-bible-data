@@ -1,0 +1,112 @@
+{
+ "source:sefaria-jubilees-22": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Jubilees.22"
+ },
+ "source:sefaria-pesachim-5-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Pesachim.5.1"
+ },
+ "source:wikipedia-caesarea-maritima": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-caesarea-maritima-excavated": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-caesarea-maritima-harbor": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-cohors-ii-italica": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cohors_II_Italica_Civium_Romanorum"
+ },
+ "source:wikipedia-cohors-ii-italica-acts": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cohors_II_Italica_Civium_Romanorum"
+ },
+ "source:wikipedia-cohors-ii-italica-diploma": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cohors_II_Italica_Civium_Romanorum"
+ },
+ "source:wikipedia-cohors-ii-italica-garrison": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cohors_II_Italica_Civium_Romanorum"
+ },
+ "source:wikipedia-god-fearers": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/God-fearers"
+ },
+ "source:wikipedia-god-fearers-aphrodisias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/God-fearers"
+ },
+ "source:wikipedia-israelite-cuisine": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ancient_Israelite_cuisine"
+ },
+ "source:wikipedia-jaffa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jaffa"
+ },
+ "source:wikipedia-papyrus-45-acts-10-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-45-readings": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-50": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_50"
+ },
+ "source:wikipedia-papyrus-74": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_74"
+ },
+ "source:wikipedia-pilate-stone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pilate_stone"
+ },
+ "source:wikipedia-simon-the-tanner": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Simon_the_Tanner_(New_Testament)"
+ },
+ "source:wikisource-ant-14-65": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIV"
+ },
+ "source:wikisource-ant15-caesarea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XV"
+ },
+ "source:wikisource-war-2-garrison": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_II"
+ }
+}

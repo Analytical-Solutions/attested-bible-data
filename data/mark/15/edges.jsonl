@@ -1,0 +1,267 @@
+{"from": "passage:mk-15-01", "type": "asserts", "to": "claim:mt-27-01-02-delivered-to-pilate"}
+{"from": "passage:mk-15-02", "type": "asserts", "to": "claim:mt-27-02-11-pilate-governor"}
+{"from": "passage:mk-15-02", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mk-15-03", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mk-15-04", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mk-15-05", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:mk-15-06", "type": "asserts", "to": "claim:mt-27-15-passover-release-custom"}
+{"from": "passage:mk-15-07", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mk-15-07", "type": "asserts", "to": "claim:mk-15-07-barabbas-insurgents"}
+{"from": "passage:mk-15-08", "type": "asserts", "to": "claim:mt-27-15-passover-release-custom"}
+{"from": "passage:mk-15-09", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mk-15-10", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mk-15-11", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mk-15-12", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mk-15-13", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mk-15-14", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:mk-15-15", "type": "asserts", "to": "claim:mt-27-26-scourged-before-crucifixion"}
+{"from": "passage:mk-15-15", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-16", "type": "asserts", "to": "claim:mt-27-27-praetorium"}
+{"from": "passage:mk-15-17", "type": "asserts", "to": "claim:mt-27-29-crown-of-thorns"}
+{"from": "passage:mk-15-17", "type": "asserts", "to": "claim:mk-15-17-purple-robe"}
+{"from": "passage:mk-15-18", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:mk-15-19", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:mk-15-20", "type": "asserts", "to": "claim:mt-27-28-30-soldiers-mockery"}
+{"from": "passage:mk-15-20", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-21", "type": "asserts", "to": "claim:mt-27-32-simon-compelled"}
+{"from": "passage:mk-15-21", "type": "asserts", "to": "claim:mk-15-21-alexander-rufus"}
+{"from": "passage:mk-15-22", "type": "asserts", "to": "claim:mt-27-33-golgotha-outside"}
+{"from": "passage:mk-15-22", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-23", "type": "asserts", "to": "claim:mk-15-23-wine-myrrh"}
+{"from": "passage:mk-15-24", "type": "asserts", "to": "claim:mt-27-35-garments-divided"}
+{"from": "passage:mk-15-24", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-25", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-25", "type": "asserts", "to": "claim:mk-15-25-third-hour"}
+{"from": "passage:mk-15-26", "type": "asserts", "to": "claim:mt-27-37-charge-placard"}
+{"from": "passage:mk-15-27", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-28", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-28", "type": "asserts", "to": "claim:mk-15-28-counted-transgressors"}
+{"from": "passage:mk-15-29", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-30", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-31", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-32", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-33", "type": "asserts", "to": "claim:mt-27-45-darkness"}
+{"from": "passage:mk-15-34", "type": "asserts", "to": "claim:mk-15-34-cry-forsaken"}
+{"from": "passage:mk-15-35", "type": "asserts", "to": "claim:mt-27-48-sour-wine-posca"}
+{"from": "passage:mk-15-36", "type": "asserts", "to": "claim:mt-27-48-sour-wine-posca"}
+{"from": "passage:mk-15-37", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-38", "type": "asserts", "to": "claim:mt-27-51-veil-torn"}
+{"from": "passage:mk-15-39", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:mk-15-40", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:mk-15-40", "type": "asserts", "to": "claim:mk-15-40-41-women-named"}
+{"from": "passage:mk-15-41", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:mk-15-41", "type": "asserts", "to": "claim:mk-15-40-41-women-named"}
+{"from": "passage:mk-15-42", "type": "asserts", "to": "claim:mk-15-42-preparation-day"}
+{"from": "passage:mk-15-43", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:mk-15-43", "type": "asserts", "to": "claim:mk-15-43-joseph-council-member"}
+{"from": "passage:mk-15-44", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:mk-15-44", "type": "asserts", "to": "claim:mk-15-44-45-body-release"}
+{"from": "passage:mk-15-45", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:mk-15-45", "type": "asserts", "to": "claim:mk-15-44-45-body-release"}
+{"from": "passage:mk-15-46", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:mk-15-46", "type": "asserts", "to": "claim:mt-27-59-60-new-rock-tomb"}
+{"from": "passage:mk-15-47", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:mk-15-01", "type": "parallels", "to": "passage:mt-27-01", "note": "The council's morning consultation, binding Jesus and delivering him to Pilate."}
+{"from": "passage:mk-15-02", "type": "parallels", "to": "passage:mt-27-11", "note": "Pilate's question 'Are you the King of the Jews?' and 'So you say.'"}
+{"from": "passage:mk-15-03", "type": "parallels", "to": "passage:mt-27-12", "note": "The chief priests' accusations before the governor."}
+{"from": "passage:mk-15-04", "type": "parallels", "to": "passage:mt-27-13", "note": "Pilate's question about the many things testified against him."}
+{"from": "passage:mk-15-05", "type": "parallels", "to": "passage:mt-27-14", "note": "Jesus' silence to every charge, so that the governor marveled."}
+{"from": "passage:mk-15-06", "type": "parallels", "to": "passage:mt-27-15", "note": "The governor's custom of releasing one prisoner at the feast."}
+{"from": "passage:mk-15-07", "type": "parallels", "to": "passage:mt-27-16", "note": "The prisoner called Barabbas (Mark adds the insurrection detail)."}
+{"from": "passage:mk-15-08", "type": "parallels", "to": "passage:mt-27-21", "note": "The multitude crying out and asking for a release."}
+{"from": "passage:mk-15-09", "type": "parallels", "to": "passage:mt-27-17", "note": "Pilate asks the crowd whether to release the King of the Jews."}
+{"from": "passage:mk-15-10", "type": "parallels", "to": "passage:mt-27-18", "note": "Pilate perceived that it was for envy the chief priests had delivered him up."}
+{"from": "passage:mk-15-11", "type": "parallels", "to": "passage:mt-27-20", "note": "The chief priests stirring up the multitude to ask for Barabbas."}
+{"from": "passage:mk-15-12", "type": "parallels", "to": "passage:mt-27-22", "note": "Pilate's 'What then shall I do?' and the crowd's 'Crucify him!'"}
+{"from": "passage:mk-15-13", "type": "parallels", "to": "passage:mt-27-22", "note": "The crowd crying out 'Crucify him!'"}
+{"from": "passage:mk-15-14", "type": "parallels", "to": "passage:mt-27-23", "note": "Pilate's 'What evil has he done?' and the repeated cry."}
+{"from": "passage:mk-15-15", "type": "parallels", "to": "passage:mt-27-26", "note": "Barabbas released; Jesus flogged and handed over to be crucified."}
+{"from": "passage:mk-15-16", "type": "parallels", "to": "passage:mt-27-27", "note": "The soldiers take him into the praetorium and gather the whole cohort/garrison."}
+{"from": "passage:mk-15-17", "type": "parallels", "to": "passage:mt-27-28", "note": "The robe: Mark's purple cloak against Matthew's scarlet robe."}
+{"from": "passage:mk-15-18", "type": "parallels", "to": "passage:mt-27-29", "note": "The mock salutation 'Hail, King of the Jews!'"}
+{"from": "passage:mk-15-19", "type": "parallels", "to": "passage:mt-27-30", "note": "Striking his head with a reed and spitting on him."}
+{"from": "passage:mk-15-20", "type": "parallels", "to": "passage:mt-27-31", "note": "Robe removed, own garments replaced, led out to crucify him."}
+{"from": "passage:mk-15-21", "type": "parallels", "to": "passage:mt-27-32", "note": "Simon of Cyrene compelled to carry the cross."}
+{"from": "passage:mk-15-22", "type": "parallels", "to": "passage:mt-27-33", "note": "The place called Golgotha, 'the place of a skull'."}
+{"from": "passage:mk-15-23", "type": "parallels", "to": "passage:mt-27-34", "note": "The drugged wine offered and refused (Mark: myrrh; Matthew: gall)."}
+{"from": "passage:mk-15-24", "type": "parallels", "to": "passage:mt-27-35", "note": "Crucified; garments divided by casting lots."}
+{"from": "passage:mk-15-25", "type": "parallels", "to": "passage:mt-27-35", "note": "The crucifixion itself; Mark alone dates it 'the third hour'."}
+{"from": "passage:mk-15-26", "type": "parallels", "to": "passage:mt-27-37", "note": "The written charge over him: 'THE KING OF THE JEWS'."}
+{"from": "passage:mk-15-27", "type": "parallels", "to": "passage:mt-27-38", "note": "Two robbers crucified with him, one on the right and one on the left."}
+{"from": "passage:mk-15-29", "type": "parallels", "to": "passage:mt-27-39", "note": "Those passing by reviling him, wagging their heads."}
+{"from": "passage:mk-15-30", "type": "parallels", "to": "passage:mt-27-40", "note": "'You who destroy the temple and build it in three days; save yourself.'"}
+{"from": "passage:mk-15-31", "type": "parallels", "to": "passage:mt-27-41", "note": "The chief priests and scribes mocking: 'He saved others; himself he cannot save.'"}
+{"from": "passage:mk-15-32", "type": "parallels", "to": "passage:mt-27-42", "note": "'Let the Christ, the King of Israel, come down now from the cross.'"}
+{"from": "passage:mk-15-33", "type": "parallels", "to": "passage:mt-27-45", "note": "Darkness over the whole land from the sixth to the ninth hour."}
+{"from": "passage:mk-15-34", "type": "parallels", "to": "passage:mt-27-46", "note": "The cry 'My God, my God, why have you forsaken me' (Mark: Eloi; Matthew: Eli)."}
+{"from": "passage:mk-15-35", "type": "parallels", "to": "passage:mt-27-47", "note": "The bystanders: 'He is calling Elijah.'"}
+{"from": "passage:mk-15-36", "type": "parallels", "to": "passage:mt-27-48", "note": "The sponge of vinegar on a reed and 'Let him be; let us see whether Elijah comes.'"}
+{"from": "passage:mk-15-37", "type": "parallels", "to": "passage:mt-27-50", "note": "Jesus crying with a loud voice and yielding up his spirit."}
+{"from": "passage:mk-15-38", "type": "parallels", "to": "passage:mt-27-51", "note": "The veil of the temple torn in two from top to bottom."}
+{"from": "passage:mk-15-39", "type": "parallels", "to": "passage:mt-27-54", "note": "The centurion's 'Truly this man was the Son of God!'"}
+{"from": "passage:mk-15-40", "type": "parallels", "to": "passage:mt-27-55", "note": "Women watching from afar, Mary Magdalene among them."}
+{"from": "passage:mk-15-41", "type": "parallels", "to": "passage:mt-27-56", "note": "Mary the mother of James and Joses; Mark names Salome where Matthew names the mother of the sons of Zebedee."}
+{"from": "passage:mk-15-42", "type": "parallels", "to": "passage:mt-27-57", "note": "Evening on Preparation Day; Matthew's day-after-Preparation guard scene follows."}
+{"from": "passage:mk-15-43", "type": "parallels", "to": "passage:mt-27-57", "note": "Joseph of Arimathea going to Pilate for the body."}
+{"from": "passage:mk-15-44", "type": "parallels", "to": "passage:mt-27-58", "note": "Pilate and the request for the body; Mark adds the centurion inquiry."}
+{"from": "passage:mk-15-45", "type": "parallels", "to": "passage:mt-27-58", "note": "Pilate grants the body."}
+{"from": "passage:mk-15-46", "type": "parallels", "to": "passage:mt-27-59", "note": "Wrapping the body and laying it in a rock-cut tomb."}
+{"from": "passage:mk-15-47", "type": "parallels", "to": "passage:mt-27-61", "note": "Mary Magdalene and Mary the mother of Joses seeing where he was laid."}
+{"from": "claim:mk-15-07-barabbas-insurgents", "type": "mentions", "to": "person:barabbas"}
+{"from": "claim:mk-15-17-purple-robe", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-15-21-alexander-rufus", "type": "mentions", "to": "person:simon-of-cyrene"}
+{"from": "claim:mk-15-21-alexander-rufus", "type": "mentions", "to": "person:alexander-son-of-simon"}
+{"from": "claim:mk-15-21-alexander-rufus", "type": "mentions", "to": "person:rufus-son-of-simon"}
+{"from": "claim:mk-15-21-alexander-rufus", "type": "mentions", "to": "place:cyrene"}
+{"from": "claim:mk-15-23-wine-myrrh", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-15-25-third-hour", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-15-28-counted-transgressors", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-15-34-cry-forsaken", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mk-15-40-41-women-named", "type": "mentions", "to": "person:mary-magdalene"}
+{"from": "claim:mk-15-40-41-women-named", "type": "mentions", "to": "person:salome-disciple"}
+{"from": "claim:mk-15-43-joseph-council-member", "type": "mentions", "to": "person:joseph-of-arimathea"}
+{"from": "claim:mk-15-43-joseph-council-member", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:mk-15-43-joseph-council-member", "type": "mentions", "to": "place:arimathea"}
+{"from": "claim:mk-15-44-45-body-release", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "artifact:cyrene-ossuary-alexander", "type": "attests", "to": "claim:mk-15-21-alexander-rufus", "grade": "D", "note": "A Kidron Valley cave of Cyrenian Jews (excavated 1941 by Sukenik) held an ossuary inscribed twice in Greek 'Alexander son of Simon'; the fetched source states it cannot be certain this refers to the same family (Mark names Simon's son Alexander) - and the find is unprovenanced, so authenticity cannot be secured."}
+{"from": "text:josephus-war-7-29-purple-cloak", "type": "attests", "to": "claim:mk-15-17-purple-robe", "grade": "C", "note": "Simon bar Gioras in 70 CE 'buttoned upon him a purple cloak' over a white frock - the purple cloak as a garment of royal pretension in first-century Judaea, in the same period and region. It shows the custom of purple as royal garb, not the soldiers' act itself."}
+{"from": "text:talmud-sanhedrin-43a", "type": "attests", "to": "claim:mk-15-23-wine-myrrh", "grade": "C", "note": "The court gives one led out to be killed a grain of frankincense in a cup of wine to confuse his mind - the custom of a stupefying drink for the condemned; it names frankincense, not myrrh, and the Talmud was redacted c. 200 CE and later (Gemara c. 500 CE), so it is later memory."}
+{"from": "text:mishnah-pesachim-5-1", "type": "attests", "to": "claim:mk-15-25-third-hour", "grade": "C", "note": "Mishnah Pesachim 5:1 reckons Temple rite by 'hours of the day' counted from sunrise ('eight and a half hours of the day, which is two and a half hours after midday') - the same Jewish hour-reckoning that makes 'the third hour' about nine in the morning; redacted c. 200 CE, so later than the 30s."}
+{"from": "artifact:great-isaiah-scroll", "type": "attests", "to": "claim:mk-15-28-counted-transgressors", "grade": "B", "note": "The Great Isaiah Scroll (1QIsa-a, ca. 125 BCE) contains the entire Book of Isaiah, including chapter 53 and verse 12 ('counted with the transgressors') - the text Mark quotes existed in a pre-Christian Hebrew manuscript, confirming the quotation's source text in the period."}
+{"from": "text:didache-8-1", "type": "attests", "to": "claim:mk-15-42-preparation-day", "grade": "D", "note": "Reception-era usage: the Didache (first/early second century) directs fasting 'on the fourth day and the Preparation' - the Roberts-Donaldson translation glosses 'the Preparation (Friday)', showing paraskeue was the standing name for the day before the Sabbath. An early Christian usage datum, independent of the Gospel narratives; still reception, so D."}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "attests", "to": "claim:mk-15-43-joseph-council-member", "grade": "C", "note": "Ananus the high priest 'assembled the sanhedrim of judges' in Jerusalem in 62 CE - the Jerusalem council that a bouleutes belongs to existed in this period and could convene capital cases. It attests the institution and office, not Joseph's membership."}
+{"from": "text:digest-48-24-1", "type": "attests", "to": "claim:mk-15-44-45-body-release", "grade": "B", "note": "Ulpian: bodies of the executed 'are not buried otherwise than if it has been requested and permitted, and sometimes it is not permitted, especially those condemned for treason' - the request-and-permission practice Mark's account of Pilate verifying the death and granting the body presupposes; same empire-wide practice in the same period. (Paulus, Digest 48.24.3, adds: bodies are 'to be given for burial to any who ask'.)"}
+{"from": "claim:mk-15-07-barabbas-insurgents", "type": "related_to", "to": "claim:mt-27-16-26-barabbas-released", "note": "Mark adds that Barabbas was bound with fellow insurgents 'who in the insurrection had committed murder'; Matthew 27:16 calls Barabbas a notable prisoner without the insurrection detail."}
+{"from": "claim:mk-15-17-purple-robe", "type": "related_to", "to": "claim:mt-27-28-30-soldiers-mockery", "note": "Mark says the soldiers clothed him 'with purple' (15:17); Matthew 27:28 says 'a scarlet robe'. Same mockery scene, different color word."}
+{"from": "claim:mk-15-21-alexander-rufus", "type": "related_to", "to": "claim:mt-27-32-simon-compelled", "note": "Mark alone names Simon of Cyrene as 'the father of Alexander and Rufus'; Matthew 27:32 names Simon without the sons."}
+{"from": "claim:mk-15-21-alexander-rufus", "type": "related_to", "to": "text:romans-16-13", "note": "Romans 16:13 greets 'Rufus, the chosen in the Lord, and his mother' - traditionally connected to Mark's Rufus, but the letter does not say so; biblical cross-reference only."}
+{"from": "claim:mk-15-23-wine-myrrh", "type": "related_to", "to": "claim:mt-27-34-wine-with-gall", "note": "Mark 15:23 offers 'wine mixed with myrrh'; Matthew 27:34 'sour wine mixed with gall'. Same offer, different ingredient."}
+{"from": "claim:mk-15-28-counted-transgressors", "type": "related_to", "to": "text:isaiah-53-12", "note": "Isaiah 53:12 (WEB): 'he poured out his soul to death, and was counted with the transgressors' - the text Mark quotes. Cross-reference only; it does not attest."}
+{"from": "claim:mk-15-34-cry-forsaken", "type": "related_to", "to": "text:psalm-22-1", "note": "Psalm 22:1 (WEB): 'My God, my God, why have you forsaken me?' - the text behind Mark's Aramaic 'Eloi, Eloi, lama sabachthani'. Cross-reference only; it does not attest."}
+{"from": "claim:mk-15-40-41-women-named", "type": "related_to", "to": "claim:mt-27-55-61-women-watching", "note": "Mark 15:40 names 'Salome' where Matthew 27:56 names 'the mother of the sons of Zebedee'; Mark also has 'James the less'. Same group of watching women, different naming."}
+{"from": "claim:mk-15-43-joseph-council-member", "type": "related_to", "to": "claim:mt-27-57-58-joseph-burial", "note": "Mark 15:43 calls Joseph 'a prominent council member (bouleutes) who was looking for God's Kingdom'; Matthew 27:57 calls him 'a rich man' and 'Jesus' disciple'. Same man, same act, different characterization."}
+{"from": "claim:mk-15-44-45-body-release", "type": "related_to", "to": "claim:mt-27-57-58-joseph-burial", "note": "Mark 15:44-45 alone gives Pilate's astonishment at the early death, the centurion inquiry and the formal grant of the body; Matthew 27:58 has only the request and command."}
+{"from": "text:isaiah-53-12", "type": "documented_by", "to": "source:bible-api-isaiah-53-12"}
+{"from": "text:psalm-22-1", "type": "documented_by", "to": "source:bible-api-psalm-22-1"}
+{"from": "text:romans-16-13", "type": "documented_by", "to": "source:bible-api-romans-16-13"}
+{"from": "text:didache-8-1", "type": "documented_by", "to": "source:earlychristianwritings-didache"}
+{"from": "text:digest-48-24-1", "type": "documented_by", "to": "source:latin-library-digest-48-24"}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "documented_by", "to": "source:wikisource-ant20"}
+{"from": "text:josephus-war-7-29-purple-cloak", "type": "documented_by", "to": "source:wikisource-war7"}
+{"from": "text:mishnah-pesachim-5-1", "type": "documented_by", "to": "source:sefaria-pesachim-5-1"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mk-15-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mk-15-47"}
+{"from": "text:josephus-war-4-317-burial", "type": "attests", "to": "claim:mk-15-44-45-body-release", "grade": "C", "note": "War 4.317: in the 70 CE siege 'they took down those that were condemned and crucified, and buried them before the going down of the sun' - the standing Jerusalem practice of burying the executed that the release for burial presupposes; wartime practice a generation later, so C."}
+{"from": "artifact:yehohanan-heel-bone", "type": "attests", "to": "claim:mk-15-44-45-body-release", "grade": "C", "note": "Yehohanan, a crucified man buried by his family in an ossuary at Giv'at ha-Mivtar - it shows a crucified man received burial, not Pilate's verification-and-grant procedure itself, so C."}
+{"from": "artifact:codex-washingtonianus", "type": "documented_by", "to": "source:wikipedia-codex-washingtonianus-lacunae"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-01"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-02"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-03"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-04"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-05"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-06"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-07"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-08"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-09"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-10"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-11"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-12"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-39"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-40"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-41"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-42"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-43"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-44"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-45"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-46"}
+{"from": "artifact:codex-washingtonianus", "type": "preserves", "to": "passage:mk-15-47"}

@@ -1,0 +1,57 @@
+{
+ "source:latin-library-digest-48-custodia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2024/https://www.thelatinlibrary.com/justinian/digest48.shtml"
+ },
+ "source:latin-library-digest-48-militi": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://web.archive.org/web/2024/https://www.thelatinlibrary.com/justinian/digest48.shtml"
+ },
+ "source:perseus-pliny-5-caesarea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D5%3Achapter%3D14"
+ },
+ "source:wikipedia-caesarea-maritima": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+ },
+ "source:wikipedia-herod-agrippa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herod_Agrippa"
+ },
+ "source:wikipedia-herodian-coinage-agrippa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Herodian_coinage"
+ },
+ "source:wikisource-ant-19-caesarea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-ant-19-claudius-kingdom": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-ant-19-death": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-ant-19-garment": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ },
+ "source:wikisource-ant-19-god": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIX"
+ }
+}

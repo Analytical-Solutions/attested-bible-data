@@ -1,0 +1,27 @@
+{
+ "source:bible-api-2-kings-14-25": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2+kings+14:25?translation=web"
+ },
+ "source:sefaria-sukkah-4-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sukkah.4.9"
+ },
+ "source:wikipedia-jonah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jonah"
+ },
+ "source:wikipedia-papyrus-66": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_66"
+ },
+ "source:wikipedia-papyrus-75-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ }
+}

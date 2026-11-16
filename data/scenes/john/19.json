@@ -1,0 +1,24 @@
+{
+ "book": "john",
+ "chapter": 19,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    16
+   ],
+   "setting": "place:gabbatha",
+   "confidence": "stated",
+   "basis": "19:13 \"sat down on the judgment seat at a place called “The Pavement”, but in Hebrew, “Gabbatha.”\""
+  },
+  {
+   "verses": [
+    17,
+    42
+   ],
+   "setting": "place:golgotha",
+   "confidence": "stated",
+   "basis": "19:17 \"to the place called “The Place of a Skull”, which is called in Hebrew, “Golgotha”\"; the tomb of 19:41 is in the garden there"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{"from": "passage:ac-18-01", "type": "asserts", "to": "claim:ac-18-01-athens-to-corinth"}
+{"from": "passage:ac-18-02", "type": "asserts", "to": "claim:ac-18-02-aquila-pontus"}
+{"from": "passage:ac-18-02", "type": "asserts", "to": "claim:ac-18-02-priscilla-wife"}
+{"from": "passage:ac-18-02", "type": "asserts", "to": "claim:ac-18-02-claudius-expulsion"}
+{"from": "passage:ac-18-02", "type": "asserts", "to": "claim:ac-18-02-jews-in-rome"}
+{"from": "passage:ac-18-02", "type": "asserts", "to": "claim:ac-18-02-jews-in-pontus"}
+{"from": "passage:ac-18-03", "type": "asserts", "to": "claim:ac-18-03-tentmakers"}
+{"from": "passage:ac-18-03", "type": "asserts", "to": "claim:ac-18-03-trade-taught"}
+{"from": "passage:ac-18-04", "type": "asserts", "to": "claim:ac-18-04-synagogue-corinth"}
+{"from": "passage:ac-18-04", "type": "asserts", "to": "claim:ac-18-04-godfearers"}
+{"from": "passage:ac-18-05", "type": "asserts", "to": "claim:ac-18-05-silas-timothy-arrive"}
+{"from": "passage:ac-18-06", "type": "asserts", "to": "claim:ac-18-06-shook-garments"}
+{"from": "passage:ac-18-07", "type": "asserts", "to": "claim:ac-18-07-justus-house"}
+{"from": "passage:ac-18-08", "type": "asserts", "to": "claim:ac-18-08-crispus-ruler"}
+{"from": "passage:ac-18-08", "type": "asserts", "to": "claim:ac-18-08-crispus-believed"}
+{"from": "passage:ac-18-09", "type": "asserts", "to": "claim:ac-18-09-10-vision"}
+{"from": "passage:ac-18-10", "type": "asserts", "to": "claim:ac-18-09-10-vision"}
+{"from": "passage:ac-18-11", "type": "asserts", "to": "claim:ac-18-11-eighteen-months"}
+{"from": "passage:ac-18-12", "type": "asserts", "to": "claim:ac-18-12-gallio-proconsul"}
+{"from": "passage:ac-18-12", "type": "asserts", "to": "claim:ac-18-12-before-bema"}
+{"from": "passage:ac-18-14", "type": "asserts", "to": "claim:ac-18-14-gallio-refused"}
+{"from": "passage:ac-18-15", "type": "asserts", "to": "claim:ac-18-14-gallio-refused"}
+{"from": "passage:ac-18-16", "type": "asserts", "to": "claim:ac-18-14-gallio-refused"}
+{"from": "passage:ac-18-17", "type": "asserts", "to": "claim:ac-18-17-sosthenes-beaten"}
+{"from": "passage:ac-18-18", "type": "asserts", "to": "claim:ac-18-18-cenchreae-harbour"}
+{"from": "passage:ac-18-18", "type": "asserts", "to": "claim:ac-18-18-sailed-syria"}
+{"from": "passage:ac-18-18", "type": "asserts", "to": "claim:ac-18-18-vow-shaving"}
+{"from": "passage:ac-18-19", "type": "asserts", "to": "claim:ac-18-19-ephesus-city"}
+{"from": "passage:ac-18-19", "type": "asserts", "to": "claim:ac-18-19-ephesus-visit"}
+{"from": "passage:ac-18-21", "type": "asserts", "to": "claim:ac-18-21-feast-jerusalem"}
+{"from": "passage:ac-18-22", "type": "asserts", "to": "claim:ac-18-22-caesarea-antioch"}
+{"from": "passage:ac-18-23", "type": "asserts", "to": "claim:ac-18-23-galatia-phrygia"}
+{"from": "passage:ac-18-24", "type": "asserts", "to": "claim:ac-18-24-apollos-alexandrian"}
+{"from": "passage:ac-18-24", "type": "asserts", "to": "claim:ac-18-24-alexandrian-learning"}
+{"from": "passage:ac-18-26", "type": "asserts", "to": "claim:ac-18-26-instruction"}
+{"from": "passage:ac-18-27", "type": "asserts", "to": "claim:ac-18-27-28-apollos-achaia"}
+{"from": "passage:ac-18-28", "type": "asserts", "to": "claim:ac-18-27-28-apollos-achaia"}
+{"from": "claim:ac-18-01-athens-to-corinth", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-18-01-athens-to-corinth", "type": "mentions", "to": "place:corinth"}
+{"from": "claim:ac-18-01-athens-to-corinth", "type": "mentions", "to": "place:athens"}
+{"from": "claim:ac-18-02-aquila-pontus", "type": "mentions", "to": "person:aquila"}
+{"from": "claim:ac-18-02-aquila-pontus", "type": "mentions", "to": "place:pontus"}
+{"from": "claim:ac-18-02-priscilla-wife", "type": "mentions", "to": "person:priscilla"}
+{"from": "claim:ac-18-02-claudius-expulsion", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-18-02-jews-in-rome", "type": "mentions", "to": "place:rome"}
+{"from": "claim:ac-18-02-jews-in-pontus", "type": "mentions", "to": "place:pontus"}
+{"from": "claim:ac-18-03-tentmakers", "type": "mentions", "to": "person:aquila"}
+{"from": "claim:ac-18-03-tentmakers", "type": "mentions", "to": "person:priscilla"}
+{"from": "claim:ac-18-04-synagogue-corinth", "type": "mentions", "to": "place:corinth"}
+{"from": "claim:ac-18-05-silas-timothy-arrive", "type": "mentions", "to": "person:silas"}
+{"from": "claim:ac-18-05-silas-timothy-arrive", "type": "mentions", "to": "person:timothy"}
+{"from": "claim:ac-18-07-justus-house", "type": "mentions", "to": "person:titius-justus"}
+{"from": "claim:ac-18-07-justus-house", "type": "mentions", "to": "place:corinth"}
+{"from": "claim:ac-18-08-crispus-ruler", "type": "mentions", "to": "person:crispus"}
+{"from": "claim:ac-18-08-crispus-ruler", "type": "mentions", "to": "place:corinth"}
+{"from": "claim:ac-18-08-crispus-believed", "type": "mentions", "to": "person:crispus"}
+{"from": "claim:ac-18-08-crispus-believed", "type": "mentions", "to": "place:corinth"}
+{"from": "claim:ac-18-09-10-vision", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-18-11-eighteen-months", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-18-11-eighteen-months", "type": "mentions", "to": "place:corinth"}
+{"from": "claim:ac-18-12-gallio-proconsul", "type": "mentions", "to": "person:gallio"}
+{"from": "claim:ac-18-12-gallio-proconsul", "type": "mentions", "to": "place:achaia"}
+{"from": "claim:ac-18-12-before-bema", "type": "mentions", "to": "place:corinth"}
+{"from": "claim:ac-18-12-before-bema", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-18-14-gallio-refused", "type": "mentions", "to": "person:gallio"}
+{"from": "claim:ac-18-17-sosthenes-beaten", "type": "mentions", "to": "person:sosthenes"}
+{"from": "claim:ac-18-17-sosthenes-beaten", "type": "mentions", "to": "person:gallio"}
+{"from": "claim:ac-18-18-cenchreae-harbour", "type": "mentions", "to": "place:cenchreae"}
+{"from": "claim:ac-18-18-sailed-syria", "type": "mentions", "to": "place:cenchreae"}
+{"from": "claim:ac-18-18-sailed-syria", "type": "mentions", "to": "person:priscilla"}
+{"from": "claim:ac-18-18-sailed-syria", "type": "mentions", "to": "person:aquila"}
+{"from": "claim:ac-18-18-sailed-syria", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-18-18-vow-shaving", "type": "mentions", "to": "place:cenchreae"}
+{"from": "claim:ac-18-18-vow-shaving", "type": "mentions", "to": "person:paul-of-tarsus"}
+{"from": "claim:ac-18-19-ephesus-city", "type": "mentions", "to": "place:ephesus"}
+{"from": "claim:ac-18-19-ephesus-visit", "type": "mentions", "to": "place:ephesus"}
+{"from": "claim:ac-18-19-ephesus-visit", "type": "mentions", "to": "person:priscilla"}
+{"from": "claim:ac-18-19-ephesus-visit", "type": "mentions", "to": "person:aquila"}
+{"from": "claim:ac-18-21-feast-jerusalem", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-18-22-caesarea-antioch", "type": "mentions", "to": "place:caesarea"}
+{"from": "claim:ac-18-22-caesarea-antioch", "type": "mentions", "to": "place:antioch-on-the-orontes"}
+{"from": "claim:ac-18-23-galatia-phrygia", "type": "mentions", "to": "place:galatia"}
+{"from": "claim:ac-18-23-galatia-phrygia", "type": "mentions", "to": "place:phrygia"}
+{"from": "claim:ac-18-24-apollos-alexandrian", "type": "mentions", "to": "person:apollos"}
+{"from": "claim:ac-18-24-apollos-alexandrian", "type": "mentions", "to": "place:alexandria"}
+{"from": "claim:ac-18-24-apollos-alexandrian", "type": "mentions", "to": "place:ephesus"}
+{"from": "claim:ac-18-24-alexandrian-learning", "type": "mentions", "to": "place:alexandria"}
+{"from": "claim:ac-18-26-instruction", "type": "mentions", "to": "person:priscilla"}
+{"from": "claim:ac-18-26-instruction", "type": "mentions", "to": "person:aquila"}
+{"from": "claim:ac-18-26-instruction", "type": "mentions", "to": "person:apollos"}
+{"from": "claim:ac-18-27-28-apollos-achaia", "type": "mentions", "to": "person:apollos"}
+{"from": "claim:ac-18-27-28-apollos-achaia", "type": "mentions", "to": "place:achaia"}
+{"from": "artifact:gallio-inscription", "type": "attests", "to": "person:gallio", "grade": "A", "note": "The letter names '[L. Jun]ius Gallio, my fri[end] an[d procon]sul' - the same man in the same office that Acts 18:12 names; it attests Gallio and his proconsulship, not the Corinth trial itself."}
+{"from": "artifact:gallio-inscription", "type": "attests", "to": "claim:ac-18-12-gallio-proconsul", "grade": "A", "note": "The Delphi letter (nine fragments found early 20th century at the Temple of Apollo) calls Gallio Claudius's 'friend and proconsul' and is dated by its own headings - 12th tribunician power, 26th imperial acclamation - to 52 CE. As proconsuls of senatorial provinces served one-year terms, Gallio's Achaia term falls 51-52 CE; with Acts 18:11's eighteen months and the Claudian edict of 18:2 this fixes Paul's Corinthian stay - the anchor date of Pauline chronology. The attestation covers the office, not the trial's date alone."}
+{"from": "artifact:corinth-bema", "type": "attests", "to": "claim:ac-18-12-before-bema", "grade": "B", "note": "The excavated bema is the platform in the Corinthian forum on which a judge sat while cases were heard in the plaza below - the venue type and, per BiblePlaces, one of the rare places a biblical event can be tied to; it attests the setting of the hearing, not that Paul was brought to it."}
+{"from": "artifact:corinth-bema", "type": "attests", "to": "claim:ac-18-17-sosthenes-beaten", "grade": "B", "note": "The beating happened 'before the judgment seat'; the excavated bema attests that venue in Roman Corinth, not the beating itself."}
+{"from": "artifact:corinth-synagogue-lintel", "type": "attests", "to": "claim:ac-18-04-synagogue-corinth", "grade": "C", "note": "A lintel reading [SYNA]GOGE EBR[AION] ('Synagogue of the Hebrews'), found on the Lechaion Road, documents a synagogue in Corinth - but it probably dates to the 5th century per the fetched description, so it is context for Paul's synagogue, not proof of it."}
+{"from": "site:corinth", "type": "attests", "to": "claim:ac-18-01-athens-to-corinth", "grade": "B", "note": "The excavated city of Corinth (ASCSA excavations since 1896) attests the city Paul came to, not the journey from Athens."}
+{"from": "site:cenchreae", "type": "attests", "to": "claim:ac-18-18-cenchreae-harbour", "grade": "A", "note": "The excavated harbour of Kenchreai - Roman breakwaters, excavated 1962-1969 under Robert Scranton - is the port settlement Acts names; it attests the place, not Paul's shaving or sailing."}
+{"from": "site:ephesus", "type": "attests", "to": "claim:ac-18-19-ephesus-city", "grade": "B", "note": "The excavated city site is Ephesus itself, a major city of Roman Asia; it attests the place Acts names, not Paul's visit. Regraded A to B by the architect: the claim also states that Ephesus had a synagogue Paul entered, which the site does not attest, so A cannot cover the whole claim."}
+{"from": "site:caesarea-maritima", "type": "attests", "to": "claim:ac-18-22-caesarea-antioch", "grade": "B", "note": "The excavated Herodian-Roman port attests the harbour Paul landed at on the way from Ephesus, not the landing or the greeting."}
+{"from": "site:antioch-on-the-orontes", "type": "attests", "to": "claim:ac-18-22-caesarea-antioch", "grade": "B", "note": "The excavated capital of Roman Syria attests the city Paul 'went down' to at the journey's end, not the journey."}
+{"from": "text:suetonius-claudius-25-4", "type": "attests", "to": "claim:ac-18-02-claudius-expulsion", "grade": "A", "note": "'Since the Jews constantly made disturbances at the instigation of Chrestus' ... 'he expelled them from Rome' - the same imperial expulsion order. Whether 'Chrestus' is a garbled Christus or a Jewish agitator is disputed (Evans, Meier, Keener and Stern vs Benko, Judge); Suetonius writes topically, so the text gives no year."}
+{"from": "text:cassius-dio-60-6-6-7", "type": "complicates", "to": "claim:ac-18-02-claudius-expulsion", "note": "Dio 60.6.6-7 says Claudius 'did not drive them out, but ordered them... not to hold meetings' in a context pointing to 41 CE - a ban on assembly, not an expulsion. Slingerland concludes Suetonius Claudius 25.4 is a different event; Riesner says an earlier action later expanded; Feldman holds the expulsion was limited to the most vocal."}
+{"from": "text:orosius-histories-7-6-15-16", "type": "attests", "to": "claim:ac-18-02-claudius-expulsion", "grade": "D", "note": "The 5th-century Christian writer dates the expulsion to Claudius's ninth year (= 49 CE), quoting a Josephus passage that does not survive; Slingerland and Feldman argue the quote never existed, Smallwood and Cappelletti defend Orosius - a reception text with a disputed date, so D."}
+{"from": "text:josephus-ant-18-81-84-rome-jews", "type": "attests", "to": "claim:ac-18-02-jews-in-rome", "grade": "C", "note": "Josephus reports 4,000 Jews banished from Rome to Sardinia in 19 CE - a large Jewish community in the city, a quarter-century before Claudius's edict; context, not the edict itself."}
+{"from": "text:cicero-pro-flacco-28-67", "type": "attests", "to": "claim:ac-18-02-jews-in-rome", "grade": "C", "note": "Cicero (59 BCE) speaks of gold sent to Jerusalem 'from Italy and from all our provinces' - Jews settled in Italy a century before Claudius; context for the community Aquila and Priscilla were expelled from."}
+{"from": "text:philo-embassy-281-283", "type": "attests", "to": "claim:ac-18-02-jews-in-pontus", "grade": "B", "note": "Philo (c. 41 CE) names Jewish colonies 'the furthermost corners of Pontus' - the same region Aquila came from, at almost the same moment; it attests the communities, not Aquila."}
+{"from": "text:talmud-kiddushin-29a", "type": "attests", "to": "claim:ac-18-03-trade-taught", "grade": "C", "note": "The baraita: a father must 'teach him Torah' and 'to teach him a trade', and 'any father who does not teach his son a trade teaches him banditry' - the craftsman norm behind Paul's tentmaking; redacted c. 500 CE, it may not describe the 50s exactly."}
+{"from": "text:philo-embassy-281-283", "type": "attests", "to": "claim:ac-18-24-alexandrian-learning", "grade": "C", "note": "Philo, Alexandria's own Jewish author (c. 41 CE), numbers Egypt - whose metropolis for the Jews was Alexandria - among the diaspora colonies looking to Jerusalem: the community an Alexandrian like Apollos came from; it shows the community, not his learning."}
+{"from": "artifact:aphrodisias-godfearers-stele", "type": "attests", "to": "claim:ac-18-04-godfearers", "grade": "C", "note": "The stele (3rd-century Caria) uses theosebeis as a category - Gentile sympathizers attached to a Jewish community existed as a class; later than Acts 18 and from another province, so context only."}
+{"from": "artifact:miletus-godfearers-inscription", "type": "attests", "to": "claim:ac-18-04-godfearers", "grade": "C", "note": "The Miletus theatre seat inscription reserves a place 'of the Jews who are also (called) God-fearers' - the same mixed Jewish-Gentile synagogue public; later and elsewhere, so context only."}
+{"from": "artifact:theodotos-inscription", "type": "attests", "to": "claim:ac-18-08-crispus-ruler", "grade": "C", "note": "The Theodotos inscription (1st-century Jerusalem) names an archisynagogos - the office 'ruler of the synagogue' Crispus held; it attests the office, not Crispus, and from another city."}
+{"from": "text:josephus-ant-16-160-165", "type": "attests", "to": "claim:ac-18-14-gallio-refused", "grade": "C", "note": "Rome's decrees (Caesar's letters to the governors of the provinces) guaranteed diaspora Jews their ancestral customs - the practice Gallio's hands-off ruling ('words and names and your own law... look to it yourselves') reflects; it attests the policy, not Gallio's decision."}
+{"from": "text:mishnah-nazir-6", "type": "attests", "to": "claim:ac-18-18-vow-shaving", "grade": "B", "note": "The Mishnah lists 'the shaving of one's hair' among the nazirite prohibitions - the haircut marks the vow's completion (Numbers 6 is the biblical base); redacted c. 200 CE, it may not describe 50s practice exactly, and Acts does not name the vow Nazirite. Regraded C to B (reviewer 11, the logged Nazirite ruling): Mishnah Nazir, c. 200 CE, postdates Paul's c. 52 vow but reliably documents the standing custom of shaving at the vow's completion; for a custom claim the gap is not disqualifying."}
+{"from": "artifact:gallio-inscription", "type": "documented_by", "to": "source:wikipedia-delphi-inscription"}
+{"from": "artifact:gallio-inscription", "type": "documented_by", "to": "source:wikipedia-delphi-inscription-text"}
+{"from": "artifact:gallio-inscription", "type": "documented_by", "to": "source:wikipedia-delphi-inscription-gallio"}
+{"from": "artifact:gallio-inscription", "type": "documented_by", "to": "source:wikipedia-gallio"}
+{"from": "artifact:corinth-bema", "type": "documented_by", "to": "source:bibleplaces-corinth-bema"}
+{"from": "artifact:corinth-synagogue-lintel", "type": "documented_by", "to": "source:holylandphotos-corinth-synagogue"}
+{"from": "artifact:corinth-synagogue-lintel", "type": "documented_by", "to": "source:holylandphotos-corinth-synagogue-date"}
+{"from": "site:corinth", "type": "documented_by", "to": "source:wikipedia-ancient-corinth"}
+{"from": "site:cenchreae", "type": "documented_by", "to": "source:wikipedia-kechries"}
+{"from": "text:cassius-dio-60-6-6-7", "type": "documented_by", "to": "source:wikipedia-claudius-expulsion-dio"}
+{"from": "text:orosius-histories-7-6-15-16", "type": "documented_by", "to": "source:wikipedia-claudius-expulsion-orosius"}
+{"from": "text:cicero-pro-flacco-28-67", "type": "documented_by", "to": "source:attalus-cicero-pro-flacco"}
+{"from": "text:mishnah-nazir-6", "type": "documented_by", "to": "source:sefaria-mishnah-nazir-6"}
+{"from": "text:talmud-kiddushin-29a", "type": "documented_by", "to": "source:sefaria-kiddushin-29a"}
+{"from": "text:1-corinthians-1-1", "type": "documented_by", "to": "source:bible-api-1-corinthians-1-1"}
+{"from": "text:1-corinthians-1-14", "type": "documented_by", "to": "source:bible-api-1-corinthians-1-14"}
+{"from": "text:1-corinthians-16-19", "type": "documented_by", "to": "source:bible-api-1-corinthians-16-19"}
+{"from": "text:1-peter-1-1", "type": "documented_by", "to": "source:bible-api-1-peter-1-1"}
+{"from": "claim:ac-18-12-gallio-proconsul", "type": "documented_by", "to": "source:wikipedia-gallio-dating"}
+{"from": "claim:ac-18-12-gallio-proconsul", "type": "documented_by", "to": "source:wikipedia-proconsul-tenure"}
+{"from": "claim:ac-18-18-cenchreae-harbour", "type": "documented_by", "to": "source:wikipedia-acts-18-cenchreae"}
+{"from": "claim:ac-18-26-instruction", "type": "documented_by", "to": "source:wikipedia-tv-acts-18-26"}
+{"from": "claim:ac-18-18-vow-shaving", "type": "related_to", "to": "text:numbers-6-3", "note": "Numbers 6: the nazirite 'shall let the locks of the hair of his head grow long' and shave at the vow's completion - the biblical vow-base; a cross-reference, not evidence."}
+{"from": "claim:ac-18-08-crispus-believed", "type": "related_to", "to": "text:1-corinthians-1-14", "note": "1 Corinthians 1:14: Paul baptized 'Crispus and Gaius' - the same Corinthian convert in Paul's own letter; a cross-reference, not external evidence."}
+{"from": "claim:ac-18-17-sosthenes-beaten", "type": "related_to", "to": "text:1-corinthians-1-1", "note": "1 Corinthians 1:1 names 'Sosthenes the brother' with Paul - possibly the beaten synagogue ruler, later a co-sender; a cross-reference, not external evidence."}
+{"from": "claim:ac-18-02-priscilla-wife", "type": "related_to", "to": "text:1-corinthians-16-19", "note": "1 Corinthians 16:19: 'Aquila and Priscilla greet you much in the Lord, together with the assembly that is in their house' - the same couple from Paul's own letter; a cross-reference, not external evidence."}
+{"from": "claim:ac-18-02-jews-in-pontus", "type": "related_to", "to": "text:1-peter-1-1", "note": "1 Peter 1:1 addresses 'the Dispersion in Pontus, Galatia...' - Jews of Pontus in the diaspora; a cross-reference, not external evidence."}
+{"from": "claim:ac-18-02-claudius-expulsion", "type": "related_to", "to": "text:josephus-ant-18-81-84-rome-jews", "note": "Josephus Ant. 18.81-84 records the earlier 19 CE expulsion of Jews from Rome under Tiberius; do not conflate it with Claudius's edict."}
+{"from": "claim:ac-18-06-shook-garments", "type": "related_to", "to": "claim:mt-10-14-shake-dust", "note": "The same gesture family: shaking out garments/dust against those who reject the message (Matt 10:14); Acts 18:6 shakes out his clothing against the Corinthian Jews."}
+{"from": "site:corinth", "type": "identified_as", "to": "place:corinth"}
+{"from": "site:cenchreae", "type": "identified_as", "to": "place:cenchreae"}
+{"from": "artifact:corinth-bema", "type": "found_at", "to": "site:corinth"}
+{"from": "artifact:corinth-synagogue-lintel", "type": "found_at", "to": "site:corinth"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-18-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-18-28"}
+{"from": "artifact:papyrus-74", "type": "preserves", "to": "passage:ac-18-26"}
+{"from": "text:suetonius-claudius-25-4", "type": "documented_by", "to": "source:wikisource-suetonius-claudius-expelled"}

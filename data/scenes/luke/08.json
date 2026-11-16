@@ -1,0 +1,42 @@
+{
+ "book": "luke",
+ "chapter": 8,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    21
+   ],
+   "setting": "place:galilee",
+   "confidence": "inferred",
+   "basis": "8:1 \"he went about through cities and villages, preaching and bringing the good news of God's Kingdom\" - the unnamed tour follows the Galilee ministry (4:44, 7:1-17)"
+  },
+  {
+   "verses": [
+    22,
+    25
+   ],
+   "setting": "place:sea-of-galilee",
+   "confidence": "stated",
+   "basis": "8:22 \"Let's go over to the other side of the lake\"; 8:23 \"as they sailed\""
+  },
+  {
+   "verses": [
+    26,
+    39
+   ],
+   "setting": "place:gadara",
+   "confidence": "stated",
+   "basis": "8:26 \"They arrived at the country of the Gadarenes, which is opposite Galilee\""
+  },
+  {
+   "verses": [
+    40,
+    56
+   ],
+   "setting": "place:capernaum",
+   "confidence": "inferred",
+   "basis": "8:40 \"When Jesus returned, the multitude welcomed him\" - the city is not named; Jairus \"was a ruler of the synagogue\" (8:41) of the Capernaum ministry (4:31)"
+  }
+ ]
+}

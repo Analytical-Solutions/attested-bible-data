@@ -1,0 +1,33 @@
+{
+ "book": "john",
+ "chapter": 12,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    11
+   ],
+   "setting": "place:bethany",
+   "confidence": "stated",
+   "basis": "12:1 \"Jesus came to Bethany, where Lazarus was\""
+  },
+  {
+   "verses": [
+    12,
+    19
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "stated",
+   "basis": "12:12 \"heard that Jesus was coming to Jerusalem\"; 12:13 \"went out to meet him\""
+  },
+  {
+   "verses": [
+    20,
+    50
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "12:20 \"certain Greeks among those that went up to worship at the feast\" - the feast in Jerusalem (12:12)"
+  }
+ ]
+}

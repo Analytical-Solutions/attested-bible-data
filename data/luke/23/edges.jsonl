@@ -1,0 +1,336 @@
+{"from": "passage:lk-23-01", "type": "asserts", "to": "claim:mt-27-01-02-delivered-to-pilate"}
+{"from": "passage:lk-23-02", "type": "asserts", "to": "claim:lk-23-02-charges"}
+{"from": "passage:lk-23-03", "type": "asserts", "to": "claim:mt-27-02-11-pilate-governor"}
+{"from": "passage:lk-23-04", "type": "asserts", "to": "claim:lk-23-04-pilate-no-basis"}
+{"from": "passage:lk-23-05", "type": "asserts", "to": "claim:mt-27-11-14-jesus-before-governor"}
+{"from": "passage:lk-23-06", "type": "asserts", "to": "claim:lk-23-06-galilee-antipas"}
+{"from": "passage:lk-23-07", "type": "asserts", "to": "claim:lk-23-07-sent-to-herod"}
+{"from": "passage:lk-23-08", "type": "asserts", "to": "claim:lk-09-09-herod-sought-to-see-jesus"}
+{"from": "passage:lk-23-14", "type": "asserts", "to": "claim:lk-23-04-pilate-no-basis"}
+{"from": "passage:lk-23-15", "type": "asserts", "to": "claim:lk-23-04-pilate-no-basis"}
+{"from": "passage:lk-23-16", "type": "asserts", "to": "claim:lk-23-16-chastise-release"}
+{"from": "passage:lk-23-17", "type": "asserts", "to": "claim:mt-27-15-passover-release-custom"}
+{"from": "passage:lk-23-18", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:lk-23-19", "type": "asserts", "to": "claim:mk-15-07-barabbas-insurgents"}
+{"from": "passage:lk-23-20", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:lk-23-21", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:lk-23-22", "type": "asserts", "to": "claim:lk-23-04-pilate-no-basis"}
+{"from": "passage:lk-23-25", "type": "asserts", "to": "claim:mt-27-16-26-barabbas-released"}
+{"from": "passage:lk-23-26", "type": "asserts", "to": "claim:mt-27-32-simon-compelled"}
+{"from": "passage:lk-23-27", "type": "asserts", "to": "claim:lk-23-27-31-women-lament"}
+{"from": "passage:lk-23-28", "type": "asserts", "to": "claim:lk-23-28-31-days-coming"}
+{"from": "passage:lk-23-29", "type": "asserts", "to": "claim:lk-23-28-31-days-coming"}
+{"from": "passage:lk-23-30", "type": "asserts", "to": "claim:lk-23-28-31-days-coming"}
+{"from": "passage:lk-23-31", "type": "asserts", "to": "claim:lk-23-28-31-days-coming"}
+{"from": "passage:lk-23-33", "type": "asserts", "to": "claim:mt-27-33-golgotha-outside"}
+{"from": "passage:lk-23-33", "type": "asserts", "to": "claim:mt-27-26-crucified-under-pilate"}
+{"from": "passage:lk-23-34", "type": "asserts", "to": "claim:lk-23-34-forgive-them"}
+{"from": "passage:lk-23-34", "type": "asserts", "to": "claim:mt-27-35-garments-divided"}
+{"from": "passage:lk-23-36", "type": "asserts", "to": "claim:lk-23-36-37-soldiers-vinegar"}
+{"from": "passage:lk-23-38", "type": "asserts", "to": "claim:lk-23-38-trilingual-inscription"}
+{"from": "passage:lk-23-38", "type": "asserts", "to": "claim:mt-27-37-charge-placard"}
+{"from": "passage:lk-23-39", "type": "asserts", "to": "claim:lk-23-39-43-criminals-dialogue"}
+{"from": "passage:lk-23-40", "type": "asserts", "to": "claim:lk-23-39-43-criminals-dialogue"}
+{"from": "passage:lk-23-41", "type": "asserts", "to": "claim:lk-23-39-43-criminals-dialogue"}
+{"from": "passage:lk-23-42", "type": "asserts", "to": "claim:lk-23-39-43-criminals-dialogue"}
+{"from": "passage:lk-23-43", "type": "asserts", "to": "claim:lk-23-39-43-criminals-dialogue"}
+{"from": "passage:lk-23-44", "type": "asserts", "to": "claim:mt-27-45-darkness"}
+{"from": "passage:lk-23-45", "type": "asserts", "to": "claim:lk-23-45-sun-light-failed"}
+{"from": "passage:lk-23-45", "type": "asserts", "to": "claim:mt-27-51-veil-torn"}
+{"from": "passage:lk-23-46", "type": "asserts", "to": "claim:lk-23-46-dying-words"}
+{"from": "passage:lk-23-47", "type": "asserts", "to": "claim:lk-23-47-centurion-righteous"}
+{"from": "passage:lk-23-49", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:lk-23-50", "type": "asserts", "to": "claim:mk-15-43-joseph-council-member"}
+{"from": "passage:lk-23-51", "type": "asserts", "to": "claim:lk-23-51-joseph-not-consented"}
+{"from": "passage:lk-23-52", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:lk-23-53", "type": "asserts", "to": "claim:mt-27-57-58-joseph-burial"}
+{"from": "passage:lk-23-53", "type": "asserts", "to": "claim:mt-27-59-60-new-rock-tomb"}
+{"from": "passage:lk-23-54", "type": "asserts", "to": "claim:mk-15-42-preparation-day"}
+{"from": "passage:lk-23-55", "type": "asserts", "to": "claim:mt-27-55-61-women-watching"}
+{"from": "passage:lk-23-56", "type": "asserts", "to": "claim:lk-23-56-spices-rest"}
+{"from": "passage:lk-23-01", "type": "parallels", "to": "passage:mt-27-02"}
+{"from": "passage:lk-23-01", "type": "parallels", "to": "passage:mk-15-01"}
+{"from": "passage:lk-23-02", "type": "parallels", "to": "passage:mt-27-11", "note": "Luke's charge list (perverting the nation, forbidding tribute to Caesar) is fuller than Matthew's 'King of the Jews'"}
+{"from": "passage:lk-23-02", "type": "parallels", "to": "passage:mk-15-03", "note": "Mark has 'many accusations' without naming them"}
+{"from": "passage:lk-23-03", "type": "parallels", "to": "passage:mt-27-11"}
+{"from": "passage:lk-23-03", "type": "parallels", "to": "passage:mk-15-02"}
+{"from": "passage:lk-23-04", "type": "parallels", "to": "passage:mt-27-24", "note": "Matthew has the hand-washing declaration of innocence; Luke has a formal 'no basis for a charge' verdict (three times)"}
+{"from": "passage:lk-23-05", "type": "parallels", "to": "passage:mt-27-12"}
+{"from": "passage:lk-23-05", "type": "parallels", "to": "passage:mk-15-03"}
+{"from": "passage:lk-23-09", "type": "parallels", "to": "passage:mt-27-14", "note": "The silence before the governor; in Luke it is before Herod"}
+{"from": "passage:lk-23-09", "type": "parallels", "to": "passage:mk-15-05"}
+{"from": "passage:lk-23-10", "type": "parallels", "to": "passage:mt-27-12"}
+{"from": "passage:lk-23-11", "type": "related_to", "to": "passage:mt-27-27", "note": "related_to rather than parallels: Luke 23:11 is Herod's soldiers dressing Jesus in luxurious clothing at Herod's house; Matthew 27:27 and Mark 15:16 are Pilate's soldiers dressing him in a scarlet/purple robe after the flogging at the Praetorium. Different soldiers, place and clothing - a shared soldiers'-mockery motif in two different scenes (the jn-19-02 precedent). Converted per the architect's bundled-claims ruling (2026-11-15)."}
+{"from": "passage:lk-23-11", "type": "related_to", "to": "passage:mk-15-16", "note": "related_to rather than parallels: Luke 23:11 is Herod's soldiers dressing Jesus in luxurious clothing at Herod's house; Matthew 27:27 and Mark 15:16 are Pilate's soldiers dressing him in a scarlet/purple robe after the flogging at the Praetorium. Different soldiers, place and clothing - a shared soldiers'-mockery motif in two different scenes (the jn-19-02 precedent). Converted per the architect's bundled-claims ruling (2026-11-15)."}
+{"from": "passage:lk-23-16", "type": "parallels", "to": "passage:mt-27-26", "note": "Matthew has the chastisement carried out; Luke has it proposed twice as a compromise"}
+{"from": "passage:lk-23-17", "type": "parallels", "to": "passage:mt-27-15", "note": "The release custom; the verse is omitted in P75 and Vaticanus"}
+{"from": "passage:lk-23-17", "type": "parallels", "to": "passage:mk-15-06"}
+{"from": "passage:lk-23-18", "type": "parallels", "to": "passage:mt-27-21"}
+{"from": "passage:lk-23-18", "type": "parallels", "to": "passage:mk-15-08"}
+{"from": "passage:lk-23-19", "type": "parallels", "to": "passage:mk-15-07", "note": "Luke: Barabbas himself was imprisoned for a revolt in the city and murder; Mark: bound with the insurgents who committed murder"}
+{"from": "passage:lk-23-20", "type": "parallels", "to": "passage:mt-27-22"}
+{"from": "passage:lk-23-21", "type": "parallels", "to": "passage:mt-27-23"}
+{"from": "passage:lk-23-21", "type": "parallels", "to": "passage:mk-15-13"}
+{"from": "passage:lk-23-22", "type": "parallels", "to": "passage:mt-27-23"}
+{"from": "passage:lk-23-22", "type": "parallels", "to": "passage:mk-15-14"}
+{"from": "passage:lk-23-23", "type": "parallels", "to": "passage:mt-27-24", "note": "The crowd's voices prevail against Pilate's wish to release"}
+{"from": "passage:lk-23-24", "type": "parallels", "to": "passage:mt-27-26"}
+{"from": "passage:lk-23-24", "type": "parallels", "to": "passage:mk-15-15"}
+{"from": "passage:lk-23-25", "type": "parallels", "to": "passage:mt-27-26"}
+{"from": "passage:lk-23-25", "type": "parallels", "to": "passage:mk-15-15"}
+{"from": "passage:lk-23-26", "type": "parallels", "to": "passage:mt-27-32"}
+{"from": "passage:lk-23-26", "type": "parallels", "to": "passage:mk-15-21", "note": "Luke does not name Alexander and Rufus"}
+{"from": "passage:lk-23-32", "type": "parallels", "to": "passage:mt-27-38"}
+{"from": "passage:lk-23-32", "type": "parallels", "to": "passage:mk-15-27"}
+{"from": "passage:lk-23-33", "type": "parallels", "to": "passage:mt-27-33"}
+{"from": "passage:lk-23-33", "type": "parallels", "to": "passage:mk-15-22"}
+{"from": "passage:lk-23-34", "type": "parallels", "to": "passage:mt-27-35"}
+{"from": "passage:lk-23-34", "type": "parallels", "to": "passage:mk-15-24"}
+{"from": "passage:lk-23-35", "type": "parallels", "to": "passage:mt-27-41"}
+{"from": "passage:lk-23-35", "type": "parallels", "to": "passage:mk-15-31", "note": "Luke adds 'the Christ of God, his chosen one'"}
+{"from": "passage:lk-23-36", "type": "parallels", "to": "passage:mk-15-36", "note": "Mark: sour wine on a sponge at the death cry; Luke: soldiers offering vinegar during the mockery"}
+{"from": "passage:lk-23-37", "type": "parallels", "to": "passage:mt-27-42"}
+{"from": "passage:lk-23-37", "type": "parallels", "to": "passage:mk-15-32"}
+{"from": "passage:lk-23-38", "type": "parallels", "to": "passage:mt-27-37", "note": "Luke's Alexandrian text lacks the trilingual detail and gives a different wording of the inscription"}
+{"from": "passage:lk-23-38", "type": "parallels", "to": "passage:mk-15-26"}
+{"from": "passage:lk-23-39", "type": "parallels", "to": "passage:mt-27-44", "note": "Matthew has both criminals reviling; Luke has one"}
+{"from": "passage:lk-23-39", "type": "parallels", "to": "passage:mk-15-32", "note": "Mark has both criminals reviling; Luke has one"}
+{"from": "passage:lk-23-44", "type": "parallels", "to": "passage:mt-27-45"}
+{"from": "passage:lk-23-44", "type": "parallels", "to": "passage:mk-15-33"}
+{"from": "passage:lk-23-45", "type": "parallels", "to": "passage:mt-27-51", "note": "The veil torn; Luke's wording of the darkness differs (eklipontos)"}
+{"from": "passage:lk-23-45", "type": "parallels", "to": "passage:mk-15-38"}
+{"from": "passage:lk-23-46", "type": "parallels", "to": "passage:mt-27-50", "note": "The death; the final cry recorded differs (Psalm 31:5 against Psalm 22:1)"}
+{"from": "passage:lk-23-46", "type": "parallels", "to": "passage:mk-15-37"}
+{"from": "passage:lk-23-47", "type": "parallels", "to": "passage:mt-27-54", "note": "Matthew's centurion says 'truly this was the Son of God'; Luke's says 'certainly this was a righteous man'"}
+{"from": "passage:lk-23-47", "type": "parallels", "to": "passage:mk-15-39", "note": "Same difference from Mark"}
+{"from": "passage:lk-23-49", "type": "parallels", "to": "passage:mt-27-55"}
+{"from": "passage:lk-23-49", "type": "parallels", "to": "passage:mk-15-40", "note": "Luke does not name the women here"}
+{"from": "passage:lk-23-50", "type": "parallels", "to": "passage:mt-27-57"}
+{"from": "passage:lk-23-50", "type": "parallels", "to": "passage:mk-15-43"}
+{"from": "passage:lk-23-52", "type": "parallels", "to": "passage:mt-27-58"}
+{"from": "passage:lk-23-52", "type": "parallels", "to": "passage:mk-15-43"}
+{"from": "passage:lk-23-53", "type": "parallels", "to": "passage:mt-27-59"}
+{"from": "passage:lk-23-53", "type": "parallels", "to": "passage:mk-15-46", "note": "Luke: a tomb cut in stone where no one had ever been laid; Mark names the stone and adds that Joseph bought the linen"}
+{"from": "passage:lk-23-54", "type": "parallels", "to": "passage:mk-15-42"}
+{"from": "passage:lk-23-55", "type": "parallels", "to": "passage:mk-15-47"}
+{"from": "passage:lk-23-55", "type": "parallels", "to": "passage:mt-27-61"}
+{"from": "passage:lk-23-56", "type": "parallels", "to": "passage:mk-16-01", "note": "Mark: the women buy spices after the Sabbath; Luke: they prepare spices and ointments and rest on the Sabbath"}
+{"from": "claim:lk-23-02-charges", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:lk-23-02-charges", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:lk-23-06-galilee-antipas", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:lk-23-06-galilee-antipas", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:lk-23-07-sent-to-herod", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:lk-23-07-sent-to-herod", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-23-11-herod-mocks", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:lk-23-28-31-days-coming", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:lk-23-51-joseph-not-consented", "type": "mentions", "to": "person:joseph-of-arimathea"}
+{"from": "claim:lk-23-51-joseph-not-consented", "type": "mentions", "to": "place:arimathea"}
+{"from": "artifact:tiberius-denarius", "type": "attests", "to": "claim:lk-23-02-charges", "grade": "C", "note": "A Tiberius-era denarius bearing Caesar's image and the inscription 'Ti[berivs] Caesar Divi Avg[vsti] F[ilivs] Avgvstvs' - the tribute to Caesar that the charge of forbidding it presupposes was a real obligation in the period. (Note the recorded dispute: denarii may not have circulated commonly in Judaea; an Antiochan tetradrachm is suggested.)"}
+{"from": "text:josephus-ant-18-1-taxation", "type": "attests", "to": "claim:lk-23-02-charges", "grade": "C", "note": "Josephus, Ant. 18.1.1: when Cyrenius came into Judea to tax it, resistance to the tribute was a live political issue - the background that makes the accusation 'he forbids paying tribute to Caesar' meaningful."}
+{"from": "text:josephus-war-2-perea", "type": "attests", "to": "claim:lk-23-06-galilee-antipas", "grade": "A", "note": "Josephus, War 2.6.3: on Herod the Great's death 'Under this last [Antipas] was Perea and Galilee' - Galilee, the province named in Luke 23:6, was Antipas's tetrarchy."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "claim:lk-23-06-galilee-antipas", "grade": "B", "note": "Antipas's bronze coins of the period name him 'Herod the Tetrarch' (HPDOU TETRARXOU) and were struck for his territory - the ruler whose jurisdiction Pilate respected in Luke 23:6-7."}
+{"from": "text:josephus-war-6-422-425", "type": "attests", "to": "claim:lk-23-07-sent-to-herod", "grade": "C", "note": "Josephus, War 6.422-425: Cestius's officers counted the Passover crowd in Jerusalem - the feast drew immense multitudes to the city, the setting of Antipas's presence 'in Jerusalem during those days'."}
+{"from": "text:josephus-war-7-29-purple-cloak", "type": "attests", "to": "claim:lk-23-11-herod-mocks", "grade": "C", "note": "Josephus, War 7.2.1: Simon bar Gioras buttoned on a purple cloak to mock royalty at the temple's fall (70 CE) - royal dress as mockery in the same city a generation later; it shows the practice, not the event."}
+{"from": "text:philo-embassy-38-pilate", "type": "attests", "to": "claim:lk-23-12-herod-pilate-friends", "grade": "C", "note": "Philo, Embassy to Gaius 38: Pilate's gilt shields in Herod's palace in Jerusalem were opposed by Herod's sons, who petitioned Tiberius - friction between Pilate's court and Herod's family in these very years, the 'enmity' Luke says preceded the friendship."}
+{"from": "text:josephus-war-2-florus", "type": "attests", "to": "claim:lk-23-16-chastise-release", "grade": "B", "note": "Josephus, War 2: Florus had men of equestrian rank whipped before crucifixion in Jerusalem - Roman flogging of the condemned in Judea, the punishment Pilate proposes in Luke 23:16, 22."}
+{"from": "text:josephus-war-5-crucified", "type": "attests", "to": "claim:lk-23-16-chastise-release", "grade": "B", "note": "Josephus, War 5: Titus's soldiers whipped captives and then crucified them before the walls (70 CE) - the flog-then-crucify sequence Luke's proposed chastisement assumes."}
+{"from": "text:mishnah-ketubot-4-5", "type": "attests", "to": "claim:lk-23-27-31-women-lament", "grade": "C", "note": "Mishnah Ketubot 4:5: 'Even the poorest man of the Jewish people may not provide fewer than two flutes and a lamenting woman' - professional lamenting women were expected even for the poor; redacted c. 200 CE, so it may not describe the 30s CE exactly."}
+{"from": "text:josephus-war-6-city-burned", "type": "attests", "to": "claim:lk-23-28-31-days-coming", "grade": "B", "note": "Josephus, War 6: the Romans set fire to the city and burned Jerusalem in 70 CE - the catastrophe the 'days are coming' warning points to; it attests the event, not the prediction."}
+{"from": "site:arch-of-titus", "type": "attests", "to": "claim:lk-23-28-31-days-coming", "grade": "B", "note": "The Arch of Titus (dedicated c. 81 CE) depicts the temple spoils carried to Rome - monumental evidence of Jerusalem's temple destroyed in 70 CE, the event the warning points to; it attests the event, not the prediction."}
+{"from": "artifact:titulus-crucis", "type": "attests", "to": "claim:lk-23-38-trilingual-inscription", "grade": "D", "note": "The Titulus Crucis in Santa Croce carries 'Jesus of Nazareth, King of the Jews' in Latin, Greek and Hebrew letters, matching Luke's trilingual tradition - but the relic is unprovenanced in the modern sense, is disputed, and three radiocarbon tests date the wood to 980-1146 CE, so it is graded D and may be a medieval object reflecting the Byzantine reading."}
+{"from": "text:phlegon-chronicle", "type": "attests", "to": "claim:lk-23-45-sun-light-failed", "grade": "D", "note": "Phlegon of Tralles recorded an eclipse (cited by Origen as a possible natural explanation of the crucifixion darkness); the identification with Luke's darkness is disputed and Luke's verb ekleipo invited exactly this reading - graded D reception evidence."}
+{"from": "text:josephus-war-1-673-spices", "type": "attests", "to": "claim:lk-23-56-spices-rest", "grade": "C", "note": "Josephus, War 1.673: at Herod the Great's burial (4 BCE) the cortege included servants 'with sweet spices' - aromatic spices were a normal part of Jewish funeral custom, which the women's preparation presupposes."}
+{"from": "text:talmud-sanhedrin-43a", "type": "attests", "to": "claim:lk-23-36-37-soldiers-vinegar", "grade": "C", "note": "Talmud Sanhedrin 43a: the court gives one led out to be killed a cup of wine to confound his senses - drink offered to the condemned before execution; redacted later and about court wine, not soldiers' sour wine in mockery (graded accordingly)."}
+{"from": "observation:solar-eclipse-impossible-passover", "type": "complicates", "to": "claim:lk-23-45-sun-light-failed", "note": "Luke's verb ekleipo ('failed') is the eclipse word and was read as an eclipse (Thallus, Phlegon); at Passover the moon is full, and a solar eclipse occurs only at new moon, so a naturalistic eclipse explanation is astronomically impossible."}
+{"from": "artifact:tiberius-denarius", "type": "complicates", "to": "claim:lk-23-02-charges", "note": "The Tribute penny article records that some scholars suggest denarii were not in common circulation in Judaea in Jesus's lifetime and that the coin shown was more probably an Antiochan tetradrachm; the coin evidence for the tribute practice is thus not settled."}
+{"from": "claim:lk-23-04-pilate-no-basis", "type": "related_to", "to": "claim:mt-27-24-25-pilate-washed-hands", "note": "Luke: a threefold formal verdict of no basis for a charge; Matthew: Pilate's wife's dream and the hand-washing declaration of innocence."}
+{"from": "claim:lk-23-11-herod-mocks", "type": "related_to", "to": "claim:mt-27-28-30-soldiers-mockery", "note": "Luke: the mockery and splendid robe come from Herod and his soldiers; Matthew: Pilate's soldiers with a scarlet robe."}
+{"from": "claim:lk-23-11-herod-mocks", "type": "related_to", "to": "claim:mk-15-17-purple-robe", "note": "Mark's soldiers robe him in purple; Luke's Herod dresses him in 'splendid clothing' (lampros) and sends him back."}
+{"from": "claim:lk-23-16-chastise-release", "type": "related_to", "to": "claim:mt-27-26-scourged-before-crucifixion", "note": "Luke: Pilate twice proposes chastisement and release; Matthew: the scourging is actually carried out."}
+{"from": "claim:lk-23-28-31-days-coming", "type": "related_to", "to": "text:hosea-10-8", "note": "Luke 23:30 echoes Hosea 10:8 ('they will say to the mountains, Cover us!')."}
+{"from": "claim:lk-23-36-37-soldiers-vinegar", "type": "related_to", "to": "claim:mt-27-48-sour-wine-posca", "note": "Luke: soldiers offer sour wine during the mockery; Matthew: sour wine on a sponge on a reed at the death cry."}
+{"from": "claim:lk-23-38-trilingual-inscription", "type": "related_to", "to": "claim:mt-27-37-charge-placard", "note": "The same placard claim; Luke's Byzantine text adds that the charge was written in Greek, Latin and Hebrew letters."}
+{"from": "claim:lk-23-39-43-criminals-dialogue", "type": "related_to", "to": "passage:mk-15-32", "note": "Mark 15:32 (and Matthew 27:44) have both criminals reviling Jesus; Luke alone gives one reviler and one penitent."}
+{"from": "claim:lk-23-45-sun-light-failed", "type": "related_to", "to": "claim:mt-27-45-darkness", "note": "The same darkness event; Luke's Alexandrian wording is 'the sun's light failed' (eklipontos), Matthew's 'darkness over all the land'."}
+{"from": "claim:lk-23-46-dying-words", "type": "related_to", "to": "claim:mk-15-34-cry-forsaken", "note": "The final cry differs: Luke quotes Psalm 31:5 ('Father, into your hands I commit my spirit'); Mark quotes Psalm 22:1."}
+{"from": "claim:lk-23-46-dying-words", "type": "related_to", "to": "text:psalm-31-5", "note": "Luke 23:46 echoes Psalm 31:5."}
+{"from": "claim:lk-23-47-centurion-righteous", "type": "related_to", "to": "passage:mt-27-54", "note": "Matthew (and Mark 15:39): the centurion says 'truly this was the Son of God'; Luke: 'certainly this was a righteous man'."}
+{"from": "claim:lk-23-51-joseph-not-consented", "type": "related_to", "to": "claim:mk-15-43-joseph-council-member", "note": "Mark: a prominent bouleutes waiting for the kingdom of God; Luke adds that Joseph had not consented to the council's counsel and deed."}
+{"from": "claim:lk-23-56-spices-rest", "type": "related_to", "to": "claim:mk-16-01-08-spices-tomb", "note": "Mark: the women buy spices when the Sabbath is past; Luke: they prepare spices and ointments before the Sabbath and rest on it."}
+{"from": "claim:lk-23-56-spices-rest", "type": "related_to", "to": "text:exodus-20-8-10", "note": "Luke 23:56 says the women rested on the Sabbath 'according to the commandment' (Exodus 20:8-10)."}
+{"from": "claim:lk-23-12-herod-pilate-friends", "type": "related_to", "to": "passage:mk-15-01", "note": "Mark and Matthew know nothing of the Herod-Pilate episode; the friendship note is Luke-only."}
+{"from": "claim:lk-23-07-sent-to-herod", "type": "documented_by", "to": "source:wikipedia-herod-antipas-referral"}
+{"from": "claim:lk-23-12-herod-pilate-friends", "type": "documented_by", "to": "source:wikipedia-pontius-pilate-schwartz"}
+{"from": "claim:lk-23-34-forgive-them", "type": "documented_by", "to": "source:sayings-of-jesus-cross"}
+{"from": "claim:lk-23-34-forgive-them", "type": "documented_by", "to": "source:wikipedia-papyrus-75-variants"}
+{"from": "claim:lk-23-38-trilingual-inscription", "type": "documented_by", "to": "source:wikipedia-titulus-crucis"}
+{"from": "artifact:titulus-crucis", "type": "documented_by", "to": "source:wikipedia-titulus-crucis"}
+{"from": "text:hosea-10-8", "type": "documented_by", "to": "source:bible-api-hosea-10-8"}
+{"from": "text:psalm-31-5", "type": "documented_by", "to": "source:bible-api-psalm-31-5"}
+{"from": "text:exodus-20-8-10", "type": "documented_by", "to": "source:bible-api-exodus-20-8"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-37"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-38"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-39"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-40"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-41"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-42"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-43"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-44"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-45"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-46"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-47"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-48"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-49"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-50"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-51"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-52"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-53"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-54"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-55"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:lk-23-56"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-01"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-02"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-03"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-04"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-05"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-06"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-07"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-08"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-09"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-10"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-11"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-12"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-13"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-14"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-15"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-16"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-18"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-19"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-20"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-21"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-22"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-23"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-24"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-25"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-26"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-27"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-28"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-29"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-30"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-31"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-32"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-33"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-34"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-35"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-36"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-37"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-38"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-38"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-39"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-39"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-40"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-40"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-41"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-41"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-42"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-42"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-43"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-43"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-44"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-44"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-45"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-45"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-46"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-46"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-47"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-47"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-48"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-48"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-49"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-49"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-50"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-50"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-51"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-51"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-52"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-52"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-53"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-53"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-54"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-54"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-55"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-55"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:lk-23-56"}
+{"from": "artifact:papyrus-75", "type": "preserves", "to": "passage:lk-23-56"}

@@ -1,0 +1,24 @@
+{
+ "book": "john",
+ "chapter": 20,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    18
+   ],
+   "setting": null,
+   "confidence": "stated",
+   "basis": "20:1 \"Mary Magdalene went early, while it was still dark, to the tomb\" - the tomb (19:41) has no id of its own and is not placed by name"
+  },
+  {
+   "verses": [
+    19,
+    31
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "20:19 \"the doors were locked where the disciples were assembled\" - the city is not named; the Passover gathering in Jerusalem"
+  }
+ ]
+}

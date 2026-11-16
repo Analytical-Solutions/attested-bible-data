@@ -1,0 +1,52 @@
+{
+ "source:newadvent-irenaeus-3-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/0103301.htm"
+ },
+ "source:wikipedia-brazier": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Brazier"
+ },
+ "source:wikipedia-cubit": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cubit"
+ },
+ "source:wikipedia-gospel-of-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Gospel_of_John"
+ },
+ "source:wikipedia-miraculous-catch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Miraculous_catch_of_fish"
+ },
+ "source:wikipedia-papias": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papias_of_Hierapolis"
+ },
+ "source:wikipedia-papyrus-66-extent": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_66"
+ },
+ "source:wikipedia-saint-peter": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Saint_Peter"
+ },
+ "source:wikipedia-saint-peter-caius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Saint_Peter"
+ },
+ "source:wikipedia-saint-peter-clement": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Saint_Peter"
+ }
+}

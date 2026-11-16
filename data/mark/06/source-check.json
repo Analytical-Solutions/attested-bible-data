@@ -1,0 +1,47 @@
+{
+ "source:bible-api-esther-5-3": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/esther+5:3?translation=web"
+ },
+ "source:bible-api-james-5-14": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/james+5:14?translation=web"
+ },
+ "source:gutenberg-ant18-banishment": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.gutenberg.org/cache/epub/2848/pg2848.txt"
+ },
+ "source:gutenberg-ant18-kingship": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.gutenberg.org/cache/epub/2848/pg2848.txt"
+ },
+ "source:wikipedia-climate-israel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Climate_of_Israel"
+ },
+ "source:wikipedia-mark-6-herod": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mark_6"
+ },
+ "source:wikipedia-omitted-mark-6-11": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_omitted_Bible_verses"
+ },
+ "source:wikipedia-papyrus-45-mark": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-speculatores": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Speculatores"
+ }
+}

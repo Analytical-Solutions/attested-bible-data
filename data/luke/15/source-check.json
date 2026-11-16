@@ -1,0 +1,27 @@
+{
+ "source:bible-api-genesis-41-42": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/genesis+41:42?translation=web"
+ },
+ "source:wikipedia-ancient-drachma": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ancient_drachma"
+ },
+ "source:wikipedia-carob": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Carob"
+ },
+ "source:wikipedia-lost-coin": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Parable_of_the_Lost_Coin"
+ },
+ "source:wikipedia-prodigal-son": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Parable_of_the_Prodigal_Son"
+ }
+}

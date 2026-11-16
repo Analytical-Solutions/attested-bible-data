@@ -1,0 +1,60 @@
+{
+ "book": "acts",
+ "chapter": 28,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    10
+   ],
+   "setting": "place:malta",
+   "confidence": "stated",
+   "basis": "28:1 \"When we had escaped, then they learned that the island was called Malta\"; 28:2 \"The natives showed us uncommon kindness\"; 28:7 \"in the neighborhood of that place were lands belonging to the chief man of the island, named Publius\""
+  },
+  {
+   "verses": [
+    11,
+    12
+   ],
+   "setting": "place:syracuse",
+   "confidence": "stated",
+   "basis": "28:12 \"Touching at Syracuse, we stayed there three days\" - 28:11 setting sail from Malta is the departure leg"
+  },
+  {
+   "verses": [
+    13,
+    14
+   ],
+   "setting": "place:puteoli",
+   "confidence": "stated",
+   "basis": "28:13 \"on the second day we came to Puteoli\"; 28:14 \"where we found brothers, and were entreated to stay with them for seven days\" - Rhegium (28:13) is a one-day touch; \"So we came to Rome\" is the onward leg"
+  },
+  {
+   "verses": [
+    15,
+    16
+   ],
+   "setting": "place:rome",
+   "confidence": "stated",
+   "basis": "28:16 \"When we entered into Rome, the centurion delivered the prisoners to the captain of the guard\" - 28:15's meeting at the Market of Appius and the Three Taverns is the approach leg"
+  },
+  {
+   "verses": [
+    17,
+    28
+   ],
+   "setting": "place:rome",
+   "confidence": "stated",
+   "basis": "28:17 \"After three days Paul called together those who were the leaders of the Jews\"; 28:23 \"When they had appointed him a day, many people came to him at his lodging\""
+  },
+  {
+   "verses": [
+    29,
+    31
+   ],
+   "setting": "place:rome",
+   "confidence": "inferred",
+   "basis": "28:30 \"Paul stayed two whole years in his own rented house, and received all who were coming to him\" - the continuing ministry follows the Roman lodging of 28:23; the chapter names no city"
+  }
+ ]
+}

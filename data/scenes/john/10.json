@@ -1,0 +1,33 @@
+{
+ "book": "john",
+ "chapter": 10,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    21
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "10:1 \"one who doesn't enter by the door into the sheep fold\" - the Good Shepherd discourse names no place; it follows the Jerusalem controversy of 9:8-41"
+  },
+  {
+   "verses": [
+    22,
+    39
+   ],
+   "setting": "place:solomons-porch",
+   "confidence": "stated",
+   "basis": "10:23 \"Jesus was walking in the temple, in Solomon's porch\" - at the Feast of the Dedication (10:22)"
+  },
+  {
+   "verses": [
+    40,
+    42
+   ],
+   "setting": "site:bethany-beyond-jordan",
+   "confidence": "stated",
+   "basis": "10:40 \"He went away again beyond the Jordan into the place where John was baptizing at first\" - Bethany beyond the Jordan (1:28)"
+  }
+ ]
+}

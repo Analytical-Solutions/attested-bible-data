@@ -1,0 +1,72 @@
+{
+ "source:wikipedia-cana": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cana"
+ },
+ "source:wikipedia-healing-royal-officials-son": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Healing_the_royal_official%27s_son"
+ },
+ "source:wikipedia-healing-royal-officials-son-parallel": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Healing_the_royal_official%27s_son"
+ },
+ "source:wikipedia-jacobs-well": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jacob%27s_Well"
+ },
+ "source:wikipedia-jacobs-well-tradition": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jacob%27s_Well"
+ },
+ "source:wikipedia-josephs-tomb-madaba": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Joseph%27s_Tomb"
+ },
+ "source:wikipedia-mount-gerizim-belief": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Samaritans"
+ },
+ "source:wikipedia-papyrus-45-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-samaritans-taheb": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Samaritans"
+ },
+ "source:wikipedia-shechem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Shechem"
+ },
+ "source:wikipedia-sychar": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Shechem"
+ },
+ "source:wikipedia-variants-john-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_John"
+ },
+ "source:wikisource-ant-13-gerizim": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIII"
+ },
+ "source:wikisource-ant-13-gerizim-destroyed": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XIII"
+ }
+}

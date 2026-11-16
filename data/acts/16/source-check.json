@@ -1,0 +1,152 @@
+{
+ "source:frwikipedia-philippes-gangites": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://fr.wikipedia.org/wiki/Philippes"
+ },
+ "source:frwikipedia-philippes-proseuche": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://fr.wikipedia.org/wiki/Philippes"
+ },
+ "source:sefaria-kiddushin-3-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Kiddushin.3.12"
+ },
+ "source:wikipedia-asia-province": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Asia_(Roman_province)"
+ },
+ "source:wikipedia-bithynia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Bithynia"
+ },
+ "source:wikipedia-delos-proseuche": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Delos"
+ },
+ "source:wikipedia-derbe": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Derbe"
+ },
+ "source:wikipedia-galatia-province": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Galatia_(Roman_province)"
+ },
+ "source:wikipedia-iconium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Iconium"
+ },
+ "source:wikipedia-lictors": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lictor"
+ },
+ "source:wikipedia-lydia-of-thyatira": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lydia_of_Thyatira"
+ },
+ "source:wikipedia-lystra": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Lystra"
+ },
+ "source:wikipedia-macedonia-coloniae": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Macedonia_(Roman_province)"
+ },
+ "source:wikipedia-mysia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Mysia"
+ },
+ "source:wikipedia-neapolis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Neapolis_(Macedonia)"
+ },
+ "source:wikipedia-papyrus-45-acts-list": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-philippi-colony": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Philippi"
+ },
+ "source:wikipedia-philippi-duumviri": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Philippi"
+ },
+ "source:wikipedia-philippi-merides": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Philippi"
+ },
+ "source:wikipedia-phrygia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Phrygia"
+ },
+ "source:wikipedia-pythia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pythia"
+ },
+ "source:wikipedia-saint-timothy": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Saint_Timothy"
+ },
+ "source:wikipedia-samothrace": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Samothrace"
+ },
+ "source:wikipedia-thyatira": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Thyatira"
+ },
+ "source:wikipedia-troas": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Alexandria_Troas"
+ },
+ "source:wikipedia-valerian-porcian-laws": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Valerian_and_Porcian_laws"
+ },
+ "source:wikipedia-ventriloquism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Ventriloquism"
+ },
+ "source:wikipedia-via-egnatica": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Via_Egnatia"
+ },
+ "source:wikisource-cicero-verres-5": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Against_Verres/Second_pleading/Book_5"
+ },
+ "source:wikisource-verres-porcian": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Against_Verres/Second_pleading/Book_5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "source:bible-api-2-kings-18-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/2+kings+18:4?translation=web"
+ },
+ "source:bible-api-num-21-9": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/numbers+21:9?translation=web"
+ },
+ "source:sefaria-mikvaot-1-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Mikvaot.1.1"
+ },
+ "source:sefaria-taanit-19b": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Taanit.19b"
+ },
+ "source:tertullian-onomasticon-aenon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.tertullian.org/fathers/eusebius_onomasticon_02_trans.htm"
+ },
+ "source:wikipedia-aenon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Aenon"
+ },
+ "source:wikipedia-aenon-eusebius": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Aenon"
+ },
+ "source:wikipedia-nicodemus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nicodemus"
+ },
+ "source:wikipedia-papyrus-66": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_66"
+ },
+ "source:wikipedia-papyrus-75": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+ }
+}

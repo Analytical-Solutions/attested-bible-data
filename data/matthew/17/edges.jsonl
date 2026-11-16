@@ -1,0 +1,122 @@
+{"from": "passage:mt-17-01", "type": "asserts", "to": "claim:mt-17-01-high-mountain"}
+{"from": "passage:mt-17-03", "type": "asserts", "to": "claim:mt-17-03-moses-elijah-appear"}
+{"from": "passage:mt-17-04", "type": "asserts", "to": "claim:mt-17-04-three-tents"}
+{"from": "passage:mt-17-10", "type": "asserts", "to": "claim:mt-17-10-13-elijah-first"}
+{"from": "passage:mt-17-13", "type": "asserts", "to": "claim:mt-17-10-13-elijah-first"}
+{"from": "passage:mt-17-15", "type": "asserts", "to": "claim:mt-17-15-moonstruck-boy"}
+{"from": "passage:mt-17-20", "type": "asserts", "to": "claim:mt-17-20-mustard-seed-faith"}
+{"from": "passage:mt-17-22", "type": "asserts", "to": "claim:mt-17-22-passion-prediction"}
+{"from": "passage:mt-17-23", "type": "asserts", "to": "claim:mt-17-22-passion-prediction"}
+{"from": "passage:mt-17-24", "type": "asserts", "to": "claim:mt-17-24-temple-tax"}
+{"from": "passage:mt-17-25", "type": "asserts", "to": "claim:mt-17-25-kings-toll-tribute"}
+{"from": "passage:mt-17-27", "type": "asserts", "to": "claim:mt-17-27-stater-fish"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-17-27"}
+{"from": "claim:mt-17-01-high-mountain", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-17-01-high-mountain", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-17-01-high-mountain", "type": "mentions", "to": "person:james-son-of-zebedee"}
+{"from": "claim:mt-17-01-high-mountain", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:mt-17-03-moses-elijah-appear", "type": "mentions", "to": "person:moses"}
+{"from": "claim:mt-17-03-moses-elijah-appear", "type": "mentions", "to": "person:elijah"}
+{"from": "claim:mt-17-10-13-elijah-first", "type": "mentions", "to": "person:elijah"}
+{"from": "claim:mt-17-10-13-elijah-first", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-17-22-passion-prediction", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-17-22-passion-prediction", "type": "mentions", "to": "place:galilee"}
+{"from": "claim:mt-17-24-temple-tax", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-17-24-temple-tax", "type": "mentions", "to": "place:capernaum"}
+{"from": "claim:mt-17-24-temple-tax", "type": "mentions", "to": "place:temple-mount"}
+{"from": "claim:mt-17-25-kings-toll-tribute", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-17-27-stater-fish", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:mt-17-27-stater-fish", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "site:mount-tabor", "type": "attests", "to": "claim:mt-17-01-high-mountain", "grade": "D", "note": "Mount Tabor 'is traditionally identified as the Mount of Transfiguration'; 'since the 3rd century, some Christians have identified Mount Tabor as the site of the transfiguration, including Origen'. A tradition of identification, not one that can be secured - and the article itself records the fortress objection."}
+{"from": "text:josephus-war-4-tabor", "type": "complicates", "to": "claim:mt-17-01-high-mountain", "note": "Josephus: in the war of 66-67 CE the band 'that had seized upon Mount Tabor' held a summit whose 'top is a plain of twenty-six furlongs, and all encompassed with a wall'; Placidus took it by cutting off their water. A walled, inhabited top complicates the secluded-mountain setting (the Tabor tradition answers that this does not rule out the summit)."}
+{"from": "text:mishnah-sukkah-1-1", "type": "attests", "to": "claim:mt-17-04-three-tents", "grade": "C", "note": "Mishnah Sukkah rules the sukka's roofing and walls unfit over twenty cubits or under ten handbreadths - the booth (sukka) that Jews dwell in at Tabernacles; the custom behind Peter's 'three tents' (redacted c. 200 CE, describing Second Temple practice)."}
+{"from": "text:mishnah-eduyot-8-7", "type": "attests", "to": "claim:mt-17-10-13-elijah-first", "grade": "C", "note": "Rabbinic tradition expects Elijah's return before the day of the Lord ('Behold I send to you Elijah the prophet...') - the scribes' teaching that 'Elijah must come first' (reused from ch 11). Redacted c. 200 CE, so it may not describe the practice of the 30s CE exactly."}
+{"from": "text:malachi-4-5", "type": "related_to", "to": "claim:mt-17-10-13-elijah-first", "note": "Cross-reference: Malachi 4:5 (WEB) 'Behold, I will send you Elijah the prophet before the great and terrible day of Yahweh comes' - the scriptural basis of the expectation. A biblical text is not independent evidence."}
+{"from": "text:hippocrates-sacred-disease", "type": "attests", "to": "claim:mt-17-15-moonstruck-boy", "grade": "C", "note": "Hippocratic On the Sacred Disease (c. 400 BCE) opens: epilepsy 'appears to me to be nowise more divine nor more sacred than other diseases' - written against the standing view that the 'sacred disease' is divine; the ancient category behind the boy's condition."}
+{"from": "observation:mustard-botany", "type": "attests", "to": "claim:mt-17-20-mustard-seed-faith", "grade": "C", "note": "Black mustard is an annual herb grown for its tiny seeds - the proverbial smallness of the 'grain of mustard seed' (reused from ch 13; the mountain-moving is hyperbole, not evidence)."}
+{"from": "text:mishnah-shekalim-1-3", "type": "attests", "to": "claim:mt-17-24-temple-tax", "grade": "B", "note": "Mishnah Shekalim 1:3: 'On the first of Adar the court proclaims concerning the collection of shekels, i.e., the yearly half-shekel contribution to the Temple treasury made by each adult male' - the specific tax institution confirmed (redacted c. 200 CE, describing Second Temple practice)."}
+{"from": "text:josephus-ant-18-312", "type": "attests", "to": "claim:mt-17-24-temple-tax", "grade": "B", "note": "Josephus: diaspora Jews deposited 'that half shekel which every one, by the custom of our country, offers unto God' in treasury cities, whence 'they were transmitted to Jerusalem' - a first-century text naming the tax itself, en route in the 30s CE (Ant. 18.312 by the brief's numbering; the Wikisource page does not print section numbers)."}
+{"from": "artifact:tyrian-shekel", "type": "attests", "to": "claim:mt-17-24-temple-tax", "grade": "B", "note": "Tyrian shekels' 'exceptional purity helps explain why the Jerusalem Temple priests specifically required Tyrian shekels for Temple tax payments' (reused from ch 06) - the required payment coin of the very tax the claim is about."}
+{"from": "site:capernaum", "type": "attests", "to": "claim:mt-17-24-temple-tax", "grade": "B", "note": "Capernaum is excavated and was established in the 2nd century BC as a Hasmonean fishing village - the real lakeside town where the didrachma collectors meet Peter."}
+{"from": "site:second-temple", "type": "attests", "to": "claim:mt-17-24-temple-tax", "grade": "C", "note": "The Second Temple served as the chief place of worship and drew pilgrims for the Three Pilgrimage Festivals - the institution whose upkeep the annual half-shekel tax paid for."}
+{"from": "text:josephus-war-7-218", "type": "attests", "to": "claim:mt-17-25-kings-toll-tribute", "grade": "C", "note": "Josephus: Vespasian 'laid a tribute upon the Jews wheresoever they were, and enjoined every one of them to bring two drachmae every year into the Capitol' - a king taxing a subject people, the practice Jesus' saying describes (post-70 CE, the tax later called the Fiscus Judaicus)."}
+{"from": "artifact:tyrian-shekel", "type": "attests", "to": "claim:mt-17-27-stater-fish", "grade": "C", "note": "The stater 'was reckoned as equal to four drachmæ, and would therefore pay the didrachma both for Peter and his Master' - the Tyrian tetradrachm ('shekel') is the coin of this value in which the tax was paid; one coin covers two half-shekel dues."}
+{"from": "observation:galilee-fish-species", "type": "attests", "to": "claim:mt-17-27-stater-fish", "grade": "C", "note": "The lake's catch includes musht (tilapia) among four native fish types - the fish Peter could hook; which species carried the coin the text does not say (reused from ch 13/14)."}
+{"from": "site:mount-tabor", "type": "documented_by", "to": "source:wikipedia-transfiguration"}
+{"from": "claim:mt-17-01-high-mountain", "type": "documented_by", "to": "source:wikipedia-transfiguration"}
+{"from": "text:josephus-war-4-tabor", "type": "documented_by", "to": "source:wikisource-war4-tabor"}
+{"from": "text:mishnah-sukkah-1-1", "type": "documented_by", "to": "source:sefaria-sukkah-1-1"}
+{"from": "text:mishnah-eduyot-8-7", "type": "documented_by", "to": "source:sefaria-eduyot-8-7"}
+{"from": "text:malachi-4-5", "type": "documented_by", "to": "source:bible-api-malachi-4-5"}
+{"from": "text:hippocrates-sacred-disease", "type": "documented_by", "to": "source:wikisource-sacred-disease"}
+{"from": "text:hippocrates-sacred-disease", "type": "documented_by", "to": "source:wikipedia-on-the-sacred-disease"}
+{"from": "claim:mt-17-15-moonstruck-boy", "type": "documented_by", "to": "source:wikipedia-epilepsy-moon"}
+{"from": "observation:mustard-botany", "type": "documented_by", "to": "source:wikipedia-brassica-nigra"}
+{"from": "text:mishnah-shekalim-1-3", "type": "documented_by", "to": "source:sefaria-shekalim-1-3"}
+{"from": "text:exodus-30-13", "type": "documented_by", "to": "source:bible-api-exodus-30-13"}
+{"from": "text:josephus-ant-18-312", "type": "documented_by", "to": "source:wikisource-ant18-shekel"}
+{"from": "artifact:tyrian-shekel", "type": "documented_by", "to": "source:wikipedia-tyrian-shekel"}
+{"from": "artifact:tyrian-shekel", "type": "documented_by", "to": "source:wikipedia-temple-tax"}
+{"from": "claim:mt-17-24-temple-tax", "type": "documented_by", "to": "source:wikipedia-temple-tax"}
+{"from": "site:capernaum", "type": "documented_by", "to": "source:wikipedia-capernaum"}
+{"from": "site:second-temple", "type": "documented_by", "to": "source:wikipedia-second-temple"}
+{"from": "claim:mt-17-25-kings-toll-tribute", "type": "documented_by", "to": "source:wikipedia-fiscus-judaicus"}
+{"from": "claim:mt-17-25-kings-toll-tribute", "type": "documented_by", "to": "source:wikipedia-tax-collector"}
+{"from": "text:josephus-war-7-218", "type": "documented_by", "to": "source:wikisource-war7-fiscus"}
+{"from": "claim:mt-17-27-stater-fish", "type": "documented_by", "to": "source:wikipedia-tilapia"}
+{"from": "observation:galilee-fish-species", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-fish"}
+{"from": "text:josephus-antiquities-20", "type": "documented_by", "to": "source:josephus-jesus-wiki"}
+{"from": "text:josephus-war-3-gennesaret", "type": "documented_by", "to": "source:wikisource-war3-gennesaret"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "text:exodus-30-13", "type": "related_to", "to": "claim:mt-17-24-temple-tax", "note": "Cross-reference: Exodus 30:13 (WEB) 'half a shekel after the shekel of the sanctuary (the shekel is twenty gerahs); half a shekel for an offering to Yahweh' - the biblical origin of the tax. A biblical text is not independent evidence."}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-17-27"}

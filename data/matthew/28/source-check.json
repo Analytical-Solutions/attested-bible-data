@@ -1,0 +1,92 @@
+{
+ "source:cathen-didache": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/cathen/04779a.htm"
+ },
+ "source:justin-dialogue-108": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/01287.htm"
+ },
+ "source:justin-first-apology-61": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.newadvent.org/fathers/0126.htm"
+ },
+ "source:wikipedia-codex-sinaiticus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Sinaiticus"
+ },
+ "source:wikipedia-codex-vaticanus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Codex_Vaticanus"
+ },
+ "source:wikipedia-magdala-fishing": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-magdala-mary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-magdala-tarichaea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Magdala"
+ },
+ "source:wikipedia-nazareth-decree": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Nazareth_Inscription"
+ },
+ "source:wikipedia-papyrus-105": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_105"
+ },
+ "source:wikipedia-rock-cut-tombs": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Rock-cut_tombs_in_ancient_Israel"
+ },
+ "source:wikipedia-toledot-yeshu": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Toledot_Yeshu"
+ },
+ "source:wikipedia-tombs-of-the-kings": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tombs_of_the_Kings_(Jerusalem)"
+ },
+ "source:wikipedia-tombs-rolling-stone": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Tombs_of_the_Kings_(Jerusalem)"
+ },
+ "source:wikisource-ant18-standards": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVIII"
+ },
+ "source:wikisource-polybius-6-fustuarium": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Histories_(Paton_translation)/Book_VI"
+ },
+ "source:wikisource-tacitus-annals-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+ },
+ "source:wikisource-war1-pompey-sabbath": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_War_of_the_Jews/Book_I"
+ }
+}

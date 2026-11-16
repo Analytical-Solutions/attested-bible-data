@@ -1,0 +1,33 @@
+{
+ "book": "john",
+ "chapter": 2,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    11
+   ],
+   "setting": "place:cana",
+   "confidence": "stated",
+   "basis": "2:1 \"The third day, there was a marriage in Cana of Galilee\""
+  },
+  {
+   "verses": [
+    12,
+    12
+   ],
+   "setting": "place:capernaum",
+   "confidence": "stated",
+   "basis": "2:12 \"he went down to Capernaum\""
+  },
+  {
+   "verses": [
+    13,
+    25
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "2:14 \"He found in the temple those who sold oxen\" - at the Passover in Jerusalem (2:13)"
+  }
+ ]
+}

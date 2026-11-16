@@ -1,0 +1,27 @@
+{
+ "source:bible-api-lev-20-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+20:10?translation=web"
+ },
+ "source:bible-api-lev-24-16": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+24:16?translation=web"
+ },
+ "source:sefaria-sukkah-5-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Sukkah.5.2"
+ },
+ "source:wikipedia-pericope-adulterae": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Jesus_and_the_woman_taken_in_adultery"
+ },
+ "source:wikipedia-textual-variants-john": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_John"
+ }
+}

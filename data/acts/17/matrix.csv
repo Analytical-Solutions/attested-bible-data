@@ -1,0 +1,485 @@
+anchor,label,category,status,findings,note
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,inscription,n/a,,No inscription could record a two-stage transit.
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,coin,n/a,,No coin claim.
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,structure-or-site,found,site:via-egnatia,"B: the Via Egnatia ran to Thessalonica with Amphipolis a station, and Apollonia (Mygdonia) stood on the route between Amphipolis and Thessalonica - the documented road of the itinerary."
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,documentary-papyrus,none-found,,No travel document or itinerary papyrus of this journey exists; searched Wikipedia on Acts 17.
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,jewish-literary,n/a,,No Jewish text bears on the itinerary.
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,greco-roman-literary,none-found,,"Strabo/Itineraries describe the Macedonian road, but no classical passage was fetched this run; the road evidence is carried by the Via Egnatia site node."
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,material-culture,n/a,,No object claimed.
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,geography-or-nature,found,site:via-egnatia,"B: same node as structure-or-site - the road's course and station list confirm the sequence Amphipolis, Apollonia, Thessalonica."
+claim:ac-17-01-route-thessalonica,Paul and his company passed through Amphipolis and Apollonia to Thessalonica,astronomy-or-calendar,n/a,,No date in the claim.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,inscription,none-found,,"No Thessalonican synagogue inscription fetchable; the diaspora synagogue/God-fearer evidence (Miletus, Aphrodisias) is linked to the class claim ac-13-16-god-fearers these verses also assert."
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,coin,n/a,,No coin claim.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,structure-or-site,none-found,,No first-century Thessalonican synagogue excavated or fetchable this run.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,documentary-papyrus,none-found,,No papyrus names a Thessalonican synagogue; searched Wikipedia on the Jewish community of Thessaloniki (its documented history starts later).
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,jewish-literary,none-found,,Josephus/Philo do not mention a Thessalonican synagogue; searched the fetched pages.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,greco-roman-literary,none-found,,No classical author mentions the Thessalonican synagogue.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,material-culture,n/a,,No object claimed.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-01-synagogue-thessalonica,Thessalonica had a Jewish synagogue,astronomy-or-calendar,n/a,,No dating claim.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",inscription,n/a,,No inscription could record synagogue preaching.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",coin,n/a,,No coin claim.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",structure-or-site,none-found,,The synagogue is covered under ac-17-01-synagogue-thessalonica; no separate structure evidence.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",documentary-papyrus,none-found,,"Sabbath-rest is visible in documentary papyri generally (e.g. the graph's Babatha archive era), but no papyrus bears on synagogue preaching at Thessalonica."
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",jewish-literary,none-found,,Sabbath synagogue custom is abundantly known (the class evidence sits on claim:ac-13-14-antioch-pisidia-sabbath); no additional text fetched this run.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",greco-roman-literary,none-found,,No classical author records Paul's preaching.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",material-culture,n/a,,No object claimed.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-02-sabbath-custom,"Paul reasoned in the synagogue on three Sabbath days, as was his custom",astronomy-or-calendar,none-found,,The three-Sabbath timespan is internal to Acts; no external check exists; searched for Thessalonican chronology.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,inscription,n/a,,No inscription could record a synagogue argument.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,coin,n/a,,No coin claim.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,structure-or-site,n/a,,The venue is the synagogue claim.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,documentary-papyrus,n/a,,No document could record a sermon.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,jewish-literary,none-found,,"The claim is about the teaching event, not its content's truth; Josephus records nothing of it."
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,greco-roman-literary,none-found,,No classical author records the teaching.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,material-culture,n/a,,No object claimed.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-03-christ-taught,Paul taught that the Christ had to suffer and rise from the dead,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,inscription,found,artifact:aphrodisias-godfearers-stele,"C (via the class claim): the Aphrodisias stele (reused graph node, already linked to claim:ac-13-16-god-fearers) names theosebeis - Gentile sympathizers of the kind 'the devout Greeks' describes; 3rd-century Caria, not 1st-century Thessalonica."
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,coin,n/a,,No coin claim.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,structure-or-site,n/a,,The venue is the synagogue claim.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,documentary-papyrus,none-found,,No papyrus records the Thessalonican converts; searched Wikipedia.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,jewish-literary,none-found,,Josephus records nothing of the Thessalonican conversions.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,greco-roman-literary,none-found,,No classical author records the conversions.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,material-culture,n/a,,No object claimed.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-04-joiners,Devout Greeks and prominent women joined Paul and Silas in Thessalonica,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,inscription,n/a,,No inscription could record a riot.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,coin,n/a,,No coin claim.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,structure-or-site,none-found,,Jason's house is unidentified; no excavation bears on the assault.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,documentary-papyrus,none-found,,No papyrus records the riot; searched Wikipedia.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,jewish-literary,none-found,,Josephus records nothing of the Thessalonican riot.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,greco-roman-literary,none-found,,No classical author records the riot.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,material-culture,n/a,,"The 'wicked men of the marketplace' (agoraioi) name a known class of hired rowdies, but no fetched page secured it as evidence."
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-05-jason-house-assaulted,A mob from the marketplace assaulted Jason's house in Thessalonica,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,inscription,found,artifact:vardar-gate-inscription,A (for the office named in the event): the inscription attests the politarchs of Thessalonica before whom the dragging took place; the event itself is unattested externally.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,coin,n/a,,No coin claim.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,structure-or-site,none-found,,The place of hearing is unnamed in Acts; no structure evidence.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,documentary-papyrus,none-found,,No court record exists; searched Wikipedia.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,jewish-literary,none-found,,Josephus records nothing.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,greco-roman-literary,none-found,,No classical author records the event.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,material-culture,n/a,,No object claimed.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-06-jason-dragged,Jason and certain brothers were dragged before the city magistrates,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),inscription,found,artifact:vardar-gate-inscription,"A: the Vardar Gate inscription (2nd century AD, British Museum) uses the title politarches at Thessalonica - the office title of 17:6, 8 is attested in stone for exactly this city; the article adds that in Augustus's years Thessalonica had five politarchs."
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),coin,n/a,,No coin claim.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),structure-or-site,n/a,,The evidence is epigraphic; the Vardar Gate itself was destroyed in 1876.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),documentary-papyrus,none-found,,No papyrus uses the title politarches for Thessalonica; searched the fetched article and its references.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),jewish-literary,n/a,,No Jewish text uses the title.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),greco-roman-literary,none-found,,"The famous negative: no classical author uses the word politarches (the reason the Vardar Gate find was a vindication); searched the fetched article, which cites no classical use."
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),material-culture,n/a,,No object claimed.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-06-politarchs,Thessalonica's city magistrates were called 'rulers of the city' (politarchai),astronomy-or-calendar,none-found,,"The earliest politarch evidence is dated to Perseus's reign (179-168 BCE) per the fetched article; the dating of the office's origin rests on that inscription reference, not an independent fetched page."
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",inscription,found,artifact:paphlagonian-oath-stele,"C: OGIS 532 (3 BCE) records provincials and Roman traders swearing an oath of loyalty to Caesar Augustus - imperial loyalty oaths are documented practice, though Paphlagonian and pre-Acts, not a Thessalonican decree."
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",coin,n/a,,No coin claim.
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",structure-or-site,n/a,,No structure bears on the accusation.
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",documentary-papyrus,none-found,,No papyrus of a Thessalonican charge; the oath category is covered by the inscription and Josephus nodes.
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",jewish-literary,found,text:josephus-ant-17-42-43,"C: Josephus reports that all the people of the Jews 'gave assurance of their good-will to Caesar, and to the king's government' by oath (the Pharisees alone refusing) - loyalty-oath to Caesar as a known obligation in the same decades; not about the accusers' charge itself."
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",greco-roman-literary,none-found,,"Suetonius/Tacitus discuss maiestas and decrees generally, but no fetched passage bears on this specific accusation."
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",material-culture,n/a,,No object claimed.
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-07-caesar-decrees,"Jason was accused of acting contrary to Caesar's decrees and of another king, Jesus",astronomy-or-calendar,n/a,,No date.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,inscription,n/a,,No inscription could record a bond.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,coin,n/a,,No coin claim.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,structure-or-site,n/a,,No structure bears on the bond.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,documentary-papyrus,none-found,,"Bail/pledge documents exist in the papyri generally, but no fetched papyrus parallels the politarchs' taking of security; searched Wikipedia on the verse and the graph's papyri."
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,greco-roman-literary,none-found,,No fetched classical passage on the practice of taking security (enychia) by civic magistrates.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,material-culture,n/a,,No object claimed.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-09-security-bond,The magistrates took security (bond) from Jason and the rest and let them go,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,inscription,none-found,,No Beroean synagogue inscription fetchable.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,coin,n/a,,No coin claim.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,structure-or-site,none-found,,The later Jewish quarter of Veria and its synagogue traditions are post-ancient; no first-century structure evidence fetched.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,documentary-papyrus,none-found,,No papyrus names a Beroean synagogue.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,jewish-literary,none-found,,Josephus/Philo do not mention it.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,greco-roman-literary,none-found,,No classical author mentions it.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,material-culture,n/a,,No object claimed.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-10-beroea-synagogue,Beroea had a Jewish synagogue,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,inscription,n/a,,No inscription could record a night flight.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,coin,n/a,,No coin claim.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,structure-or-site,none-found,,No structure bears on the journey.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,documentary-papyrus,n/a,,No document could record the flight.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,greco-roman-literary,none-found,,No classical author records the flight.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,material-culture,n/a,,No object claimed.
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,geography-or-nature,none-found,,"The Thessalonica-Beroea distance (per the fetched articles, a night's ride) is not stated on any fetched page as ancient evidence."
+claim:ac-17-10-night-beroea,The brothers sent Paul and Silas away by night to Beroea,astronomy-or-calendar,n/a,,"'By night' is narrative detail, no external check."
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,inscription,n/a,,No inscription could record daily study.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,coin,n/a,,No coin claim.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,structure-or-site,n/a,,The venue is the synagogue claim.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,manuscript,found,artifact:great-isaiah-scroll,"C (for the practice of examining the Scriptures): the Great Isaiah Scroll (reused graph node) shows full biblical scrolls were available for study before and during the period; it is Judean, not Macedonian, so context only."
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,documentary-papyrus,n/a,,No document could record the practice.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,jewish-literary,none-found,,No fetched text describes diaspora daily scriptural examination.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,greco-roman-literary,none-found,,No classical author records it.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,material-culture,n/a,,No object claimed.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-11-examined-scriptures,The Beroeans examined the Scriptures daily,astronomy-or-calendar,n/a,,'Daily' is narrative detail.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",inscription,none-found,,No inscription records Beroean believers; the God-fearer stele class evidence is already linked via ac-13-16-god-fearers.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",coin,n/a,,No coin claim.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",structure-or-site,n/a,,No structure bears on conversions.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",documentary-papyrus,none-found,,No papyrus records Beroean conversions.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",jewish-literary,none-found,,Josephus records nothing of Beroean believers.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",greco-roman-literary,none-found,,No classical author records them.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",material-culture,n/a,,No object claimed.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-12-many-believed,"Many in Beroea believed, including prominent Greek women and men",astronomy-or-calendar,n/a,,No date.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,inscription,n/a,,No inscription could record the pursuit.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,coin,n/a,,No coin claim.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,structure-or-site,n/a,,No structure bears on it.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,documentary-papyrus,n/a,,No document could record it.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,jewish-literary,none-found,,Josephus records nothing.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,greco-roman-literary,none-found,,No classical author records it.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,material-culture,n/a,,No object claimed.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,geography-or-nature,none-found,,The Beroea-Thessalonica route is not evidenced beyond the Via Egnatia nodes already entered.
+claim:ac-17-13-thessalonians-followed,Jews from Thessalonica came to Beroea and agitated the crowds,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,inscription,n/a,,No inscription could record the send-off.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,coin,n/a,,No coin claim.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,structure-or-site,none-found,,The coastal point ('as far as to the sea') is unnamed; no port identified or fetched.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,documentary-papyrus,n/a,,No document could record it.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,greco-roman-literary,none-found,,No classical author records it.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,material-culture,n/a,,No object claimed.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,geography-or-nature,none-found,,Whether Paul sailed from Nea Kallikrateia or sailed not at all is debated in the commentaries; no fetched page secured either identification.
+claim:ac-17-14-paul-to-sea,The brothers sent Paul toward the sea while Silas and Timothy stayed in Beroea,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,inscription,n/a,,No inscription could record the escort.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,coin,n/a,,No coin claim.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,structure-or-site,none-found,,Athens is covered by place:athens's site nodes.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,documentary-papyrus,n/a,,No document could record it.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,greco-roman-literary,none-found,,No classical author records the journey.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,material-culture,n/a,,No object claimed.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,geography-or-nature,none-found,,The Beroea-Athens land route is not evidenced on a fetched page.
+claim:ac-17-15-escorted-athens,Paul was escorted to Athens; Silas and Timothy were summoned,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,inscription,none-found,,"Countless Athenian inscriptions/reliefs name gods, but none was fetched as evidence for the general claim; the Pausanias text carries the cell."
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,coin,n/a,,No coin claim.
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,structure-or-site,none-found,,"The temples of Athens are documented archaeologically, but no temple page was fetched this run; the site nodes cover the Areopagus and agora only."
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,documentary-papyrus,n/a,,No document bears on the general claim.
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,jewish-literary,n/a,,No Jewish text describes Athens's idols.
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,greco-roman-literary,found,text:pausanias-1-1-4,"C: Pausanias, a century later, lists in Athens temple after temple, sanctuary after sanctuary, altars and images - the idol-dense city, though from c. 150 CE."
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,material-culture,n/a,,Idols as a class; no single object fetched.
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-16-idols,Athens was full of idols when Paul waited there,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,inscription,n/a,,No inscription could record daily discussion.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,coin,n/a,,No coin claim.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,structure-or-site,found,site:agora-of-athens,"B: the Agora of Athens is the documented 'marketplace' (agora) of the city, a public site where philosophical discussion was at home (Stoicism was founded there at the Stoa Poikile)."
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,documentary-papyrus,n/a,,No document bears on the claim.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,jewish-literary,n/a,,No Jewish text bears on the agora preaching.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,greco-roman-literary,none-found,,"Public disputation in the agora is attested for philosophers generally, but no fetched classical passage carries this cell beyond the site node."
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,material-culture,n/a,,No object claimed.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-17-daily-marketplace,Paul reasoned daily in the synagogue and the marketplace of Athens,astronomy-or-calendar,n/a,,'Every day' is narrative detail.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,inscription,none-found,,"Athenian xenophobia-toward-new-gods inscriptions (e.g. new-god introductions) exist as a class, but no fetched page secured one for this cell."
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,coin,n/a,,No coin claim.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,structure-or-site,n/a,,No structure bears on the accusation.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,documentary-papyrus,n/a,,No document bears on the accusation.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,greco-roman-literary,none-found,,"The Athenian trial for introducing new daimones (Socrates precedent, Xenophon/Plato) is the classic parallel; no passage was fetched this run."
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,material-culture,n/a,,No object claimed.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-18-foreign-deities,Paul was accused of advocating foreign deities because he preached Jesus and the resurrection,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,inscription,none-found,,No inscription of a first-century Athenian Epicurean or Stoic circle fetched; searched the fetched articles' references.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,coin,n/a,,No coin claim.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,structure-or-site,found,site:agora-of-athens,C: the Agora (Stoa Poikile) is where Stoicism was founded and taught publicly; the Garden was Epicurus's Athenian school - both schools as Athenian institutions.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,documentary-papyrus,n/a,,No papyrus bears on the claim.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,jewish-literary,n/a,,No Jewish text bears on the schools.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,greco-roman-literary,none-found,,"The schools' Roman-period activity is summarized in modern scholarship (a source, not evidence); no fetched classical passage on first-century Athenian Stoics/Epicureans was secured."
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,material-culture,n/a,,No object claimed.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-18-philosophers,Epicurean and Stoic philosophers conversed with Paul in Athens,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,inscription,none-found,,"Athenian decrees of the Areopagus exist epigraphically, but none was fetched this run; the site node carries the evidence."
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,coin,n/a,,No coin claim.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,structure-or-site,found,site:areopagus,B: the fetched article states the Areopagus Council 'continued to function as a body of former archons in Roman times' and after Sulla was 'one of the most prestigious and politically powerful institutions in Athens'.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,documentary-papyrus,n/a,,No papyrus bears on the council.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,jewish-literary,none-found,,Josephus mentions the Areopagus (e.g. in the Agrippa narrative) but no passage was fetched this run.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,greco-roman-literary,found,text:diogenes-laertius-1-110,C: Diogenes Laertius has Epimenides lead sheep 'to the Areopagus' - the Areopagus as a known Athenian institution in classical literature; Cicero's remark on its authority is quoted in the fetched article but not entered.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,material-culture,n/a,,No object claimed.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-19-areopagus-institution,The Areopagus was the Athenian council that could examine new teaching,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,inscription,n/a,,No inscription could record the summons.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,coin,n/a,,No coin claim.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,structure-or-site,found,site:areopagus,B: the Areopagus (hill and council) is a documented Athenian institution and place where such an examination could occur; the source confirms the council functioned in Roman times.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,documentary-papyrus,n/a,,No document bears on the summons.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,greco-roman-literary,none-found,,No classical author records the summons itself.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,material-culture,n/a,,No object claimed.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-19-brought-areopagus,Paul was taken hold of and brought to the Areopagus,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,inscription,n/a,,No inscription could record a conversational habit.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,coin,n/a,,No coin claim.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,structure-or-site,n/a,,No structure bears on it.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,documentary-papyrus,n/a,,No document bears on it.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,greco-roman-literary,none-found,,The classic parallels (the Athenians' love of novelties in Demosthenes/Old Comedy; Theophilus of Adremyttium per Tertullian) are known but no passage was fetched this run.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,material-culture,n/a,,No object claimed.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-21-new-things,Athenians and residents spent their time telling or hearing something new,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,inscription,n/a,,No inscription could record the speech.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,coin,n/a,,No coin claim.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,structure-or-site,found,site:areopagus,B (for the place named): the Areopagus hill is a documented site of Athens; the setting dispute is recorded as a complicates edge.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,documentary-papyrus,n/a,,No document bears on the speech.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,greco-roman-literary,none-found,,No classical author records the speech; the later plaque traditions are reception.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,material-culture,n/a,,"The bronze tablet of Paul's speech on the Areopagus is a modern monument, not evidence."
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-22-stood-areopagus,Paul stood in the middle of the Areopagus,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,inscription,found,artifact:pergamon-unknown-gods-altar,"D: the Pergamum altar restored as reading 'To unknown gods' is the only epigraphic parallel fetched; the stone is mutilated, the reading conjectural, and it is not Athenian."
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,coin,n/a,,No coin claim.
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,structure-or-site,n/a,,No altar site at Athens was identified or fetched.
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,documentary-papyrus,n/a,,No papyrus bears on the altar.
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,jewish-literary,n/a,,No Jewish text bears on Greek altars.
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,greco-roman-literary,found,text:pausanias-1-1-4;text:diogenes-laertius-1-110,"B: Pausanias 1.1.4 saw 'altars of the gods named Unknown' at Phalerum near Athens; Diogenes Laertius 1.110 reports Epimenides' nameless altars in Attica - the same custom in the same city, independently of Acts."
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,material-culture,found,artifact:pergamon-unknown-gods-altar,"D: same node as inscription - the only physical parallel fetched, disputed in reading and from Pergamum."
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-23-altar-unknown-god,An altar inscribed 'TO AN UNKNOWN GOD' existed in Athens,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,inscription,n/a,,No inscription could record the teaching.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,coin,n/a,,No coin claim.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,structure-or-site,n/a,,The teaching is not externally attested; the agora site only locates the speech (see ac-17-22).
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,documentary-papyrus,n/a,,No document bears on the teaching.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,jewish-literary,none-found,,"The temple critique has Old Testament roots (Solomon's prayer, quoted in 7:47-50) - a cross-reference, not evidence; no new text fetched."
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,greco-roman-literary,none-found,,Stoic temple critique parallels (Zeno/Cleanthes) are summarized in modern scholarship; no fetched passage.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,material-culture,n/a,,Temples as a class; no object fetched.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-24-temples-teaching,Paul taught that God does not dwell in temples made with hands,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,inscription,n/a,,No inscription could record the teaching.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,coin,n/a,,No coin claim.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,structure-or-site,n/a,,No structure bears on the teaching.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,manuscript,found,artifact:papyrus-74;artifact:codex-sinaiticus,"The manuscript evidence bears on the reading only: the variants list gives 'from one' (P74, Sinaiticus, A, B) against 'from one blood' (D, Byz) and 'from one mouth' (Psi) - recorded on passage:ac-17-26; preserves never attests."
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,documentary-papyrus,n/a,,No document bears on the teaching.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,jewish-literary,none-found,,"Common-descent of humankind has biblical parallels (Genesis; Malachi 2:10) - cross-references, not evidence; no text fetched."
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,greco-roman-literary,none-found,,Stoic cosmopolitan common-origin ideas are the classic parallel; no fetched passage.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,material-culture,n/a,,No object claimed.
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,geography-or-nature,n/a,,"The 'appointed seasons and boundaries' is teaching, not a geography claim."
+claim:ac-17-26-one-blood,Paul taught that God made every nation from one man and set their seasons and boundaries,astronomy-or-calendar,n/a,,No date.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",inscription,n/a,,No inscription could carry the line.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",coin,n/a,,No coin claim.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",structure-or-site,n/a,,No structure bears on the quotation.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",manuscript,n/a,,"No manuscript of Aratus was fetched; the poem's text is carried by the Wikipedia source quoting it (a source, not a text node of a manuscript)."
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",documentary-papyrus,n/a,,No papyrus of the Phaenomena was fetched.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",greco-roman-literary,found,text:aratus-phaenomena,A: Phaenomena line 5 reads 'For we are also his offspring' in a real 3rd-century BCE poem - the quotation is of a documented text; Aratus's Stoic education fits the audience.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",material-culture,n/a,,No object claimed.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-28-aratus-offspring,"Paul quoted 'For we are also his offspring' (Aratus, Phaenomena 5)",astronomy-or-calendar,n/a,,"The Phaenomena is an astronomical poem, but the claim is a quotation, not a dating claim."
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',inscription,n/a,,No inscription could carry the line.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',coin,n/a,,No coin claim.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',structure-or-site,n/a,,No structure bears on the quotation.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',documentary-papyrus,n/a,,No papyrus carries the line.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',jewish-literary,n/a,,No Jewish text carries the line.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',greco-roman-literary,found,text:epimenides-cretica,"D: the phrase's attribution to Epimenides rests on Rendel Harris's reconstruction from a Syriac commentary on Acts 17:28 - a disputed identification, named as such."
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',material-culture,n/a,,No object claimed.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-28-in-him-live,Paul quoted 'in him we live and move and have our being',astronomy-or-calendar,n/a,,No date.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",inscription,n/a,,No inscription bears on the teaching.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",coin,n/a,,No coin claim.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",structure-or-site,n/a,,No structure bears on the teaching.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",documentary-papyrus,n/a,,No document bears on it.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",jewish-literary,none-found,,"The anti-idol argument echoes Isaiah 40/44 - cross-reference, not evidence; no text fetched."
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",greco-roman-literary,none-found,,No fetched classical passage bears on it.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",material-culture,n/a,,Gold/silver/stone images as a class; no single object fetched.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-29-images,"Paul taught that the Divine Nature is not like gold, silver or stone images",astronomy-or-calendar,n/a,,No date.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,inscription,n/a,,No inscription bears on the teaching.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,coin,n/a,,No coin claim.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,structure-or-site,n/a,,No structure bears on it.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,documentary-papyrus,n/a,,No document bears on it.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,jewish-literary,none-found,,The teaching is theological; Josephus records nothing external.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,greco-roman-literary,none-found,,No classical author records the teaching.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,material-culture,n/a,,No object claimed.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-31-judgment-assurance,Paul taught a appointed day of judgment by the man God raised from the dead,astronomy-or-calendar,none-found,,"'A day' is eschatological, not a calendar claim."
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",inscription,n/a,,No inscription could record the reactions.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",coin,n/a,,No coin claim.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",structure-or-site,n/a,,No structure bears on it.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",burial-or-ossuary,n/a,,No burial claim.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",documentary-papyrus,n/a,,No document bears on it.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",jewish-literary,n/a,,No Jewish text bears on it.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",greco-roman-literary,none-found,,No classical author records the Areopagus reaction.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",material-culture,n/a,,No object claimed.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",geography-or-nature,n/a,,No geography in the claim.
+claim:ac-17-32-mixed-reaction,"The Areopagus hearers were divided: some mocked, some wanted to hear again",astronomy-or-calendar,n/a,,No date.
+person:damaris,Damaris,inscription,none-found,,No inscription names Damaris.
+person:damaris,Damaris,coin,n/a,,No coin could name these private individuals.
+person:damaris,Damaris,structure-or-site,n/a,,No site bears on Damaris as a person; Jason's house is unidentified.
+person:damaris,Damaris,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription of any of them is excavated or identified; the saint traditions for Jason and Dionysius are late reception."
+person:damaris,Damaris,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+person:damaris,Damaris,documentary-papyrus,none-found,,No papyrus names Damaris; searched Wikipedia on Acts 17 persons.
+person:damaris,Damaris,jewish-literary,none-found,,Josephus is silent on Damaris.
+person:damaris,Damaris,greco-roman-literary,none-found,,No classical author names Damaris; she is known only from Acts 17:34.
+person:damaris,Damaris,material-culture,n/a,,No object is claimed for Damaris.
+person:damaris,Damaris,geography-or-nature,n/a,,No geography claim tied to Damaris individually.
+person:damaris,Damaris,astronomy-or-calendar,n/a,,No dating claim tied to them.
+person:dionysius-areopagite,Dionysius the Areopagite,inscription,none-found,,"The politarch inscriptions name the office, not Jason or his companions; no inscription names Dionysius the Areopagite."
+person:dionysius-areopagite,Dionysius the Areopagite,coin,n/a,,No coin could name these private individuals.
+person:dionysius-areopagite,Dionysius the Areopagite,structure-or-site,n/a,,No site bears on Dionysius the Areopagite as a person; Jason's house is unidentified.
+person:dionysius-areopagite,Dionysius the Areopagite,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription of any of them is excavated or identified; the saint traditions for Jason and Dionysius are late reception."
+person:dionysius-areopagite,Dionysius the Areopagite,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+person:dionysius-areopagite,Dionysius the Areopagite,documentary-papyrus,none-found,,No papyrus names Dionysius the Areopagite; searched Wikipedia on Acts 17 persons.
+person:dionysius-areopagite,Dionysius the Areopagite,jewish-literary,none-found,,Josephus is silent on Dionysius the Areopagite.
+person:dionysius-areopagite,Dionysius the Areopagite,greco-roman-literary,none-found,,No classical source names Dionysius; he is known only from Acts 17:34; the later 'Pseudo-Dionysius' corpus is reception under his name.
+person:dionysius-areopagite,Dionysius the Areopagite,material-culture,n/a,,No object is claimed for him.
+person:dionysius-areopagite,Dionysius the Areopagite,geography-or-nature,n/a,,No geography claim tied to Dionysius the Areopagite individually.
+person:dionysius-areopagite,Dionysius the Areopagite,astronomy-or-calendar,n/a,,No dating claim tied to them.
+person:jason-of-thessalonica,Jason of Thessalonica,inscription,none-found,,"The politarch inscriptions name the office, not Jason or his companions; no inscription names Jason."
+person:jason-of-thessalonica,Jason of Thessalonica,coin,n/a,,No coin could name these private individuals.
+person:jason-of-thessalonica,Jason of Thessalonica,structure-or-site,n/a,,No site bears on Jason as a person; Jason's house is unidentified.
+person:jason-of-thessalonica,Jason of Thessalonica,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription of any of them is excavated or identified; the saint traditions for Jason and Dionysius are late reception."
+person:jason-of-thessalonica,Jason of Thessalonica,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+person:jason-of-thessalonica,Jason of Thessalonica,documentary-papyrus,none-found,,No papyrus names Jason; searched Wikipedia on Acts 17 persons.
+person:jason-of-thessalonica,Jason of Thessalonica,jewish-literary,none-found,,Josephus is silent on Jason.
+person:jason-of-thessalonica,Jason of Thessalonica,greco-roman-literary,none-found,,No classical author names Jason; the saint tradition (Acts 17:5-9; Romans 16:21 conflation) is reception.
+person:jason-of-thessalonica,Jason of Thessalonica,material-culture,n/a,,No object is claimed for him.
+person:jason-of-thessalonica,Jason of Thessalonica,geography-or-nature,n/a,,No geography claim tied to Jason individually.
+person:jason-of-thessalonica,Jason of Thessalonica,astronomy-or-calendar,n/a,,No dating claim tied to them.
+person:paul-of-tarsus,Paul (Saul of Tarsus),inscription,n/a,,"Paul carries no inscription in this chapter; his nodes and evidence are held in earlier chapters (Sergius Paulus boundary stone, 13; Gallio, 18)."
+person:paul-of-tarsus,Paul (Saul of Tarsus),coin,n/a,,No coin could name these private individuals.
+person:paul-of-tarsus,Paul (Saul of Tarsus),structure-or-site,none-found,,No excavated structure bears on Paul's route stops beyond the sites entered for the places; the Areopagus and agora are linked through their claims.
+person:paul-of-tarsus,Paul (Saul of Tarsus),burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription of any of them is excavated or identified; the saint traditions for Jason and Dionysius are late reception."
+person:paul-of-tarsus,Paul (Saul of Tarsus),manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+person:paul-of-tarsus,Paul (Saul of Tarsus),documentary-papyrus,none-found,,No papyrus record of the second-journey itinerary; searched Wikipedia on Acts 17 and the graph's papyrus nodes.
+person:paul-of-tarsus,Paul (Saul of Tarsus),jewish-literary,none-found,,Josephus never mentions Paul; searched Whiston Books 17-20 indexes via the fetched pages.
+person:paul-of-tarsus,Paul (Saul of Tarsus),greco-roman-literary,none-found,,No classical author mentions Paul's Athenian or Macedonian visit; Tacitus/Suetonius are silent.
+person:paul-of-tarsus,Paul (Saul of Tarsus),material-culture,n/a,,No object claimed for him in this chapter.
+person:paul-of-tarsus,Paul (Saul of Tarsus),geography-or-nature,none-found,,The Via Egnatia route (site:via-egnatia) bears on the route claim; no geography evidence beyond it names Paul himself.
+person:paul-of-tarsus,Paul (Saul of Tarsus),astronomy-or-calendar,n/a,,No dating claim tied to them.
+person:silas,Silas,inscription,none-found,,"The politarch inscriptions name the office, not Jason or his companions; no inscription names Silas."
+person:silas,Silas,coin,n/a,,No coin could name these private individuals.
+person:silas,Silas,structure-or-site,n/a,,No site bears on Silas as a person; Jason's house is unidentified.
+person:silas,Silas,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription of any of them is excavated or identified; the saint traditions for Jason and Dionysius are late reception."
+person:silas,Silas,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+person:silas,Silas,documentary-papyrus,none-found,,No papyrus names Silas; searched Wikipedia on Acts 17 persons.
+person:silas,Silas,jewish-literary,none-found,,Josephus is silent on Silas.
+person:silas,Silas,greco-roman-literary,none-found,,No classical author names Silas.
+person:silas,Silas,material-culture,n/a,,No object is claimed for Silas.
+person:silas,Silas,geography-or-nature,n/a,,No geography claim tied to Silas individually.
+person:silas,Silas,astronomy-or-calendar,n/a,,No dating claim tied to them.
+person:timothy,Timothy of Lystra,inscription,none-found,,"The politarch inscriptions name the office, not Jason or his companions; no inscription names Timothy."
+person:timothy,Timothy of Lystra,coin,n/a,,No coin could name these private individuals.
+person:timothy,Timothy of Lystra,structure-or-site,n/a,,No site bears on Timothy as a person; Jason's house is unidentified.
+person:timothy,Timothy of Lystra,burial-or-ossuary,none-found,,"No tomb, ossuary or burial inscription of any of them is excavated or identified; the saint traditions for Jason and Dionysius are late reception."
+person:timothy,Timothy of Lystra,manuscript,n/a,,"The codices (and P45 for 17:9-17, P74) preserve the text itself; preserves edges, never attests."
+person:timothy,Timothy of Lystra,documentary-papyrus,none-found,,No papyrus names Timothy; searched Wikipedia on Acts 17 persons.
+person:timothy,Timothy of Lystra,jewish-literary,none-found,,Josephus is silent on Timothy.
+person:timothy,Timothy of Lystra,greco-roman-literary,none-found,,No classical author names Timothy.
+person:timothy,Timothy of Lystra,material-culture,n/a,,No object is claimed for Timothy.
+person:timothy,Timothy of Lystra,geography-or-nature,n/a,,No geography claim tied to Timothy individually.
+person:timothy,Timothy of Lystra,astronomy-or-calendar,n/a,,No dating claim tied to them.
+place:amphipolis,Amphipolis,inscription,found,artifact:vardar-gate-inscription,"C (for the place): the fetched Politarch article reports the earliest politarch evidence is an inscription of King Perseus's reign at Amphipolis - the city is named in a real inscription tradition, though the artifact node kept here is the Thessalonica gate."
+place:amphipolis,Amphipolis,coin,n/a,,No coin claim.
+place:amphipolis,Amphipolis,structure-or-site,found,site:amphipolis,"A: Amphipolis is a documented, excavated ancient city ('Excavations in and around the city have revealed important buildings, ancient walls and tombs')."
+place:amphipolis,Amphipolis,burial-or-ossuary,none-found,,The Kasta mound and Lion of Amphipolis exist but their pages were not fetched this run; no burial evidence entered.
+place:amphipolis,Amphipolis,manuscript,n/a,,No manuscript bears on the place.
+place:amphipolis,Amphipolis,documentary-papyrus,n/a,,No document could bear on a one-line transit stop.
+place:amphipolis,Amphipolis,jewish-literary,none-found,,Josephus names Amphipolis only in lists; nothing fetched.
+place:amphipolis,Amphipolis,greco-roman-literary,none-found,,"Thucydides/Strabo narrate Amphipolis's history, but no classical passage was fetched this run."
+place:amphipolis,Amphipolis,material-culture,n/a,,No object claimed.
+place:amphipolis,Amphipolis,geography-or-nature,found,site:via-egnatia,B: Amphipolis is listed as a station of the Via Egnatia in the fetched article - the road geography of 17:1.
+place:amphipolis,Amphipolis,astronomy-or-calendar,n/a,,No dating claim.
+place:apollonia-mygdonia,Apollonia of Mygdonia,inscription,none-found,,No inscription of Apollonia (Mygdonia) was fetchable; searched the Wikipedia article and its references.
+place:apollonia-mygdonia,Apollonia of Mygdonia,coin,n/a,,No coin claim.
+place:apollonia-mygdonia,Apollonia of Mygdonia,structure-or-site,none-found,,"The remains are identified with Bountroumia near Nea Apollonia, but no excavation page was fetchable this run; no site node."
+place:apollonia-mygdonia,Apollonia of Mygdonia,burial-or-ossuary,n/a,,No burial claim.
+place:apollonia-mygdonia,Apollonia of Mygdonia,manuscript,n/a,,No manuscript bears on the place.
+place:apollonia-mygdonia,Apollonia of Mygdonia,documentary-papyrus,n/a,,No document could bear on a one-line transit stop.
+place:apollonia-mygdonia,Apollonia of Mygdonia,jewish-literary,none-found,,Josephus does not mention this Apollonia; searched the fetched article.
+place:apollonia-mygdonia,Apollonia of Mygdonia,greco-roman-literary,none-found,,"Pliny and Xenophon's Hellenica mention the town (per the fetched article), but no classical passage was fetched this run."
+place:apollonia-mygdonia,Apollonia of Mygdonia,material-culture,n/a,,No object claimed.
+place:apollonia-mygdonia,Apollonia of Mygdonia,geography-or-nature,found,site:via-egnatia,B: the fetched article places Apollonia 'on the route between Amphipolis and Thessalonica' - the exact transit geography of 17:1 (linked through the Via Egnatia route node).
+place:apollonia-mygdonia,Apollonia of Mygdonia,astronomy-or-calendar,n/a,,No dating claim.
+place:athens,Athens,inscription,found,artifact:pergamon-unknown-gods-altar,"D: the 'unknown gods' altar is Pergamene, not Athenian; the only inscriptional material fetched for the unknown-god custom. Athens itself is carried by the Pausanias text instead."
+place:athens,Athens,coin,n/a,,No coin claim.
+place:athens,Athens,structure-or-site,found,site:areopagus;site:agora-of-athens,A: the Areopagus hill and the Agora of Athens are documented urban sites of the city; the fetched article names the Areopagus 'northwest of the Acropolis in Athens'.
+place:athens,Athens,burial-or-ossuary,n/a,,No burial claim.
+place:athens,Athens,manuscript,n/a,,No manuscript bears on the place.
+place:athens,Athens,documentary-papyrus,n/a,,No document bears on the place.
+place:athens,Athens,jewish-literary,none-found,,"Josephus mentions Jews at Athens (Ant. 14.214-216, not fetched); no Jewish text entered this run."
+place:athens,Athens,greco-roman-literary,found,text:pausanias-1-1-4;text:diogenes-laertius-1-110,"Pausanias (1.1.4) and Diogenes Laertius (1.110) describe Athens and Attica, including the unknown-god altars; the city and its religious furniture are named by classical authors."
+place:athens,Athens,material-culture,n/a,,No object claimed for the place as such.
+place:athens,Athens,geography-or-nature,n/a,,The city's location is carried by its documented_by source; no distinct geography claim.
+place:athens,Athens,astronomy-or-calendar,n/a,,No dating claim.
+place:beroea,Beroea (Berea),inscription,none-found,,No Beroean inscription was fetchable this run; searched the Wikipedia Beroea/Veria articles.
+place:beroea,Beroea (Berea),coin,n/a,,No coin claim.
+place:beroea,Beroea (Berea),structure-or-site,none-found,,Beroea is an inhabited ancient city (Veria) but no excavation page was secured as a site node this run.
+place:beroea,Beroea (Berea),burial-or-ossuary,n/a,,No burial claim.
+place:beroea,Beroea (Berea),manuscript,n/a,,No manuscript bears on the place.
+place:beroea,Beroea (Berea),documentary-papyrus,n/a,,No document bears on the place.
+place:beroea,Beroea (Berea),jewish-literary,none-found,,Josephus does not narrate Beroea in this connection; nothing fetchable.
+place:beroea,Beroea (Berea),greco-roman-literary,none-found,,The fetched article calls it the seat of the Macedonian koinon but cites no fetched classical passage.
+place:beroea,Beroea (Berea),material-culture,n/a,,No object claimed.
+place:beroea,Beroea (Berea),geography-or-nature,none-found,,The article locates Beroea at the base of Mount Bermius in central Macedonia (modern-scholarship summary); no independent fetched geography evidence.
+place:beroea,Beroea (Berea),astronomy-or-calendar,n/a,,No dating claim.
+place:thessalonica,Thessalonica,inscription,found,artifact:vardar-gate-inscription,A: the Vardar Gate politarch inscription came from Thessalonica itself; the source names the city and the gate.
+place:thessalonica,Thessalonica,coin,none-found,,No coin entered; Thessalonica minted under Rome but no fetched page ties a coin type to this chapter's claims.
+place:thessalonica,Thessalonica,structure-or-site,none-found,,No excavated Thessalonican structure was secured as a site node this run (the Vardar Gate itself was destroyed in 1876); the city is carried by documented_by sources.
+place:thessalonica,Thessalonica,burial-or-ossuary,n/a,,No burial claim.
+place:thessalonica,Thessalonica,manuscript,n/a,,No manuscript bears on the place.
+place:thessalonica,Thessalonica,documentary-papyrus,none-found,,No papyrus names first-century Thessalonica in this chapter's connection; searched Wikipedia.
+place:thessalonica,Thessalonica,jewish-literary,none-found,,"Josephus mentions Thessalonica only in passing (Ant. 14.439, taxation list, not fetched); no Jewish text bears on the synagogue claim."
+place:thessalonica,Thessalonica,greco-roman-literary,none-found,,"Strabo names Therma/Thessalonica, but no classical passage was fetched this run; the founding narrative rests on the Wikipedia source."
+place:thessalonica,Thessalonica,material-culture,n/a,,No object claimed for the place.
+place:thessalonica,Thessalonica,geography-or-nature,found,site:via-egnatia,B: Thessalonica is the northern-Aegean terminus of the Via Egnatia in the fetched article; the road network's geography names the city.
+place:thessalonica,Thessalonica,astronomy-or-calendar,n/a,,No dating claim.

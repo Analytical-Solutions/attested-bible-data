@@ -1,0 +1,111 @@
+anchor,label,category,status,findings,note
+claim:lk-13-01-galileans-killed,,inscription,n/a,,No lead in this category could plausibly bear on the unrecorded killing.
+claim:lk-13-01-galileans-killed,,coin,none-found,,Pilate's prutahs (existing node) name his prefecture but bear nothing on the massacre.
+claim:lk-13-01-galileans-killed,,structure-or-site,none-found,,"The Temple precinct (existing site node) is where sacrifices were offered, but no structure documents the killing."
+claim:lk-13-01-galileans-killed,,burial-or-ossuary,none-found,,No burial or ossuary could be tied to unnamed Galilean victims.
+claim:lk-13-01-galileans-killed,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-01-galileans-killed,,documentary-papyrus,none-found,,No papyrus could document an unrecorded massacre; searched the Pilate leads and the Babatha-type archives - nothing.
+claim:lk-13-01-galileans-killed,,jewish-literary,found,text:josephus-war-2-169-177; text:josephus-ant-18-85-89; text:philo-embassy-38-pilate,Josephus documents Pilate's lethal violence (aqueduct beating: 'many of them perished by the stripes'; Samaritan tumult: 'Pilate destroyed many of them') and Philo indicts his 'executions without trial' - grade C context for the report; none of the three names the Galileans' event.
+claim:lk-13-01-galileans-killed,,greco-roman-literary,none-found,,"Searched Philo (Embassy to Gaius 38, in the jewish-literary cell) and the Pilate articles; no classical text names the event."
+claim:lk-13-01-galileans-killed,,material-culture,n/a,,No lead in this category could plausibly bear on the unrecorded killing.
+claim:lk-13-01-galileans-killed,,geography-or-nature,n/a,,No lead in this category could plausibly bear on the unrecorded killing.
+claim:lk-13-01-galileans-killed,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the unrecorded killing.
+claim:lk-13-04-tower-siloam,,inscription,none-found,,No inscription names the tower of Siloam.
+claim:lk-13-04-tower-siloam,,coin,none-found,,Coins of Alexander Jannaeus in the pool's plaster date its reconstruction (Pool article) but bear nothing on the tower's fall.
+claim:lk-13-04-tower-siloam,,structure-or-site,found,site:pool-of-siloam,"The excavated Second Temple pool (2004, Shukron and Reich) and the towers beside it (Weill 1920; Szanton 2023: Hellenistic towers rebuilt in the first century) fix the setting - grade B for the setting; the disputed identification of the fallen tower is recorded in the claim note."
+claim:lk-13-04-tower-siloam,,burial-or-ossuary,none-found,,No burial or ossuary could be tied to the eighteen.
+claim:lk-13-04-tower-siloam,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-04-tower-siloam,,documentary-papyrus,none-found,,No papyrus could document a tower collapse; searched the Pool and Tower articles - nothing.
+claim:lk-13-04-tower-siloam,,jewish-literary,none-found,,"Searched Wikisource War Book V: Josephus names Siloam as a fountain and the southern wall bending above it, but never a tower there."
+claim:lk-13-04-tower-siloam,,greco-roman-literary,none-found,,No classical text names the tower.
+claim:lk-13-04-tower-siloam,,material-culture,none-found,,"No artifact bears on the tower's fall; the circular foundation c. 6 m across noted in the Tower article remains unpublished excavation, kept out of the graph."
+claim:lk-13-04-tower-siloam,,geography-or-nature,n/a,,No lead in this category could plausibly bear on the tower's collapse.
+claim:lk-13-04-tower-siloam,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the tower's collapse.
+claim:lk-13-06-09-fig-tree-cultivation,,inscription,n/a,,No lead in this category could plausibly bear on the fig-cultivation custom.
+claim:lk-13-06-09-fig-tree-cultivation,,coin,n/a,,No lead in this category could plausibly bear on the fig-cultivation custom.
+claim:lk-13-06-09-fig-tree-cultivation,,structure-or-site,n/a,,No lead in this category could plausibly bear on the fig-cultivation custom.
+claim:lk-13-06-09-fig-tree-cultivation,,burial-or-ossuary,n/a,,No lead in this category could plausibly bear on the fig-cultivation custom.
+claim:lk-13-06-09-fig-tree-cultivation,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-06-09-fig-tree-cultivation,,documentary-papyrus,none-found,,No fetched papyrus documents digging and manuring fig trees.
+claim:lk-13-06-09-fig-tree-cultivation,,jewish-literary,none-found,,Rabbinic orchard rules are redacted c. 200 CE and later; no fetched page this run (Sefaria fetch failed).
+claim:lk-13-06-09-fig-tree-cultivation,,greco-roman-literary,none-found,,"Pliny on fig manuring is the classic lead, but no fetchable passage was located this run."
+claim:lk-13-06-09-fig-tree-cultivation,,material-culture,none-found,,"No fetchable artifact (hoe, pruning tool) documents the dig-and-manure remedy."
+claim:lk-13-06-09-fig-tree-cultivation,,geography-or-nature,found,observation:grape-fig-cultivation-levant; observation:fig-breba-crop,Figs as a staple of ancient Israel's agriculture and fig trees' bearing behavior are documented natural history - grade C context for the cultivation custom.
+claim:lk-13-06-09-fig-tree-cultivation,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the fig-cultivation custom.
+claim:lk-13-11-13-bent-woman-healed,,inscription,none-found,,No inscription could name the unnamed woman or the healing.
+claim:lk-13-11-13-bent-woman-healed,,coin,n/a,,"No lead in this category could plausibly bear on the miracle claim, which is written neutrally and searched honestly."
+claim:lk-13-11-13-bent-woman-healed,,structure-or-site,none-found,,The unnamed synagogue cannot be identified; no site lead.
+claim:lk-13-11-13-bent-woman-healed,,burial-or-ossuary,n/a,,"No lead in this category could plausibly bear on the miracle claim, which is written neutrally and searched honestly."
+claim:lk-13-11-13-bent-woman-healed,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-11-13-bent-woman-healed,,documentary-papyrus,n/a,,"No lead in this category could plausibly bear on the miracle claim, which is written neutrally and searched honestly."
+claim:lk-13-11-13-bent-woman-healed,,jewish-literary,none-found,,"No Jewish text knows the event; recorded none-found, as in Matthew and Mark for comparable healings."
+claim:lk-13-11-13-bent-woman-healed,,greco-roman-literary,none-found,,No classical text knows the event.
+claim:lk-13-11-13-bent-woman-healed,,material-culture,n/a,,"No lead in this category could plausibly bear on the miracle claim, which is written neutrally and searched honestly."
+claim:lk-13-11-13-bent-woman-healed,,geography-or-nature,none-found,,An 18-year bent spine is a medical condition; no paleopathological lead is fetchable for an unidentified woman.
+claim:lk-13-11-13-bent-woman-healed,,astronomy-or-calendar,n/a,,"No lead in this category could plausibly bear on the miracle claim, which is written neutrally and searched honestly."
+claim:lk-13-14-archisynagogos,,inscription,found,artifact:theodotos-inscription,The Theodotos inscription commemorates a synagogue built by 'a priest and a synagogue leader (archisynagogos)' - grade A for the office.
+claim:lk-13-14-archisynagogos,,coin,n/a,,No lead in this category could plausibly bear on the synagogue office.
+claim:lk-13-14-archisynagogos,,structure-or-site,none-found,,"Excavated synagogues (Capernaum, Chorazin, Gamla, Migdal - existing nodes) show the buildings the office ran; the office itself is documented by the inscription cell."
+claim:lk-13-14-archisynagogos,,burial-or-ossuary,n/a,,No lead in this category could plausibly bear on the synagogue office.
+claim:lk-13-14-archisynagogos,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-14-archisynagogos,,documentary-papyrus,none-found,,No fetched papyrus names an archisynagogos for this period.
+claim:lk-13-14-archisynagogos,,jewish-literary,none-found,,Rabbinic rosh ha-keneset material is redacted later; no fetched page this run.
+claim:lk-13-14-archisynagogos,,greco-roman-literary,none-found,,No classical text names the office.
+claim:lk-13-14-archisynagogos,,material-culture,n/a,,No lead in this category could plausibly bear on the synagogue office.
+claim:lk-13-14-archisynagogos,,geography-or-nature,n/a,,No lead in this category could plausibly bear on the synagogue office.
+claim:lk-13-14-archisynagogos,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the synagogue office.
+claim:lk-13-15-sabbath-animal-watering,,inscription,n/a,,No lead in this category could plausibly bear on the Sabbath watering custom.
+claim:lk-13-15-sabbath-animal-watering,,coin,n/a,,No lead in this category could plausibly bear on the Sabbath watering custom.
+claim:lk-13-15-sabbath-animal-watering,,structure-or-site,none-found,,"Stalls and troughs are implied by village sites, but no fetched lead documents the watering custom."
+claim:lk-13-15-sabbath-animal-watering,,burial-or-ossuary,n/a,,No lead in this category could plausibly bear on the Sabbath watering custom.
+claim:lk-13-15-sabbath-animal-watering,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-15-sabbath-animal-watering,,documentary-papyrus,none-found,,No fetched papyrus documents Sabbath animal care.
+claim:lk-13-15-sabbath-animal-watering,,jewish-literary,found,text:damascus-document-11-13-14,The Damascus Document's Sabbath rule on an animal fallen into a pit shows the same live debate over Sabbath help to animals among Second Temple Jewish groups - grade B for the debate; it does not state the watering rule.
+claim:lk-13-15-sabbath-animal-watering,,greco-roman-literary,none-found,,No classical text bears on the Judean Sabbath debate.
+claim:lk-13-15-sabbath-animal-watering,,material-culture,none-found,,"No fetchable artifact (trough, tether) documents the custom."
+claim:lk-13-15-sabbath-animal-watering,,geography-or-nature,n/a,,No lead in this category could plausibly bear on the Sabbath watering custom.
+claim:lk-13-15-sabbath-animal-watering,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the Sabbath watering custom.
+claim:lk-13-19-mustard-garden,,inscription,n/a,,No lead in this category could plausibly bear on the parable's venue.
+claim:lk-13-19-mustard-garden,,coin,n/a,,No lead in this category could plausibly bear on the parable's venue.
+claim:lk-13-19-mustard-garden,,structure-or-site,none-found,,No excavated garden lead was fetchable.
+claim:lk-13-19-mustard-garden,,burial-or-ossuary,n/a,,No lead in this category could plausibly bear on the parable's venue.
+claim:lk-13-19-mustard-garden,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-19-mustard-garden,,documentary-papyrus,none-found,,No fetched papyrus documents garden-sown mustard.
+claim:lk-13-19-mustard-garden,,jewish-literary,none-found,,No fetched rabbinic or Qumran text distinguishes field from garden sowing for mustard.
+claim:lk-13-19-mustard-garden,,greco-roman-literary,none-found,,Pliny and Theophrastus on mustard are the classic leads; no fetchable passage located this run.
+claim:lk-13-19-mustard-garden,,material-culture,n/a,,No lead in this category could plausibly bear on the parable's venue.
+claim:lk-13-19-mustard-garden,,geography-or-nature,found,observation:mustard-botany; observation:salvadora-mustard-tree,"Black mustard (tiny seeds, fast growth) and the 'mustard tree' identification (Salvadora persica) are documented botany - grade C context for the parable's plant."
+claim:lk-13-19-mustard-garden,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the parable's venue.
+claim:lk-13-24-narrow-door,,inscription,n/a,,The narrow door is a figure of speech; no lead in this category could plausibly bear on it.
+claim:lk-13-24-narrow-door,,coin,n/a,,The narrow door is a figure of speech; no lead in this category could plausibly bear on it.
+claim:lk-13-24-narrow-door,,structure-or-site,none-found,,"The excavated main gate at Hippos (evidence for Matt 7:13-14, existing attests edge) is a city gate, not a narrow door; no excavation of a narrow doorway was fetchable this run."
+claim:lk-13-24-narrow-door,,burial-or-ossuary,n/a,,The narrow door is a figure of speech; no lead in this category could plausibly bear on it.
+claim:lk-13-24-narrow-door,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-24-narrow-door,,documentary-papyrus,n/a,,The narrow door is a figure of speech; no lead in this category could plausibly bear on it.
+claim:lk-13-24-narrow-door,,jewish-literary,none-found,,No fetched Jewish text bears on the narrow-door image.
+claim:lk-13-24-narrow-door,,greco-roman-literary,none-found,,No classical text bears on the image.
+claim:lk-13-24-narrow-door,,material-culture,n/a,,The narrow door is a figure of speech; no lead in this category could plausibly bear on it.
+claim:lk-13-24-narrow-door,,geography-or-nature,n/a,,The narrow door is a figure of speech; no lead in this category could plausibly bear on it.
+claim:lk-13-24-narrow-door,,astronomy-or-calendar,n/a,,The narrow door is a figure of speech; no lead in this category could plausibly bear on it.
+claim:lk-13-31-herod-fox,,inscription,none-found,,No inscription names the threat; Antipas's titles are known from coins and Josephus instead.
+claim:lk-13-31-herod-fox,,coin,none-found,,Antipas's coins (existing node) name his rule but bear nothing on the threat or the epithet.
+claim:lk-13-31-herod-fox,,structure-or-site,none-found,,"Antipas's buildings (Tiberias, Machaerus - existing nodes) document his rule, not his intent toward Jesus."
+claim:lk-13-31-herod-fox,,burial-or-ossuary,n/a,,No lead in this category could plausibly bear on the threat or the epithet.
+claim:lk-13-31-herod-fox,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+claim:lk-13-31-herod-fox,,documentary-papyrus,n/a,,No lead in this category could plausibly bear on the threat or the epithet.
+claim:lk-13-31-herod-fox,,jewish-literary,none-found,,"Searched the graph's Josephus Antipas material (Ant. 18.116-119, 18.240-252 - existing nodes): Josephus knows John's death and Antipas's fall, but never this threat."
+claim:lk-13-31-herod-fox,,greco-roman-literary,none-found,,No classical text knows the threat.
+claim:lk-13-31-herod-fox,,material-culture,n/a,,No lead in this category could plausibly bear on the threat or the epithet.
+claim:lk-13-31-herod-fox,,geography-or-nature,found,observation:red-fox-range-levant,"The red fox is native and common in the Levant and digs dens - grade C for the fauna behind the epithet, not for the exchange with Antipas."
+claim:lk-13-31-herod-fox,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the threat or the epithet.
+place:siloam,,inscription,none-found,,"The Hezekian Siloam tunnel inscription (8th century BCE) belongs to the older waterworks, not the first-century quarter; no first-century inscription naming Siloam was located."
+place:siloam,,coin,none-found,,Coins of Alexander Jannaeus embedded in the pool's plaster date its reconstruction (Pool article source) but name no place.
+place:siloam,,structure-or-site,found,site:pool-of-siloam,The excavated Second Temple period pool (rediscovered 2004) is Siloam's waterworks in use in the first century - grade A (attests and identified_as edges to place:siloam).
+place:siloam,,burial-or-ossuary,n/a,,No lead in this category could plausibly bear on the place name.
+place:siloam,,manuscript,n/a,,A manuscript of Luke only preserves the passages it carries and never attests a claim (calibration rule); Codices Sinaiticus and Vaticanus and Papyri 75 and 45 preserve these Luke chapters (preserves edges).
+place:siloam,,documentary-papyrus,none-found,,No fetched papyrus names Siloam.
+place:siloam,,jewish-literary,found,text:josephus-war-5-siloam,"Josephus names Siloam as 'a fountain which hath sweet water in it, and this in great plenty' at the city's south - grade A for the named place."
+place:siloam,,greco-roman-literary,n/a,,No lead in this category could plausibly bear on the place name.
+place:siloam,,material-culture,n/a,,No lead in this category could plausibly bear on the place name.
+place:siloam,,geography-or-nature,n/a,,No lead in this category could plausibly bear on the place name.
+place:siloam,,astronomy-or-calendar,n/a,,No lead in this category could plausibly bear on the place name.

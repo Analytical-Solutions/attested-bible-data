@@ -1,0 +1,24 @@
+{
+ "book": "acts",
+ "chapter": 7,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    53
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "7:1 \"The high priest said, 'Are these things so?'\" - the speech is before the council of 6:12; Mesopotamia, Egypt, Midian and the wilderness are mentions in the survey, never the scene"
+  },
+  {
+   "verses": [
+    54,
+    60
+   ],
+   "setting": "place:jerusalem",
+   "confidence": "inferred",
+   "basis": "7:58 \"They threw him out of the city, and stoned him\" - \"the city\" is Jerusalem, the council's city"
+  }
+ ]
+}

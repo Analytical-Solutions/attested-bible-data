@@ -1,0 +1,57 @@
+{
+ "source:bible-api-nehemiah-3-1": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/nehemiah+3:1?translation=web"
+ },
+ "source:sefaria-mishnah-shabbat-7-2-carrying": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.sefaria.org/api/texts/Mishnah_Shabbat.7.2"
+ },
+ "source:wikipedia-pool-of-bethesda": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Bethesda"
+ },
+ "source:wikipedia-pool-of-bethesda-agrippa": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Bethesda"
+ },
+ "source:wikipedia-pool-of-bethesda-asclepieion": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Bethesda"
+ },
+ "source:wikipedia-pool-of-bethesda-capital": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Bethesda"
+ },
+ "source:wikipedia-pool-of-bethesda-schick": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Bethesda"
+ },
+ "source:wikipedia-pool-of-bethesda-sheep-gate": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Pool_of_Bethesda"
+ },
+ "source:wikipedia-st-annes-jerusalem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/St_Anne%27s_Church,_Jerusalem"
+ },
+ "source:wikipedia-st-annes-white-fathers": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/St_Anne%27s_Church,_Jerusalem"
+ },
+ "source:wikipedia-tv-john-5-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Gospel_of_John"
+ }
+}

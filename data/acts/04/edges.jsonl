@@ -1,0 +1,154 @@
+{"from": "passage:ac-04-01", "type": "asserts", "to": "claim:ac-04-01-arrest-captain-sadducees"}
+{"from": "passage:ac-04-01", "type": "asserts", "to": "claim:ac-04-01-captain-of-the-temple"}
+{"from": "passage:ac-04-03", "type": "asserts", "to": "claim:ac-04-01-arrest-captain-sadducees"}
+{"from": "passage:ac-04-02", "type": "asserts", "to": "claim:ac-04-02-sadducees-upset-resurrection"}
+{"from": "passage:ac-04-02", "type": "asserts", "to": "claim:ac-04-02-sadducees-deny-resurrection"}
+{"from": "passage:ac-04-04", "type": "asserts", "to": "claim:ac-04-04-five-thousand-men"}
+{"from": "passage:ac-04-05", "type": "asserts", "to": "claim:ac-04-05-rulers-elders-scribes-gathered"}
+{"from": "passage:ac-04-06", "type": "asserts", "to": "claim:ac-04-06-annas-caiaphas-john-alexander"}
+{"from": "passage:ac-04-07", "type": "asserts", "to": "claim:ac-04-07-09-inquiry-by-what-power"}
+{"from": "passage:ac-04-09", "type": "asserts", "to": "claim:ac-04-07-09-inquiry-by-what-power"}
+{"from": "passage:ac-04-11", "type": "asserts", "to": "claim:ac-04-11-stone-quotation"}
+{"from": "passage:ac-04-13", "type": "asserts", "to": "claim:ac-04-13-unlearned-men"}
+{"from": "passage:ac-04-18", "type": "asserts", "to": "claim:ac-04-18-21-commanded-not-to-speak"}
+{"from": "passage:ac-04-21", "type": "asserts", "to": "claim:ac-04-18-21-commanded-not-to-speak"}
+{"from": "passage:ac-04-22", "type": "asserts", "to": "claim:ac-04-22-over-forty"}
+{"from": "passage:ac-04-25", "type": "asserts", "to": "claim:ac-04-25-26-psalm-2-quotation"}
+{"from": "passage:ac-04-26", "type": "asserts", "to": "claim:ac-04-25-26-psalm-2-quotation"}
+{"from": "passage:ac-04-27", "type": "asserts", "to": "claim:ac-04-27-herod-pilate-gathered"}
+{"from": "passage:ac-04-32", "type": "asserts", "to": "claim:ac-04-32-35-all-things-in-common"}
+{"from": "passage:ac-04-35", "type": "asserts", "to": "claim:ac-04-32-35-all-things-in-common"}
+{"from": "passage:ac-04-36", "type": "asserts", "to": "claim:ac-04-36-37-barnabas-field"}
+{"from": "passage:ac-04-37", "type": "asserts", "to": "claim:ac-04-36-37-barnabas-field"}
+{"from": "claim:ac-04-01-arrest-captain-sadducees", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-04-01-arrest-captain-sadducees", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:ac-04-02-sadducees-upset-resurrection", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-04-05-rulers-elders-scribes-gathered", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-04-06-annas-caiaphas-john-alexander", "type": "mentions", "to": "person:annas-high-priest"}
+{"from": "claim:ac-04-06-annas-caiaphas-john-alexander", "type": "mentions", "to": "person:caiaphas"}
+{"from": "claim:ac-04-07-09-inquiry-by-what-power", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-04-07-09-inquiry-by-what-power", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:ac-04-11-stone-quotation", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-04-13-unlearned-men", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-04-13-unlearned-men", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:ac-04-13-unlearned-men", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-04-18-21-commanded-not-to-speak", "type": "mentions", "to": "person:simon-peter"}
+{"from": "claim:ac-04-18-21-commanded-not-to-speak", "type": "mentions", "to": "person:john-son-of-zebedee"}
+{"from": "claim:ac-04-18-21-commanded-not-to-speak", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-04-22-over-forty", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-04-27-herod-pilate-gathered", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:ac-04-27-herod-pilate-gathered", "type": "mentions", "to": "person:pontius-pilate"}
+{"from": "claim:ac-04-27-herod-pilate-gathered", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:ac-04-32-35-all-things-in-common", "type": "mentions", "to": "place:jerusalem"}
+{"from": "claim:ac-04-36-37-barnabas-field", "type": "mentions", "to": "person:barnabas"}
+{"from": "claim:ac-04-36-37-barnabas-field", "type": "mentions", "to": "place:jerusalem"}
+{"from": "text:josephus-war-6-288-300", "type": "attests", "to": "claim:ac-04-01-captain-of-the-temple", "grade": "A", "note": "Josephus (War 6.5.3, of the temple as it stood before 70 CE): the temple watchmen ran 'to the captain of the temple', who came up and shut the gate - the same temple-captain office (strategos tou hierou) Acts 4:1 names, acting in the temple; the same institution in the same place and period. Moved by reviewer 10 from the arrest claim, which the evidence does not attest (bundled-claim split, per the Acts 17 politarchs model)."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:ac-04-02-sadducees-deny-resurrection", "grade": "A", "note": "Josephus, Ant. 18.1.4: 'the doctrine of the Sadducees is this: That souls die with the bodies' - the Sadducean denial of resurrection, the same party the fetched Wikipedia 'Sadducees' article summarizes ('The Sadducees did not accept the idea of resurrection of the dead'). Moved by reviewer 10 from the upset claim, which the evidence does not attest (bundled-claim split, per the Acts 17 politarchs model)."}
+{"from": "text:josephus-ant-20-199-sanhedrin", "type": "attests", "to": "claim:ac-04-05-rulers-elders-scribes-gathered", "grade": "B", "note": "Josephus: Ananus 'assembled the sanhedrim of judges' and brought the accused before them in Jerusalem (62 CE) - the same council of rulers, elders and priests meeting as a body in the city; a later session, attesting the institution and procedure, not this meeting."}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "attests", "to": "claim:ac-04-06-annas-caiaphas-john-alexander", "grade": "A", "note": "Josephus names both men: Gratus 'appointed Ananus, the son of Seth, to be high priest' (18.26) and, after the brief tenures of Ismael, Eleazar and Simon, 'Joseph Caiaphas was made his successor' (18.34-35) - the Annas and Caiaphas of Acts 4:6 as real members of the same high-priestly house."}
+{"from": "text:josephus-ant-18-annas-gratus", "type": "complicates", "to": "claim:ac-04-06-annas-caiaphas-john-alexander", "note": "Josephus, Ant. 18.34-35: Gratus deprived Annas, and after the brief tenures of Ismael, Eleazar (one year) and Simon (one year) gave the high priesthood to Caiaphas - so in the early 30s the formal high priest was Caiaphas, not Annas; Acts' 'Annas the high priest' reflects Annas's continuing de facto authority as patriarch of the priestly family (as in Luke 3:2)."}
+{"from": "text:josephus-ant-18-95", "type": "attests", "to": "claim:ac-04-06-annas-caiaphas-john-alexander", "grade": "D", "note": "Josephus, Ant. 18.95: Vitellius deprived Caiaphas and 'appointed Jonathan the son of Ananus, the former high priest' - a Jonathan son of Annas existed in the priestly family, and some identify Acts 4:6's 'John' with him; the identification is disputed: this Jonathan became high priest only in 36 CE, after Caiaphas, and is nowhere called John (fetched 'Jonathan (High Priest)': high priest 36-37 CE, son of Ananus)."}
+{"from": "artifact:caiaphas-ossuary", "type": "attests", "to": "person:caiaphas", "grade": "A", "note": "The ossuary is twice inscribed 'Joseph, son of Caiaphas' and held the bones of a man of about 60 - an excavated find independently naming the Caiaphas of the 30s high priesthood."}
+{"from": "text:josephus-war-2-122-123", "type": "attests", "to": "claim:ac-04-32-35-all-things-in-common", "grade": "C", "note": "Josephus on the Essenes: 'there is no one to be found among them who hath more than another... those who come to them must let what they have be common to the whole order... one patrimony among all the brethren' - community of goods as a known Jewish custom of the same period and region; a parallel custom, not evidence about the Jerusalem believers themselves."}
+{"from": "claim:ac-04-01-arrest-captain-sadducees", "type": "related_to", "to": "claim:lk-22-52-captains-arrest", "note": "The same temple-captain office (strategoi tou hierou in the plural in Luke 22:52) as at the arrest of Jesus; here a different arrest, of Peter and John."}
+{"from": "claim:ac-04-02-sadducees-upset-resurrection", "type": "related_to", "to": "claim:mt-22-23-sadducees-no-resurrection", "note": "The same Sadducean doctrine (Matthew 22:23: the Sadducees 'say that there is no resurrection'); Acts 4:2 records the conflict that doctrine creates when resurrection is proclaimed."}
+{"from": "claim:ac-04-06-annas-caiaphas-john-alexander", "type": "related_to", "to": "person:jonathan-son-of-annas", "note": "A proposed identification only: some commentators take Acts' 'John' to be Jonathan son of Annas (Josephus, Ant. 18.95); Acts names 'John', and the identification is disputed."}
+{"from": "claim:ac-04-11-stone-quotation", "type": "related_to", "to": "text:psalm-118-22", "note": "Peter's quotation is Psalm 118:22 (biblical cross-reference, not evidence)."}
+{"from": "claim:ac-04-25-26-psalm-2-quotation", "type": "related_to", "to": "text:psalm-2-1-2", "note": "The prayer's quotation is Psalm 2:1-2 (biblical cross-reference, not evidence)."}
+{"from": "claim:ac-04-27-herod-pilate-gathered", "type": "related_to", "to": "claim:lk-23-12-herod-pilate-friends", "note": "The same Passion pairing of Herod and Pilate (Luke 23:12: they became friends that day); Acts 4:27 lists them among those gathered against Jesus."}
+{"from": "claim:ac-04-27-herod-pilate-gathered", "type": "related_to", "to": "claim:mt-27-01-02-delivered-to-pilate", "note": "Pilate's part in the Passion (Matthew 27:1-2, delivered to Pilate); Acts 4:27 names him in the prayer's retrospect."}
+{"from": "claim:ac-04-36-37-barnabas-field", "type": "related_to", "to": "claim:ac-04-32-35-all-things-in-common", "note": "Barnabas's sale is the narrative's named example of the common-pool custom of 4:32-35, not independent evidence for it."}
+{"from": "claim:ac-04-06-annas-caiaphas-john-alexander", "type": "documented_by", "to": "source:wikipedia-annas-acts-4-6"}
+{"from": "claim:ac-04-06-annas-caiaphas-john-alexander", "type": "documented_by", "to": "source:biblehub-acts-4-6"}
+{"from": "text:josephus-ant-18-95", "type": "documented_by", "to": "source:wikisource-ant-18-95"}
+{"from": "text:josephus-ant-18-95", "type": "documented_by", "to": "source:wikipedia-jonathan-high-priest"}
+{"from": "text:josephus-war-2-122-123", "type": "documented_by", "to": "source:wikisource-war-2-essenes"}
+{"from": "text:psalm-118-22", "type": "documented_by", "to": "source:bible-api-psalm-118-22"}
+{"from": "text:psalm-2-1-2", "type": "documented_by", "to": "source:bible-api-psalm-2-1-2"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-36"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:ac-04-37"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:ac-04-37"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-27"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-28"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-29"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-30"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-31"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-32"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-33"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-34"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-35"}
+{"from": "artifact:papyrus-45", "type": "preserves", "to": "passage:ac-04-36"}
+{"from": "text:josephus-war-6-288-300", "type": "attests", "to": "claim:ac-04-01-arrest-captain-sadducees", "grade": "B", "note": "Confirms the institutional setting of the arresting party: the temple watch and its captain, with the priests, stood in Jerusalem in the same period; it does not attest that they arrested Peter and John. Regraded A to B by reviewer 10 when the office claim was split out."}
+{"from": "text:josephus-ant-18-sects", "type": "attests", "to": "claim:ac-04-02-sadducees-upset-resurrection", "grade": "B", "note": "Confirms the setting of the provocation: the Sadducees, the resurrection-denying party, were a real party of the same city and period; it does not attest that they were upset at this preaching. Regraded A to B by reviewer 10 when the doctrine claim was split out."}
+{"from": "text:josephus-ant-18-sects", "type": "documented_by", "to": "source:wikisource-ant18-sadducee-doctrine"}

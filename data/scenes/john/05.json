@@ -1,0 +1,15 @@
+{
+ "book": "john",
+ "chapter": 5,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    47
+   ],
+   "setting": "site:pool-of-bethesda",
+   "confidence": "stated",
+   "basis": "5:2 \"in Jerusalem by the sheep gate, there is a pool, which is called in Hebrew, “Bethesda”, having five porches\""
+  }
+ ]
+}

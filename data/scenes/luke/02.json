@@ -1,0 +1,69 @@
+{
+ "book": "luke",
+ "chapter": 2,
+ "scenes": [
+  {
+   "verses": [
+    1,
+    7
+   ],
+   "setting": "place:bethlehem",
+   "confidence": "stated",
+   "basis": "2:4 \"into Judea, to David's city, which is called Bethlehem\"; 2:7 \"She gave birth to her firstborn son\""
+  },
+  {
+   "verses": [
+    8,
+    20
+   ],
+   "setting": "place:bethlehem",
+   "confidence": "stated",
+   "basis": "2:8 \"There were shepherds in the same country staying in the field\"; 2:15 \"Let's go to Bethlehem\""
+  },
+  {
+   "verses": [
+    21,
+    21
+   ],
+   "setting": "place:bethlehem",
+   "confidence": "inferred",
+   "basis": "2:21 \"When eight days were fulfilled for the circumcision of the child\" - at the Bethlehem house of 2:6-7, which the verse does not name"
+  },
+  {
+   "verses": [
+    22,
+    38
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "2:22 \"they brought him up to Jerusalem\"; 2:27 \"He came in the Spirit into the temple\""
+  },
+  {
+   "verses": [
+    39,
+    40
+   ],
+   "setting": "place:nazareth",
+   "confidence": "stated",
+   "basis": "2:39 \"they returned into Galilee, to their own city, Nazareth\""
+  },
+  {
+   "verses": [
+    41,
+    50
+   ],
+   "setting": "site:second-temple",
+   "confidence": "stated",
+   "basis": "2:42 \"they went up to Jerusalem according to the custom of the feast\"; 2:46 \"they found him in the temple\""
+  },
+  {
+   "verses": [
+    51,
+    52
+   ],
+   "setting": "place:nazareth",
+   "confidence": "stated",
+   "basis": "2:51 \"He went down with them, and came to Nazareth\""
+  }
+ ]
+}

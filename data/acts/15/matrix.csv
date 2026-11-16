@@ -1,0 +1,342 @@
+anchor,label,category,status,findings,note
+claim:ac-15-01-circumcision-taught,S,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-01-circumcision-taught,S,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-01-circumcision-taught,S,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-01-circumcision-taught,S,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-01-circumcision-taught,S,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-01-circumcision-taught,S,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-01-circumcision-taught,S,jewish-literary,found,text:josephus-ant-20-helena-izates,"Josephus (Ant. 20.17-48): Izates was taught by the merchant Ananias and a Galilean Jew that he 'could not be thoroughly a Jew unless he were circumcised', and embraced the Jewish customs - Gentile circumcision as the conversion question of this period (B). It attests the debate, not these Judean teachers or their Antioch mission."
+claim:ac-15-01-circumcision-taught,S,greco-roman-literary,none-found,,"No classical author records the Judean teaching mission to Antioch; searched Wikipedia (Council of Jerusalem, Circumcision controversy in early Christianity)."
+claim:ac-15-01-circumcision-taught,S,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-01-circumcision-taught,S,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-01-circumcision-taught,S,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-02-delegation-jerusalem,T,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,jewish-literary,none-found,,"Josephus, Philo and rabbinic literature know nothing of this delegation; searched Wikipedia (Council of Jerusalem) and Wikisource (Ant. 20)."
+claim:ac-15-02-delegation-jerusalem,T,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-02-delegation-jerusalem,T,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-02-delegation-jerusalem,T,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-03-route-phoenicia-samaria,B,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-03-route-phoenicia-samaria,B,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-03-route-phoenicia-samaria,B,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-03-route-phoenicia-samaria,B,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-03-route-phoenicia-samaria,B,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-03-route-phoenicia-samaria,B,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-03-route-phoenicia-samaria,B,jewish-literary,none-found,,"Josephus narrates journeys along this coast but nothing bearing on this visit; searched Wikisource (War 2, Ant. 20) and Wikipedia."
+claim:ac-15-03-route-phoenicia-samaria,B,greco-roman-literary,none-found,,No classical author bears on this journey; searched Wikipedia (Phoenicia).
+claim:ac-15-03-route-phoenicia-samaria,B,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-03-route-phoenicia-samaria,B,geography-or-nature,none-found,,"The coastal road (Via Maris) from Antioch to Jerusalem does pass through Phoenicia and Samaria, but no fetched page this run states that segment for this period; the graph's site:via-maris is linked from other chapters. Searched Wikipedia (Phoenicia, Via Maris)."
+claim:ac-15-03-route-phoenicia-samaria,B,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-04-received-jerusalem,O,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,jewish-literary,none-found,,No external text records the reception; searched Wikipedia (Council of Jerusalem) and Wikisource (Ant. 20).
+claim:ac-15-04-received-jerusalem,O,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-04-received-jerusalem,O,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-04-received-jerusalem,O,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-05-pharisee-believers-require-law,S,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,jewish-literary,none-found,,"Josephus describes Pharisees' strict traditions (Ant. 18.12-15, 18 sects) but knows nothing of Pharisees who believed in Jesus; searched Wikipedia (Council of Jerusalem, Pharisees)."
+claim:ac-15-05-pharisee-believers-require-law,S,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-05-pharisee-believers-require-law,S,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-05-pharisee-believers-require-law,S,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-06-apostles-elders-gathered,T,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,jewish-literary,none-found,,"Josephus records sanhedrin gatherings of this period (e.g. Ant. 20.9.1) but never this meeting; Paul's own account, Galatians 2:1-10, is a biblical cross-reference (related_to), not evidence. Searched Wikipedia (Council of Jerusalem)."
+claim:ac-15-06-apostles-elders-gathered,T,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-06-apostles-elders-gathered,T,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-06-apostles-elders-gathered,T,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-07-peter-recalls-gentiles,A,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,jewish-literary,none-found,,"No external text records Peter's speech; searched Wikipedia (Council of Jerusalem, Saint Peter) and Wikisource (Ant. 20)."
+claim:ac-15-07-peter-recalls-gentiles,A,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-07-peter-recalls-gentiles,A,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-07-peter-recalls-gentiles,A,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-12-barnabas-paul-report,T,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,jewish-literary,none-found,,Josephus knows nothing of the reported signs and wonders among the Gentiles; searched Wikisource (Ant. 20) and Wikipedia (Council of Jerusalem).
+claim:ac-15-12-barnabas-paul-report,T,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-12-barnabas-paul-report,T,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-12-barnabas-paul-report,T,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-13-james-answers,A,inscription,none-found,,"No inscription names James or any presiding role; the James ossuary inscription is unprovenanced and disputed (linked in the burial cell); searched Wikipedia (James the Just, List of biblical figures identified in extra-biblical sources)."
+claim:ac-15-13-james-answers,A,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-13-james-answers,A,structure-or-site,none-found,,"No excavated structure tied to James or this meeting; the Cenacle tradition is late reception; searched Wikipedia (James the Just, Cenacle)."
+claim:ac-15-13-james-answers,A,burial-or-ossuary,found,artifact:james-ossuary,"The James ossuary reads 'James son of Joseph brother of Jesus'; it is an unprovenanced antiquities-market find and its inscription's authenticity is disputed (IAA: modern forgery; trial: guilt not proven), so D (docs/calibration.md). It bears on the person, not on the presiding role."
+claim:ac-15-13-james-answers,A,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-13-james-answers,A,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-13-james-answers,A,jewish-literary,found,text:josephus-antiquities-20,"Josephus, Ant. 20.9.1 (the passage commonly cited as 20.200): high priest Ananus condemned 'James, the brother of Jesus who was called Christ' to death (c. 62 CE) - independent naming of the same man (A for the person). It says nothing of a presiding role at this meeting; that leadership claim remains a gap."
+claim:ac-15-13-james-answers,A,greco-roman-literary,none-found,,No classical author names James; searched Wikipedia (James the Just).
+claim:ac-15-13-james-answers,A,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-13-james-answers,A,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-13-james-answers,A,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:4q174-florilegium,"Sinaiticus and Vaticanus carry the verses (preserves edges; a copy is not independent evidence). 4Q174, the pre-Christian Qumran Florilegium, carries Amos 9:11 - the 'fallen booth of David' James quotes - so the passage was current in Judean exegesis before 30 CE (B); it does not carry 9:12's Gentiles line or James's use."
+claim:ac-15-14-18-amos-quoted,J,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,jewish-literary,found,artifact:4q174-florilegium,"4Q174 quotes Amos 9:11 among 2 Samuel 7 and other eschatological promises (per the fetched List of the Dead Sea Scrolls) - the tabernacle-of-David expectation existed in pre-Christian Judea. It attests the expectation, not that James cited it in this meeting."
+claim:ac-15-14-18-amos-quoted,J,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-14-18-amos-quoted,J,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-14-18-amos-quoted,J,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-19-judgment-no-burden,J,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,jewish-literary,none-found,,No external text records the judgment; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-19-judgment-no-burden,J,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-19-judgment-no-burden,J,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-19-judgment-no-burden,J,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-20-decree-abstentions,T,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,jewish-literary,found,text:talmud-sanhedrin-56a;text:tosefta-avodah-zarah-9-4,"The seven Noahide precepts (Sanhedrin 56a Soncino: 'seven precepts were the sons of Noah commanded...'; the earliest complete rabbinic version in Tosefta Avodah Zarah) overlap the decree's items (idolatry, sexual immorality, blood). Both texts are redacted c. 200 CE and later and may not describe the 30s CE; the connection to Acts 15 is itself disputed (fetched Wikipedia 'Council of Jerusalem': 'modern scholars dispute the connection'), so D."
+claim:ac-15-20-decree-abstentions,T,greco-roman-literary,none-found,,"No classical author knows the Apostolic Decree; searched Wikipedia (Council of Jerusalem, Circumcision controversy in early Christianity)."
+claim:ac-15-20-decree-abstentions,T,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-20-decree-abstentions,T,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-21-moses-sabbath-read,M,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,jewish-literary,found,text:josephus-apion-2-weekly-assembly,Josephus (Against Apion 2): Moses' law permits the people to leave their other work 'and to assemble together for the hearing of the law ... every week' (C) - the weekly reading custom in the period. It does not say every city had Moses preached nor name synagogues.
+claim:ac-15-21-moses-sabbath-read,M,greco-roman-literary,none-found,,"No classical author bears on this anchor; searched Wikipedia (Judaism and synagogue customs, Council of Jerusalem)."
+claim:ac-15-21-moses-sabbath-read,M,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-21-moses-sabbath-read,M,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-22-judas-silas-sent,T,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,jewish-literary,none-found,,"No external text names Judas Barsabbas or Silas in this delegation; searched Wikipedia (Judas Barsabbas, Silas, Council of Jerusalem)."
+claim:ac-15-22-judas-silas-sent,T,greco-roman-literary,none-found,,"No classical author bears on this anchor; searched Wikipedia (Judas Barsabbas, Silas)."
+claim:ac-15-22-judas-silas-sent,T,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-22-judas-silas-sent,T,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-23-letter-destinations,T,inscription,none-found,,"No inscription records the letter or its address; searched Wikipedia (Council of Jerusalem, Cilicia, Antioch)."
+claim:ac-15-23-letter-destinations,T,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-23-letter-destinations,T,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-23-letter-destinations,T,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-23-letter-destinations,T,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-23-letter-destinations,T,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-23-letter-destinations,T,jewish-literary,none-found,,"Josephus names Jewish communities in Antioch, Syria and Cilicia but knows nothing of the letter; searched Wikisource (Ant., War) and Wikipedia."
+claim:ac-15-23-letter-destinations,T,greco-roman-literary,none-found,,"No classical author bears on the letter; searched Wikipedia (Cilicia, Syria)."
+claim:ac-15-23-letter-destinations,T,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-23-letter-destinations,T,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-23-letter-destinations,T,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,jewish-literary,none-found,,No external text records the delivery; searched Wikipedia (Council of Jerusalem) and Wikisource (Ant. 20).
+claim:ac-15-30-31-letter-delivered-rejoiced,T,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Council of Jerusalem).
+claim:ac-15-30-31-letter-delivered-rejoiced,T,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-30-31-letter-delivered-rejoiced,T,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-32-judas-silas-prophets,J,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,jewish-literary,none-found,,"No external text names Judas Barsabbas or Silas as prophets; searched Wikipedia (Judas Barsabbas, Silas)."
+claim:ac-15-32-judas-silas-prophets,J,greco-roman-literary,none-found,,"No classical author bears on this anchor; searched Wikipedia (Judas Barsabbas, Silas)."
+claim:ac-15-32-judas-silas-prophets,J,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-32-judas-silas-prophets,J,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-33-sent-back-greetings,A,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,jewish-literary,none-found,,"No external text records the return; verse 15:34's 'Silas remained' variant is recorded on the passage node, not as evidence. Searched Wikipedia (Judas Barsabbas - which repeats the biblical account)."
+claim:ac-15-33-sent-back-greetings,A,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Silas).
+claim:ac-15-33-sent-back-greetings,A,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-33-sent-back-greetings,A,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-35-stayed-teaching-antioch,P,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-35-stayed-teaching-antioch,P,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-35-stayed-teaching-antioch,P,structure-or-site,found,site:antioch-on-the-orontes,"The excavated city of Antioch on the Orontes (founded 300 BCE by Seleucus I Nicator; excavated 1932-1939, today Antakya) is the place where Acts 15:35 sets the teaching; it attests the place, not the teaching itself (A for the place component)."
+claim:ac-15-35-stayed-teaching-antioch,P,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-35-stayed-teaching-antioch,P,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-35-stayed-teaching-antioch,P,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-35-stayed-teaching-antioch,P,jewish-literary,none-found,,Josephus describes the Antiochene Jewish community but nothing of this teaching; searched Wikisource (War 7.3.1 on Antioch) and Wikipedia (Antioch).
+claim:ac-15-35-stayed-teaching-antioch,P,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Antioch).
+claim:ac-15-35-stayed-teaching-antioch,P,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-35-stayed-teaching-antioch,P,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-35-stayed-teaching-antioch,P,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-36-37-41-visit-plan,P,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,jewish-literary,none-found,,"No external text records the plan; searched Wikipedia (John Mark, Council of Jerusalem)."
+claim:ac-15-36-37-41-visit-plan,P,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (John Mark).
+claim:ac-15-36-37-41-visit-plan,P,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-36-37-41-visit-plan,P,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,jewish-literary,none-found,,"No external text records Mark's withdrawal in Pamphylia; the underlying event is Acts 13:13, not yet in the graph. Searched Wikipedia (John Mark, Mark the Evangelist)."
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (John Mark).
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-37-38-mark-withdrew-pamphylia,B,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry the verse (preserves edges); a copy of the text is not independent evidence for the claim.
+claim:ac-15-39-separation-cyprus,S,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,jewish-literary,none-found,,"Josephus knows nothing of Barnabas's voyage; Barnabas's Cypriot origin is Acts 4:36. Searched Wikipedia (Barnabas, John Mark)."
+claim:ac-15-39-separation-cyprus,S,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Barnabas).
+claim:ac-15-39-separation-cyprus,S,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-39-separation-cyprus,S,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-40-paul-chose-silas,P,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,jewish-literary,none-found,,No external text records the choice of Silas; searched Wikipedia (Silas).
+claim:ac-15-40-paul-chose-silas,P,greco-roman-literary,none-found,,No classical author bears on this anchor; searched Wikipedia (Silas).
+claim:ac-15-40-paul-chose-silas,P,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-40-paul-chose-silas,P,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,inscription,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,coin,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry the verse, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence for the claim."
+claim:ac-15-41-syria-cilicia-strengthening,P,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,jewish-literary,none-found,,"Josephus attests Jewish communities in Cilicia (e.g. the Tarsus of Ant. via Strabo) but nothing of this tour; searched Wikisource and Wikipedia (Cilicia, Tarsus)."
+claim:ac-15-41-syria-cilicia-strengthening,P,greco-roman-literary,none-found,,"No classical author bears on the strengthening tour; searched Wikipedia (Cilicia, Syria)."
+claim:ac-15-41-syria-cilicia-strengthening,P,material-culture,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+claim:ac-15-41-syria-cilicia-strengthening,P,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",inscription,none-found,,"No accepted inscription names James; the James ossuary inscription is unprovenanced and disputed (linked in the burial cell); searched Wikipedia (James the Just, James ossuary)."
+person:james-brother-of-jesus,"James, brother of Jesus",coin,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",burial-or-ossuary,found,artifact:james-ossuary,"The James ossuary ('James son of Joseph brother of Jesus') is an unprovenanced antiquities-market find whose inscription's authenticity is disputed (IAA: modern forgery; trial verdict: guilt not proven), so D. The graph's existing attests edge carries the full dispute note."
+person:james-brother-of-jesus,"James, brother of Jesus",manuscript,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",jewish-literary,found,text:josephus-antiquities-20,"Josephus, Ant. 20.9.1 (c. 20.200): 'James, the brother of Jesus who was called Christ' condemned by high priest Ananus (c. 62 CE) - the person is A; no source describes a presiding role at the Jerusalem meeting."
+person:james-brother-of-jesus,"James, brother of Jesus",greco-roman-literary,none-found,,No classical author names James; searched Wikipedia (James the Just).
+person:james-brother-of-jesus,"James, brother of Jesus",material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:james-brother-of-jesus,"James, brother of Jesus",astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:judas-barsabbas,Judas called Barsabbas,inscription,none-found,,"No inscription names Judas Barsabbas; searched Wikipedia (Judas Barsabbas, Joseph Barsabbas)."
+person:judas-barsabbas,Judas called Barsabbas,coin,n/a,,Category cannot bear evidence for this anchor.
+person:judas-barsabbas,Judas called Barsabbas,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:judas-barsabbas,Judas called Barsabbas,burial-or-ossuary,none-found,,No burial or ossuary is known; searched Wikipedia (Judas Barsabbas).
+person:judas-barsabbas,Judas called Barsabbas,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry 15:22 and 15:27, and Papyrus 45 carries them (preserves edges); a copy of the text is not independent evidence for the person."
+person:judas-barsabbas,Judas called Barsabbas,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:judas-barsabbas,Judas called Barsabbas,jewish-literary,none-found,,No Jewish literary text names him; searched Wikipedia (Judas Barsabbas).
+person:judas-barsabbas,Judas called Barsabbas,greco-roman-literary,none-found,,No classical author names him; searched Wikipedia (Judas Barsabbas).
+person:judas-barsabbas,Judas called Barsabbas,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:judas-barsabbas,Judas called Barsabbas,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:judas-barsabbas,Judas called Barsabbas,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:paul-of-tarsus,Paul (Saul of Tarsus),inscription,none-found,,"No first-century inscription bearing on this chapter's events names Paul; searched Wikipedia (Paul the Apostle, Council of Jerusalem)."
+person:paul-of-tarsus,Paul (Saul of Tarsus),coin,n/a,,Category cannot bear evidence for this anchor.
+person:paul-of-tarsus,Paul (Saul of Tarsus),structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:paul-of-tarsus,Paul (Saul of Tarsus),burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+person:paul-of-tarsus,Paul (Saul of Tarsus),manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry all 41 verses (15:34 omitted, no preserves edge) and Papyrus 45 carries the verses where Paul speaks (15:2-7, 19-26, 38-41); a copy of the text is not independent evidence for the claim."
+person:paul-of-tarsus,Paul (Saul of Tarsus),documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:paul-of-tarsus,Paul (Saul of Tarsus),jewish-literary,none-found,,"Josephus never mentions Paul in connection with this council; searched Wikipedia (Paul the Apostle, Council of Jerusalem)."
+person:paul-of-tarsus,Paul (Saul of Tarsus),greco-roman-literary,none-found,,No classical author names Paul in this period; searched Wikipedia (Paul the Apostle).
+person:paul-of-tarsus,Paul (Saul of Tarsus),material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:paul-of-tarsus,Paul (Saul of Tarsus),geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:paul-of-tarsus,Paul (Saul of Tarsus),astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+person:silas,Silas,inscription,none-found,,"No inscription names Silas/Silvanus; searched Wikipedia (Silas, Silvanus)."
+person:silas,Silas,coin,n/a,,Category cannot bear evidence for this anchor.
+person:silas,Silas,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+person:silas,Silas,burial-or-ossuary,none-found,,No burial or ossuary is known; searched Wikipedia (Silas).
+person:silas,Silas,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry 15:22, 27, 32-33, 40, and Papyrus 45 carries 15:22, 27 and 40 (preserves edges); a copy of the text is not independent evidence for the person."
+person:silas,Silas,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+person:silas,Silas,jewish-literary,none-found,,No Jewish literary text names him; searched Wikipedia (Silas).
+person:silas,Silas,greco-roman-literary,none-found,,No classical author names him; searched Wikipedia (Silas).
+person:silas,Silas,material-culture,n/a,,Category cannot bear evidence for this anchor.
+person:silas,Silas,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+person:silas,Silas,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:cilicia,Cilicia,inscription,none-found,,No inscription bearing on this chapter names Cilicia; searched Wikipedia (Cilicia).
+place:cilicia,Cilicia,coin,n/a,,Category cannot bear evidence for this anchor.
+place:cilicia,Cilicia,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+place:cilicia,Cilicia,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:cilicia,Cilicia,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry 15:23 and 15:41, and Papyrus 45 carries them (preserves edges); a copy of the text is not independent evidence."
+place:cilicia,Cilicia,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:cilicia,Cilicia,jewish-literary,none-found,,"Josephus attests Jews in Cilician Tarsus (Ant. 14 and War 7 name Cilician communities), but this run fetched no passage tying the province to this letter or tour; searched Wikisource (Ant. 14, War 7) and Wikipedia (Cilicia)."
+place:cilicia,Cilicia,greco-roman-literary,none-found,,"Strabo (14.5.13, already in the graph) names Tarsus the capital of Cilicia, but the fetched excerpt bears on Tarsus, not this chapter's claims; searched Wikipedia (Cilicia)."
+place:cilicia,Cilicia,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:cilicia,Cilicia,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+place:cilicia,Cilicia,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:cyprus,Cyprus,inscription,none-found,,No inscription bearing on this chapter names Cyprus; searched Wikipedia (Roman Cyprus).
+place:cyprus,Cyprus,coin,n/a,,Category cannot bear evidence for this anchor.
+place:cyprus,Cyprus,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+place:cyprus,Cyprus,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:cyprus,Cyprus,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus,Sinaiticus and Vaticanus carry 15:39 (P45 does not include it); a copy of the text is not independent evidence.
+place:cyprus,Cyprus,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:cyprus,Cyprus,jewish-literary,none-found,,"Josephus attests Jews on Cyprus (War 1.6.2 names a Cypriot Jewish community under a massacre in 115 CE context), but no fetched passage bears on Barnabas's voyage; searched Wikisource and Wikipedia (Barnabas, Roman Cyprus)."
+place:cyprus,Cyprus,greco-roman-literary,none-found,,No fetched classical passage bears on this chapter's claim; searched Wikipedia (Roman Cyprus: 'a small senatorial province of the Roman Empire').
+place:cyprus,Cyprus,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:cyprus,Cyprus,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+place:cyprus,Cyprus,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.
+place:phoenicia,Phoenicia,inscription,none-found,,No inscription bearing on this chapter names Phoenicia; the region's city-states are epigraphically rich but nothing was fetched naming the region in this context; searched Wikipedia (Phoenicia).
+place:phoenicia,Phoenicia,coin,n/a,,Category cannot bear evidence for this anchor.
+place:phoenicia,Phoenicia,structure-or-site,n/a,,Category cannot bear evidence for this anchor.
+place:phoenicia,Phoenicia,burial-or-ossuary,n/a,,Category cannot bear evidence for this anchor.
+place:phoenicia,Phoenicia,manuscript,found,artifact:codex-sinaiticus;artifact:codex-vaticanus;artifact:papyrus-45,"Sinaiticus and Vaticanus carry 15:3, and Papyrus 45 carries it (preserves edges); a copy of the text is not independent evidence."
+place:phoenicia,Phoenicia,documentary-papyrus,n/a,,Category cannot bear evidence for this anchor.
+place:phoenicia,Phoenicia,jewish-literary,none-found,,"Josephus often names Phoenicia and its cities, but this run fetched no passage tying the region to this journey; searched Wikisource (War 2, Ant. 15, 20) and Wikipedia (Phoenicia)."
+place:phoenicia,Phoenicia,greco-roman-literary,none-found,,"Strabo and Pliny describe Phoenicia, but no fetched passage bears on this chapter's claim; searched Wikipedia (Phoenicia)."
+place:phoenicia,Phoenicia,material-culture,n/a,,Category cannot bear evidence for this anchor.
+place:phoenicia,Phoenicia,geography-or-nature,n/a,,Category cannot bear evidence for this anchor.
+place:phoenicia,Phoenicia,astronomy-or-calendar,n/a,,Category cannot bear evidence for this anchor.

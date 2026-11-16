@@ -1,0 +1,87 @@
+{
+ "source:bible-api-amos-9-11-12": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/amos+9:11-12?translation=web"
+ },
+ "source:bible-api-galatians-2-1-10": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/galatians+2:1-10?translation=web"
+ },
+ "source:bible-api-leviticus-17-7-14": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://bible-api.com/leviticus+17:7-14?translation=web"
+ },
+ "source:halakhah-sanhedrin-56a": {
+  "http": 200,
+  "status": "verified",
+  "url": "http://www.halakhah.com/sanhedrin/sanhedrin_56.html"
+ },
+ "source:wikipedia-cilicia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cilicia"
+ },
+ "source:wikipedia-council-of-jerusalem": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Council_of_Jerusalem"
+ },
+ "source:wikipedia-council-of-jerusalem-noahide": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Council_of_Jerusalem"
+ },
+ "source:wikipedia-council-of-jerusalem-western": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Council_of_Jerusalem"
+ },
+ "source:wikipedia-cyprus-roman": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Cyprus_(Roman_province)"
+ },
+ "source:wikipedia-james-the-just": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/James_the_Just"
+ },
+ "source:wikipedia-omitted-verses-acts-15-34": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/List_of_omitted_Bible_verses"
+ },
+ "source:wikipedia-papyrus-45-acts-15": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-phoenicia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Phoenicia"
+ },
+ "source:wikipedia-seven-laws-noah": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Seven_Laws_of_Noah"
+ },
+ "source:wikipedia-textual-variants-acts-15-34": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Textual_variants_in_the_Acts_of_the_Apostles"
+ },
+ "source:wikisource-ant-20-izates-circumcision": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XX"
+ },
+ "source:wikisource-apion-2": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Against_Apion/Book_II"
+ }
+}

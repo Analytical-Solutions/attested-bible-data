@@ -1,0 +1,112 @@
+{
+ "source:judaism-and-rome-oath-paphlagonia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.judaism-and-rome.org/oath-loyalty-augustus-paphlagonia"
+ },
+ "source:ploughboy-barton-pergamon": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://www.ploughboy.org/blog/2017/2/16/to-the-unknown-gods"
+ },
+ "source:topostext-pausanias-1-1-4": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://topostext.org/work/213"
+ },
+ "source:wikipedia-amphipolis": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Amphipolis"
+ },
+ "source:wikipedia-apollonia-mygdonia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Apollonia_(Mygdonia)"
+ },
+ "source:wikipedia-areopagus": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Areopagus"
+ },
+ "source:wikipedia-areopagus-setting": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Areopagus"
+ },
+ "source:wikipedia-athens-summary": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Athens"
+ },
+ "source:wikipedia-beroea": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Beroea"
+ },
+ "source:wikipedia-epicureanism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Epicureanism"
+ },
+ "source:wikipedia-epimenides": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Epimenides"
+ },
+ "source:wikipedia-papyrus-45": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-45-acts-contents": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_45"
+ },
+ "source:wikipedia-papyrus-74": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Papyrus_74"
+ },
+ "source:wikipedia-politarch": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Politarch"
+ },
+ "source:wikipedia-politarch-vardar": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Politarch"
+ },
+ "source:wikipedia-stoicism": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Stoicism"
+ },
+ "source:wikipedia-thessaloniki": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Thessaloniki"
+ },
+ "source:wikipedia-unknown-god": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Unknown_God"
+ },
+ "source:wikipedia-via-egnatia": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikipedia.org/wiki/Via_Egnatia"
+ },
+ "source:wikisource-diogenes-laertius-1-110": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_I"
+ },
+ "source:wikisource-josephus-ant-17": {
+  "http": 200,
+  "status": "verified",
+  "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_XVII"
+ }
+}

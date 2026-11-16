@@ -1,0 +1,210 @@
+{"from": "passage:mt-14-01", "type": "asserts", "to": "claim:mt-14-01-herod-heard"}
+{"from": "passage:mt-14-01", "type": "asserts", "to": "claim:mt-14-01-antipas-tetrarch"}
+{"from": "passage:mt-14-02", "type": "asserts", "to": "claim:mt-14-02-herod-thought-john-risen"}
+{"from": "passage:mt-14-03", "type": "asserts", "to": "claim:mt-14-03-john-imprisoned-herodias"}
+{"from": "passage:mt-14-04", "type": "asserts", "to": "claim:mt-14-04-not-lawful-to-have-her"}
+{"from": "passage:mt-14-05", "type": "asserts", "to": "claim:mt-14-05-feared-the-multitude"}
+{"from": "passage:mt-14-06", "type": "asserts", "to": "claim:mt-14-06-birthday-banquet"}
+{"from": "passage:mt-14-06", "type": "asserts", "to": "claim:mt-14-06-herodias-daughter-danced"}
+{"from": "passage:mt-14-07", "type": "asserts", "to": "claim:mt-14-06-herodias-daughter-danced"}
+{"from": "passage:mt-14-07", "type": "asserts", "to": "claim:mt-14-07-oath-whatever-she-asks"}
+{"from": "passage:mt-14-08", "type": "asserts", "to": "claim:mt-14-08-head-on-platter"}
+{"from": "passage:mt-14-11", "type": "asserts", "to": "claim:mt-14-08-head-on-platter"}
+{"from": "passage:mt-14-09", "type": "asserts", "to": "claim:mt-14-10-john-beheaded-in-prison"}
+{"from": "passage:mt-14-10", "type": "asserts", "to": "claim:mt-14-10-john-beheaded-in-prison"}
+{"from": "passage:mt-14-12", "type": "asserts", "to": "claim:mt-14-12-john-buried"}
+{"from": "passage:mt-14-13", "type": "asserts", "to": "claim:mt-14-13-withdrew-by-boat"}
+{"from": "passage:mt-14-15", "type": "asserts", "to": "claim:mt-14-17-five-loaves-two-fish"}
+{"from": "passage:mt-14-16", "type": "asserts", "to": "claim:mt-14-17-five-loaves-two-fish"}
+{"from": "passage:mt-14-17", "type": "asserts", "to": "claim:mt-14-17-five-loaves-two-fish"}
+{"from": "passage:mt-14-18", "type": "asserts", "to": "claim:mt-14-17-five-loaves-two-fish"}
+{"from": "passage:mt-14-19", "type": "asserts", "to": "claim:mt-14-17-five-loaves-two-fish"}
+{"from": "passage:mt-14-20", "type": "asserts", "to": "claim:mt-14-20-twelve-baskets"}
+{"from": "passage:mt-14-21", "type": "asserts", "to": "claim:mt-14-21-five-thousand-men"}
+{"from": "passage:mt-14-22", "type": "asserts", "to": "claim:mt-14-24-boat-stormed"}
+{"from": "passage:mt-14-24", "type": "asserts", "to": "claim:mt-14-24-boat-stormed"}
+{"from": "passage:mt-14-32", "type": "asserts", "to": "claim:mt-14-24-boat-stormed"}
+{"from": "passage:mt-14-25", "type": "asserts", "to": "claim:mt-14-25-fourth-watch"}
+{"from": "passage:mt-14-25", "type": "asserts", "to": "claim:mt-14-25-walking-on-the-sea"}
+{"from": "passage:mt-14-26", "type": "asserts", "to": "claim:mt-14-25-walking-on-the-sea"}
+{"from": "passage:mt-14-28", "type": "asserts", "to": "claim:mt-14-29-peter-walked-on-water"}
+{"from": "passage:mt-14-29", "type": "asserts", "to": "claim:mt-14-29-peter-walked-on-water"}
+{"from": "passage:mt-14-30", "type": "asserts", "to": "claim:mt-14-29-peter-walked-on-water"}
+{"from": "passage:mt-14-31", "type": "asserts", "to": "claim:mt-14-29-peter-walked-on-water"}
+{"from": "passage:mt-14-34", "type": "asserts", "to": "claim:mt-14-34-land-of-gennesaret"}
+{"from": "passage:mt-14-35", "type": "asserts", "to": "claim:mt-14-36-fringe-of-garment"}
+{"from": "passage:mt-14-36", "type": "asserts", "to": "claim:mt-14-36-fringe-of-garment"}
+{"from": "claim:mt-14-01-antipas-tetrarch", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-14-02-herod-thought-john-risen", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-14-02-herod-thought-john-risen", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-14-03-john-imprisoned-herodias", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-14-03-john-imprisoned-herodias", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-14-03-john-imprisoned-herodias", "type": "mentions", "to": "person:herodias"}
+{"from": "claim:mt-14-03-john-imprisoned-herodias", "type": "mentions", "to": "person:herod-ii"}
+{"from": "claim:mt-14-04-not-lawful-to-have-her", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-14-04-not-lawful-to-have-her", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-14-06-herodias-daughter-danced", "type": "mentions", "to": "person:salome"}
+{"from": "claim:mt-14-06-herodias-daughter-danced", "type": "mentions", "to": "person:herodias"}
+{"from": "claim:mt-14-06-herodias-daughter-danced", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-14-08-head-on-platter", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-14-10-john-beheaded-in-prison", "type": "mentions", "to": "person:herod-antipas"}
+{"from": "claim:mt-14-10-john-beheaded-in-prison", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-14-12-john-buried", "type": "mentions", "to": "person:john-the-baptist"}
+{"from": "claim:mt-14-24-boat-stormed", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-14-25-walking-on-the-sea", "type": "mentions", "to": "place:sea-of-galilee"}
+{"from": "claim:mt-14-25-walking-on-the-sea", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "claim:mt-14-34-land-of-gennesaret", "type": "mentions", "to": "place:gennesaret"}
+{"from": "claim:mt-14-36-fringe-of-garment", "type": "mentions", "to": "person:jesus-of-nazareth"}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "claim:mt-14-01-antipas-tetrarch", "grade": "B", "note": "Antipas's bronze coins name him in Greek: 'The obverse has the Greek inscription \"Herod the Tetrarch\" (ΗΡΩΔΟΥ ΤΕΤΡΑΡΧΟΥ)' (Wikipedia, Herodian coinage) - the same office and title Matthew gives him, though the coins carry no regnal dates tying them to the moment of 14:1."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "Coins struck under Antipas are attested; Wikipedia notes his coins carried no images (aniconic), so they confirm his minting rule without portrait (reused from ch 04)."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "The passage names 'Herod, who feared lest the great influence John had over the people...' and 'Herod slew him'; the identification of that tetrarch with Antipas rests on context (reused edge, ch 03/11)."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "person:john-the-baptist", "grade": "A", "note": "Josephus names 'John, that was called the Baptist: for Herod slew him, who was a good man' - the same person, his death at Herod's hand (18.116-119)."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-14-10-john-beheaded-in-prison", "grade": "B", "note": "'Accordingly he was sent a prisoner, out of Herod's suspicious temper, to Macherus, the castle I before mentioned, and was there put to death.' Josephus confirms the imprisonment and execution by Herod, but gives a political motive (fear of rebellion), not the birthday banquet or Herodias's oath."}
+{"from": "text:josephus-ant-18-116-119", "type": "attests", "to": "claim:mt-14-01-antipas-tetrarch", "grade": "B", "note": "The same chapter repeatedly styles him 'Herod the tetrarch' (18.109: 'Herod the tetrarch had, married the daughter of Aretas'); Whiston's chapter title names 'HEROD THE TETRARCH'."}
+{"from": "site:machaerus", "type": "attests", "to": "claim:mt-14-10-john-beheaded-in-prison", "grade": "B", "note": "The excavated Herodian fortress east of the Dead Sea is the place where Josephus locates John's imprisonment and execution ('sent a prisoner... to Macherus... there put to death') - the setting of the beheading of 14:10."}
+{"from": "site:machaerus", "type": "attests", "to": "claim:mt-14-03-john-imprisoned-herodias", "grade": "B", "note": "Josephus says John 'was sent a prisoner... to Macherus'; the excavated fortress is the prison's setting. Josephus's motive (Herod's suspicious temper) differs from Matthew's (Herodias)."}
+{"from": "text:josephus-ant-18-136-herodias", "type": "attests", "to": "person:salome", "grade": "A", "note": "Josephus names Herodias's daughter: 'Herodias... was married to Herod [Philip], the son of Herod the Great... who had a daughter, Salome' - the daughter of Herodias of 14:6, named where the Gospel leaves her unnamed."}
+{"from": "text:josephus-ant-18-136-herodias", "type": "attests", "to": "person:herodias", "grade": "A", "note": "Josephus names Herodias, 'their sister', as the wife who divorced her first husband while he was alive and 'was married to Herod [Antipas], her husband's brother by the father's side, he was tetrarch of Galilee' - the same woman at the centre of 14:3-11."}
+{"from": "text:josephus-ant-18-136-herodias", "type": "attests", "to": "person:herod-ii", "grade": "A", "note": "Josephus names Herodias's first husband: 'was married to Herod [Philip], the son of Herod the Great' (born of Mariamne, daughter of Simon the high priest) - the brother Matthew calls 'Philip'; Josephus himself does not use the name Philip for him."}
+{"from": "text:josephus-ant-18-136-herodias", "type": "attests", "to": "claim:mt-14-06-herodias-daughter-danced", "grade": "C", "note": "Josephus identifies the daughter of Herodias (Salome) but records nothing of the dance at the birthday banquet. The claim as a whole includes the dance, so the grade is contextual for the claim; the identity of the participant alone is carried at A by the edge to person:salome."}
+{"from": "text:josephus-ant-18-136-herodias", "type": "complicates", "to": "claim:mt-14-03-john-imprisoned-herodias", "note": "Matthew calls Herodias 'his brother Philip's wife'; Josephus says her first husband was another 'Herod' (Herod II), that 'Herodias took upon her to confound the laws of our country, and divorced herself from her husband while he was alive', and that Philip the tetrarch was instead the husband of her daughter Salome."}
+{"from": "artifact:salome-aristobulus-coins", "type": "attests", "to": "person:salome", "grade": "D", "note": "'A few coins with portraits of both Aristobulus and Salome have been found' (Wikipedia, Salome) - coins of her second marriage. Unprovenanced: no recorded excavation is given, so authenticity cannot be secured."}
+{"from": "text:josephus-war-3-gennesaret", "type": "attests", "to": "place:gennesaret", "grade": "A", "note": "Josephus names the place: 'The country also that lies over against this lake hath the same name of Gennesareth', thirty furlongs along the lake by twenty broad - the same named district on the lake's shore."}
+{"from": "text:josephus-war-3-gennesaret", "type": "attests", "to": "claim:mt-14-34-land-of-gennesaret", "grade": "B", "note": "Confirms the specific setting of 14:34: a fertile, well-watered plain on the shore of the lake the countrymen called 'the Lake of Gennesareth', where boats could land and the population could crowd the sick to him."}
+{"from": "text:juvenal-satire-3", "type": "attests", "to": "claim:mt-14-20-twelve-baskets", "grade": "C", "note": "Juvenal (c. 100 CE): the Jews at the Porta Capena 'possess a basket and a truss of hay for all their furnishings' - the kophinus as a distinctive Jewish possession at exactly the period; it shows the word's world, not this meal."}
+{"from": "text:polybius-6-watches", "type": "attests", "to": "claim:mt-14-25-fourth-watch", "grade": "C", "note": "Polybius describes the Roman camp night-watch system, with watches begun by bugle and rounds inspected - the military practice behind dividing the night into four watches (Wikipedia: 'Under Roman rule, four night watches existed... each being of three hours' duration')."}
+{"from": "observation:sea-of-galilee-sudden-storms", "type": "attests", "to": "claim:mt-14-24-boat-stormed", "grade": "C", "note": "The Sea of Galilee 'was known for its sudden and fierce storms' - a small boat 'in the middle of the sea, distressed by the waves, for the wind was contrary' describes a real, characteristic hazard (reused observation from ch 08)."}
+{"from": "observation:galilee-fish-species", "type": "attests", "to": "claim:mt-14-17-five-loaves-two-fish", "grade": "C", "note": "The lake's fishery yields musht (tilapia), sardin and biny - 'two fish' is an ordinary Galilean food of the period; the observation documents the fish, not the miracle."}
+{"from": "artifact:magdala-fishing-gear", "type": "attests", "to": "claim:mt-14-17-five-loaves-two-fish", "grade": "C", "note": "Excavated net needle and lead net weights at Magdala on the lake shore - the fishery that made dried and salted fish a staple (reused from ch 04/08; the object dates are not stated by the source)."}
+{"from": "site:church-of-multiplication", "type": "attests", "to": "claim:mt-14-17-five-loaves-two-fish", "grade": "D", "note": "A 4th-century chapel under a 5th-century church at Tabgha commemorates the feeding; the excavated remains are 4th-5th century, a pilgrim tradition about the site, not first-century evidence of the event."}
+{"from": "artifact:tabgha-loaves-mosaic", "type": "attests", "to": "claim:mt-14-17-five-loaves-two-fish", "grade": "D", "note": "The 5th-century altar mosaic 'depicts two fish flanking a basket containing four loaves of bread' - a later commemoration of the feeding tradition (it shows four loaves, not five), not evidence of the event itself."}
+{"from": "site:nabi-yahya-mosque", "type": "attests", "to": "claim:mt-14-12-john-buried", "grade": "D", "note": "'Nabi Yahya Mosque, traditionally held as the burial site of John the Baptist, in Sebastia, near Nablus' (Wikipedia) - a tradition site with no excavation cited confirming the burial."}
+{"from": "artifact:tekhelet-fabrics", "type": "attests", "to": "claim:mt-14-36-fringe-of-garment", "grade": "C", "note": "Blue (murex-dyed) wool fabrics of the period from Masada and Wadi Murabba'at - the dyeing tradition behind the tzitzit's 'cord of blue'; the fringe (kraspedon) of 14:36 is the same garment corner (reused from ch 09)."}
+{"from": "artifact:tekhelet-fabrics", "type": "complicates", "to": "claim:mt-14-36-fringe-of-garment", "note": "The ritual identification of murex blue is disputed: 'Others have also disputed that Murex trunculus might not be the correct chilazon due to its failure in fitting many Rabbinic criteria' (reused from ch 09)."}
+{"from": "text:josephus-ant-18-bethsaida", "type": "attests", "to": "place:bethsaida", "grade": "A", "note": "Josephus names 'the village Bethsaids, situate at the lake of Gennesareth', advanced by Philip the tetrarch to the dignity of a city and renamed Julias - the same named town at the same lake (reused from ch 11; which modern site it was is disputed separately)."}
+{"from": "text:josephus-ant-18-tiberias", "type": "attests", "to": "place:tiberias", "grade": "A", "note": "Josephus names the foundation: 'Herod the tetrarch, who was in great favor with Tiberius, built a city of the same name with him, and called it Tiberias. He built it in the best part of Galilee, at the lake of Gennesareth.'"}
+{"from": "text:josephus-ant-18-tiberias", "type": "attests", "to": "person:herod-antipas", "grade": "B", "note": "The passage names 'Herod the tetrarch' as the founder of Tiberias, his capital - his own documented building, the strongest site-type evidence for him; the identification of the tetrarch with Antipas rests on context (as in ch 03/11)."}
+{"from": "artifact:antipas-coins", "type": "attests", "to": "place:tiberias", "grade": "A", "note": "Antipas's coins are inscribed 'ΤΙΒΕΡΙΑC' (Tiberias), 'where the coins were minted' (Wikipedia, Herodian coinage): the city's own name in the period, struck at his mint."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "claim:mt-14-24-boat-stormed", "grade": "C", "note": "A 1st-century fishing boat recovered from the lake bed - the kind of open boat that could be caught 'in the middle of the sea' by a contrary wind (reused from ch 08; no evidence connects the boat to Jesus or his disciples)."}
+{"from": "artifact:galilee-boat", "type": "attests", "to": "place:sea-of-galilee", "grade": "C", "note": "An ancient fishing boat recovered from the lake itself confirms first-century navigation on the Sea of Galilee."}
+{"from": "text:josephus-war-3-gennesaret", "type": "attests", "to": "place:sea-of-galilee", "grade": "A", "note": "Josephus names the lake: 'This lake is called by the people of the country the Lake of Gennesareth' - the same water by its local first-century name."}
+{"from": "text:josephus-war-3-gennesaret", "type": "attests", "to": "claim:mt-14-24-boat-stormed", "grade": "C", "note": "Josephus describes open-water navigation and fighting on this lake in the period (Vespasian's ships against Taricheae's boats): boats worked the mid-lake where a contrary wind would strand them."}
+{"from": "site:el-araj", "type": "identified_as", "to": "place:bethsaida", "note": "El-Araj on the north shore is the currently favoured candidate: 'el-Araj being lately favoured due to the most recent discoveries, displacing et-Tell as the front-runner'; the identification is not settled (reused from ch 11, grade D there)."}
+{"from": "text:mark-6-17", "type": "related_to", "to": "claim:mt-14-03-john-imprisoned-herodias", "note": "Cross-reference: Mark 6:17 (WEB) gives the parallel, 'bound him in prison for the sake of Herodias, his brother Philip's wife'. A biblical text is not independent evidence."}
+{"from": "text:luke-9-10", "type": "related_to", "to": "claim:mt-14-13-withdrew-by-boat", "note": "Cross-reference: Luke 9:10 (WEB) sets the withdrawal and feeding 'apart to a desert region of a city called Bethsaida'; Matthew says only 'a deserted place'. A biblical text is not independent evidence."}
+{"from": "text:luke-9-10", "type": "related_to", "to": "claim:mt-14-17-five-loaves-two-fish", "note": "Cross-reference: Luke 9:10-16 places the feeding of the five thousand near Bethsaida; Matthew 14:13-21 does not name the place. A biblical text is not independent evidence."}
+{"from": "text:leviticus-18-16", "type": "related_to", "to": "claim:mt-14-04-not-lawful-to-have-her", "note": "Cross-reference: Leviticus 18:16 (WEB) forbids uncovering 'the nakedness of your brother's wife' - the law John invokes. A biblical text is not independent evidence."}
+{"from": "text:numbers-15", "type": "related_to", "to": "claim:mt-14-36-fringe-of-garment", "note": "Numbers 15:38-39 commands fringes on the garment corners with 'a cord of blue' - the tzitzit whose kraspedon the crowds touched (reused cross-reference from ch 09)."}
+{"from": "person:herod-antipas", "type": "documented_by", "to": "source:wikipedia-herod-antipas"}
+{"from": "person:john-the-baptist", "type": "documented_by", "to": "source:wikipedia-john-baptist-josephus"}
+{"from": "person:herodias", "type": "documented_by", "to": "source:wikipedia-herodias"}
+{"from": "person:salome", "type": "documented_by", "to": "source:wikipedia-salome-identification"}
+{"from": "person:salome", "type": "documented_by", "to": "source:wikisource-ant18-herodias"}
+{"from": "person:herod-ii", "type": "documented_by", "to": "source:wikipedia-herodias"}
+{"from": "place:tiberias", "type": "documented_by", "to": "source:wikipedia-herod-antipas-tiberias"}
+{"from": "place:gennesaret", "type": "documented_by", "to": "source:wikisource-war3-gennesaret"}
+{"from": "site:church-of-multiplication", "type": "documented_by", "to": "source:wikipedia-church-of-multiplication"}
+{"from": "site:nabi-yahya-mosque", "type": "documented_by", "to": "source:wikipedia-john-baptist-burial"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus"}
+{"from": "site:machaerus", "type": "documented_by", "to": "source:wikipedia-machaerus-john"}
+{"from": "artifact:tabgha-loaves-mosaic", "type": "documented_by", "to": "source:wikipedia-church-of-multiplication-mosaic"}
+{"from": "artifact:salome-aristobulus-coins", "type": "documented_by", "to": "source:wikipedia-salome-coins"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herodian-coinage-antipas"}
+{"from": "artifact:antipas-coins", "type": "documented_by", "to": "source:wikipedia-herod-antipas-coins"}
+{"from": "artifact:tekhelet-fabrics", "type": "documented_by", "to": "source:wikipedia-tekhelet"}
+{"from": "artifact:tekhelet-fabrics", "type": "documented_by", "to": "source:wikipedia-tzitzit"}
+{"from": "artifact:magdala-fishing-gear", "type": "documented_by", "to": "source:wikipedia-magdala-fishing"}
+{"from": "observation:sea-of-galilee-sudden-storms", "type": "documented_by", "to": "source:wikipedia-calming-storm"}
+{"from": "observation:galilee-fish-species", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-fish"}
+{"from": "text:josephus-ant-18-116-119", "type": "documented_by", "to": "source:wikisource-ant18-machaerus"}
+{"from": "text:josephus-ant-18-136-herodias", "type": "documented_by", "to": "source:wikisource-ant18-herodias"}
+{"from": "text:josephus-war-3-gennesaret", "type": "documented_by", "to": "source:wikisource-war3-gennesaret"}
+{"from": "text:juvenal-satire-3", "type": "documented_by", "to": "source:wikisource-juvenal-3"}
+{"from": "text:polybius-6-watches", "type": "documented_by", "to": "source:wikisource-polybius-6"}
+{"from": "text:josephus-ant-18-bethsaida", "type": "documented_by", "to": "source:wikisource-ant18-bethsaida"}
+{"from": "site:el-araj", "type": "documented_by", "to": "source:wikipedia-bethsaida"}
+{"from": "site:el-araj", "type": "documented_by", "to": "source:wikipedia-bethsaida-elaraj"}
+{"from": "site:et-tell", "type": "documented_by", "to": "source:wikipedia-bethsaida-etell"}
+{"from": "artifact:codex-sinaiticus", "type": "documented_by", "to": "source:wikipedia-codex-sinaiticus"}
+{"from": "artifact:codex-vaticanus", "type": "documented_by", "to": "source:wikipedia-codex-vaticanus"}
+{"from": "text:mark-6-17", "type": "documented_by", "to": "source:bible-api-mark-6-17"}
+{"from": "text:luke-9-10", "type": "documented_by", "to": "source:bible-api-luke-9-10"}
+{"from": "text:leviticus-18-16", "type": "documented_by", "to": "source:bible-api-leviticus-18-16"}
+{"from": "text:numbers-15", "type": "documented_by", "to": "source:wikisource-numbers-15"}
+{"from": "text:josephus-ant-18-tiberias", "type": "documented_by", "to": "source:wikisource-ant18-tiberias"}
+{"from": "artifact:galilee-boat", "type": "documented_by", "to": "source:wikipedia-sea-of-galilee-boat"}
+{"from": "claim:mt-14-01-antipas-tetrarch", "type": "documented_by", "to": "source:wikipedia-herod-antipas-title"}
+{"from": "claim:mt-14-03-john-imprisoned-herodias", "type": "documented_by", "to": "source:wikipedia-herod-antipas-herodias"}
+{"from": "claim:mt-14-25-fourth-watch", "type": "documented_by", "to": "source:wikipedia-watches"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-01"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-01"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-02"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-02"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-03"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-03"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-04"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-04"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-05"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-05"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-06"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-06"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-07"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-07"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-08"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-08"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-09"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-09"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-10"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-10"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-11"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-11"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-12"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-12"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-13"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-13"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-14"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-14"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-15"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-15"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-16"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-16"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-17"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-17"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-18"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-18"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-19"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-19"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-20"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-20"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-21"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-21"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-22"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-22"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-23"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-23"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-24"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-24"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-25"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-25"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-26"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-26"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-27"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-27"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-28"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-28"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-29"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-29"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-30"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-30"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-31"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-31"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-32"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-32"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-33"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-33"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-34"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-34"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-35"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-35"}
+{"from": "artifact:codex-sinaiticus", "type": "preserves", "to": "passage:mt-14-36"}
+{"from": "artifact:codex-vaticanus", "type": "preserves", "to": "passage:mt-14-36"}

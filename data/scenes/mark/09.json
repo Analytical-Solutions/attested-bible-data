@@ -1,0 +1,42 @@
+{
+  "book": "mark",
+  "chapter": 9,
+  "scenes": [
+    {
+      "verses": [
+        1,
+        13
+      ],
+      "setting": null,
+      "basis": "9:2 \"brought them up onto a high mountain privately\" - the mountain of the transfiguration is not named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        14,
+        29
+      ],
+      "setting": null,
+      "basis": "9:14 \"Coming to the disciples, he saw a great multitude around them\" - below the unnamed mountain; no place named",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        30,
+        32
+      ],
+      "setting": "place:galilee",
+      "basis": "9:30 \"They went out from there, and passed through Galilee\"",
+      "confidence": "stated"
+    },
+    {
+      "verses": [
+        33,
+        50
+      ],
+      "setting": "place:capernaum",
+      "basis": "9:33 \"He came to Capernaum, and when he was in the house\"",
+      "confidence": "stated"
+    }
+  ]
+}
