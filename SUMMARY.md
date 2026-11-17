@@ -6,7 +6,7 @@ artifact 157 · claim 1740 · observation 50 · passage 4786 · person 243 · pl
 
 ## Attestation grades
 
-A 226 · B 424 · C 701 · D 157 · complicates 77
+A 225 · B 425 · C 701 · D 157 · complicates 77
 
 ## Strongest evidence (A=4, B=3, C=2, D=1 per claim attested)
 
@@ -23,8 +23,8 @@ A 226 · B 424 · C 701 · D 157 · complicates 77
 - Capernaum (excavated town site) (`site:capernaum`): 25
 - Josephus, Ant. 20.137-144 (Felix made procurator of Judea; he takes Drusilla) (`text:josephus-ant-20-137-144`): 25
 - Pilate stone (Caesarea inscription) (`artifact:pilate-stone`): 23
-- Caesarea Maritima (Herod's port city, excavated) (`site:caesarea-maritima`): 23
 - Josephus, Ant. 20.169-172 (the Egyptian prophet at the Mount of Olives) (`text:josephus-ant-20-169-172`): 23
+- Caesarea Maritima (Herod's port city, excavated) (`site:caesarea-maritima`): 22
 - Josephus on Herod's last days and death (`text:josephus-ant-17-death`): 22
 - Mishnah Pesachim 5:1 (the daily offering slaughtered at the eighth-and-a-half hour) (`text:mishnah-pesachim-5-1`): 22
 - Josephus, War 6.5.3 (6.288-300): prodigies before the war, and the captain of the temple (`text:josephus-war-6-288-300`): 21

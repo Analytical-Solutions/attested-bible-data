@@ -4,7 +4,7 @@ A verse-level evidence graph. Each historical claim in the text is linked to the
 
 The graph records evidence in tension with the text, and searches that found nothing, as plainly as confirmations.
 
-**Version 0.1.0 (2026-11-16).** This release covers Matthew, Mark, Luke, John and Acts.
+**Version 0.1.1 (2026-11-16).** This release covers Matthew, Mark, Luke, John and Acts.
 
 | | Count |
 |---|---|
@@ -13,7 +13,7 @@ The graph records evidence in tension with the text, and searches that found not
 | Evidence items (artifacts, texts, sites, observations) | 840 |
 | Persons and places | 382 |
 | Sources, each with a verified excerpt | 1,498 |
-| Graded links: A / B / C / D | 226 / 424 / 701 / 157 |
+| Graded links: A / B / C / D | 225 / 425 / 701 / 157 |
 | Evidence in tension (`complicates`) | 77 |
 | Manuscript links (`preserves`) | 13,748 |
 | Parallel accounts (`parallels`) | 1,526 |
@@ -82,7 +82,7 @@ Each source node quotes a short excerpt, at most 300 characters, from a third-pa
 
 Use the metadata in [`CITATION.cff`](CITATION.cff); GitHub's "Cite this repository" button reads it. For example:
 
-> Analytical Solutions. *The Attested Bible: a verse-level evidence graph* (data), version 0.1.0, 2026-11-16. https://github.com/Analytical-Solutions/attested-bible-data
+> Analytical Solutions. *The Attested Bible: a verse-level evidence graph* (data), version 0.1.1, 2026-11-16. https://github.com/Analytical-Solutions/attested-bible-data
 
 To cite a single claim or piece of evidence, give its id and the version.
 
