@@ -1,5 +1,7 @@
 # The Attested Bible: data
 
+> **Frozen at version 0.1.1 (2026-11-23).** This repository is read-only. The data, its licence and its citation stay available here unchanged.
+
 A verse-level evidence graph. Each historical claim in the text is linked to the archaeological finds, inscriptions, coins, manuscripts and ancient writings that bear on it. Each link carries a strength grade, a note saying exactly what the evidence shows, and a receipt: a short verbatim quote from a source that was fetched and re-checked.
 
 The graph records evidence in tension with the text, and searches that found nothing, as plainly as confirmations.
